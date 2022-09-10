@@ -1,0 +1,4 @@
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
+insights.samsung.com
+nmetrics.samsung.com

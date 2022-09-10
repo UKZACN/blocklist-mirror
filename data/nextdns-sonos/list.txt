@@ -1,0 +1,2 @@
+msmetrics-test.ws.sonos.com
+msmetrics.ws.sonos.com

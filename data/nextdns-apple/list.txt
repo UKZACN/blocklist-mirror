@@ -1,0 +1,10 @@
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
+dzc-metrics.mzstatic.com
+metrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+securemetrics.apple.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
+supportmetrics.apple.com

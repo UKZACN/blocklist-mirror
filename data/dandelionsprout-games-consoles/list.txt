@@ -1,0 +1,9 @@
+adproxy.ndmdhs.com
+discovery.olv.nintendo.net
+mercury.dl.playstation.net
+npdl.cdn.nintendowifi.net
+nsx-e.np.dl.playstation.net
+nsx.np.dl.playstation.net
+rad.msn.com
+telemetry-cii.api.playstation.com
+telemetry-console.api.playstation.com
