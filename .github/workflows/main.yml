@@ -35,6 +35,6 @@ jobs:
           github.event_name == 'workflow_dispatch'
         run: |
           git config --global --add safe.directory "${PWD:?}"
-          git config --global user.name 'hectorm-bot'
-          git config --global user.email 'noreply@molinero.dev'
+          git config --global user.name 'blocklist-updater-bot'
+          git config --global user.email '80178101+heftyzauk@users.noreply.github.com'
           sh ./push.sh
