@@ -69,6 +69,8 @@
 0lx-shopping.45568712.xyz
 0lx-shopping.7608451.xyz
 0lx-shoppinginfo.9784505.xyz
+0lx-shopuserinfo.065451212.xyz
+0lx-store-form.00448788.xyz
 0lx-store.3065566.xyz
 0lx-store.6589855.xyz
 0lx.70845.xyz
@@ -3435,6 +3437,7 @@ bitconvert.bar
 bitdaw.uno
 bitdigitalzinekolloshece.web.app
 bitequals.com
+biticodes.academy
 bitindexai.com
 bitindexai.top
 bitindexprime.com
@@ -7622,6 +7625,7 @@ deliverry-safe.com
 deliverry-safe.info
 deliverry-safe.net
 deliverry-safe.org
+delivery-0lx.315421211.xyz
 delivery-1npost.9856555.xyz
 delivery-3265.xyz
 delivery-allegrolokalnie.48755112.xyz
@@ -8721,6 +8725,7 @@ dpd-com.umowa-p.site
 dpd-com.umowa-s.site
 dpd-com.umowa3ds.site
 dpd-cz.94263.space
+dpd-delivery.45374365.xyz
 dpd-dellverpoland.plndspltmruw19.online
 dpd-dmy.id-2011.me
 dpd-dqqu.oferta-ndh.me
@@ -9108,6 +9113,7 @@ dpdpoland.pl
 dpdpolska-redirect-parcel-secure-user-address.dpd-parcel.com
 dpdpolska.pl
 dpdpost.net
+dpdshop-shipment.9000876.xyz
 dpejwyk5eyul1.cloudfront.net
 dpkb8wsd5bmct.cloudfront.net
 dplpging.web.app
@@ -9836,6 +9842,7 @@ el.bizintr.site
 el.donsrprogs.xyz
 el.setaccount.xyz
 el.takemoneys.xyz
+el3ite3sing3les.com
 elaboratedonor.com
 elainehost.com
 elaskalar.com
@@ -15185,6 +15192,7 @@ inpost-gott.order0912401.info
 inpost-gpui.order12561361.info
 inpost-grep.order9512951.info
 inpost-gth.id-info492.me
+inpost-gubb.order258.info
 inpost-gujv.104949292.me
 inpost-gwjn.order48382.info
 inpost-gwre.order2588322.info
@@ -15330,6 +15338,7 @@ inpost-ndpm.orders091.info
 inpost-ndru.order667766.info
 inpost-nglr.order2588322.info
 inpost-nhmx.order77711902.info
+inpost-nkau.order258.info
 inpost-nlgo.order692612.info
 inpost-noop.order4939292.me
 inpost-nsue.order9512951.info
@@ -15689,6 +15698,7 @@ inpost-pl-hid226ks.kabarterbaru.xyz
 inpost-pl-hid226ks.limello.live
 inpost-pl-hid226ks.lushuang.top
 inpost-pl-hid226ks.nautilos.live
+inpost-pl-hid226ks.nekta.live
 inpost-pl-hid226ks.neworder-pl42983.beauty
 inpost-pl-hid226ks.numaraburda.xyz
 inpost-pl-hid226ks.onkepce.xyz
@@ -15745,6 +15755,7 @@ inpost-pl-my-id2g3ys.oferta.xyz
 inpost-pl-my-id2g3ys.profbud.top
 inpost-pl-my-id2g3ys.railwaymagic.xyz
 inpost-pl-my-id2g3ys.sejarahqq.top
+inpost-pl-my-id2g3ys.tadrib.live
 inpost-pl-my-id2g3ys.trgoals8.live
 inpost-pl-my-id2g3ys.tron-x.top
 inpost-pl-my-id2g3ys.wishdream.shop
@@ -15783,6 +15794,7 @@ inpost-pl-myid271xs.plantedegraine.shop
 inpost-pl-myid271xs.pngworld.xyz
 inpost-pl-myid271xs.przewozy.top
 inpost-pl-myid271xs.sahuo.top
+inpost-pl-myid271xs.shaon.live
 inpost-pl-myid271xs.siteaff.live
 inpost-pl-myid271xs.solinco.shop
 inpost-pl-myid271xs.strah.live
@@ -16580,11 +16592,13 @@ inpost-polska-car.orders091.info
 inpost-polska-cas.order912412.info
 inpost-polska-cbr.orders8821.info
 inpost-polska-cbx.orders23441.info
+inpost-polska-cd.order651.info
 inpost-polska-cd.ordernew584812.info
 inpost-polska-cds.orders1381.xyz
 inpost-polska-cgo.order131313.info
 inpost-polska-che.orders9851.info
 inpost-polska-ci.order1159.info
+inpost-polska-ci.order258.info
 inpost-polska-cic.20493902.me
 inpost-polska-cj.orders8821.info
 inpost-polska-ckb.order77711902.info
@@ -16777,6 +16791,7 @@ inpost-polska-hvy.orders23441.info
 inpost-polska-hw.20493902.me
 inpost-polska-hw.orders8874.info
 inpost-polska-hwp.orders98511.info
+inpost-polska-hy.order651.info
 inpost-polska-hy.order9351.info
 inpost-polska-hy.orderold2.info
 inpost-polska-hzm.order9512951.info
@@ -20496,6 +20511,7 @@ jnpost-pl.umowa09432.xyz
 jnpost-pl.umowa58194b.top
 jnpost-pl.umowa75649.top
 jnpost-shop.0211454.xyz
+jnpost-shopinfopay.5465484.xyz
 jnpost-shopping.645874512.xyz
 jnpost-shopping.7013498.xyz
 jnpost-store.4497500.xyz
@@ -21950,6 +21966,7 @@ lnp0st-pl.paydelivery-4568.xyz
 lnp0st-transportpay1.54345345.xyz
 lnp0st.659816.xyz
 lnp0st.92568.xyz
+lnp0st.dispatch-5fd3f.click
 lnp0st.dispatch-ascw2.click
 lnp0st.dispatch-nxzbc.site
 lnp0st.dispatch-qxbcp.click
@@ -23829,6 +23846,7 @@ moja-paczka-pl-myid576xs.ganool.cc
 moja-paczka-pl-myid576xs.ganool.live
 moja-paczka-pl-myid576xs.goringhall.live
 moja-paczka-pl-myid576xs.gtheme.co
+moja-paczka-pl-myid576xs.jiasule.top
 moja-paczka-pl-myid576xs.luisnglbrv.xyz
 moja-paczka-pl-myid576xs.muabanxe.xyz
 moja-paczka-pl-myid576xs.neworder-pl23813.click
@@ -25362,6 +25380,7 @@ nilonh.olangolngptui.live
 nimagser-site.preview-domain.com
 nimosol.store
 ninatekhol.live
+ningbozixun.top
 ningreehostsul.tk
 ninhealthmo.ml
 ninjavpn.xyz
@@ -26553,6 +26572,7 @@ olx-delivers.com
 olx-delivers.info
 olx-delivers.name
 olx-delivery-payment.site
+olx-delivery.08451565.xyz
 olx-delivery.32645412.xyz
 olx-delivery.56443687.xyz
 olx-delivery.65841211.xyz
@@ -27048,6 +27068,7 @@ olx-pl-mcm.accept0084.me
 olx-pl-mobile.site
 olx-pl-my44124.3dkjh.com
 olx-pl-my44124.berare.shop
+olx-pl-my44124.jbtop.life
 olx-pl-my44124.kios.top
 olx-pl-my44124.muabanxe.xyz
 olx-pl-my44124.murniqq.top
@@ -32917,6 +32938,7 @@ photo-sylwia.dgdev.pl
 photo.4615flv.sbs
 photo.b3dr1.sbs
 photo.drer4.sbs
+photo.hds6.sbs
 photobiologiessongful.com
 photographymentor.com
 photohub.vot.pl
@@ -33621,6 +33643,7 @@ pl.program-orl1.xyz
 pl.progs-news.info
 pl.projektpl6.site
 pl.projorlen.site
+pl.proposalreply.ink
 pl.rvexkpl8.site
 pl.safe-olx.casa
 pl.salaryhave.xyz
@@ -34141,6 +34164,7 @@ poczta-polska.76589.site
 poczta-polska.ddns.net
 poczta-polska.e-kei.pl
 poczta-polska.eu
+poczta-polska.jackyc.top
 poczta-polska.me
 poczta-polska.net.pl
 poczta-polska.services
@@ -35218,6 +35242,7 @@ polska-vinted-hjso21.spturate.top
 polska-vinted-hjso21.stayy.live
 polska-vinted-hjso21.stjd.xyz
 polska-vinted-hjso21.sutras.live
+polska-vinted-hjso21.tadrib.live
 polska-vinted-hjso21.tasmim.xyz
 polska-vinted-hjso21.tintuctrongngay.xyz
 polska-vinted-hjso21.todayz.live
@@ -37469,6 +37494,7 @@ registr.global-invest.site
 registr.liztox.xyz
 registr.milldrop.xyz
 registr.olisoli.site
+registration.biticodes-activations.net
 registrchat.redmed1.xyz
 registrycertificates.ga
 regnumofficial.site
@@ -39101,6 +39127,7 @@ shonoctri.com
 shookaramsar.ir
 shop-allegro0lokalnie.5362021.xyz
 shop-allegrolokalni.78451220.xyz
+shop-alleqrolokalnie.54878411.xyz
 shop-dpd.75448454.xyz
 shop-o1x-user.5231678.xyz
 shop-olx.563300.xyz
@@ -42079,6 +42106,7 @@ trzebasiezztympogodzic.cyou
 trzebatoglosnopowiedziec.website
 trzeci341.site
 trznadel.icu
+trzymajnewsa.click
 trzymasz-sie.pl
 trzywyleczycsie.site
 trzyzapalki2.site
@@ -43363,6 +43391,7 @@ vimko.trade
 vimte-d465dellvery.632003.xyz
 vimteb0unpacking.432094.xyz
 vimted-delievrysite.0874544.xyz
+vimted-marketinfo.648410121.xyz
 vimted-store.2355412.xyz
 vimted.064512.xyz
 vimted.sendingpaypage.xyz
@@ -43434,6 +43463,7 @@ vinted-cz.order631.info
 vinted-cz.order632.info
 vinted-cz.ordernew11010102.info
 vinted-delivery.000457888.xyz
+vinted-delivery.08975445.xyz
 vinted-delivery.8900092.xyz
 vinted-ejb.id-1996.me
 vinted-fdz.id-1110.me
@@ -43857,6 +43887,7 @@ vinted-pl-id002c.gxsun.top
 vinted-pl-id002c.happyderi.xyz
 vinted-pl-id002c.ibusehat.xyz
 vinted-pl-id002c.informasi.top
+vinted-pl-id002c.jackyc.top
 vinted-pl-id002c.jeffbarnes.live
 vinted-pl-id002c.kios.top
 vinted-pl-id002c.kodekeramat.xyz
@@ -44190,6 +44221,7 @@ vinted-polska-rr124.chordlagu.xyz
 vinted-polska-rr124.currentweight.xyz
 vinted-polska-rr124.cutyour.link
 vinted-polska-rr124.dagdeals.shop
+vinted-polska-rr124.datais.live
 vinted-polska-rr124.dementia.live
 vinted-polska-rr124.dewapokerqq.live
 vinted-polska-rr124.dhtseek.top
@@ -44240,6 +44272,7 @@ vinted-polska-rr124.sgy001.top
 vinted-polska-rr124.stafa.top
 vinted-polska-rr124.supsurf.shop
 vinted-polska-rr124.sutras.live
+vinted-polska-rr124.tadrib.live
 vinted-polska-rr124.topeka.shop
 vinted-polska-rr124.trsoft.xyz
 vinted-polska-rr124.tvizle.live
@@ -44282,6 +44315,7 @@ vinted-qjo.id8341.me
 vinted-rcqk.id8341.me
 vinted-sann.id230-324.me
 vinted-shipment.6557432.xyz
+vinted-shipment.78898611.xyz
 vinted-shopping.5664319.xyz
 vinted-shopping.9077643.xyz
 vinted-sms.site
@@ -44370,6 +44404,7 @@ vinterd-polskdellvrst.pl-dostawapolska.pl
 vintesd-pln1dellvrs.dostavapndgs6.pl
 vintesd-pln6dellvr.plndostavcawns.pl
 vintesd-pln9dellvr.pey-doctavplds25.pl
+vintesd-pln9dellvrsn.dellhousepolands47.shop
 vintesd-plndellvr.frentplndspay21.online
 vintet-pl-kl2112.0xfee1dead.top
 vintet-pl-kl2112.4freight.shop
@@ -46494,6 +46529,7 @@ wtoruniu.xyz
 wtymileprawdy.xyz
 wu-pe.waw.pl
 wufgkofinvesting.pro
+wuinso.site
 wupe.waw.pl
 wushuchess.com
 wvw-oix.pl
@@ -47579,6 +47615,7 @@ www.anonymouscharitybd.com
 www.anorthosit.pl
 www.ansinsklep.pl
 www.anstewn.com
+www.ansuk.app.link
 www.antasamsara.site
 www.anthemicunwish.com
 www.antilles.guyane.bnpparibas.depilya.co
@@ -48331,6 +48368,7 @@ www.bitcointime.tech
 www.bitcointime.website
 www.bitdaw.uno
 www.bitequals.com
+www.biticodes.academy
 www.bitindexai.top
 www.bitindexprime.org
 www.bitix.site
@@ -54283,6 +54321,7 @@ www.inpost-gkbd.id-4398.me
 www.inpost-glhz.order2588322.info
 www.inpost-gpui.order12561361.info
 www.inpost-grep.order9512951.info
+www.inpost-gubb.order258.info
 www.inpost-gwjn.order48382.info
 www.inpost-gwre.order2588322.info
 www.inpost-gxkx.order77711902.info
@@ -54391,6 +54430,7 @@ www.inpost-nbac.id-info0835.me
 www.inpost-ndpm.orders091.info
 www.inpost-nglr.order2588322.info
 www.inpost-nhmx.order77711902.info
+www.inpost-nkau.order258.info
 www.inpost-nlgo.order692612.info
 www.inpost-noop.order4939292.me
 www.inpost-nsue.order9512951.info
@@ -54723,11 +54763,13 @@ www.inpost-polska-ca.order912412.info
 www.inpost-polska-cas.order912412.info
 www.inpost-polska-cbr.orders8821.info
 www.inpost-polska-cbx.orders23441.info
+www.inpost-polska-cd.order651.info
 www.inpost-polska-cd.ordernew584812.info
 www.inpost-polska-cds.orders1381.xyz
 www.inpost-polska-cgo.order131313.info
 www.inpost-polska-che.orders9851.info
 www.inpost-polska-ci.order1159.info
+www.inpost-polska-ci.order258.info
 www.inpost-polska-cj.orders8821.info
 www.inpost-polska-ckb.order77711902.info
 www.inpost-polska-clq.order77711902.info
@@ -54875,6 +54917,7 @@ www.inpost-polska-htg.order77711902.info
 www.inpost-polska-hvy.orders23441.info
 www.inpost-polska-hw.orders8874.info
 www.inpost-polska-hwp.orders98511.info
+www.inpost-polska-hy.order651.info
 www.inpost-polska-hy.order9351.info
 www.inpost-polska-hzm.order9512951.info
 www.inpost-polska-ia.orders98511.info
@@ -62129,6 +62172,7 @@ www.pl.online-mbank.net
 www.pl.paysesout.com
 www.pl.potwierdzenie.cc
 www.pl.progs-news.info
+www.pl.proposalreply.ink
 www.pl.safe-olx.casa
 www.pl.salaryhave.xyz
 www.pl.southpicture.ink
@@ -68513,6 +68557,7 @@ www.wtoruniu.xyz
 www.wtymileprawdy.xyz
 www.wu-pe.waw.pl
 www.wufgkofinvesting.pro
+www.wuinso.site
 www.wupe.waw.pl
 www.wushuchess.com
 www.wvw-oix.pl
@@ -68839,6 +68884,7 @@ www.xoslan-invest.pro
 www.xoxolexo.site
 www.xprogdep.site
 www.xshort.pw
+www.xtgam.6686dh7.com
 www.xtqs1z.webwave.dev
 www.xuangeinvesting.xyz
 www.xugifoo1.xyz
@@ -69817,6 +69863,7 @@ xprogdep.site
 xrp.donsrprogs.xyz
 xshort.pw
 xsub240.qprogramtebei7.com
+xtgam.6686dh7.com
 xtqs1z.webwave.dev
 xuangeinvesting.xyz
 xugifoo1.xyz
