@@ -13,6 +13,7 @@ a.omappapi.com
 a.opmnstr.com
 a.optmnstr.com
 a.teads.tv
+a.thelocal.com
 a.zxcvads.com
 accesslnk.com
 acdn.adnxs.com
@@ -116,6 +117,7 @@ aka-cdn-ns.adtech.de
 aka-cdn.adtech.de
 albacross.com
 ambassador.referralhero.com
+amd.sellingsimplified.net
 ana.headerlift.com
 analytics-sdk.yle.fi
 analytics.ci-360.se
@@ -437,6 +439,7 @@ gamblingsyndication.com
 gameanalytics.com
 gase.hit.gemius.pl
 gcdn.2mdn.net
+get.optad360.io
 go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
@@ -638,6 +641,7 @@ pp.lp4.io
 prd-collector-platform.ex.co
 prg.smartadserver.com
 proxyas.com
+pubads.g.doubleclick.net
 publish-int.se
 publish.ne.cision.com
 publishing.kaloo.ga
@@ -789,6 +793,7 @@ stats.datawrapper.de
 stats.docu.info
 stats.g.doubleclick.net
 stats.healthcare.se
+stats.jibber.social
 stats.kaltura.com
 stats.poddtoppen.se
 stats.tipser.com
