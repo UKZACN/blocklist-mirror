@@ -98,6 +98,7 @@
 01phone.uno
 01scambiomoda.net
 01transport.com
+02-20.xyz
 02.belkort.ru
 02.bortogat.ru
 02.domasq.ru
@@ -4283,6 +4284,7 @@
 1ilovebug.no-ip.org
 1ilovemgx.no-ip.org
 1imrat.no-ip.biz
+1ind.cn
 1inwe6bzju7kx56vsi.moolin.ru
 1ioax6.stjbg.ru
 1ivan-z.no-ip.biz
@@ -4689,6 +4691,7 @@
 2037080097.coridas.ru
 2038470645.coridas.ru
 2039499616.retarus.ru
+204.defined.centinos.ru
 204030nano.ddns.net
 204080nano.duckdns.org
 2041850692.coridas.ru
@@ -7756,6 +7759,7 @@
 60770a3c1e5cb79771c84d26219b315f.duckdns.org
 607d6cdc.space
 608965959.retarus.ru
+609.designer.centinos.ru
 609574.ddns.net
 60apexchecks.com
 60c4wn.com
@@ -8819,6 +8823,7 @@
 70973935.retarus.ru
 70ouya.loreadmjuri.sbs
 70t0fetezakya3egl.c1.biz
+71.deprive.citrinas.ru
 710400b6d58d5f0021636f6d6d616e6420286c6973612d7838365f363429.00.git.bancodobrasil.dev
 710568875.corolain.ru
 711198388.corolain.ru
@@ -8843,6 +8848,7 @@
 719640474.retarus.ru
 71daking.duckdns.org
 71deck.clipperso.ru
+71department.silvicolas.ru
 71depended.nikiforta.ru
 71desirable.silvicolas.ru
 71mathieucg.no-ip.biz
@@ -18657,6 +18663,7 @@ alum.vadilops.ru
 alumaicelodges.com
 alumates.com
 alumik-group.ru
+aluminiumo.ru
 aluminum.dyndns.dk
 aluminvapn.site
 alumni.no-ip.biz
@@ -23046,6 +23053,7 @@ armasglass.com
 armatikamczparsll.co
 armazones.com
 armbandtas.com
+armblood.site
 armenhydrosule.shop
 armenhydrosule.xyz
 armeniyarsenov.pw
@@ -31915,6 +31923,7 @@ blackid-35823.portmap.host
 blackid-42311.portmap.host
 blackid-43205.portmap.io
 blackid-47195.portmap.io
+blackid-4782.portmap.io
 blackid-48411.portmap.io
 blackies.zapto.org
 blackievirus.com
@@ -33173,6 +33182,7 @@ boat.salvajesrp.com
 boatattorney.com
 boatergrip.top
 boatliker.top
+boatnet.hopto.org
 boatnet.us
 boatnet.xyz
 boatreviews.xpresit.net
@@ -33882,6 +33892,7 @@ borshleff.ru
 borsina.ru
 borspost1.duckdns.org
 bortogat.ru
+borumo.ru
 borun.org
 borwoo-packaging.com
 boryung.tk
@@ -38469,6 +38480,7 @@ casvt.bpndp.com
 cat-lovely.com
 cat-tw.top
 cat.gotdns.ch
+cat.metlight.xyz
 cat.suttiphong.com
 cat.toonganuh.com
 cat2cat.site
@@ -42897,9 +42909,11 @@ cloud.doomdns.org
 cloud.falconoasisdubai.com
 cloud.globalbrains.co
 cloud.idhostkz.com
+cloud.jbic.us
 cloud.joannes.tk
 cloud.jumpshare.vip
 cloud.l4cky.men
+cloud.mufg.tokyo
 cloud.nathompsstra.com
 cloud.newsofnp.com
 cloud.onionpeel.fr
@@ -43426,6 +43440,7 @@ cnc.mirai.com
 cnc.notepod2.com
 cnc.nutsz.club
 cnc.pinklander.com
+cnc.raznet2021.ml
 cnc.skidsec.org
 cnc.smokemethallday.tk
 cnc.spamtech.win
@@ -44815,6 +44830,7 @@ confirst.xyz
 confled.online
 confliccto.cyou
 conflict345435.xyz
+confluence.navers.tech
 confluencehealth.dividendtactics.com
 confucanism.hopto.org
 confusedmachine.com
@@ -47467,6 +47483,7 @@ cszkkjnj.biz
 ct-fr.icu
 ct-ov.com
 ct.elitoras.ru
+ct.twback.store
 ct.vadilops.ru
 ct.vpn.jixunjsq.com
 ct04505.tmweb.ru
@@ -48203,6 +48220,7 @@ cutncassa.duckdns.org
 cutos2.com
 cutox.info
 cutrsn08.top
+cuts.dothome.co.kr
 cutspy.zapto.org
 cutt3r.zapto.org
 cutterasnew.top
@@ -49231,6 +49249,7 @@ d23as6q6xw8w50.cloudfront.net
 d23cy16qyloios.cloudfront.net
 d23d9h1kce738z.cloudfront.net
 d23f8xg6ovtb94.cloudfront.net
+d23grfsvusxgzv.cloudfront.net
 d23h3o10ok2cq4.cloudfront.net
 d24.0772it.net
 d2407d8f1c03e4afa2fe9efcafc21d96.se
@@ -51353,6 +51372,7 @@ dcyptd.no-ip.info
 dcz.duckdns.org
 dcz35percy.top
 dczokqhd.net
+dd.1ind.cn
 dd.ddns.us
 dd.deriondar.at
 dd.elitoras.ru
@@ -51624,6 +51644,7 @@ ddos.zhanglianlian.com
 ddos21711.no-ip.info
 ddos888.ddns.net
 ddosattacks.tk
+ddosbotnet.xyz
 ddosbyme.no-ip.biz
 ddoser.xztraviszx.info
 ddoser13371337.no-ip.biz
@@ -52697,6 +52718,7 @@ define.deeply.coffiti.ru
 define.gortisir.ru
 define.teasagaki.ru
 definebilimi.com
+defined.centinos.ru
 defined.coffiti.ru
 defined.descended.teasagaki.ru
 defined.despise.coffiti.ru
@@ -53511,6 +53533,7 @@ depression.maizuko.ru
 depression31.xyz
 depriqidiv.ga
 deprivationant.com
+deprive.citrinas.ru
 deprive.coffiti.ru
 deprive.gortisir.ru
 deprive.lotorgas.ru
@@ -53909,6 +53932,7 @@ designed.maizuko.ru
 designed.teasagaki.ru
 designed71.vashumam.ru
 designednetwork.com
+designer.centinos.ru
 designer.decidedly.coffiti.ru
 designer.dynamic-dns.net
 designer.fishardo.ru
@@ -61453,6 +61477,7 @@ eacb.co.uk
 eacestatures.twilightparadox.com
 eacfrjssmqdtbnxsf.su
 each.amaniwa.ru
+each.metallicas.ru
 eachsecuritybuswin.com
 eaconhop.online
 eacreport.xyz
@@ -82434,6 +82459,7 @@ go-rillathebrand.com
 go-thailand-now.com
 go-trip.online
 go-upload.ru
+go.1ind.cn
 go.adsdoge.com
 go.edu-cx.org
 go.elitoras.ru
@@ -84828,6 +84854,7 @@ greenculturefoundation.org
 greendark.no-ip.biz
 greendayband.top
 greendaysong.top
+greendayt.ru
 greendessert.in
 greendos.net
 greene.no-ip.biz
@@ -87121,6 +87148,7 @@ hallamgoodman56879.xyz
 hallaskleidu.zapto.org
 halldignityg.com
 hallfinaleuro.cyou
+hallmark.akinot.ru
 hallmark.bortogat.ru
 hallmarked.sacramentos.ru
 hallmarkherbals.com
@@ -89107,6 +89135,7 @@ hemikzonline.com
 hemingway.site
 hemispherious.com
 hemispisbr.ru
+hemivagotony.akinot.ru
 heml.amaniwa.ru
 hemlis.zapto.org
 hemnahqpnr.net
@@ -90861,6 +90890,7 @@ home-orchestre.com
 home-reload-page.xyz
 home-sou.com
 home-storages.com
+home.armblood.site
 home.arrowservice.net
 home.bespike.com
 home.comegico.com.mx
@@ -97463,6 +97493,7 @@ iosmnbg.com
 iot-vn.com
 iotlmao.xyz
 iotmirai.tk
+iotscanner.cfd
 iotsecurity.xyz
 iouenviwrc.us
 iouffotvoghwsliob.net
@@ -98080,6 +98111,7 @@ irc.lcirc.net
 irc.stealth.net
 irc.superbits.net
 irc.teamtnt.red
+irc.us.org
 irc.webbernet.net
 irc.you-irc.com
 irc.zief.pl
@@ -100205,6 +100237,7 @@ jayson2j.no-ip.org
 jaysonfountain112.top
 jaysonkrausenetwork.com
 jaytd.acvvm.com
+jaythebest.com
 jayztools1.ddns.net
 jayztools2.ddns.net
 jayztools3.ddns.net
@@ -100251,6 +100284,7 @@ jbfrost.live
 jbg.hidefromstrangers.com
 jbgool.at
 jbheq.eapvg.com
+jbic.us
 jbifpmpwluknchs.cn
 jbifrost.com
 jbiimpologm.duckdns.org
@@ -102122,6 +102156,7 @@ jokrista.ru
 jokst3r3.zapto.org
 jolavyjoqerajoz.info
 jole.amaniwa.ru
+joliemaria.com
 joliet.xyz
 joliroomlides.tk
 joljg.hupzv.com
@@ -104813,6 +104848,7 @@ kartiksriram.no-ip.biz
 kartiniice.top
 kartkbs.no-ip.org
 kartll.ru
+kartofcar.com
 kartofelmoptom.ru
 kartone.xyz
 kartop.at
@@ -106882,6 +106918,7 @@ kjxd.xyz
 kjxewodrheidwhx.cn
 kjyzegn.com
 kjzwmhfp.com
+kk.02-20.xyz
 kk.bydthkk.top
 kk.lltxfj.tk
 kk.seapp.vip
@@ -112088,6 +112125,7 @@ linkhome.ga
 linkid-live.online
 linking-page.com
 linkinpark2015.ddns.net
+linkinparko.ru
 linkit.digital
 linkitmexico.com
 linkk-my.com
@@ -121282,6 +121320,7 @@ metin2hack.no-ip.biz
 metin2white.sytes.net
 metis.elitoras.ru
 metiwz.ir
+metlight.xyz
 metogoto.ddns.net
 metonymically.bortogat.ru
 metoristrontgui.info
@@ -121810,6 +121849,7 @@ mico.amaniwa.ru
 micoft.com
 micol.date
 micomico.ddns.net
+micomup.com
 micoresoft.workers.dev
 micorgas.com
 micorosoft.ddns.net
@@ -123084,6 +123124,7 @@ mimicwt.net
 mimihin.com
 mimimsg.net
 mimiplace.top
+mimipopola.com
 mimo3039.hopto.org
 mimt.newdesk.top
 mimunezatopek.zapto.org
@@ -127486,6 +127527,7 @@ muffinis1337.no-ip.org
 mufflerbrothersbellbrook.net
 mufg-info.top
 mufg-rpg.com
+mufg.tokyo
 mufgdcep.com
 mufgike.com
 mufootreve.top
@@ -128481,7 +128523,9 @@ mybots.redirectme.net
 mybots1337.no-ip.biz
 mybox.com-password.link
 mybox365ms.com
+myboxes.navers.tech
 myboxofficebox.com
+myboxs.navers.tech
 mybravo.xyz
 mybrightidea.co
 mybroninn.xyz
@@ -130117,6 +130161,7 @@ naperville203-sharepoint.com
 napipidolo.info
 naplddjqyq.com
 napoli.no-ip.biz
+napoyo.mypressonline.com
 nappy568.xyz
 naprawalaptopow.services
 napster.no-ip.biz
@@ -130609,6 +130654,7 @@ navers.com-checking.link
 navers.com-silver.site
 navers.online
 navers.store
+navers.tech
 navers.website
 naverscenter.com
 naversecurity.us
@@ -133287,6 +133333,7 @@ nids.naverscenter.com
 nids.navor.ml
 niduaej.co
 nie7ur3wtt.hopto.org
+nied.navers.tech
 niegpvxsefthvgdlb.su
 niekva.no-ip.biz
 niemannbest.me
@@ -145557,6 +145604,9 @@ pdf-compare.site
 pdf-compare.space
 pdf-docs.online
 pdf-document.ga
+pdf-edit.online
+pdf-editor.online
+pdf-editor.top
 pdf-forwarding.online
 pdf-nfe82234018756.australiaeast.cloudapp.azure.com
 pdf-nfe82234018756.northcentralus.cloudapp.azure.com
@@ -149094,6 +149144,7 @@ poseidonmnesovsem.org
 poseidonpanell.tk
 poseidonvips.com
 posfatura.com
+posforypload.com
 posh.amaniwa.ru
 poshelnaxyi228.hopto.org
 posher876ffffff-25.com
@@ -156650,6 +156701,7 @@ razilov06.hldns.ru
 razino.xyz
 razlockas.beget.tech
 razmig.no-ip.biz
+raznet2021.ml
 raznospower.ru
 razor23.no-ip.com
 razor23.no-ip.org
@@ -163784,6 +163836,7 @@ salt-habit-project.com
 salt-would-black.com
 salt.altitude98.miltras.ru
 salt.utrado.ru
+salt1ending.com
 salt61.miltras.ru
 salt66.amends.alebont.ru
 saltairbeer.com
@@ -164726,6 +164779,7 @@ sarmad2014.no-ip.biz
 sarmageggan.tk
 sarmayeegan.tk
 sarmedhh.no-ip.biz
+sarmixbest.com
 sarmsoftware.com
 saro-pay.cf
 saro-pay.ga
@@ -169537,6 +169591,7 @@ shanghaitrust.tk
 shangmai.plus
 shangri027.ddns.net
 shangz.duckdns.org
+shaniakim547645.top
 shanks.no-ip.biz
 shanks1055.ddns.net
 shanks1055.hopto.org
@@ -175516,6 +175571,7 @@ splashy.dyndns.biz
 splatpv.com.xsph.ru
 splatt.no-ip.biz
 splay.amaniwa.ru
+splay.noxygeno.ru
 spldernet.com
 spleflpokadkeoot.ru
 splendensi.xyz
@@ -181996,6 +182052,7 @@ techmails.net
 techmanagement.info
 techmega.xyz
 techmicrost.com
+techmyboxes.navers.tech
 techndevs.us
 technec.org
 technelly.work
@@ -182801,11 +182858,15 @@ test.3bz.org
 test.adegokecollege.com
 test.africanamericangolfersdigest.com
 test.akadns9.net
+test.aluminiumo.ru
 test.asaicell.com
 test.baibu.gq
+test.bariumo.ru
 test.blackbirdo.ru
 test.blilbill.top
+test.borumo.ru
 test.bpyoyo.com
+test.bromumo.ru
 test.cable-modem.org
 test.celvinhar.ru
 test.checkingsite.site
@@ -182819,6 +182880,7 @@ test.dapig.xyz
 test.dasf54.tk
 test.ddddoooossss.tk
 test.decursio.online
+test.dfir.com.au
 test.directfwd.com
 test.duckdns.org
 test.elou.me
@@ -189078,6 +189140,7 @@ twalletbonus.tk
 twangzhan.website
 twart.myfirewall.org
 twbaayoe.com
+twback.store
 twcamel.com
 twcertcc.jumpingcrab.com
 twcnqpdpircd.com
@@ -193018,6 +193081,7 @@ uploader.sx
 uploader.sytes.net
 uploaderfile.cf
 uploadex.myftp.org
+uploadfines.com
 uploadhub.io
 uploading-neptune2020.3utilities.com
 uploading-neptune2020.bounceme.net
@@ -196888,6 +196952,7 @@ vishethnjrat.ddns.net
 vishorts.com
 vishweshwarastrology.com
 visible-indi.com
+visible.agaricuso.ru
 visible48.xyz
 visiohelp.ru
 vision-vaper.su
@@ -204273,6 +204338,7 @@ wpglplknsqihdlm.net
 wpgsmtrq.net
 wpgvbwwxompo.com
 wphcbjidjgbyjapou.su
+wpic.ink
 wpills.info
 wpioqqyhdttoymcxkredun.org
 wpitcher.com
@@ -204411,6 +204477,7 @@ wrioshtivsio.su
 wristwatchdial.freeoda.com
 write-cdn.com
 write-dream.ru
+write.borumo.ru
 write.paparoacho.ru
 writedoc.bounceme.net
 writeonlabels.biz
@@ -213836,6 +213903,7 @@ zonzanse.no-ip.info
 zoobnlxietowbwvru.net
 zookii.no-ip.biz
 zoologicalhg.top
+zoom-us.top
 zoom5682.xyz
 zoomailer.org
 zoomba619.blogspot.com

@@ -256,6 +256,7 @@ cdn.convertbox.com
 cdn.cxense.com
 cdn.dep-x.com
 cdn.foxpush.net
+cdn.gravitec.net
 cdn.hubvisor.io
 cdn.insurads.com
 cdn.izooto.com
