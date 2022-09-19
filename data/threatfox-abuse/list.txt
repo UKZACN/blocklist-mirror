@@ -323,7 +323,6 @@ cbc.x7z.mom
 cdn.china-flash.ga
 cdn.cloudflareus.tk
 cdn.cs00.xyz
-cdn.discordapp.com
 cdn.fuckscstc.cf
 cdn.peakyblinders.uk
 cdnofficecloud.com
@@ -639,7 +638,6 @@ fexmantui.ml
 fg-mohanjek.ml
 fghermaast.top
 fifacud.com
-fikasterwer.top
 filaspo.com
 file-milgov.systems
 fineg.xyz
