@@ -121,6 +121,7 @@ amd.sellingsimplified.net
 ana.headerlift.com
 analytics-sdk.yle.fi
 analytics.ci-360.se
+analytics.ciseway.se
 analytics.clickdimensions.com
 analytics.codigo.se
 analytics.freespee.com
