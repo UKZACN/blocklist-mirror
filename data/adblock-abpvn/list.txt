@@ -3739,7 +3739,6 @@ bawdybeast.com
 bayirksrap.com
 baypops.com
 baywednesday.com
-bb-client.log-global.aliyuncs.com
 bb.o-s.io
 bbbadshostnet.com
 bbbpromos.org
@@ -6947,7 +6946,6 @@ event-management.leanplum.com
 event-qa.adbrix.io
 event-staging.inner-active.mobi
 event-stream.spot.im
-event-tracking-project.ap-southeast-1.log.aliyuncs.com
 event.2performant.com
 event.adbrix.io
 event.adpia.vn
@@ -7242,7 +7240,6 @@ find-my-great-life.com
 findcommerce.com
 findepended.com
 findnewline.com
-fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 fineclicks.com
 fingahvf.top
 fingerprint.admicro.vn
@@ -7967,8 +7964,6 @@ hc.viam.com.vn
 hd.logging.admicro.vn
 hd.mmstat.com
 hdmtools.com
-hdp-raw-log.cn-shanghai.log.aliyuncs.com
-hdp-raw-log.log-global.aliyuncs.com
 he.lijit.com
 header.mathtag.com
 headerlift.com
@@ -8102,7 +8097,6 @@ hostnetadv.site
 hostssl.msgapp.com
 hosupshunk.com
 hot-mob.com
-hotbit-io-app-logs.cn-hongkong.log.aliyuncs.com
 hotjar.com
 hotjar.io
 hotkeys.com
@@ -8155,7 +8149,6 @@ hulu.pixel.invitemedia.com
 humandemand.com
 hummingbird.mavencoalition.io
 hunantv-ipdx.cn.miaozhen.com
-huobi-global-prd.cn-hangzhou.log.aliyuncs.com
 hurricanedigitalmedia.com
 hurtteeth.com
 huskypartydance.com
@@ -9278,7 +9271,6 @@ lax1-ib.adnxs.com
 lax1.ib.adnxs.com
 layer-ad.de
 layer-ads.de
-lazada-compliance-project.ap-southeast-1.log.aliyuncs.com
 lb-adsdis.mng-ads.com
 lb-adsmob.mng-ads.com
 lb-delivery.us-east-1.applifier.info
@@ -9472,7 +9464,6 @@ loftsbaacad.com
 log-collector.shopee.vn
 log-config.samsungacr.com
 log-eap-sg.coloros.com
-log-global.aliyuncs.com
 log-ingestion-eu.samsungacr.com
 log-ingestion.samsungacr.com
 log-ird.outbrain.com
@@ -9488,7 +9479,6 @@ log.adsplay.xyz
 log.adtimaserver.vn
 log.aimtell.com
 log.ajunews.com
-log.aliyuncs.com
 log.anninhthudo.vn
 log.api.useinsider.com
 log.api.zaloapp.com
@@ -14998,8 +14988,6 @@ tangerine.nexage.com
 tangerinenet.biz
 tangibleteam.com
 tanx.com
-tap-android-logs-hk.cn-hongkong.log.aliyuncs.com
-tap-snow-hk.cn-hongkong.log.aliyuncs.com
 tapad.com
 tapas.net
 tapcore.airpush.com
@@ -16713,7 +16701,6 @@ withinknuko.club
 wiyun.com
 wiz.outbrain.com
 wizaly.com
-wizardlog.cn-hongkong.log.aliyuncs.com
 wiztube.xyz
 wkclick.baidu.com
 wkctj.baidu.com
