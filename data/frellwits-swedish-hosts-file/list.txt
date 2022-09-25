@@ -15,6 +15,7 @@ a.optmnstr.com
 a.teads.tv
 a.thelocal.com
 a.zxcvads.com
+ab.fastighetsvarlden.se
 accesslnk.com
 acdn.adnxs.com
 ad.360yield.com
@@ -301,6 +302,7 @@ clickdimensions.com
 clientcdn.pushengage.com
 cmp.network-n.com
 code3.adtlgc.com
+collect-metrics.aquro.com
 collect.breakit.se
 collector.brandmetrics.com
 collector.cint.com
