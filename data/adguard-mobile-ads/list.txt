@@ -46,6 +46,7 @@ ad.leap.app
 ad.madvertise.de
 ad.mail.ru
 ad.myinstashot.com
+ad.nvdvr.cn
 ad.ohmyad.co
 ad.particlenews.com
 ad.period-calendar.com
@@ -813,6 +814,7 @@ promo-images.ttpsdk.info
 promoted.sndcdn.com
 promoted.soundcloud.com
 promotion.polarisoffice.com
+promotionad.nvcam.net
 prosperent.com
 prre.ru
 pssvc.iqzone.com
