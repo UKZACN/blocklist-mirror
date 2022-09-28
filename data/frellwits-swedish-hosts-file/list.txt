@@ -256,6 +256,7 @@ cdn.churnkit.com
 cdn.connatix.com
 cdn.convertbox.com
 cdn.cxense.com
+cdn.decibelinsight.net
 cdn.dep-x.com
 cdn.foxpush.net
 cdn.gravitec.net
@@ -304,6 +305,7 @@ cmp.network-n.com
 code3.adtlgc.com
 collect-metrics.aquro.com
 collect.breakit.se
+collect.tealiumiq.com
 collector.brandmetrics.com
 collector.cint.com
 collector.houston-analytics.com
@@ -852,6 +854,7 @@ track.adform.net
 track.adtraction.com
 track.double.net
 track.postkodlotteriet.se
+track.uniqodo.com
 trackcmp.net
 tracker-v4.gamedock.io
 tracker.gamedock.io
@@ -942,4 +945,5 @@ x.bidswitch.net
 yieldbird.com
 yoursecurecheckout1.com
 z.moatads.com
+zn6lkvme45abyczq5-tuigroup.siteintercept.qualtrics.com
 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
