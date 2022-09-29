@@ -722,6 +722,7 @@ scripts.kiosked.com
 scripts.mediavine.com
 sdk.pulse.schibsted.com
 se-02.adtomafusion.com
+se-ads-microservice.ads.allermedia.io
 se-ads-microservice.aws.aller.com
 se-tv4.videoplaza.tv
 se.ads.justpremium.com
