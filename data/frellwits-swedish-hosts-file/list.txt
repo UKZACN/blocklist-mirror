@@ -537,6 +537,7 @@ load.sumome.com
 loader.wisepops.com
 loadr.exelator.com
 log-api.newrelic.com
+log.cookieyes.com
 log.medietall.no
 logs.spilgames.com
 logx.optimizely.com
@@ -663,6 +664,7 @@ rabble-res.cloudinary.com
 reauthenticator.com
 recirculation.spot.im
 redistats.com
+regstat.se
 reklam.6x.se
 report.23video.com
 research-int.se
