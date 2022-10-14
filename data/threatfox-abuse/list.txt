@@ -1,4 +1,6 @@
 0.tcp.ngrok.io
+020-danger.r1z.rocks
+0ccbee77601f0aba.azureedge.net
 0dz.me
 0e.si
 0t.yt
@@ -9,7 +11,10 @@
 1116.hopto.org
 1211.hopto.org
 13j.me
+15454489a.tencent-cloud.workers.dev
+1779dd73700e2c0f.azureedge.net
 188s.co
+1bb1393a0054ca93.azureedge.net
 1biggie.publicvm.com
 1h3.me
 1j.pm
@@ -18,12 +23,15 @@
 2.tcp.eu.ngrok.io
 2.tcp.ngrok.io
 2022success.ddns.net
+220267ee689b0789.azureedge.net
 22238.net
 236philipjohnson.freedynamicdns.org
+273020d458bf4f74.azureedge.net
 2j4.xyz
 2meonline.ddnsgeek.com
 2otxkxmd23rrxxr.gq
 2yd.eu
+360se.linkpc.net
 3e.pm
 3h.wf
 3h1.xyz
@@ -43,6 +51,7 @@
 5.tcp.eu.ngrok.io
 52226asdiobioboioie.com
 55098hustlenow.hopto.org
+5856681773b62124.azureedge.net
 5876.hopto.org
 5j8.xyz
 5jb.me
@@ -52,6 +61,7 @@
 5s.pm
 6.tcp.eu.ngrok.io
 6.tcp.ngrok.io
+61c29c85405f0792.azureedge.net
 6262.hopto.org
 66j.me
 6id.xyz
@@ -67,14 +77,19 @@
 7yfb.com
 8.tcp.ngrok.io
 81.68.245.162.nip.io
+827e22f2e1433d0a.azureedge.net
 8as1s2.com
 8bku86hff8jiqhf.gq
 8t.pm
 9292.freemyip.com
 93044live.ml
 9386.ddns.net
+955fc2e220f92eb0.azureedge.net
+96dc3607a840b779.azureedge.net
+99755581977da63e.azureedge.net
 99gramss.ddns.net
 a0724127.xsph.ru
+a4896dde2ff8edc7.azureedge.net
 aa.hostasa.org
 abc.flash-com.tk
 abegelkunic.com
@@ -82,6 +97,7 @@ abhishek-indicc.com
 absolutely.ml
 academfleedalas.com
 accountaccess.org
+activeservers.net
 actuallycost.top
 adal1401.tk
 adaptivenet.hostedrmm.com
@@ -133,6 +149,7 @@ alexomsgoping.com
 algerat.cyou
 alicenegord.com
 alionavon.com
+alivod.med126.com
 alizuhohostnation.duckdns.org
 alkaliodplus.com
 alldogsedag.com
@@ -142,8 +159,10 @@ allozelkot.com
 alockajilly.com
 alohasockstaina.com
 alojun.com
+alyaskafond.su
 amadaracruise.com
 amalar.camdvr.org
+ambitious-power-mgw.aws-euw1.cloud-ara.tyk.io
 ambronixt.com
 amcabaykos2.net
 amcabaykusdondu.net
@@ -154,7 +173,9 @@ amilolo.ddns.net
 amirmahdi-or.tk
 amiropp-ir.tk
 amoguscum.ddns.net
+ams-prd-cob.nl
 amuokuku.duckdns.org
+analytics.msftcdn.com
 anbush.com
 androidapi429.cf
 anglemanagement.ddns.net
@@ -162,9 +183,11 @@ aniogarphianeo.com
 antiflamez.bar
 antitor.duckdns.org
 antivirus-helper.publicvm.com
+antliveplay.alicdn.com
 antnosience.com
 anushl.com
 apexklu.com
+api-connect-2b8c1bv.securesystem-dnsproviders.com
 api-tron.tk
 apoxonbothyourhouses.org
 app-lurd.xyz
@@ -178,6 +201,7 @@ arkseven702.ddns.net
 arminext.com
 aroudharilfsa.com
 artidomain.com
+as.lorends.com
 as.swopeer.com
 as3.biz
 asdder.com
@@ -200,6 +224,7 @@ ausija.com
 autobrag.cloud
 auvdthcetggy.tk
 aviadronazhed.com
+awz.karpasky.com
 aybedosgaledsos.net
 aybengelmesdodses.net
 ayranger.ddns.net
@@ -232,6 +257,7 @@ ban318937.sytes.net
 bank-dari-iran-ir.cf
 banta.ddns.net
 barabezo.com
+base-jscript.com
 bash.mywire.org
 bash1.accesscam.org
 bash2.accessscam.org
@@ -292,6 +318,7 @@ bodilycar.quest
 bohem11.ddns.net
 bonimoni.xyz
 boobymoore.ddns.net
+bookmark-tag.com
 boronab.com
 borrantore.com
 botclowns.ga
@@ -321,6 +348,7 @@ budmx.com
 bullerdix.com
 bullions.tk
 burdun.dynu.net
+buworomu.com
 bykusamcaby.net
 c0.wf
 c4z.pl
@@ -353,7 +381,10 @@ cdn.china-flash.ga
 cdn.cloudflareus.tk
 cdn.cs00.xyz
 cdn.fuckscstc.cf
+cdn.gwin.tk
 cdn.peakyblinders.uk
+cdn.static.ettiao.com
+cdn1.lcdn348v89328gcuhb.ga
 cdnofficecloud.com
 cdnofficecloud.net
 cdt.3utilities.com
@@ -416,6 +447,7 @@ coperhils.cloud
 cosmiad.xyz
 cosrem.ddnsgeek.com
 cotanantirrri.com
+couponbrothers.com
 covax-ga.gq
 cowbax.cf
 crabsbolt.art
@@ -454,6 +486,22 @@ cv.newsmartappsllc.com
 cv.saretkap.com
 d-payment.ga
 d1.kimo.vip
+d13yik3xjy1bte.cloudfront.net
+d1blnxlfoa6gu6.cloudfront.net
+d1ik6oouisqlak.cloudfront.net
+d2fbg7ftk2kfi3.cloudfront.net
+d2nhdrdxt2badj.cloudfront.net
+d2pichs63j2viz.cloudfront.net
+d2qy0dzca940u1.cloudfront.net
+d2u9rmrrifg8yn.cloudfront.net
+d2y4qr3p3fk7fx.cloudfront.net
+d3c0hjeoqmryl5.cloudfront.net
+d3ezzymhuci7ps.cloudfront.net
+d3k0cbyjjyeqhj.cloudfront.net
+d3m6lc4k7daurv.cloudfront.net
+d3o8tsrpl5k6yb.cloudfront.net
+d3so0g2pxg0u5a.cloudfront.net
+d3umravkzw9sxh.cloudfront.net
 d4rkn3ss.tk
 dad-sarai.mom
 dadgahieir.ml
@@ -484,6 +532,7 @@ daysgone.tk
 dayzabazenb.com
 dbgroup1.publicvm.com
 dcmobina.duckdns.org
+dcuj1gece5t28.cloudfront.net
 deadxbc9.beget.tech
 deedee111.ddns.net
 defeserremote.xyz
@@ -504,8 +553,10 @@ derarawfile10.ddns.net
 dev.baidudiscovery.site
 dev.googlecloudsafety.services
 dfuy.fun
+dg063sxephvgi.cloudfront.net
 dgogyfuul.com
 dicaueror.ml
+didgwf4758vpk.cloudfront.net
 didociskal.com
 didojanza.com
 dietappli.shop
@@ -582,6 +633,7 @@ dxshapark.cf
 dxshapark.ga
 dxshapark.gq
 e-businessloader.mywire.org
+e45ebbf2c04facf2.azureedge.net
 e9.wf
 eabalaghiryt.tk
 eabalghiryt.tk
@@ -657,12 +709,14 @@ exartn.tk
 exch01.certificate-infrastructure.com
 explorblins.com
 express104.ddns.net
+extremecows.com
 eyecosl.ga
 eysneolissionsm.com
 ezeani.duckdns.org
 f0.tel
 f0714257.xsph.ru
 f0717901.xsph.ru
+f31cc9433e1b427f.azureedge.net
 f4iidk.felipeemarlimarketingl.link
 fall2sleep.xyz
 fasebrewer.site
@@ -702,8 +756,11 @@ flash-update.tk
 floatascentry.com
 floppyfgreed.fun
 fnmsdtx.aliyundemo.com
+fofapohelo.com
 followern2.tk
+fooddash.fooddash.workers.dev
 footballreviews.net
+forestsample.com
 forme539.ddns.net
 forsondu92.ddns.net
 frabigwin.info
@@ -752,6 +809,7 @@ giantos.xyz
 gibalot.ru
 gigiman.xyz
 girlhomejan6100.duckdns.org
+gisesralveevee.com
 gitcomputer.dynamic-dns.net
 glaknohjujm.ml
 glitzye.com
@@ -765,7 +823,6 @@ gmhteuster.com
 gnomidea.xyz
 goback.delivery
 gobuxezixa.com
-godblessking.ddns.net
 godenfasternow.com
 godslove1.ddns.net
 goldresulthsot.duckdns.org
@@ -814,6 +871,7 @@ hemplife.ddns.net
 hendersonk2022.hopto.org
 henzy.ddns.net
 hero9780.duckdns.org
+hftpaeers.com
 hfyfv.com
 hgfiudtyukjnio.com
 hidozwerav.com
@@ -855,6 +913,7 @@ ilivemukm.ga
 illinoismusichall.com
 illocloud.com
 ilzenhwery.com
+img.cdn-jqueryjs.com
 imorendaset.com
 implementalyhiol.rest
 incomiit.tk
@@ -874,6 +933,7 @@ internetcoca.in
 internetlined.com
 internetlines.in
 interstarts.top
+intservers.org
 investprides.com
 iphy.strangled.net
 ir-live.ml
@@ -886,6 +946,7 @@ iterrationobj.site
 iujdhsndjfks.com
 iumobiliebackup.ddns.net
 iurb.top
+iuskmmdm.ml
 iuskmmdm.tk
 iwishiwashappy.eu
 ixi-sigaho.ml
@@ -929,6 +990,7 @@ jqueryupdatenow.com
 jqueryupneed.com
 jquerywins.com
 jrceh.gq
+js.0x1c.cc
 js.msedgeupdate.com
 jsksushsgsh.cf
 juanjik.com
@@ -962,6 +1024,7 @@ kenimaf.duckdns.org
 kenzeey.duckdns.org
 kevin.ydns.eu
 keycloud.ink
+keycloud.live
 keyseaysnice.com
 kgentle777.hopto.org
 kglo.link
@@ -1000,6 +1063,8 @@ ksjskdkjw-ir.tk
 kuxojemoli.com
 kv24aksxcgzqm9c.gq
 kxkkdei.cf
+l01i1.ssndob.cn.com
+l01i2.ssndob.cn.com
 l5k.xyz
 l9b.org
 lacoquetaantojitosyraspados.com
@@ -1083,6 +1148,7 @@ login.onemusic24.com
 login.onestepstar.com
 login.qwwxthn.xyz
 login.seafoodsconnection.com
+login.service1ventures.com
 login.sunmarks.co.uk
 login.tfosorcimonline.xyz
 login.whitmanlab.uk
@@ -1161,7 +1227,6 @@ meetwithnicholson.ddns.net
 megalogs2022.duckdns.org
 megida.hopto.org
 mek123.ddns.net
-mekhocairos.linkpc.net
 meki24.ddns.net
 mercydylan55.hopto.org
 metallicas.ru
@@ -1194,6 +1259,7 @@ molekraftness.com
 molkaders.com
 momentumwrp.com
 momskakeshop.com
+momuxagad.com
 mondayomo.duckdns.org
 monogon.cc
 monowhell.com
@@ -1225,6 +1291,7 @@ mymst007.info
 mynewserver2022.ddns.net
 mynewvirom.duckdns.org
 myremote-ir.tk
+mysqlserver.org
 myumlive.cf
 myumlive.ml
 myumlive.tk
@@ -1277,6 +1344,7 @@ newozv.xyz
 newsmach.com
 newspraise.com
 newstamagavk.com
+newyearbalance.com
 nibiru3.duckdns.org
 niccolumo.ru
 nievewagner83.top
@@ -1387,6 +1455,7 @@ peygirir.tk
 pfgeep.ddns.net
 pfktaacgojiozfehwkkimhkbkm.cfd
 pi-linkere.cf
+pic07.babytreeimg.com
 picabof.com
 pigahinilu.com
 pigi-ed.tk
@@ -1403,6 +1472,7 @@ pippleweld.hair
 pjz.one
 platinumo.ru
 pleashurehott.com
+plethuirda.com
 plocganga.com
 plorinnoult.com
 plovvored.rest
@@ -1424,6 +1494,7 @@ pregabas.com
 preomondaka.com
 preomondaka.uk
 pretunz.com
+pro.mcagroupinvest.com
 profrtgroupnaniio.duckdns.org
 projectextracted.com
 prosir.casacam.net
@@ -1470,9 +1541,12 @@ qvenzizshop.com
 qw.dropklant.com
 qw.hatrpot.com
 qw.hocct.com
+qw.lorends.com
 qw.swopeer.com
 qw.theinfoinc.com
 r0.pm
+r1dark.ssndob.cn.com
+r2dark.ssndob.cn.com
 r4e.pl
 r6.nz
 raaqtwo.duckdns.org
@@ -1531,6 +1605,7 @@ rimot-anitain.tk
 rimot-comin.tk
 rimot-htmll.tk
 rimot-lucifer.tk
+riracilom.com
 riverfoolr.com
 rmtt12.cf
 rmtt12.ga
@@ -1612,6 +1687,7 @@ secure.newspraise.com
 secure.onestepstar.com
 secure.realfunsolutions.com
 secure.service1app.com
+secure.service1ventures.com
 secureoffice.live
 securmeawards.com
 sefid-ratt.tk
@@ -1620,6 +1696,10 @@ sempersim.su
 sentisupport.com
 sep.topsavor.site
 server-shirazzi.ga
+service-65m9dzhk-1259025339.gz.apigw.tencentcs.com
+service-6wso9e3t-1257357125.bj.apigw.tencentcs.com
+service-955koung-1259774614.gz.apigw.tencentcs.com
+service-eumajlwp-1304565326.bj.apigw.tencentcs.com
 service-juzggqcs-1304498968.gz.apigw.tencentcs.com
 service.msftcdn.com
 service1app.com
@@ -1666,9 +1746,11 @@ snccoupr-int.cf
 sndz2020.hopto.org
 sobaprivba.rest
 socimotanu.com
+socks5.allyun.workers.dev
 sofkinlasersop.com
 softsupdate.com
 softtrim.hopto.org
+softupdatelive.com
 solvesalesoft.com
 sombrat.com
 sonspices.ddns.net
@@ -1706,6 +1788,7 @@ superslow.is-a-nascarfan.com
 superstarts.top
 superstat.top
 superziad.is-a-liberal.com
+support274.com
 survefuz.com
 surya.ddns.net
 sussyamous34.ddns.net
@@ -1716,6 +1799,7 @@ sylviaoslh01.ddns.net
 symantecuptimehost.com
 sync.microsoft-update.co
 t7.nz
+tagujog.com
 tapucan.xyz
 tat456.com
 tchingyourfocu.top
@@ -1736,6 +1820,7 @@ telemetrysystemcollection.com
 terroklo.com
 testalienscy9090.duckdns.org
 testingmamo.tk
+testonly.13vv666.tk
 tezycronam.com
 tgdl.cf
 thanig.ddns.net
@@ -1743,6 +1828,7 @@ the-end.ga
 the-host-pm.tk
 thedaily-news.com
 thedog12.ddns.net
+theesteemglobal.com
 thelovebreakthrough.com
 timmy06.ddns.net
 timmy13.ddns.net
@@ -1754,6 +1840,7 @@ top.noneabusers.xyz
 topsavor.site
 tornton.xyz
 toughflatlying.com
+trackofers.lol
 tracksupernova.com
 trakonicwe.com
 trallfasterinf.com
@@ -1805,11 +1892,15 @@ ultraxreroxx.com
 umlive.gq
 umlive.ml
 uoej.net
+upd.kasperskyupdates.com
 update.microsooft.info
 update.notepad-plus.io
 update06.microsoft-essentials.com
 updatedhostlogs.duckdns.org
 updatedomain.ml
+updatelink.firefoxokt.top
+updatesoftlive.com
+updatewindow.com
 uqw.futbol
 urregular.ddnsgeek.com
 us189-hpgsgae5dva9fzch.z01.azurefd.net
@@ -1830,8 +1921,10 @@ vadgeatemoz.com
 vajunocin.com
 valorantstuffspoof.ddns.net
 vavilgo.xyz
+vebojusid.com
 venis.ml
 verakhi.com
+vezagik.com
 vffiwwg.ga
 vijayikohli1.bounceme.net
 vimstarim.gq
@@ -1898,11 +1991,13 @@ wronigrabs.com
 wsnan2js.duckdns.org
 wuiwidudiei.tk
 www.365365.ga
+www.abchina.com.w.kunluncan.com
 www.agoegations.com
 www.akillz.tk
 www.aliclound-cdn.com
 www.aliyunupdate.work
 www.ba1idu.tk
+www.base-jscript.com
 www.cainiao.com
 www.dcatinfo78.com
 www.digitallightphotography.net
@@ -1925,6 +2020,7 @@ www.onestepstar.com
 www.realfunsolutions.com
 www.reckful66.xyz
 www.service1app.com
+www.service1ventures.com
 www.solarwmds.top
 www.sw0rd.xyz
 www.tmhnpump.cn
@@ -1940,6 +2036,7 @@ www.zoomeye.eu.org
 www1.gggatat456.com
 x-shaparak-spk.ml
 xafehot.com
+xamayojir.com
 xc.galusty.com
 xc.goodcafeonline.com
 xc.jacollans.com
@@ -1950,9 +2047,11 @@ xebacihek.com
 xemigefav.com
 xerkdeoleone.at
 xfdl19.mom
+xicefoga.com
 xikolaman.com
 xizojize.com
 xjam.hk
+xm2.xmitri.org.cn
 xman2.duckdns.org
 xmhomestilesh.at
 xn--mgb2dlba59cthb.ga
@@ -1969,6 +2068,7 @@ xpddg.com
 xpowebs.ga
 xpremcuz300622.ddns.net
 xqertansi.gay
+xuluxetas.com
 xvtimr62f9bviap.gq
 xwebapp.xyz
 xx-amirxx.tk
@@ -2026,11 +2126,13 @@ zmbsjwguhssnnsnsnn.cf
 zominoz.com
 zoneproess.duckdns.org
 zoomersoidfor.com
+zoro-0304.tk
 zroybalkane.com
 zuyonijobo.com
 zx.galusty.com
 zx.goodcafeonline.com
 zx.jacollans.com
+zx.lorends.com
 zx.newsmartappsllc.com
 zx.saretkap.com
 zx.scsdcscssccsd.click

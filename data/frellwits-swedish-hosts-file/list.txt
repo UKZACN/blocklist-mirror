@@ -207,6 +207,7 @@ brandy.bonniernewslifestyle.se
 brews.marketale.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
+browser.covatic.io
 bs.serving-sys.com
 bulletproof-analytics.com
 buzzador.com
