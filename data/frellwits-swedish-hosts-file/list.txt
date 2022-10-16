@@ -546,6 +546,7 @@ logx.optimizely.com
 look.ufinkln.com
 lwadm.com
 m.burt.io
+m.extellio.com
 m1.analytics.sitevision-cloud.se
 macro.adnami.io
 macro.adnami2.io
@@ -720,6 +721,7 @@ scdn.cxense.com
 science.omni.se
 script.crazyegg.com
 script.e-space.se
+script.extellio.com
 script.ioam.de
 script.tailsweep.com
 scripts.cleverwebserver.com
