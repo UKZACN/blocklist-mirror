@@ -1177,6 +1177,7 @@ ads.as4x.tmcs.ticketmaster.com
 ads.asia.cbsinteractive.com
 ads.asiafriendfinder.com
 ads.aspalliance.com
+ads.assemblyexchange.com
 ads.atomex.net
 ads.auctions.yahoo.com
 ads.autonet.com.vn
@@ -3288,6 +3289,7 @@ askingpoint.com
 aso1.net
 asp.animelab.com
 aspboxant.club
+assemblyexchange.com
 asset.adxplay.com
 asset.bidgear.com
 asset.pubexchange.com
@@ -9087,6 +9089,7 @@ jssdks.mparticle.com
 jsu.adskeeper.co.uk
 jsv2.andbeyond.media
 jsv2scr.andbeyond.media
+jtkctpvlsilycn.com
 jtracking.lulusoft.com
 ju.mmstat.com
 juggler.services.disqus.com
@@ -10963,6 +10966,7 @@ omappapi.com
 omax.admarvel.com
 omazeiros.com
 omciecoa37tw4.com
+omclyzyapf.com
 omgmta.qq.com
 omguk.com
 omkaaqtwzvc.com
@@ -12992,6 +12996,7 @@ rtb.yieldlab.net
 rtb0.doubleverify.com
 rtb123.com
 rtb2-eu.e-volution.ai
+rtb2-useast.assemblyexchange.com
 rtb2-useast.e-volution.ai
 rtb2.automatad.com
 rtb2.doubleverify.com
@@ -13830,6 +13835,7 @@ sleepcartoon.com
 sleevedcaelum.com
 slickaffiliate.com
 slicktext.com
+slight-responsibility.pro
 slimads.vn
 slinks.yadro.ru
 slipperysack.com
@@ -17640,6 +17646,7 @@ www.your-notice.com
 www.yourbestheal.com
 www.zap.buzz
 www.zarpop.com
+www.zdupdotxqwj.com
 www.zekiatagur.com
 www.zenadservices.net
 www.zergnet.com
@@ -17936,6 +17943,7 @@ zc.biz.weibo.com
 zcoup.com
 zdaptrksg.com
 zdbb.net
+zdupdotxqwj.com
 zdyldoijanx.com
 zealousfield.com
 zedo.com
