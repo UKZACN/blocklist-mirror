@@ -99,6 +99,7 @@
 999pay.in
 99gramss.ddns.net
 9inepage.com
+a0.awsstatic.com
 a0724127.xsph.ru
 a1technician.in
 a2zcdr.com
@@ -566,7 +567,6 @@ c7.ic
 c7.lc
 c84yd7iszpqtacd.gq
 caboardroom.com.sg
-cabrioxmdes.at
 cache-dns-forwarding.com
 cache-dns-preview.com
 cache-dns.com
@@ -686,6 +686,7 @@ cloudmicro.tech
 cloudupdates.ddns.net
 cloudupdatesss.com
 clrtx.icu
+clsuplementos.ddns.net
 cltrixworkspace4.com
 clus.ga
 cmbaindesureshure.com
@@ -731,6 +732,8 @@ coow.ddns.net
 coperhils.cloud
 cordata.ru
 corksgas.com
+corpoleve.3utilities.com
+corpoleve.duckdns.org
 cosmiad.xyz
 cosrem.ddnsgeek.com
 cotanantirrri.com
@@ -800,6 +803,7 @@ d1h8du33hyb4st.cloudfront.net
 d1ik6oouisqlak.cloudfront.net
 d1ogvvduhqbrfv.cloudfront.net
 d1ozhxavg62ia7.cloudfront.net
+d23497a4qog89t.cloudfront.net
 d2fbg7ftk2kfi3.cloudfront.net
 d2nhdrdxt2badj.cloudfront.net
 d2pichs63j2viz.cloudfront.net
@@ -859,6 +863,7 @@ daysgone.tk
 daysoflight.org
 dayzabazenb.com
 dazacril.com.pe
+dbank.foresty.me
 dbgroup1.publicvm.com
 dcmobina.duckdns.org
 dcuj1gece5t28.cloudfront.net
@@ -922,6 +927,7 @@ dingjava.vaiwan.com
 dinigudih.com
 dinolachy.duckdns.org
 disinobaw.com
+dismaycars.com
 distribuidoreseassy.com.mx
 divar21665.xyz
 divasto.ru
@@ -1001,6 +1007,7 @@ drrajeevkhare.in
 drrkingsleym001.ddns.net
 drsasanranjbar.ir
 drsazihstdie.tk
+ds1w2qxuwtlvx.cloudfront.net
 dsfygfnb3.icu
 dstardom.com
 duddas.com.br
@@ -1056,6 +1063,7 @@ edlxe.tk
 eduardoaluxe.com.br
 eduframe.in
 eduinnova.org
+ee5d7fe3deb1e6b9.azureedge.net
 eeso225-lasanmartin.edu.ar
 eezzyy.duckdns.org
 effio.com.pe
@@ -1374,6 +1382,7 @@ hakold.ru
 halalsign.com
 halpopen-ir.tk
 hamaralib.ir
+handling.ddns.net
 handsquestiona.com
 handypesty.com
 hanolis.ru
@@ -1422,7 +1431,6 @@ homabayassembly.go.ke
 home-comp-8390.dyn.home-webserver.de
 homesforiiiudgf.ddns.net
 homework1.com
-hopexmder.net
 horizon112.3utilities.com
 hortoartpaisagismo.com
 host-file-host6.com
@@ -1507,6 +1515,7 @@ inssolution.duckdns.org
 interest-border.at.playit.gg
 interlinel.top
 interliner.top
+internalcheckssso.com
 internet-digital.gq
 internet-meli-24.ga
 internetcoca.in
@@ -1605,6 +1614,7 @@ joypackard.com
 joyyce.ddns.net
 jp.gta5.eu.org
 jquery.microsoft-flash.tk
+jquerysslest.com
 jqueryupdatenow.com
 jqueryupneed.com
 jquerywins.com
@@ -1966,6 +1976,7 @@ miba.com.pk
 michelledare.com
 michspencer.ddnsfree.com
 microcloud.live
+microcloud.online
 microdozz.com
 microfertisa.app
 micropoint.in
@@ -2049,6 +2060,7 @@ mwbranch.frontlinepay.us
 mwgq.net
 myadliran.com
 myadz.in
+mybank.digital-bank.org
 mydadri.com
 myflowershop.online
 myhostplas12312.ddns.net
@@ -2282,6 +2294,7 @@ pdf-forwarding.online
 pdf-shared.online
 peacemakerspodcast.com
 pedaretam.tk
+pedrosvadeira.com.br
 pefkeo72.top
 peleregroup.com
 penofpurpose.com
@@ -3075,6 +3088,7 @@ upd.kasperskyupdates.com
 update-2.kaspersky360.com
 update.microsooft.info
 update.notepad-plus.io
+update01.mdtmi.cloud
 update06.microsoft-essentials.com
 updatedhostlogs.duckdns.org
 updatedomain.ml
