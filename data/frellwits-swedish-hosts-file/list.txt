@@ -341,7 +341,6 @@ d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d9v72urx9pbbc.cloudfront.net
 dackpartner-web.s3.amazonaws.com
 dagenstv.112.2o7.net
-dash.sparkloop.app
 data.adnuntius.com
 data.gblcdn.com
 deals.innocode.no
