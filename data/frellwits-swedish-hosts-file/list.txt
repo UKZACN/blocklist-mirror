@@ -209,6 +209,7 @@ browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser.covatic.io
 bs.serving-sys.com
+btloader.com
 bulletproof-analytics.com
 buzzador.com
 c.adsco.re
@@ -840,6 +841,7 @@ tagging-service.tv4play.se
 tags.adnuntius.com
 tags.bkrtx.com
 tags.crwdcntrl.net
+tags.expo9.exponential.com
 tags.refinery89.com
 tags.smilewanted.com
 tags.webtraffic.se
