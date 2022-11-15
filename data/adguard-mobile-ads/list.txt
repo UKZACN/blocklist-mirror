@@ -53,6 +53,7 @@ ad.period-calendar.com
 ad.prismamediadigital.com
 ad.smaad.jp
 ad.snappea.com
+ad.snaptube.app
 ad.sxp.smartclip.net
 ad.tencentmusic.com
 ad.vrvm.com
@@ -514,6 +515,7 @@ fyber.com
 g.doubleclick.net
 gameanalysis.appcpi.net
 gateway.ttpsdk.info
+gdl.i9dhjx.ru
 gdn.bigfishgames.com
 geede.info
 geocdn.unityads.unity3d.com
