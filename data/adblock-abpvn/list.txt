@@ -30,7 +30,6 @@
 240.zaloapp.ads.zdn.vn
 2468.go2cloud.org
 247media.com
-247vi-bank.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 24log.com
@@ -84,7 +83,6 @@
 684dd325.akstat.io
 684dd32c.akstat.io
 6sc.co
-76236osm1.ru
 79423.analytics.edgekey.net
 7c0616849b.com
 7ca78m3csgbrid7ge.com
@@ -239,6 +237,7 @@ aax.amazon-adsystems.com
 aaxads.com
 ab.adadvisor.net
 ab.batmobi.net
+ab1n.net
 ab3yssin4i6an.com
 aba.gumgum.com
 abacho.net
@@ -260,7 +259,6 @@ abstractedauthority.com
 absurdwater.com
 abtasty.com
 abtest.mistat.xiaomi.com
-abutparker.com
 abz.com
 ac.adpia.vn
 ac.askingpoint.com
@@ -1188,6 +1186,7 @@ ads.betfair.com
 ads.betweendigital.com
 ads.bfmio.com
 ads.bhol.co.il
+ads.bid
 ads.bigchurch.com
 ads.bigfoot.com
 ads.bing.com
@@ -3371,7 +3370,6 @@ atropiathames.com
 ats-intl.everesttech.net
 ats.everesttech.net
 ats.rlcdn.com
-atspace.tv
 attr.appsflyer.com
 attr.union.ucweb.com
 attractiveafternoon.com
@@ -3981,7 +3979,6 @@ blogrush.com
 blogstatistics.sapoapps.vn
 blogtoplist.se
 blogtopsites.com
-bloodleian.club
 blu.mobileads.msn.com
 bluadz.com
 blue.thehill.com
@@ -4004,7 +4001,6 @@ bluewhaleweb.com
 blushingbeast.com
 blushingboundary.com
 blutrumpet.com
-bluvenie.com
 bm.annonce.cz
 bm.moatads.com
 bms.zeptolab.com
@@ -4149,6 +4145,7 @@ buleor.com
 bullionyield.com
 bullseye.backbeatmedia.com
 bumlam.com
+burlydeclined.com
 burstly.com
 burstmedia.com
 bus.clevernt.com
@@ -4339,7 +4336,6 @@ campaigns.ambientplatform.vn
 campaigns.clevertap.com
 campaigns.conversantmedia.com
 campongprecant.com
-campxanh.info
 candielzenaga.com
 caniamedia.com
 cankaowang.com
@@ -4592,7 +4588,6 @@ cdn.carbonads.com
 cdn.celtra.com
 cdn.cityads.com
 cdn.clicktale.net
-cdn.cluodlfare.com
 cdn.comedia.coccoc.com
 cdn.concert.io
 cdn.connatix.com
@@ -4840,7 +4835,11 @@ cdn1.netcoresmartech.com
 cdn1.smartadserver.com
 cdn1.tpmedia.online
 cdn1.vntsm.com
+cdn10236888.ahacdn.me
+cdn11763314.ahacdn.me
 cdn12359286.ahacdn.me
+cdn18685953.ahacdn.me
+cdn19641441.ahacdn.me
 cdn2.adflex.vn
 cdn2.aniview.com
 cdn2.cache.vn
@@ -4853,6 +4852,7 @@ cdn2.popcash.net
 cdn2.pubexchange.com
 cdn2.specificmedia.com
 cdn2.teads.tv
+cdn24790679.ahacdn.me
 cdn28786515.ahacdn.me
 cdn3.adspeed.net
 cdn3.aniview.com
@@ -4860,15 +4860,25 @@ cdn3.bestcontentfood.top
 cdn3.doubleverify.com
 cdn3.optimizely.com
 cdn3.specificmedia.com
+cdn38871181.ahacdn.me
 cdn3nc.media.net
 cdn4.buysellads.net
 cdn4.mxpnl.com
+cdn40657009.ahacdn.me
 cdn44221613.ahacdn.me
+cdn45602216.ahacdn.me
+cdn45892007.ahacdn.me
+cdn46501877.ahacdn.me
 cdn4ads.com
 cdn5.onthe.io
 cdn5.proadscdn.com
+cdn61962044.ahacdn.me
+cdn62004373.ahacdn.me
 cdn65182383.ahacdn.me
+cdn70555962.ahacdn.me
+cdn72891311.ahacdn.me
 cdn77.cityads.com
+cdn78085165.ahacdn.me
 cdn81910013.ahacdn.me
 cdna.adgrx.com
 cdnads.com
@@ -4911,7 +4921,6 @@ cecash.com
 ced-ns.sascdn.com
 ced.sascdn.com
 cedexis.com
-celerantatters.com
 celeritascdn.com
 cell.adbottw.net
 cell1.adbottw.net
@@ -4927,7 +4936,6 @@ certify.alexametrics.com
 certs.optmnstr.com
 cesprinciple.com
 cetrk.com
-cettiarl.com
 cf-ad.ad-stir.com
 cf-qa.mediaforge.com
 cf.addthis.com
@@ -4978,13 +4986,13 @@ chatbox-widget.botbanhang.vn
 chatbox.urekamedia.com
 chaumsee.net
 cheap-ads.net
-checkaccff.com
 checker.cityads.com
 checkm8.com
 checkstat.nl
 checkyofeed.com
 cheerfulrange.com
 cheetieaha.com
+cheno3yp5odt7iume.com
 cheqzone.com
 chewcoat.com
 chi.outbrain.com
@@ -5342,8 +5350,6 @@ co.vlancaa.fun
 co.vlancaa.site
 cobundle.gumgum.com
 cocoachviver.com
-code-garena-vn.com
-code-lienquan-vn.com
 code.adtlgc.com
 code.beaverads.com
 code.native-ad.net
@@ -5421,7 +5427,6 @@ complextoad.com
 compliance.aralego.com
 comprabanner.it
 comprar.navdmp.com
-comptrffc.com
 comscore.com
 comscoreresearch.com
 comwgi.com
@@ -5615,7 +5620,6 @@ cp.novanet.vn
 cp.polyad.net
 cp.pushwoosh.com
 cp.qc.coccoc.com
-cpa-tc.com
 cpa-tracking.mclick.mobi
 cpa.adcolony.com
 cpalead.com
@@ -6057,7 +6061,6 @@ dc8xl0ndzn2cb.cloudfront.net
 dcba.popcash.net
 dcdn.adnxs-simple.com
 dcdn.adnxs.com
-dcf.espn.com
 dclk-match.dotomi.com
 dco-msg.mathtag.com
 dco-pix.mathtag.com
@@ -6193,7 +6196,6 @@ demos.consumable.com
 demos.logrocket.com
 denbeigemark.com
 dendranthe4edm7um.com
-dendrito.name
 denetsuk.com
 depirsmandk5.com
 deployads.com
@@ -6471,7 +6473,6 @@ dr.outbrain.com
 dra.amazon-adsystem.com
 drabsize.com
 dragzebra.com
-drakeesh.com
 drawbrid.ge
 drawnperink.com
 drfdisvc.walmart.com
@@ -6663,7 +6664,6 @@ easyads.bg
 easyads28.info
 easydownloadnow.com
 easyhits4u.com
-easywbdesign.com
 eatwinner.com
 eb.alcmpn.com
 eb.proper.io
@@ -6968,7 +6968,6 @@ event.wedobest.com.cn
 eventgateway.soundcloud.com
 eventlog.outbrain.com
 eventlogger.soundcloud.com
-eventlqvn.com
 eventreg.sphdigital.com
 events-collector.spot.im
 events-dra.op.hicloud.com
@@ -7211,15 +7210,7 @@ felonlosel.com
 fer2oxheou4nd.com
 ferulaecharger.com
 fev.fyber.com
-ff-member-ganena.com
-ff-member-gazeza.com
-ff-members-garena.vn
-ff-membership-garena.com
-ff-membersship-garrena.com
-ff-memnber-garena.com
-ff-menber-garena.vn
 ff.imacdn.com
-ff.member.garenae.vn
 fgp.philacct.com
 fhsmtrnsfnt.com
 fidelity-media-ssp.rtb.adx1.com
@@ -7305,7 +7296,6 @@ flux-adserver.com
 flygame.io
 flyingsquirellsmooch.com
 fm-p.jp
-fmiphone-apple.com
 fnyfiexpectth.xyz
 fo-api.omnitagjs.com
 fo-dyn.omnitagjs.com
@@ -7332,7 +7322,6 @@ formats.triplelift.com
 forshrd.com
 forter.com
 forthcomingpropelwho.com
-fortt-rade.com
 fortvision.com
 forzslodge.com
 fouanalytics.com
@@ -7355,7 +7344,6 @@ frbyvuxzvmqpb.com
 free-banners.com
 free.srcdn.xyz
 freebanner.com
-freefire-membershipvn-garena.com
 freelinks.neocities.org
 freelogs.com
 freeonlineusers.com
@@ -7373,7 +7361,6 @@ fridge.consumable.com
 friendlyduck.com
 friendshipmale.com
 frightenedpotato.com
-frionene.xyz
 front-dev-php.trafficfactory.biz
 front-logs.voodoo-ads.io
 front.adpia.vn
@@ -7469,7 +7456,6 @@ gadskiz.com
 gadslimz.com
 gadspms.com
 gadspmz.com
-gaerena.vn
 gaijiglo.net
 galactify.unrulymedia.com
 galaksion.com
@@ -7499,17 +7485,7 @@ gan.doubleclick.net
 gandalf.younetmedia.com
 ganemur.com
 gangsstowapps.com
-garaena.vn
 garagesewe.com
-garane.vn
-garean.vn
-gareena.vn
-garena-members.com
-garena.fan
-garena.mobi
-garenaa.vn
-garenaj.vn
-garenalqm.com
 gaspra.iad-03.braze.com
 gatekeeper.outbrain.com
 gatetodisplaycontent.com
@@ -7622,8 +7598,6 @@ giddycoat.com
 gif.brealtime.com
 gif.simpleanalytics.io
 gifsandbox.ssl2.duapps.com
-giftcode-lienquanmobile-vn.com
-giftcode-mobilelienquan.com
 gigazine.asia
 gimiliminibi.com
 ginchoirblessed.com
@@ -7823,6 +7797,7 @@ greedseed.world
 green.erne.co
 greenplasticdua.com
 greetzebra.com
+grewquartersupporting.com
 grey.erne.co
 greyinstrument.com
 greystripe.com
@@ -8159,7 +8134,6 @@ httpkafka-master.ads.prd.ie.internal.unity3d.com
 httpkafka.ads.prd.ie.internal.unity3d.com
 httpkafka.unityads.unity3d.com
 httpool.com
-https-apple.com
 hub.automatad.com
 hub.onfluencer.net
 hub.onmarketer.net
@@ -8522,7 +8496,6 @@ impersonation-preview.leanplum.com
 impl.onscroll.com
 impl.us.onscroll.com
 imply.adhacker.online
-important-notices.com
 importedincrease.com
 impossibleexpansion.com
 impr.taboola.com
@@ -8829,7 +8802,6 @@ ir-uk.amazon-adsystem.com
 ir.doubleclick.net
 ir.us.y.atwola.com
 irchincsp.com
-irduwhojas.ga
 ireklama.cz
 irncdn.com
 ironbeast.io
@@ -8984,6 +8956,7 @@ jpush.io
 jqtqqnen.top
 jrs.a4.tl
 js-agent.newrelic.com
+js-eu1.hs-scripts.com
 js-sec.casalemedia.com
 js-sec.indexww.com
 js-ssl.aaddcount.com
@@ -9113,7 +9086,6 @@ kargo.com
 karonty.com
 katukaunamiss.com
 kau.li
-kaurroot.com
 kb.display.ad.daum.net
 kbnihnmrghgy.com
 kds-pixel.kargo.com
@@ -9251,7 +9223,6 @@ labs.chitika.com
 labs.criteo.com
 labs.revcontent.com
 labs.taplytics.com
-ladsblue.com
 ladsp.com
 ladsp.jp
 ladsreds.com
@@ -9273,7 +9244,6 @@ landingpagelagi.vn
 lapblra5do4j7rfit7e.com
 lapre28rmcat2.com
 largeer.com
-larpollicwilli.club
 lassampy.com
 laughablecopper.com
 laughcloth.com
@@ -9370,13 +9340,10 @@ liadm.com
 lib.adnxs.com
 lib.pgmcdn.com
 lib.vmweb.net
-lib1.biz
 libedgolart.com
 libs.lavanetwork.net
 libs.outbrain.com
 lidl.media01.eu
-lienquan-garena-giftcode.com
-lienquanmobilequatang.com
 lifescript.alcmpn.com
 lifestreet.com
 lifestreetmedia.com
@@ -9429,7 +9396,6 @@ littlecutedogs.com
 littlecutelions.com
 live-api.oncustomer.asia
 live-beacons.spotxchange.com
-live-icloud.com
 live.careplusvn.com
 live.chartboost.com
 live.rezync.com
@@ -9455,7 +9421,6 @@ ll.zucks.net
 llink.site
 lm.a8.net
 lm.serving-sys.com
-lmht-membership.com
 lmsreport.systems.vn
 ln.gamesrevenue.com
 lngtd.com
@@ -9911,6 +9876,7 @@ matchcraft.com
 matchid.adfox.yandex.ru
 matching.ivitrack.com
 matching.truffle.bid
+mathcountryside.com
 matheranalytics.com
 mathtag.com
 mathtag.com.edgekey.net
@@ -10106,19 +10072,15 @@ meitustat.com
 mellowads.b-cdn.net
 mellowads.com
 meltdsp.com
-member-gaarena.com
 member.360in.com
 member.ad.org.vn
 member.adnetwork.vn
-memberr-garenaa.com
 members.applifier.com
 members.popcash.net
 members.yadro.ru
-membershipsgarenavn-ff.com
 memeglobal.com
 memorizeneck.com
 memorycobweb.com
-menberships-ff-garrena.com
 menlithium.com
 mentaib.casa
 menu.metu.vn
@@ -10222,7 +10184,6 @@ mimilcnf.pro
 mindlytix.com
 mindmemobile.com
 mingledventin.com
-miniast.com
 minio.connatix.com
 minormeeting.com
 minotaur107.com
@@ -10541,7 +10502,6 @@ mypagerank.ru
 mypowermall.com
 myragon.ru
 myscreen.com
-mysp.ac
 mystat-in.net
 mystat.pl
 mysteriousmonth.com
@@ -10709,7 +10669,6 @@ nexus.upsight.com
 neymar.alphonso.tv
 ng-vn-notice.gameitop.com
 ng3.ads.warnerbros.com
-nhanquaffob31.com
 nibble-cloud.brealtime.com
 nicealerts.youbora.com
 nicksstevmark.com
@@ -11065,7 +11024,7 @@ oranegfodnd.com
 orangeads.fr
 orbsclawand.com
 ord-ae.conversantmedia.com
-org-secured.com
+organizationwoundedvast.com
 orgxts.com
 origaniberes.com
 origin-ads.exdynsrv.com
@@ -11201,6 +11160,7 @@ p.webengage.com
 p.yieldlab.net
 p.zetadeo.com
 p03h.hs.eloqua.com
+p1.zemanta.com
 p11.techlab-cdn.com
 p117448.clksite.com
 p12339.acuityplatform.com
@@ -11973,9 +11933,9 @@ prod.cm.publishers.advertising.a2z.com
 prod.ugdturner.com
 prod.xtremepush.com
 prod305.trackpush.com
+prodigalpromotion.com
 producerplot.com
 product.adtima.vn
-production-cmp.isgprivacy.cbsi.com
 production-tracking.riviu.co
 production.kargo.com
 production.wootric.com
@@ -12333,7 +12293,6 @@ quad.yadro.ru
 quadrupleclick.com
 quaintcan.com
 quakemarketing.com
-qualienquan.vn
 quallyrimers.com
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
@@ -12590,6 +12549,7 @@ redri.net
 redtram.com
 reduxmedia.com
 reedbusiness.com
+reedsinterfering.com
 reevaipi.com
 referer.pixplug.in
 referralware.com
@@ -12746,6 +12706,7 @@ revincenizam.com
 revive-adserver.com
 revive.lavanetwork.net
 revmob.com
+revoketypes.com
 revopush.com
 revrtb.com
 revrtb.net
@@ -12783,7 +12744,6 @@ rimpirbtmxg.com
 ringsrecord.com
 riotousgrit.com
 risk.clearbit.com
-rituationscardb.info
 ritzykey.com
 riverhit.com
 rj.a-mo.net
@@ -12875,6 +12835,7 @@ rt.ad-score.com
 rt.applovin.com
 rt.applvn.com
 rt.gsspat.jp
+rt.rtoaster.jp
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtax.criteo.com
@@ -13214,7 +13175,6 @@ sa.scorecardresearch.com
 saber.srvcs.tumblr.com
 sabergood.com
 sac.ayads.co
-sacchaeleduk.com
 sacralcabaa.com
 sact.atdmt.com
 sadsabz.com
@@ -13284,7 +13244,6 @@ sc.adelement.com
 sc.omtrdc.net
 sc.pages03.net
 sc.tynt.com
-sc0mvn.com
 scambiobanner.aruba.it
 scammereating.com
 scan.adxxx.com
@@ -13649,7 +13608,6 @@ shakesuggestion.com
 shakytaste.com
 shallowsmile.com
 shapez.gameads.io
-share-apple.com
 share.asianmedia.com
 share.yandex.ru
 shareadspace.com
@@ -13718,7 +13676,6 @@ simplesharebuttons.com
 simpletexting.com
 simplewebanalysis.com
 simpli.fi
-simpliftsbefore.info
 simplycast.com
 simsite.outbrain.com
 sin.creativecdn.com
@@ -13835,7 +13792,6 @@ smidva.yadro.ru
 smileoffennec.com
 smilewanted.com
 smilingwaves.com
-smilitygorb.club
 smoke.gaug.es
 smoochsodso.com
 smopy.com
@@ -14100,6 +14056,7 @@ sspi-web-bidder.adpopcorn.com
 sspi-web-request.adpopcorn.com
 sspi.adpopcorn.com
 ssptrk.adpopcorn.com
+ssqyuvavse.com
 sstatic1.histats.com
 sstats.adobe.com
 ssum-sec.casalemedia.com
@@ -14691,7 +14648,6 @@ suppliedhopelesspredestination.com
 supply-tool.inmobi.cn
 supply.advangelists.com
 supply.xapads.com
-support-maps.live
 support-widget.nakanohito.jp
 support.a8.net
 support.tenten.vn
@@ -14725,7 +14681,6 @@ svc.analytics.adkernel.com
 svibeacon.onezapp.com
 sviter2s1olenyami1.com
 sw.wpu.sh
-sw88.espn.com
 sw88.go.com
 swa.and.co.uk
 swan-swan-goose.com
@@ -15003,7 +14958,6 @@ talent.sharethis.com
 talentedsteel.com
 tam.outbrain.com
 tamgrt.com
-tammenaa.com
 tams.outbrain.com
 tangerine.nexage.com
 tangerinenet.biz
@@ -15054,7 +15008,6 @@ taxel.jp
 tb.baimgfroggd.site
 tb.itmedia.co.jp
 tblog-8sodn459.kgslb.com
-tc-clicks.com
 tcads.net
 tcheck.outbrainimg.com
 tcimp.zog.link
@@ -15148,7 +15101,6 @@ thebrighttag.com
 thebugs.ws
 thecounter.com
 thedevband.com
-thegioididong.me
 theirsvendor.com
 themediagrid.com
 themoneytizer.com
@@ -15163,7 +15115,6 @@ thinkablerice.com
 thinknear.com
 thinkupfront.com
 thinnerconcha.com
-thirdptop.com
 thirdrespect.com
 thirstytwig.com
 thongedoptions.com
@@ -15183,7 +15134,6 @@ thrnt.com
 throattrees.com
 thrtle.com
 thruport.com
-thseaeing.fun
 thterras.com
 thumb.dable.io
 thumbnails.infolinks.com
@@ -15579,7 +15529,6 @@ tradeadexchange.com
 tradedoubler.com
 trademob.com
 tradplusad.com
-traffic-c.com
 traffic-exchange.com
 traffic-serv.winadx.com
 traffic.ad4game.com
@@ -15649,7 +15598,6 @@ trenddigital.vn
 trendmd.com
 trends.mobile.sina.cn
 trends.revcontent.com
-trffcdmn.com
 trhunt.com
 tribalfusion.com
 tribedone.org
@@ -15719,6 +15667,7 @@ tubemogul-sync.dotomi.com
 tubemogul.com
 tuiguang.meitu.com
 tuisong.baidu.com
+tuleceti.com
 tulecheja.pro
 tunnl.com
 turbo.adsbynimbus.com
@@ -15804,7 +15753,6 @@ ubmcmm.baidustatic.com
 ubuyanalytics.ubuy.com
 uc.ucweb.com
 ucads.ucweb.com
-ucesreferre.club
 ucfunnel.com
 uciservice.com
 ucloud.lsosad.com
@@ -16350,9 +16298,7 @@ vieon-tracking.vieon.vn
 vietad.vn
 vietbuzzad.com
 vietdorje.com
-vietnammoi.biz
 vietnamnetad.vn
-view-apple.com
 view-prod.ad.singular.net
 view.adjust.com
 view.adsmanager.ga
@@ -16437,8 +16383,6 @@ vogueoatgap.com
 voicefive.com
 voicevegetable.com
 vokut.xml.ak-is2.net
-vongquay-pubgmobilevn-zing.com
-vongquaymienphi.net
 voodoo-ads.io
 voodoo-analytics.io
 voradu.com
@@ -17142,7 +17086,6 @@ www.find-my-great-life.com
 www.firstimpression.io
 www.flashtalking.com
 www.flurry.com
-www.fmiphone-apple.com
 www.fouanalytics.com
 www.fqtag.com
 www.freeskreen.com
@@ -17249,7 +17192,6 @@ www.ligatus.com
 www.lightboxcdn.com
 www.lijit.com
 www.linkshare.com
-www.live-icloud.com
 www.lkqd.net
 www.localytics.com
 www.logitxaequk.com
@@ -17525,10 +17467,8 @@ www.vidoomy.com
 www.vidsrev.com
 www.vietbuzzad.com
 www.vietdorje.com
-www.view-apple.com
 www.vliplatform.com
 www.voicefive.com
-www.vongquaymienphi.net
 www.voodoo-analytics.io
 www.vungle.com
 www.w3counter.com
@@ -17872,7 +17812,6 @@ zeus.ad.xiaomi.com
 zeusadx.xml.ak-is2.net
 zeusclicks.com
 zeustechnology.com
-zhangtom1989.cn
 zhej78i1an8w6ceu.com
 zhihu-analytics.zhihu.com
 zhiziyun.com
