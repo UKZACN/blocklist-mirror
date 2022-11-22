@@ -45,6 +45,7 @@ ad.leadboltapps.net
 ad.leap.app
 ad.madvertise.de
 ad.mail.ru
+ad.mobiuspace.net
 ad.myinstashot.com
 ad.nvdvr.cn
 ad.ohmyad.co
@@ -255,6 +256,7 @@ andomedia.com
 aniview.com
 ap.smardroid.com
 api-a.op-mobile.opera.com
+api-ad-callback.mobiuspace.net
 api.ad-locus.com
 api.adnet.mob.com
 api.ads.newsdigest.jp
@@ -348,6 +350,7 @@ bizographics.com
 black6adv.com
 blog-sokuhou.com
 blogads.com
+blueduckredapple.com
 boostads.net
 brainient.com
 brealtime.com
@@ -393,6 +396,7 @@ cdn.batmobi.net
 cdn.cpiera.com
 cdn.hdat.xyz
 cdn.jampp.com
+cdn.mobilefuse.com
 cdn.unityads.unity3d.com
 cdn.xiao7cdn.com
 cdn2.auditude.com
@@ -545,6 +549,7 @@ h12-media.com
 h5.wannaplay.cn
 ha-api.pushwoosh.com
 hasmobi.net
+hb.rayjump.com
 heyzap.com
 himediads.com
 hnl.ijgocb.cn
@@ -949,6 +954,7 @@ teads.tv
 telemetryverification.net
 teracreative.com
 terraclicks.com
+thecatmachine.com
 theship.club
 thetrafficstat.net
 thind-gke-euw.prd.data.corp.unity3d.com
