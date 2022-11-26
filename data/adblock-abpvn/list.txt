@@ -201,6 +201,7 @@ aaddzz.com
 aag.yahooapis.jp
 aamt.nbcnews.com
 aan.amazon.com
+aappgaxtvybn.com
 aarth.net
 aas-nv-a.aaxads.com
 aatkit.com
@@ -1543,6 +1544,7 @@ ads.wiezoekje.nl
 ads.wikia.nocookie.net
 ads.wineenthusiast.com
 ads.wwe.biz
+ads.x-cdn.org
 ads.xedoisong.vn
 ads.xemphimso.com
 ads.xhamster.com
@@ -4064,6 +4066,7 @@ boyaidare.club
 bp.specificclick.net
 bpath.com
 bqstreamer.com
+bquildna43.site
 br.x.cnt.my
 br2.x.cnt.my
 br3azil334nutsz.com
@@ -4462,6 +4465,7 @@ cdn-cloudfront.petametrics.com
 cdn-cn.brand-display.com
 cdn-config.taplytics.com
 cdn-d.amazon-adsystem.com
+cdn-embed.wiinvent.tv
 cdn-eu-vid1.statserv.net
 cdn-eu.dynamicyield.com
 cdn-f.adsmoloco.com
@@ -7478,6 +7482,7 @@ gameads-admin.applifier.com
 gameads.io
 gameanalytics.com
 games.cityads.com
+games.wiinvent.tv
 gamesrevenue.com
 gamma.cachefly.net
 gammadsp.com
@@ -8956,6 +8961,7 @@ jp.marketolive.com
 jp1-bid-ga.adsrvr.org
 jp1-bid.adsrvr.org
 jpjmpqaupc.com
+jpovulldaghw.com
 jprtb.c.appier.net
 jpush.cn
 jpush.io
@@ -10916,6 +10922,7 @@ oncustomer.asia
 one.adop.cc
 oneandonlynetwork.com
 onedmp.com
+oneegrou.net
 oneid.mmstat.com
 onelink.appsflyer.com
 onenetworkdirect.com
@@ -11716,6 +11723,7 @@ pmfstream.appnexus.com
 pmp-beacon.apx.appier.net
 pmp.adiiix.com
 pmyspace.chartbeat.net
+pn.bquildna43.site
 pn.netcoresmartech.com
 pncloudfl.com
 pnrules.netcoresmartech.com
@@ -13631,6 +13639,7 @@ sharethrough.com
 sharks.vn
 sharppatch.com
 sharpsharkteeth.com
+shauptab.net
 shermore.info
 shinystat.com
 shinystat.it
@@ -14395,6 +14404,7 @@ static.yomedia.vn
 static.younetmedia.com
 static.zergnet.com
 static01.atdnetwork.com
+static1.wiinvent.tv
 static2-src.adxxx.com
 static2.adflex.vn
 static2.adtimaserver.vn
