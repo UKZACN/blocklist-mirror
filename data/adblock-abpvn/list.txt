@@ -1274,6 +1274,7 @@ ads.forbes.net
 ads.fortunecity.com
 ads.fotosidan.se
 ads.foxnetworks.com
+ads.fpt.vn
 ads.fptplay.net.vn
 ads.freeskreen.com
 ads.friendfinder.com
@@ -1589,6 +1590,7 @@ ads5-noneu.truecaller.com
 ads5.truecaller.com
 ads5.virtual-nights.com
 ads8.com
+ads8.fpt.vn
 adsafeprotected.com
 adsafety.net
 adsage.cn
@@ -2728,6 +2730,7 @@ api-iqzone.advangelists.com
 api-js.mixpanel.com
 api-ldp.novaonx.com
 api-log-analytics.cloud.toast.com
+api-logdev.sohatv.vn
 api-player.urekamedia.com
 api-public.addthis.com
 api-rewarded-video.fyber.com
@@ -2864,6 +2867,7 @@ api.localytics.com
 api.logrocket.com
 api.luckyorange.com
 api.market.pubnative.net
+api.mbrx.app
 api.mediaforge.com
 api.mediarithmics.com
 api.mgid.com
@@ -5940,6 +5944,7 @@ damdoor.com
 damoh.spiegel.de
 danarimedia.xml.ak-is2.net
 danban.com
+danbo.org
 dancemistake.com
 dap.digitalgov.gov
 dapper.net
@@ -9547,6 +9552,7 @@ logql.yahoo.co.jp
 logrocket.com
 logrocket.io
 logru.vietnamplus.vn
+logs-ott.fbox.fpt.vn
 logs.amap.com
 logs.bilsyndication.com
 logs.browser-intake-datadoghq.com
@@ -13836,6 +13842,7 @@ spitzerpfunde.com
 spixel.adsafeprotected.com
 spl.zeotap.com
 splitroute.adserver.yahoo.com
+sponsor.imacdn.com
 sponsorads.de
 sponsorpay.com
 sponsorpro.de
