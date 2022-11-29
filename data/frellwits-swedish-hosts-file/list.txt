@@ -448,6 +448,7 @@ gameanalytics.com
 gase.hit.gemius.pl
 gcdn.2mdn.net
 get.optad360.io
+get.s-onetag.com
 go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
@@ -653,6 +654,7 @@ prd-collector-platform.ex.co
 prg.smartadserver.com
 proxyas.com
 pubads.g.doubleclick.net
+public.servenobid.com
 publish-int.se
 publish.ne.cision.com
 publishing.kaloo.ga
@@ -824,6 +826,7 @@ strossle.com
 survey.interquest.com
 survey.webstatus.v2.userneeds.dk
 svt.d3.sc.omtrdc.net
+sync.go.sonobi.com
 sync.richaudience.com
 synchrobox.adswizz.com
 t.contentinsights.com
