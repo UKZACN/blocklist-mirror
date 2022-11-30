@@ -7293,6 +7293,8 @@ fqtag.com
 fr.districtm.ca
 fr.indexexchange.com
 fr.marketo.com
+fra-01.braze.eu
+fra-02.braze.eu
 frailoffer.com
 frame.deployads.com
 frameworkdeserve.com
@@ -13234,6 +13236,8 @@ sdk.appnext.com
 sdk.appsflyer.com
 sdk.apptentive.com
 sdk.e.qq.com
+sdk.fra-01.braze.eu
+sdk.fra-02.braze.eu
 sdk.hansel.io
 sdk.heyzap.com
 sdk.iad-01.braze.com
