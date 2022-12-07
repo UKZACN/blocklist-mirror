@@ -369,6 +369,7 @@ drs2.veinteractive.com
 ds-aksb-a.akamaihd.net
 dspk.kindredplc.com
 dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
+e.viously.com
 e1.emediate.se
 e2.emediate.se
 e3.emediate.se
@@ -503,6 +504,7 @@ js.hs-analytics.net
 js.hs-banner.com
 js.hsadspixel.net
 js.hsleadflows.net
+js.interestmoments.com
 js.pafpartners.com
 jsc.adskeeper.co.uk
 jsc.adskeeper.com
@@ -670,6 +672,7 @@ rabattkoder.ifragasatt.se
 rabble-res.cloudinary.com
 reauthenticator.com
 recirculation.spot.im
+record.findtrustclicks.com
 redistats.com
 regstat.se
 reklam.6x.se
