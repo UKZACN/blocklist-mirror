@@ -309,6 +309,9 @@ code3.adtlgc.com
 collect-metrics.aquro.com
 collect.breakit.se
 collect.tealiumiq.com
+collector-pxrf8vapwa.px-cdn.net
+collector-pxrf8vapwa.px-cloud.net
+collector-pxrf8vapwa.pxchk.net
 collector.brandmetrics.com
 collector.cint.com
 collector.houston-analytics.com
