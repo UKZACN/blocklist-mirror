@@ -411,6 +411,7 @@ ediads.com
 elasticad.net
 embed.bannerboo.com
 embi-media.com
+emea.hhkld.com
 emea.viadata.store
 engine.widespace.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
@@ -565,6 +566,7 @@ masture.mobi
 match.adsby.bidtheatre.com
 matomo-sysutv.goteborg.se
 matomo.chsc.dk
+matomo.goteborgco.se
 matomo.lulea.se
 matomo.mindbite.cloud
 matomo.studio.se
