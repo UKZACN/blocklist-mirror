@@ -2136,6 +2136,7 @@ aeventlog.beacon.qq.com
 aevents.izooto.com
 af-ad.co.uk
 af-web.advertica-cdn.com
+afcnuchxgo.com
 afd.baidu.com
 afd.l.google.com
 afe.specificclick.net
@@ -4250,6 +4251,7 @@ c.r10.mopub.com
 c.riskified.com
 c.scorecardresearch.com
 c.siteswithcontent.com
+c.srvpcn.com
 c.statcounter.com
 c.steelhousemedia.com
 c.themoneytizer.com
@@ -7384,6 +7386,7 @@ fwvc.adsafeprotected.com
 fxclix.com
 fxstyle.net
 fyber.com
+fygocqpmcsnix.com
 fz.letv.com
 g-pixel.invitemedia.com
 g.163.com
@@ -9134,6 +9137,7 @@ ktkjmp.com
 kts.vasstycom.com
 kts.visitstats.com
 ktu.sv2.biz
+ktwnjefd.com
 ku2d3a7pa8mdi.com
 kuasa-api.tenmax.io
 kuasa.pvmax.net
@@ -10277,6 +10281,7 @@ mocean.mobi
 moceanmobile.com
 mock-bapi.userreport.com
 mockapi.bfmio.com
+modern-passenger.pro
 modestsunf.com
 modifyeyes.com
 modoro360.com
@@ -11276,6 +11281,7 @@ pasta.sd.duapps.com
 pasta.sl.duapps.com
 pasta.tk.duapps.com
 pasta.whosthat.duapps.com
+patrondescendantprecursor.com
 pauewr4cw2xs5q.com
 pay-ads.com
 pay-click.ru
@@ -11326,6 +11332,7 @@ pcl.exponential.com
 pclick.yahoo.com
 pclk.name
 pcmclk.com
+pcsh-cpm.site
 pcteast.com
 pd.alcmpn.com
 pd.sharethis.com
@@ -11517,6 +11524,7 @@ pixel.everesttech.net
 pixel.exelator.com
 pixel.facebook.com
 pixel.gliacloud.com
+pixel.homeapp.team
 pixel.inforsea.com
 pixel.invitemedia.com
 pixel.kargo.com
@@ -11952,6 +11960,7 @@ ps.innity.com
 ps.popcash.net
 ps7894.com
 psa.appnexus.com
+psaltauw.net
 psankei.chartbeat.net
 pseekree.com
 psma02.com
@@ -12065,6 +12074,7 @@ pulsefintech.xs.ak-is2.net
 pulsepoint-match.dotomi.com
 puma-api.iqiyi.com
 puma.api.iqiyi.com
+pumpaiss.net
 punchbowl.alcmpn.com
 purch-match.dotomi.com
 purch-sync.go.sonobi.com
@@ -12198,6 +12208,7 @@ qctop.com
 qctt24h.24h.com.vn
 qcv5.blogtruyen.vn
 qcx.quantserve.com
+qdfxeqhnjuknyy.com
 qds0l.publishers.tremorhub.com
 qip.yadro.ru
 qlcdnvkgi.com
@@ -12722,6 +12733,7 @@ rotaban.ru
 rotabanner.com
 rotabol.com
 rotator.staging.runative.com
+rotondahogs.com
 rotumal.com
 roughroll.com
 router.infolinks.com
@@ -13175,6 +13187,7 @@ scdn.cxense.com
 scdn.eclick.vn
 schemas.adflex.vn
 schemas.ants.vn
+schoolboyfingernail.com
 scientiamobile.com
 scintillatingscissors.com
 scintillatingspace.com
@@ -13766,6 +13779,7 @@ soft-com.biz
 softclick.com.br
 soidc.com
 sojern.com
+solemik.com
 soliads.net
 solitudepeeves.com
 solution.urekamedia.com
@@ -17511,6 +17525,7 @@ xtremetop100.com
 xvdifvuro.com
 xvlcbwlgpy.com
 xx.c.appier.net
+xxmaqoupnd.com
 xxssyndic.com
 xxxcounter.com
 xxxjmp.com
