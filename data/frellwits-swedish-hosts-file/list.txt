@@ -422,6 +422,7 @@ eu2.madsone.com
 europe-west1-bonnier-big-data.cloudfunctions.net
 eus.rubiconproject.com
 events-collector.spot.im
+evtr.nordiskemedier.dk
 exitintel.com
 expo.ads.ramsalt.com
 extern.prisjakt.nu
