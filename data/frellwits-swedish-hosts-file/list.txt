@@ -500,7 +500,6 @@ inviso.rampanel.com
 invite.leanlab.co
 inxy.run
 ion.btcswe.com
-ipinfo.io
 ipmeta.io
 izooto.com
 js-agent.newrelic.com
@@ -649,6 +648,7 @@ pixel-sync.sitescout.com
 pixel.adsafeprotected.com
 pixel.carambo.la
 pixel.glimr.io
+pixel.ipinfo.io
 pixel.mathtag.com
 pixel.quantserve.com
 pixel.watch
@@ -812,6 +812,7 @@ static.step.dk
 static.zotabox.com
 statistics-se.talentum.com
 statistics.heltenkelt.se
+statistik.blogg1.se
 statistik.mxo.se
 statistik.svenskaakademien.se
 stats.blogg.se
@@ -920,6 +921,7 @@ vitals.vercel-insights.com
 w.sharethis.com
 w.usabilla.com
 wct-1.com
+wct-2.com
 wdg.headerlift.com
 web-analytics.ica.se
 webbannons.ntm.eu
