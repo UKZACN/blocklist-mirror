@@ -425,6 +425,7 @@ events-collector.spot.im
 evtr.nordiskemedier.dk
 exitintel.com
 expo.ads.ramsalt.com
+ext.track.tappx.com
 extern.prisjakt.nu
 external.reseguiden.se
 ezodn.com
