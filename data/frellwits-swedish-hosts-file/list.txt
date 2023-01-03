@@ -733,6 +733,7 @@ sb.scorecardresearch.com
 sbs.deliveryengine.adswizz.com
 sc.lfeeder.com
 scdn.cxense.com
+schibsted-cdn.relevant-digital.com
 science.omni.se
 script.crazyegg.com
 script.e-space.se
@@ -862,6 +863,7 @@ tags.expo9.exponential.com
 tags.refinery89.com
 tags.smilewanted.com
 tags.webtraffic.se
+tapet.bonniernews.se
 tb.de17a.com
 tcd.tourn.se
 telemetric.dk
@@ -887,6 +889,7 @@ tracker.gamedock.io
 tracker.zummycloud.com
 tracking.adviralmedia.com
 tracking.bonnier.news
+tracking.ditv.di.se
 tracking.eurosport.com
 tracking.inboxads.com
 tracking.missaffiliate.com
