@@ -2026,9 +2026,11 @@ advisormedia.cz
 adviva.com
 adviva.net
 advividnetwork.com
+advm.brznetwork.com
 advmanager.techfun.pl
 advnt.com
 advolution.de
+advs.brznetwork.com
 advserver.cgv.vn
 advzone.ioe.vn
 adwad.ru
@@ -2855,6 +2857,7 @@ api.flurry.com
 api.flygame.io
 api.forshrd.com
 api.fouanalytics.com
+api.fpjs.io
 api.fuseplatform.net
 api.fyber.com
 api.gameads.io
@@ -3180,6 +3183,8 @@ appular.com
 appvast.adsafeprotected.com
 apr.lijit.com
 aps.hearstnp.com
+aps1.fptls.com
+aps1.fptls2.com
 apsoutheast-match.deepintent.com
 apture.com
 apusx.com
@@ -4108,6 +4113,7 @@ browser-intake-datadoghq.com
 browser-update.org
 browser.events.data.msn.com
 browsiprod.com
+brznetwork.com
 bs.ad-stir.com
 bs.nakanohito.jp
 bs.serving-sys.com
@@ -5040,9 +5046,6 @@ cj.com
 cj.dotomi.com
 cjbmanagement.com
 cjlog.com
-cjm.mytv.vn
-cjm.vnptmedia.vn
-cjmgw.vnptmedia.vn
 cjs.ptengine.com
 cjt1.net
 cjt3w2kxrv.com
@@ -5968,6 +5971,7 @@ daincautela.com
 daisycontroversy.com
 dakic-ia-300.com
 daleriki.com
+damaged-shop.pro
 damdoor.com
 damoh.spiegel.de
 danarimedia.xml.ak-is2.net
@@ -6927,6 +6931,8 @@ euasync01.admantx.com
 euclid.kuula.co
 euintraspec.specificmedia.com
 eulerian.com
+eun1.fptls.com
+eun1.fptls2.com
 eur-ukp.adsrvr.org
 eurekster.com
 euro.klick.vn
@@ -7327,6 +7333,10 @@ fp.advertising.microsoft.com
 fp.measure.office.com
 fp.metricswpsh.com
 fp.studio.inmobicdn.net
+fpjs.io
+fpnpmcdn.net
+fptls.com
+fptls2.com
 fqtag.com
 fr.districtm.ca
 fr.indexexchange.com
@@ -8756,14 +8766,6 @@ ip.mondiad.net
 ip4.tracker-api.my.com
 ipa.pushwoosh.com
 ipac.ctnsnet.com
-ipcc-vnp1.vnptmedia.vn
-ipcc.mytv.com.vn
-ipcc.shop.vnpt.vn
-ipcc.vinaphone.com.vn
-ipcc.vinaphoneplus.com.vn
-ipcc.vnpt.com.vn
-ipcc.vnptmedia.vn
-ipccegov.vnptmedia.vn
 ipds.adm.admixer.com
 ipe.ivitrack.com
 iperceptions.com
@@ -14689,6 +14691,7 @@ swordfishdc.com
 swordgoose.com
 sworkitads.herokuapp.com
 swpsvc.com
+swrggntsvmsgv.com
 swrve.com
 sya9yncn3q.com
 syenitetatler.tech
@@ -15956,6 +15959,8 @@ usapromotravel.com
 usasync01.admantx.com
 usc.adserver.snapads.com
 use-tor.adsrvr.org
+use1.fptls.com
+use1.fptls2.com
 useast-beacon.deepintent.com
 useast.bfmio.com
 useast.quantumdex.io
@@ -16340,6 +16345,7 @@ vlogerads.com
 vlogoflife.com
 vlxx.host
 vm5apis.com
+vmcxdaynkhnekp.com
 vmm-pixel.invitemedia.com
 vmmpxl.com
 vmweb.net
@@ -17715,6 +17721,7 @@ yumenetworks.com
 yumkelis.com
 yummy.consumable.com
 yummy2.consumable.com
+yxpmtdzlsv.com
 z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com
