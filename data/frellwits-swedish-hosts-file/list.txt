@@ -807,8 +807,6 @@ static.digidip.net
 static.getclicky.com
 static.hotjar.com
 static.matchads.net
-static.rek.ai
-static.rekai.se
 static.stat.truthlyanalytics.com
 static.step.dk
 static.zotabox.com
@@ -824,6 +822,7 @@ stats.datawrapper.de
 stats.docu.info
 stats.g.doubleclick.net
 stats.healthcare.se
+stats.helsingborg.se
 stats.jibber.social
 stats.kaltura.com
 stats.poddtoppen.se
