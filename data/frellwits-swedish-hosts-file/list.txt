@@ -178,6 +178,7 @@ autoleasedi.bytelab.dk
 ax.idg.se
 azalead.com
 b-code.liadm.com
+b.ns1p.net
 b1.trickyrock.com
 b2btagmgr.azalead.com
 back.revrelations.com
@@ -364,6 +365,7 @@ dmp.adform.net
 dmp.theadex.com
 docker.creative-serving.com
 doktor-se.onelink.me
+doppler-beacons.cbsivideo.com
 double.net
 double.se
 dpm.demdex.net
