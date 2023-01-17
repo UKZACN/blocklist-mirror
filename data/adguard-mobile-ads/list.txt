@@ -576,6 +576,7 @@ iad.appboy.com
 iadsdk.apple.com
 iam.datasavannah.com
 id1.cn
+im.ov.yahoo.co.jp
 imasdk.googleapis.com
 imgx.jampp.com
 imrworldwide.com
