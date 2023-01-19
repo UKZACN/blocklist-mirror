@@ -217,6 +217,7 @@ c.adsco.re
 c.cintnetworks.com
 c.eacla.com
 c.flx1.com
+c1.adform.net
 cache6.riedta.com
 cameraeushop.com
 capi.connatix.com
@@ -305,6 +306,7 @@ clevernt.com
 click.vgnett.no
 clickdimensions.com
 clientcdn.pushengage.com
+cm.g.doubleclick.net
 cmp.network-n.com
 code3.adtlgc.com
 collect-metrics.aquro.com
@@ -568,6 +570,7 @@ markhor.organicfruitapps.com
 marlin.kumo.at
 masture.mobi
 match.adsby.bidtheatre.com
+match.adsrvr.org
 matomo-sysutv.goteborg.se
 matomo.chsc.dk
 matomo.goteborgco.se
@@ -749,7 +752,6 @@ sdk.pulse.schibsted.com
 se-02.adtomafusion.com
 se-ads-microservice.ads.allermedia.io
 se-ads-microservice.aws.aller.com
-se-tv4.videoplaza.tv
 se.ads.justpremium.com
 se1.siteimprove.com
 se5.pliing.com
