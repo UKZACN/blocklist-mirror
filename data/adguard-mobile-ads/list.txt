@@ -468,6 +468,7 @@ deloton.com
 dev.appboy.com
 dispatcher.mng-ads.com
 disqusads.com
+dm.isnssdk.com
 dm.toutiao.com
 dotomi.com
 dpstack.com
@@ -547,6 +548,7 @@ gwallet.com
 gwrtdp-tn690bfadt.tclclouds.com
 gynax.com
 h12-media.com
+h5.isnssdk.com
 h5.wannaplay.cn
 ha-api.pushwoosh.com
 hasmobi.net
@@ -558,6 +560,7 @@ hnr.wwxhba.xyz
 holder.com.ua
 hormebets.info
 hostgrater.com
+hotapi-va.isnssdk.com
 houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
 hqsjc.com
@@ -568,15 +571,19 @@ hybrid.ai
 hyperadx.com
 i-mobile.co.jp
 i-vengo.com
+i.isnssdk.com
 i.singular.net
 i.skimresources.com
+i16-tb.isnssdk.com
 i2.myapkcdn.in
 i2ad.jp
 iad.appboy.com
 iadsdk.apple.com
 iam.datasavannah.com
+ichannel.isnssdk.com
 id1.cn
 im.ov.yahoo.co.jp
+imapi-sg.isnssdk.com
 imasdk.googleapis.com
 imgx.jampp.com
 imrworldwide.com
@@ -599,7 +606,6 @@ intermarkets.net
 intowow.com
 investingchannel.com
 iqzone.com
-isnssdk.com
 iyes.youku.com
 javacript.gq
 jfduv7.com
@@ -742,6 +748,7 @@ mythings.com
 n152adserv.com
 n4403ad.doubleclick.net
 nanigans.com
+nasimobi.com
 native.cli.bz
 nativead.s3.amazonaws.com
 nativex.com
@@ -779,6 +786,7 @@ onclickads.net
 onedrive.su
 online-prod.zenmxapps.com
 onlineapi.youappi.com
+open.isnssdk.com
 opt8.co
 optimatic.com
 os.scmpacdn.com
@@ -792,6 +800,7 @@ pagead46.l.doubleclick.net
 pagefair.net
 painsko.com
 pangle.io
+pangolin16.isnssdk.com
 partnerad.l.doubleclick.net
 partnerearning.com
 pasta.esfile.duapps.com
@@ -924,6 +933,9 @@ sspapi-prd.samsungrs.com
 ssphwy.com
 startappexchange.com
 startappservice.com
+startup-mobile.ap.yandex-net.ru
+startup.mobile.webvisor.com
+startup.mobile.yandex.net
 stat.kika-backend.com
 static.doubleclick.net
 static.hyprmx.com
@@ -973,6 +985,8 @@ tkmftc.aotter.net
 tkportal.aotter.net
 tm1.hoiplay.com
 tmz.vo.llnwd.net
+tnc16-alisg.isnssdk.com
+tnc16-useast1a.isnssdk.com
 tnkfactory.com
 tonefuse.com
 tongqing2015.com
@@ -1034,6 +1048,7 @@ waiads.com
 wap-click.com
 wapstart.ru
 wbn.su
+wd.adcolony.xyz
 wdig.vo.llnwd.net
 weboohost.com
 webview.unityads.unity3d.com
