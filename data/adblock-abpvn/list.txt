@@ -1538,6 +1538,7 @@ ads.vntsm.com
 ads.vnumedia.com
 ads.vovlive.vn
 ads.vserv.mobi
+ads.vtc.vn
 ads.w55c.net
 ads.wapx.cn
 ads.watson.ch
@@ -6235,6 +6236,7 @@ delivery.trafficforce.com
 delivery.trafficjunky.net
 delivery.vtc.vn
 delivery.vtcnew.com.vn
+delivery.vtcnews.vn
 delivery.yomedia.vn
 delivery03.ad4game.com
 delivery04.ad4game.com
@@ -12196,6 +12198,7 @@ public.servenobid.com
 public.wedodemos.com
 publicidad.elmundo.es
 publicidees.com
+publicunloadbags.com
 publift.com
 publisher-api.spotxchange.com
 publisher-assets.spot.im
@@ -15159,6 +15162,7 @@ teasimilarman.com
 tebadu.com
 tebrand.asia
 tebrand.vn
+tech.zapps.me
 techblog.gumgum.com
 techclicks.net
 techlab-cdn.com
@@ -15632,6 +15636,7 @@ tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vietnamnetad.vn
 tracking.vnncdn.net
+tracking.vtc.vn
 tracking.vtcnew.com.vn
 tracking.winadx.com
 tracking.xapads.com
