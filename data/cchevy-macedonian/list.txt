@@ -13,6 +13,7 @@ ads.1cm.com.mk
 ads.24rakomet.mk
 ads.360stepeni.mk
 ads.365.mk
+ads.avtoplus.mk
 ads.com.mk
 ads.crnobelo.mk
 ads.deca.mk
@@ -60,6 +61,7 @@ ads.tv21.tv
 ads.vionservices.com
 ads.vrabotuvanje.com.mk
 adsdms.mk
+adserver.mia.mk
 adserver.mk
 adserver.neotel.mk
 adserver.piksel.mk
