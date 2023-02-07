@@ -256,6 +256,7 @@ andomedia.com
 aniview.com
 ap.smardroid.com
 api-a.op-mobile.opera.com
+api-ad-adapter.wps.com
 api-ad-callback.mobiuspace.net
 api.ad-locus.com
 api.adnet.mob.com
@@ -877,7 +878,6 @@ rtb.kds.media
 rtb.nexage.com
 rtb.platform.glispa.com
 rtbpop.com
-rubiconproject.com
 s-adx.op-mobile.opera.com
 s.adx.opera.com
 s3.ttpsdk.info
