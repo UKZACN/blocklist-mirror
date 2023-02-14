@@ -950,6 +950,7 @@ tracking.soderhamnskuriren.se
 tracking.sodran.se
 tracking.st.nu
 tracking.sydsvenskan.se
+tracking.tailsweep.expressen.se
 tracking.tidningenangermanland.se
 tracking.tidningenharjedalen.se
 tracking.tranastidning.se
