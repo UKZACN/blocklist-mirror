@@ -407,6 +407,7 @@ ads.eu.criteo.com
 ads.genieessp.com
 ads.imbc.com
 ads.jp2.vip.prod.criteo.com
+ads.nl3.vip.prod.criteo.com
 ads.par.vip.prod.criteo.com
 ads.sg1.vip.prod.criteo.com
 ads.spacenine.biz
@@ -923,6 +924,7 @@ cas.criteo.com
 cas.da1.vip.prod.criteo.com
 cas.eu.criteo.com
 cas.jp2.vip.prod.criteo.com
+cas.nl3.vip.prod.criteo.com
 cas.par.vip.prod.criteo.com
 cas.sg1.vip.prod.criteo.com
 cas.us.criteo.com
@@ -938,6 +940,7 @@ cat.fr.eu.criteo.com
 cat.hlserve.com
 cat.jp2.vip.prod.criteo.com
 cat.nl.eu.criteo.com
+cat.nl3.vip.prod.criteo.com
 cat.par.vip.prod.criteo.com
 cat.sg1.vip.prod.criteo.com
 cat.va.us.criteo.com
@@ -954,6 +957,7 @@ cbn.hb.omtrdc.net
 cbs.hb-api.omtrdc.net
 cbsd.am5.vip.prod.criteo.com
 cbsd.da1.vip.prod.criteo.com
+cbsd.nl3.vip.prod.criteo.com
 cbsd.par.vip.prod.criteo.com
 cbsd.va1.vip.prod.criteo.com
 cbsdigitalmedia.hb.omtrdc.net
@@ -3908,6 +3912,7 @@ gum.am5.vip.prod.criteo.com
 gum.criteo.com
 gum.da1.vip.prod.criteo.com
 gum.jp2.vip.prod.criteo.com
+gum.nl3.vip.prod.criteo.com
 gum.par.vip.prod.criteo.com
 gum.sg1.vip.prod.criteo.com
 gum.va1.vip.prod.criteo.com
@@ -13430,6 +13435,7 @@ static.criteo.com
 static.criteo.net
 static.da1.vip.prod.criteo.net
 static.jp2.vip.prod.criteo.net
+static.nl3.vip.prod.criteo.net
 static.par.vip.prod.criteo.net
 static.sg1.vip.prod.criteo.net
 static.va1.vip.prod.criteo.net
