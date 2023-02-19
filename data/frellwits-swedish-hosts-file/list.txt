@@ -1,3 +1,4 @@
+100001749.collect.igodigital.com
 1221d63988a216e58e8ee4e8bb38598031fdba93e0.nuid.imrworldwide.com
 197654070b0e4b05add9b2994aea3887.js.ubembed.com
 1terms.com
@@ -96,6 +97,7 @@ ads.vidoomy.com
 ads.viralize.tv
 adsby.bidtheatre.com
 adserver.adtech.de
+adserver.ddev.site
 adserver.infotorg.se
 adserver.so-rummet.se
 adservice.google.se
@@ -314,6 +316,7 @@ cmp.network-n.com
 code3.adtlgc.com
 collect-metrics.aquro.com
 collect.breakit.se
+collect.igodigital.com
 collect.tealiumiq.com
 collector-pxrf8vapwa.px-cdn.net
 collector-pxrf8vapwa.px-cloud.net
