@@ -889,6 +889,7 @@ sdk-api-v1.singular.net
 sdk.adtiming.com
 sdk.native123.com
 sdk.starbolt.io
+sdkv2.imaginationunwired.com
 search.adcaffe.com
 sekindo.com
 sensors.larkplayerapp.com
