@@ -1374,6 +1374,7 @@ ads.livenation.com
 ads.livetv314.me
 ads.livetv623.me
 ads.livetv625.me
+ads.livetv626.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -1893,6 +1894,7 @@ adtima.brand.zing.vn
 adtima.net.vn
 adtima.org
 adtima.vn
+adtimabot.brand.zing.vn
 adtimabox.brand.zing.vn
 adtimaserver.vn
 adtime.ru
@@ -7625,6 +7627,7 @@ garagesewe.com
 gaspra.iad-03.braze.com
 gatekeeper.outbrain.com
 gatetodisplaycontent.com
+gatewayimpossibilitypursue.com
 gaug.es
 gavnogeeygaika.com
 gayadnetwork.com
@@ -7912,6 +7915,7 @@ got.pubnative.net
 gotoip55.com
 gov.aniview.com
 gp.dejanews.com
+gpbifgfjhgezk.com
 gplayer.kmpmedia.net
 gqsufwoasgfmex.com
 grabify.link
@@ -9727,6 +9731,7 @@ log.plo.vn
 log.pv.eclick.vn
 log.pv1.eclick.vn
 log.quora.com
+log.saigondautu.com.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
 log.smoney.vn
@@ -10787,6 +10792,7 @@ navigator.io
 navigator.mediarithmics.com
 navrcholu.cz
 nazarickol.com
+nbbplbiyjhg.com
 nbjmp.com
 nbryb.com
 nc.gdt.qq.com
@@ -11074,6 +11080,7 @@ offers.appnext.com
 offers.propellerads.com
 offerwall.headlines.pw
 offoonguser.com
+offvmuf.com
 ofhappinyer.com
 ofnumeltor.com
 ofsyuxaveckulgf.com
@@ -11086,6 +11093,7 @@ ohchat.net
 ohtctjiuow.com
 oixohmve.com
 ojjzpitr.com
+ojooo.com
 ojqbnqdwycws.com
 ok.appnexus.com
 oktogar.com
@@ -11976,6 +11984,7 @@ popcash.net
 popcashjs.b-cdn.net
 popclck.org
 popin.cc
+popmonetizer.xml.ak-is2.net
 popmyads.com
 popnc.com
 popruexo.com
@@ -12273,6 +12282,9 @@ ptljkekttqf.com
 ptoushoa.com
 ptuglupyli.com
 ptywajofa.pro
+pu1.biz
+pu3.biz
+pu4.biz
 pub-dev.novaonx.com
 pub-sdk-cfg.criteo.com
 pub.a8.net
@@ -12384,6 +12396,8 @@ push.yoads.net
 push2.yoads.net
 pushad.adsparc.com
 pushads.popcash.net
+pushadve.biz
+pushadvert.bid
 pushalert.co
 pushanishe.com
 pushapi.localytics.com
@@ -12391,6 +12405,7 @@ pushazam.com
 pushazer.com
 pushcrew.com
 pushdi.com
+pushdirect.bid
 pushdy.com
 pushdy.vn
 pushengage.com
@@ -15424,6 +15439,7 @@ tip.atdmt.com
 tipcatscarola.com
 tithewtog.com
 tiwhaiph.net
+tjclskcamptg.com
 tjme.io
 tk-sg.anythinktech.com
 tk.anythinktech.com
@@ -15517,6 +15533,7 @@ torrentz.adclixx.net
 torrentz.adnetasia.com
 torrentz.adtrackers.net
 torrentz.bannertrack.net
+total-fee.com
 totemcash.com
 touchads.com
 touchclarity.com
@@ -16978,6 +16995,7 @@ wms-fe.amazon-adsystem.com
 wms-in.amazon-adsystem.com
 wms-na.amazon-adsystem.com
 wms.assoc-amazon.com
+wnkibwzr.com
 wodycaha.com
 womanear.com
 wonderhsjnsd.com
@@ -18075,6 +18093,7 @@ zantracker.com
 zap.buzz
 zarget.com
 zarpop.com
+zayac2volk11.com
 zbwp6ghm.com
 zc.adswizz.com
 zc.biz.weibo.com
