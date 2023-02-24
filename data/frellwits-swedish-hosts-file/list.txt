@@ -822,7 +822,6 @@ static.matchads.net
 static.stat.truthlyanalytics.com
 static.step.dk
 static.zotabox.com
-statistics-se.talentum.com
 statistics.heltenkelt.se
 statistik.blogg1.se
 statistik.mxo.se
