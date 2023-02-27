@@ -299,6 +299,7 @@ cdn.wootric.com
 cdn.yieldwrapper.com
 cdn.zx-adnet.com
 cdn001.milotree.com
+cdn1.profitmetrics.io
 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 ced.sascdn.com
 cintnetworks.com
