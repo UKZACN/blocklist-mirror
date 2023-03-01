@@ -806,6 +806,7 @@ ssl.sifomedia.se
 ssl.survey.webstatus.v2.userneeds.dk
 ssl.webserviceaward.com
 ssp-nj.webtradehub.com
+ssp.api.tappx.com
 st-n.ads1-adnow.com
 stat.modette.se
 stat.nyheter24.se
@@ -837,6 +838,7 @@ stats.healthcare.se
 stats.helsingborg.se
 stats.jibber.social
 stats.kaltura.com
+stats.playoncenter.com
 stats.poddtoppen.se
 stats.tipser.com
 stats.userneeds.com
@@ -979,6 +981,7 @@ unformsy.mobi
 upsales.com
 userneeds.dk
 utt.impactcdn.com
+v.lkqd.net
 veinteractive.com
 vg02.met.vgwort.de
 viagogo.se
