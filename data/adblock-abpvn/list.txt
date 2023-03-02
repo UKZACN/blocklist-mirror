@@ -395,6 +395,7 @@ ad.360in.com
 ad.360yield.com
 ad.980x.com
 ad.a-ads.com
+ad.a.yximgs.com
 ad.a8.net
 ad.abcnews.com
 ad.abctv.com
@@ -867,6 +868,7 @@ adk2x.com
 adkeeper.com
 adkernel.com
 adkontekst.pl
+adkwai.com
 adland.ru
 adlantic.nl
 adlantis.jp
@@ -2421,6 +2423,7 @@ alexajstrack.com
 alexametrics.com
 algistorder.com
 algorix.co
+ali-ad.a.yximgs.com
 ali-stats.jpush.cn
 ali.cityads.com
 aliascagesboxer.com
@@ -9139,6 +9142,7 @@ jr.ads.zalo.me
 jr.ads.zaloapp.com
 jr.stg.ads.zalo.me
 jrs.a4.tl
+js-ad.a.yximgs.com
 js-agent.newrelic.com
 js-eu1.hs-scripts.com
 js-sdk.analytics-data.io
@@ -11423,6 +11427,7 @@ p.webengage.com
 p.yieldlab.net
 p.zetadeo.com
 p03h.hs.eloqua.com
+p1.adkwai.com
 p1.zemanta.com
 p11.techlab-cdn.com
 p117448.clksite.com
@@ -11437,6 +11442,7 @@ p192159.clksite.com
 p193611.clksite.com
 p1cluster.cxense.com
 p2.ad.gt
+p2.adkwai.com
 p2.keywee.co
 p215223.clksite.com
 p216157.clksite.com
@@ -11452,6 +11458,7 @@ p278432.clksite.com
 p282054.clksite.com
 p291922.clksite.com
 p292534.clksite.com
+p3.adkwai.com
 p30839.clksite.com
 p311425.clksite.com
 p33049.clksite.com
@@ -16033,6 +16040,7 @@ twinsoflave.com
 twittad.com
 twokidjay.com
 twyn.com
+tx-ad.a.yximgs.com
 txtimpact.com
 txx.tjme.io
 tygsqtkyiwxb.com
@@ -16443,6 +16451,7 @@ vamaker.com
 vanfireworks.com
 vanjyvsr.com
 vans.adsafeprotected.com
+vantagemarketads.com
 vap.lijit.com
 variablefitness.com
 varietyofdisplayformats.com
@@ -17806,6 +17815,7 @@ www.uyunad.com
 www.v9banners.com
 www.vads.net.vn
 www.vads.vn
+www.vantagemarketads.com
 www.varietyofdisplayformats.com
 www.vdo.ai
 www.velocitycdn.com
