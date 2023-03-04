@@ -846,6 +846,7 @@ stats.wp.com
 stats.wpmucdn.com
 stats2.agilecrm.com
 statsapi.screen9.com
+statsapi.tiendeo.se
 step-dk.gscontxt.net
 sting.de17a.com
 storymedia.se
