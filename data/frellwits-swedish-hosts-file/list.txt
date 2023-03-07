@@ -6,7 +6,6 @@
 4898337.fls.doubleclick.net
 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 6321239.fls.doubleclick.net
-7hd.org
 9bfecbk266b40u4qo1fqkh1mj.litix.io
 a.adroll.com
 a.adtech.de
@@ -62,7 +61,6 @@ adonstudio.com
 adpeepshosted.com
 adrecord.com
 adroll.com
-adrunner.pricerunner.se
 ads.affiliate.legolas.bet
 ads.aland.com
 ads.annonsbladet.com
@@ -224,7 +222,6 @@ c.eacla.com
 c.flx1.com
 c1.adform.net
 cache6.riedta.com
-cameraeushop.com
 capi.connatix.com
 cargodisplayads.com
 carneoam.com
@@ -306,7 +303,6 @@ cintnetworks.com
 cision.com
 cl-eu2.k5a.io
 cl.k5a.io
-claremontspringstreet.com
 classic.avantlink.com
 clevernt.com
 click.vgnett.no
@@ -419,7 +415,6 @@ ecdn.firstimpression.io
 ecsanalytics.com
 edge.atmtd.com
 edge.quantserve.com
-ediads.com
 elasticad.net
 embed.bannerboo.com
 embi-media.com
@@ -510,7 +505,6 @@ interactions.sesamy.com
 investerarbrevet.se
 inviso.rampanel.com
 invite.leanlab.co
-inxy.run
 ion.btcswe.com
 ipmeta.io
 izooto.com
@@ -537,7 +531,6 @@ keymetrics.se
 kiosked.com
 kiwi64.leiki.com
 ksdarprt.reseguiden.se
-kundklubb-se.com
 kyrkoskatten.se
 kyrkskatt.se
 l.betrad.com
@@ -625,8 +618,6 @@ network.ad.nu
 newstats.blogg.se
 nexus.ensighten.com
 nichehuset.dk
-nompakru.click
-nordicfynd.se
 nordishopping.com
 norranstats.azurewebsites.net
 norstatsurveys.com
@@ -688,7 +679,6 @@ pushwhy.com
 pxl.host
 r.existenz.se
 rabattcoop.com
-rabattkoder.ifragasatt.se
 rabble-res.cloudinary.com
 reauthenticator.com
 recirculation.spot.im
@@ -724,7 +714,6 @@ rum-collector-2.pingdom.net
 rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
 rumcdn.geoedge.be
-runmewivel.com
 runtnc.net
 s-eu-1.pushpushgo.com
 s.go-mpulse.net
@@ -889,7 +878,6 @@ tools.tradedoubler.com
 tourn.co
 tourn.se
 tpc.googlesyndication.com
-tpgrn.com
 tr.apsisforms.com
 track.addevent.com
 track.adform.net
@@ -970,7 +958,6 @@ trafficgateway.research-int.se
 trafikstyrelsen.com
 trckr.nordiskemedier.dk
 trckr1.nordiskemedier.dk
-trn.ninja
 trugaze.io
 try.abtasty.com
 tt.onthe.io
@@ -978,7 +965,6 @@ twin-iq.kickfire.com
 u.openx.net
 ubembed.com
 umami.nordiskehandel.cloud
-unformsy.mobi
 upsales.com
 userneeds.dk
 utt.impactcdn.com
@@ -1046,7 +1032,6 @@ www.vizzit.se
 www8.smartadserver.com
 x.bidswitch.net
 yieldbird.com
-yoursecurecheckout1.com
 z.moatads.com
 zn6lkvme45abyczq5-tuigroup.siteintercept.qualtrics.com
 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
