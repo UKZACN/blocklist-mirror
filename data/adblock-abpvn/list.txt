@@ -1400,6 +1400,7 @@ ads.livetv630.me
 ads.livetv632.me
 ads.livetv633.me
 ads.livetv636.me
+ads.livetv637.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -18171,6 +18172,7 @@ yeti-api.automatad.com
 yeti.automatad.com
 yezsfzruvxbqa.com
 yfetyg.com
+yhbngqpiag.com
 yicha.jp
 yield-manager.browsiprod.com
 yield-op-idsync.live.streamtheworld.com
