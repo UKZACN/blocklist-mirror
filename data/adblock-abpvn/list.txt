@@ -1090,6 +1090,7 @@ adresult-sp.jp
 adrevenueindex.optad360.com
 adrevolver.com
 adright.xml-eu.ak-is2.net
+adright.xml-v6.ak-is2.net
 adrino.pl
 adriver.ru
 adriver.yadro.ru
@@ -1401,6 +1402,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv636.me
 ads.livetv637.me
+ads.livetv638.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -2939,6 +2941,7 @@ api.aqua-adserver.com
 api.atdmt.com
 api.ateam-ad.jp
 api.autoads.asia
+api.autopilothq.com
 api.b2c.com
 api.bam-x.com
 api.batch.com
@@ -3157,6 +3160,7 @@ apipublisher.optad360.com
 apis.adbro.me
 apis.appnxt.net
 apiservices.krxd.net
+apiv2.popupsmart.com
 apiv2.tiin.vn
 apiv4.subiz.com
 apk.adflex.vn
@@ -3270,6 +3274,7 @@ applvn.com
 appmetrica.yandex.com
 appmetrica.yandex.net
 appmetrica.yandex.ru
+appmontize.gotrackier.com
 appnext-a.akamaihd.net
 appnext.com
 appnexus-partners.tremorhub.com
@@ -4892,6 +4897,7 @@ cdn.pncloudfl.com
 cdn.polarbyte.com
 cdn.popcash.net
 cdn.popnc.com
+cdn.popupsmart.com
 cdn.postrelease.com
 cdn.proadscdn.com
 cdn.promotionengine.com
@@ -6779,6 +6785,7 @@ dup.baidustatic.com
 durationmedia.net
 duuzseb2b7-jp.cheqzone.com
 dv.adnow.cc
+dvmludkami.com
 dvr.impactify.media
 dx.alcmpn.com
 dx.steelhousemedia.com
@@ -8000,6 +8007,7 @@ gostats.com
 gostats.vn
 got.pubnative.net
 gotoip55.com
+gotrackier.com
 gov.aniview.com
 gp.dejanews.com
 gpbifgfjhgezk.com
@@ -8121,6 +8129,7 @@ ha-api.pushwoosh.com
 ha.pro-market.net
 ha.pushwoosh.com
 hacbfyvvsw.com
+hadabqhbewcrt.com
 hadarone.com
 hadesleta.com
 hadsanz.com
@@ -10192,6 +10201,7 @@ masasaudi.com
 mask.pubnative.info
 massive-dark.pro
 master.statistics.aatkit.com
+masteraffiliates.gotrackier.com
 mastermind.com
 mat.cryptox-ads.io
 mat.luckyspin666.com
@@ -10832,6 +10842,7 @@ myaffiliateprogram.com
 myaffiliates.com
 mybbc-analytics.files.bbci.co.uk
 mybestmv.com
+mybettermb.com
 mybloglog.com
 mybuys.com
 mycdn.media.net
@@ -11359,6 +11370,7 @@ optad360.io
 optaim.com
 optchk.ayads.co
 optimallimit.com
+optimidea.gotrackier.com
 optimix.asia
 optimize-stats.voxmedia.com
 optimize.adpushup.com
@@ -12142,6 +12154,7 @@ popsoffer.com
 popub.com
 popunder.ru
 popup.msn.com
+popup.popupsmart.com
 popup.sapoapps.vn
 popup.taboola.com
 popupblockergold.com
@@ -12634,6 +12647,7 @@ pxrt.adsfactor.net
 pxs.atomex.net
 pymx5.com
 pyrrh-xbf.com
+pzd.rakuten.co.jp
 pzhuzlwjiymfos.com
 q.addthis.com
 q.adrta.com
@@ -12675,6 +12689,7 @@ qds0l.publishers.tremorhub.com
 qgicqtyh.com
 qgxbluhsgad.com
 qip.yadro.ru
+qjwglnuwqvr.com
 qlcdnvkgi.com
 qlog.adap.tv
 qmxgkgykaex.com
@@ -13115,11 +13130,13 @@ revenue.com
 revenue.net
 revenuedirect.com
 revenuehits.com
+revenuenetwork.com
 reverysteno.com
 review.studio.inmobicdn.net
 revincenizam.com
 revive-adserver.com
 revive.lavanetwork.net
+revmasters.com
 revmob.com
 revoketypes.com
 revopush.com
@@ -13428,6 +13445,7 @@ rxpsaofevrikmi.com
 ryeeffortoccupy.com
 ryeqnyvbncdvg.com
 s-a.innovid.com
+s-ad.rmp.rakuten.co.jp
 s-adserver.cxad.cxense.com
 s-adx.op-mobile.opera.com
 s-bid.rmp.rakuten.com
@@ -13436,6 +13454,7 @@ s-cdn.rmp.rakuten.com
 s-clk.rmp.rakuten.com
 s-cm.send.adnetwork.vn
 s-cs.rmp.rakuten.com
+s-evt.rmp.rakuten.co.jp
 s-files.innovid.com
 s-img.adskeeper.co.uk
 s-img.adskeeper.com
@@ -13840,6 +13859,7 @@ secure.juicyads.com
 secure.lijit.com
 secure.postrelease.com
 secure.quantserve.com
+secure.rat.rakuten.co.jp
 secure.sharethis.com
 secure.statcounter.com
 secure.webconnect.net
@@ -17023,6 +17043,7 @@ weboohost.com
 weborama.com
 weborama.fr
 weborama.net
+webpartners.co
 webpinp.com
 webportal.criteo.com
 webpower.com
@@ -17824,6 +17845,7 @@ www.pushdy.vn
 www.pushtimize.com
 www.pushwoosh.com
 www.pvmax.net
+www.qksrv.net
 www.quantserve.com
 www.reactful.com
 www.realclick.vn
