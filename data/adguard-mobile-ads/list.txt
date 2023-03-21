@@ -368,6 +368,7 @@ config.appjolt.com
 config.tremorhub.com
 configuration.ttpsdk.info
 content.ad
+contextualadv.com
 cp.pushwoosh.com
 cpactions.com
 cpmstar.com
@@ -398,6 +399,7 @@ delivery-cdn-cf.adswizz.com
 deliveryengine.adswizz.com
 deloton.com
 dev.appboy.com
+displayio.cloud
 disqusads.com
 dm.isnssdk.com
 dm.toutiao.com
@@ -426,6 +428,7 @@ exe.bid
 exelbid.com
 exp.glispa.com
 exponential.com
+external-api.impression-neo.naver.com
 featured.perfectionholic.com
 fiksu.com
 fjrkn.com
@@ -510,6 +513,7 @@ intermarkets.net
 intowow.com
 investingchannel.com
 iqzone.com
+itdsmr.com
 iyes.youku.com
 javacript.gq
 jfduv7.com
@@ -681,6 +685,7 @@ postitial.com
 postut.cn
 powerlinks.com
 pr.comet.yahoo.com
+prebid-cache.ifunny.co
 preitem.wshareit.com
 presage.io
 prod.cm.publishers.advertising.a2z.com
@@ -802,6 +807,7 @@ theship.club
 thetrafficstat.net
 thind-gke-euw.prd.data.corp.unity3d.com
 tizerclik.com
+tk0x1.com
 tkcatrun.aotter.net
 tkcatwalk.aotter.net
 tkmedia-cache.aotter.net
