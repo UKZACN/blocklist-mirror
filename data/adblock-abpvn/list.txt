@@ -1403,6 +1403,8 @@ ads.livetv633.me
 ads.livetv636.me
 ads.livetv637.me
 ads.livetv638.me
+ads.livetv639.me
+ads.livetv640.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -4047,6 +4049,7 @@ bid.rklmstr.com
 bid.truepush.com
 bid.underdog.media
 bidadx.com
+bidclickmedia.com
 bidclix.com
 bidclix.net
 bidder-east.aaxads.com
@@ -6117,6 +6120,7 @@ d3.adsplay.net
 d301cxwfymy227.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d38fey2d93vryi.cloudfront.net
+d38psrni17bvxu.cloudfront.net
 d3beefy8kd1pr7.cloudfront.net
 d3cod80thn7qnd.cloudfront.net
 d3cpib6kv2rja7.cloudfront.net
@@ -6927,6 +6931,7 @@ edxlewni.com
 eehuzaih.com
 eeksoabo.com
 eelfadechi.com
+eemmlhcuydso.com
 eensoans.com
 ef.alcmpn.com
 efetotjnrjbntto.com
@@ -8011,6 +8016,7 @@ gov.aniview.com
 gp.dejanews.com
 gpbifgfjhgezk.com
 gplayer.kmpmedia.net
+gpttuucg.com
 gqsufwoasgfmex.com
 grabify.link
 grace.shareaholic.com
@@ -10030,6 +10036,7 @@ luzulabeguile.com
 lw-ue.atemda.com
 lw-uw.atemda.com
 lwgadm.com
+lwonclbench.com
 lykos-bzm.com
 lyncaws2.exponential.com
 lyncdiscover.exponential.com
@@ -11358,6 +11365,7 @@ opinionstage.com
 opmnstr.com
 opn.ivitrack.com
 opoxv.com
+oppvcuovgda.com
 opros.yadro.ru
 opsivesh.net
 opt.navdmp.com
@@ -13015,6 +13023,7 @@ remox.com
 remyyadan.online.fr
 renzo-aws.logrocket.io
 renzo-azure.logrocket.io
+replacementreluctance.com
 reporo.net
 report-1.appmetrica.webvisor.com
 report-2.appmetrica.webvisor.com
@@ -16181,6 +16190,7 @@ twazzyoidwlfe.com
 twentyfourhonlineadvertising-d.openx.net
 twiago.com
 twinrdsrv.com
+twinrdsyn.com
 twinsoflave.com
 twittad.com
 twokidjay.com
@@ -17074,6 +17084,7 @@ webview.unityads.unity3d.com
 webvisor.com
 webvisor.org
 webvisor.ru
+wedxuaksargvlf.com
 wegcash.com
 weigezhiyao.com
 welcome.consumable.com
@@ -18255,6 +18266,7 @@ youthfire.com
 yovoads.com
 yovqnwnmpzz.com
 yqmxfz.com
+yrumdfslwabv.com
 yt.mmstat.com
 yt.moatads.com
 ytimm.com
