@@ -118,6 +118,7 @@ ai.idg.se
 aka-cdn-ns.adtech.de
 aka-cdn.adtech.de
 albacross.com
+alkemi.com.se
 ambassador.referralhero.com
 amd.sellingsimplified.net
 ana.headerlift.com
@@ -166,6 +167,8 @@ apsislead.com
 aquaplatform.com
 arbetaren.innocraft.cloud
 as-sec.casalemedia.com
+asicsisverige.com
+asicsverige.com.se
 asmassets.mtvnservices.com
 asset.pagefair.com
 assets.adfenix.com
@@ -188,6 +191,7 @@ back.revrelations.com
 bam.bonad.io
 banners.instaforex.com
 bannersnack.com
+barbours.com.se
 bc.marfeelcache.com
 bcm.interactives.dk
 bellmetric.net
@@ -222,10 +226,13 @@ c.eacla.com
 c.flx1.com
 c1.adform.net
 cache6.riedta.com
+campersverige.com.se
 capi.connatix.com
+cardata.se
 cargodisplayads.com
 carneoam.com
 casinotoplists.com
+caterpillarsverige.net
 ccjnhnqfnvsr3otokvf59ns52.litix.io
 cd.connatix.com
 cdn-0.d41.co
@@ -299,6 +306,7 @@ cdn001.milotree.com
 cdn1.profitmetrics.io
 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 ced.sascdn.com
+chaco.com.se
 cintnetworks.com
 cision.com
 cl-eu2.k5a.io
@@ -352,6 +360,7 @@ d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d9v72urx9pbbc.cloudfront.net
 dackpartner-web.s3.amazonaws.com
 dagenstv.112.2o7.net
+dakine.com.se
 data.adnuntius.com
 data.gblcdn.com
 deals.innocode.no
@@ -410,6 +419,7 @@ eas8.emediate.se
 eas9.emediate.eu
 eas9.emediate.se
 easyresearch.se
+eccoskorea.com.se
 ecdn.analysis.fi
 ecdn.firstimpression.io
 ecsanalytics.com
@@ -440,9 +450,11 @@ fapp.pw
 fastlane.rubiconproject.com
 feed.aservice.tools
 feedads.feedblitz.com
+fila.com.se
 findbetterresults.com
 flow.aquaplatform.com
 flx1.com
+footjoygolfskorrea.com.se
 fpnpmcdn.net
 franecki.net
 freegeoip.app
@@ -463,11 +475,14 @@ gase.hit.gemius.pl
 gcdn.2mdn.net
 get.optad360.io
 get.s-onetag.com
+girohjalm.com.se
 go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
 greatstoryvideo.se
 gwen.insertcoin.se
+gym-shark-sverige.com.se
+gymsharksverige.com.se
 h.online-metrix.net
 hapyak.com
 hb.adpone.com
@@ -477,6 +492,7 @@ hb.improvedigital.com
 hbid.ams3.cdn.digitaloceanspaces.com
 headerlift.com
 heroaffiliates.com
+hollistersverige.com.se
 hotwords.es
 hpevoices.com
 hsadspixel.net
@@ -498,6 +514,7 @@ improvedigital.com
 impse.tradedoubler.com
 imstore.bet365affiliates.com
 infotorg.d2.sc.omtrdc.net
+inov-8.com.se
 insight.adsrvr.org
 insight.nikkasystems.com
 instant.page
@@ -508,6 +525,7 @@ invite.leanlab.co
 ion.btcswe.com
 ipmeta.io
 izooto.com
+jackwolfskinsverige.com.se
 js-agent.newrelic.com
 js-sec.indexww.com
 js.appboycdn.com
@@ -527,6 +545,7 @@ jssdkcdns.mparticle.com
 jtp.expressen.se
 jubiitag.dk
 kaloo.ga
+keenstockholm.com.se
 keymetrics.se
 kiosked.com
 kiwi64.leiki.com
@@ -540,6 +559,7 @@ lararforbundet.analytics.ozzi.io
 lduhtrp.net
 leadconnect.ipmaxi.se
 leadenhancer.com
+legero.com.se
 leiki-doubleclick-proxy.appspot.com
 leiki.com
 levaochbo.compricer.se
@@ -552,12 +572,16 @@ ljuskompaniet.se
 load.sumome.com
 loader.wisepops.com
 loadr.exelator.com
+loewe.com.se
 log-api.newrelic.com
 log.cookieyes.com
 log.medietall.no
 logs.spilgames.com
 logx.optimizely.com
+longchampstockholm.com.se
 look.ufinkln.com
+low1sneakerssverige.com
+lululemonstockholm.com.se
 lwadm.com
 m.burt.io
 m.extellio.com
@@ -565,6 +589,7 @@ m1.analytics.sitevision-cloud.se
 macro.adnami.io
 macro.adnami2.io
 madsone.com
+marcjacobssverige.com.se
 marfeel.com
 markhor.organicfruitapps.com
 marlin.kumo.at
@@ -603,11 +628,14 @@ mindreskatt.se
 missaffiliate.com
 mmetrix.mobi
 moceanads.com
+mountainhardwearsverige.com.se
+mouskor.com.se
 mraffiliate.com
 mrporter-creative.prf.hn
 mtpc.se
 mtst.io
 mtv.hb.omtrdc.net
+muckbootssverige.com.se
 munchkin.marketo.net
 my.hellobar.com
 n.dyntrk.com
@@ -619,6 +647,7 @@ network.ad.nu
 newstats.blogg.se
 nexus.ensighten.com
 nichehuset.dk
+nobull-sverige.com.se
 nordishopping.com
 norranstats.azurewebsites.net
 norstatsurveys.com
@@ -641,8 +670,10 @@ p.lp4.io
 p.pubmine.com
 pa.rxthdr.com
 paf.elb.myaffiliates.com
+palmangelssverige.com.se
 partner.googleadservices.com
 partners.mcontigo.com
+patagonias.com.se
 petrk.com
 pheegoab.click
 pi.pardot.com
@@ -673,6 +704,7 @@ public.servenobid.com
 publish-int.se
 publish.ne.cision.com
 publishing.kaloo.ga
+pumaskorrea.com.se
 push-notifications.top
 pushcrew.com
 pushnice.com
@@ -685,6 +717,7 @@ reauthenticator.com
 recirculation.spot.im
 record.findtrustclicks.com
 redistats.com
+reeboksverige.com.se
 regstat.se
 reklam.6x.se
 report.23video.com
@@ -706,6 +739,7 @@ richaudience.com
 richmediastudio.com
 richmetrics.com
 ridsport.adhost.se
+rockportskorsverige.com
 rotarb.bid
 rotator.riedta.com
 route.carambo.la
@@ -767,6 +801,7 @@ seenthis.se
 sentry.outbid.io
 seoab.io
 seonify.com
+serenitycandles.com.se
 serve.albacross.com
 servedby.flashtalking.com
 servedby.lintigroup.se
@@ -786,6 +821,7 @@ sleeknotecustomerscripts.sleeknote.com
 smetrics.aftonbladet.se
 smtvn.112.2o7.net
 snap.licdn.com
+sneakersisverige.com
 sociuslive.com
 source.advisible.com
 spel.expressen.se
@@ -959,6 +995,7 @@ trafficgateway.research-int.se
 trafikstyrelsen.com
 trckr.nordiskemedier.dk
 trckr1.nordiskemedier.dk
+tretorn-rea.com.se
 trugaze.io
 try.abtasty.com
 tt.onthe.io
@@ -970,7 +1007,10 @@ upsales.com
 userneeds.dk
 utt.impactcdn.com
 v.lkqd.net
+vagabondskorrea.com.se
+valentinosverige.com
 veinteractive.com
+vejaskorstockholm.com.se
 vg02.met.vgwort.de
 viagogo.se
 viamtvse.112.2o7.net
