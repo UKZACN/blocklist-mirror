@@ -201,6 +201,7 @@ betrad.com
 bettersport.se
 bettingstugan.se
 bid.g.doubleclick.net
+bilcertificat.se
 bilpolicydi.bytelab.dk
 biowebb-data.s3.amazonaws.com
 bitstarz.com
@@ -233,6 +234,7 @@ cargodisplayads.com
 carneoam.com
 casinotoplists.com
 caterpillarsverige.net
+caviera-sverige.shop
 ccjnhnqfnvsr3otokvf59ns52.litix.io
 cd.connatix.com
 cdn-0.d41.co
@@ -372,7 +374,9 @@ dev.visualwebsiteoptimizer.com
 di.insplanet.com
 digidip.net
 digitalfeedback.euro.confirmit.com
+digitaliseringsinitiativet.se
 dinapengar.compricer.se
+dinbilgaranti.se
 dl.episerver.net
 dmcdn.yieldbird.com
 dmp.adform.net
@@ -456,6 +460,7 @@ flow.aquaplatform.com
 flx1.com
 footjoygolfskorrea.com.se
 fpnpmcdn.net
+fraagesport.com
 franecki.net
 freegeoip.app
 freespee.com
@@ -739,11 +744,13 @@ richaudience.com
 richmediastudio.com
 richmetrics.com
 ridsport.adhost.se
+rockeringformsweden.com
 rockportskorsverige.com
 rotarb.bid
 rotator.riedta.com
 route.carambo.la
 royapp.com
+rpofsweden.com
 rtax.criteo.com
 rum-collector-2.pingdom.net
 rum-http-intake.logs.datadoghq.eu
@@ -912,6 +919,7 @@ tm.tradetracker.net
 to.getnitropack.com
 tools.ascontentcloud.com
 tools.tradedoubler.com
+toppmarkensverige.com
 tourn.co
 tourn.se
 tpc.googlesyndication.com
