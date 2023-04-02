@@ -873,6 +873,7 @@ bags.gshopper.com
 bahisnow.girbahise.com
 bahsegel.girbahise.com
 ballerswatches.com
+baniwears.com
 bank-crypto.rich-script.com
 banyanhill.com
 barenkul.com
@@ -2423,6 +2424,7 @@ foryoupromo.net
 fosnshop.com
 found-ceo.com
 foundmoneyguide.com
+fowers.baniwears.com
 foxnews081.wixsite.com
 fpkdz.com
 fqom.globatds.com
@@ -5107,6 +5109,7 @@ tesgity.com
 tesla-blockchain.net
 tesla-foundation.net
 tesla-ltt.com
+tesla-x2.repl.co
 tesla21.io
 tesla2ai.net
 teslabtc.space
@@ -6230,6 +6233,7 @@ www.backscatterer.org
 www.bahisnow.girbahise.com
 www.bahsegel.girbahise.com
 www.ballerswatches.com
+www.baniwears.com
 www.bank-crypto.rich-script.com
 www.banyanhill.com
 www.barenkul.com
@@ -8311,6 +8315,7 @@ www.tesgity.com
 www.tesla-blockchain.net
 www.tesla-foundation.net
 www.tesla-ltt.com
+www.tesla-x2.repl.co
 www.tesla21.io
 www.tesla2ai.net
 www.teslabtc.space
