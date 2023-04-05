@@ -23,6 +23,8 @@ ad-brix.com
 ad-channel.wikawika.xyz
 ad-creatives-public.commondatastorage.googleapis.com
 ad-ettoday.cdn.hinet.net
+ad-splash-tracking.hktvmall.com
+ad-splash.hktvmall.com
 ad-stir.com
 ad-x.co.uk
 ad.apps.fm
@@ -120,6 +122,7 @@ ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-gdl.imovideo.ru
 ads-interfaces.sc-cdn.net
 ads-leaseweb.appsgeyser.com
+ads-server.mxplay.com
 ads.ad2iction.com
 ads.admoda.com
 ads.aerserv.com
@@ -613,6 +616,7 @@ mtag.mman.kr
 mtburn.com
 mtburn.jp
 mtrcss.com
+mxaserver.mxplay.com
 mxttrf.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -717,6 +721,7 @@ rg.yottos.com
 richpays.com
 rossoad.com
 rotaban.ru
+rqmob.com
 rtapi.abbi.io
 rtb.appbid.com
 rtb.kds.media
