@@ -431,6 +431,7 @@ exe.bid
 exelbid.com
 exp.glispa.com
 exponential.com
+external-ad.bunjang.co.kr
 external-api.impression-neo.naver.com
 featured.perfectionholic.com
 fiksu.com
@@ -468,6 +469,7 @@ h5.wannaplay.cn
 ha-api.pushwoosh.com
 hasmobi.net
 hb.rayjump.com
+hellay.net
 heyzap.com
 hnl.ijgocb.cn
 hnr.wwxhba.xyz
