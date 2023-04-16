@@ -348,6 +348,7 @@
 0lx.3pageinfo.xyz
 0lx.3sitestore32.xyz
 0lx.40021220.xyz
+0lx.425987804.xyz
 0lx.43453453.xyz
 0lx.43453456.xyz
 0lx.43453457.xyz
@@ -771,6 +772,7 @@
 178068logowanie9424.knto.cloud
 178235052015.warszawa.vectranet.pl
 179277-wery-3791.allapp.co.pl
+1793kodsms-nastepny.assl.co.pl
 179501aktualizacja-dalej.mszmidt.pl
 179815konto-aktualizacja.prepci.pl
 17interia.azureedge.net
@@ -1541,6 +1543,7 @@
 325494-konto-3982.crtn.co.pl
 3259-zaloguj256034-organizowac.trnsc.co.pl
 326.allegro.lokalnie.cc
+3262aktualizacja-wydanie.assl.co.pl
 327482weryfikacja-sie.officell.co.pl
 327578wery9421.rejepl.co.pl
 327651fedd5.chefs-kitchen.co.uk
@@ -1597,10 +1600,12 @@
 358610-twoje-4805.app-all.co.pl
 359386-wery-1194.tjall.co.pl
 360244weryfikacja-aktualizacja.klaudiaps.pl
+3605logowaniu-organizowac.atls.co.pl
 360649kod-poczta.semallg.co.pl
 360stories.shop
 360wiesc.site
 360xbooth.com
+3617konta-zaakceptowac.assl.co.pl
 362494-twoje-3570.crtn.co.pl
 362786-potwierdzenie-6469.crtn.co.pl
 363138konto5963.all-app.cfd
@@ -1619,6 +1624,7 @@
 367d28a3f7b.chefs-kitchen.co.uk
 368989999.xyz
 3691-weryfikacja143793-wydanie.nbaslum.co.pl
+3698kodsms-uslugi.atls.co.pl
 369952weryfikacja-weryfikacja.depgo.co.pl
 36aec220578.chefs-kitchen.co.uk
 36d0e1b0735.chefs-kitchen.co.uk
@@ -1822,6 +1828,7 @@
 447066potwierdzenie9109.allplat.cloud
 447487weryfikacja-potwierdz.malenst.pl
 448122222.xyz
+4486konta-organizowac.assl.co.pl
 448917konta-poczta.officell.co.pl
 449sho0ppinqform121.30548762.xyz
 44efe768792.chefs-kitchen.co.uk
@@ -2622,6 +2629,7 @@
 813zawiadomienie.site
 814101weryfikacja-weryfikacja.jdhs.pl
 814129kodsms-aktualizacja.jdhs.pl
+8147kod-nastepny.assl.co.pl
 815426-o929a.ntpsla.co.pl
 8161-kodsms160748-nastepny.nfrdr.pl
 816619kodem-kodsms.prepci.pl
@@ -2736,6 +2744,7 @@
 8832zaloguj-organizowac.ktls.co.pl
 884185weryfikacja-weryfikacja.ernies.pl
 884200potwierdz5957.all-app.cfd
+8854weryfikacja-nastepny.assl.co.pl
 885701poczta-kod.depgo.co.pl
 885812kodsms-kodsms.jdhs.pl
 885977kodsms-kodsms.ernies.pl
@@ -3219,6 +3228,7 @@ abscondsvivaria.com
 absensi-jenepontokab.net
 abso2727-lute8278a.specialtvg.co.pl
 absolutechicken.com
+abstemious.one
 abstractapps.com
 abstractivebiggie.pl
 abstractway.top
@@ -6661,6 +6671,7 @@ authpass.s3.us-west-004.backblazeb2.com
 auto-domain2-manaliner.pbclimbing.co.uk
 auto-glaze.com
 auto-kujawskopomorskie.pl
+auto-marketplace.pl
 auto-poznam.pl
 auto-pp.newssinfos.xyz
 auto-swietokrzyskie.pl
@@ -7258,6 +7269,7 @@ baltic-pipe.stream
 baltic-piper.com
 baltic-pl.buzz
 baltic-pro.gertrader.xyz
+baltic-projekt.site
 baltic.baltic-programpl.xyz
 baltic22pipepl.web.app
 baltica.baltic-programpl.xyz
@@ -8616,6 +8628,7 @@ blikbsdfb.ltvsistem.site
 bliki24.net
 blinkerund.com
 blinkosklep.com.pl
+blioiiniteriowy.com
 blioiniteriowy.com
 bliouyr.s3.us-west-004.backblazeb2.com
 blirak.com
@@ -9699,6 +9712,7 @@ brunto.space
 brusque.sbs
 bryconpty.com
 brydgeapp.com
+brykizpolski.pl
 brzydactwo.vot.pl
 brzydale.ndl.pl
 brzydkie-tajemnice.vot.pl
@@ -16610,6 +16624,7 @@ domolixshop.rinoshop.top
 domowaplaza.pl
 domowe-ogloszenia.pl
 domowe-zajecie.waw.pl
+domowy-etat.waw.pl
 domportal.cyou
 domsi.loyalmp3.site
 domsm.treespl.site
@@ -17374,6 +17389,7 @@ dpd.25952151.xyz
 dpd.26565656.xyz
 dpd.324255689.xyz
 dpd.34585552.xyz
+dpd.35437537.xyz
 dpd.41544512.xyz
 dpd.44585552.xyz
 dpd.46565656.xyz
@@ -17495,6 +17511,7 @@ dpd.opekdefalso.org
 dpd.order-repays.xyz
 dpd.orderingpl-meinfo.xyz
 dpd.oregasore.org
+dpd.osdygesi.org
 dpd.otujakel.org
 dpd.owcasomalka.org
 dpd.packageinfo-money.xyz
@@ -21180,6 +21197,7 @@ fggh.st6-investprog.site
 fghb.neomai.site
 fghh.lareg.site
 fghjkfghjkjhggh.weebly.com
+fghjkloer.online
 fgiogfghj.weebly.com
 fgjsj.lacktr.site
 fgl.st6-investprog.site
@@ -21848,6 +21866,7 @@ formv1nted.1shoppage.xyz
 formvjhted.store77paying.xyz
 formvjnted.34125452.xyz
 fornanynumberofveriables.nerdpol.ovh
+fornear.online
 forniklose-com.preview-domain.com
 forpeople925.shop
 forpeople925.work
@@ -29285,7 +29304,9 @@ inpost-pl.info-trackcode-id789543.xyz
 inpost-pl.info-trackcode-id89675.xyz
 inpost-pl.info-trackcode-id984532.xyz
 inpost-pl.info231a.top
+inpost-pl.innercity.online
 inpost-pl.inteller.pics
+inpost-pl.interchain.fun
 inpost-pl.internetgratis.xyz
 inpost-pl.isafepay-order.site
 inpost-pl.itempayment.pw
@@ -36443,6 +36464,7 @@ kredyt-inkso.pl
 kredyt24.biz
 kredytlnkaso.pl
 kredyty24.com.pl
+kreekly.cfd
 kremniemozliwe.site
 krepujace-galerie.pl
 kresimir.emiliamilena.pl
@@ -37644,6 +37666,7 @@ livinggaytogay.com
 livinglifepetite.com
 livingmartcph.com
 liviosklep.pl
+livisates.online
 liwer.whatpoliklin.xyz
 liwewind.site
 lix.ltvsistem.site
@@ -37943,6 +37966,7 @@ lnpost.bignaturals.xyz
 lnpost.bitcet.xyz
 lnpost.bitcoinlife.xyz
 lnpost.bui.pics
+lnpost.burgundy.lol
 lnpost.buyplatform-infome.xyz
 lnpost.canitia.online
 lnpost.canlitvizle.xyz
@@ -37951,6 +37975,7 @@ lnpost.cc
 lnpost.centerparcel-collectionpl.xyz
 lnpost.centr.top
 lnpost.central-systeminfo.xyz
+lnpost.chicabrava.site
 lnpost.ciclista.top
 lnpost.contributionpl-moneyme-ptr.xyz
 lnpost.cultur.store
@@ -37990,6 +38015,7 @@ lnpost.id-pol23589.shop
 lnpost.idearesepi.top
 lnpost.infoproduct-transfer.xyz
 lnpost.informpaygoods.xyz
+lnpost.innercity.online
 lnpost.inquest.top
 lnpost.intralogistik.online
 lnpost.ipublisher.fun
@@ -38733,8 +38759,11 @@ lovemyjs.com
 loverhq.com
 lovintrends.com
 lovtqshe.com
+low-plus120-ol-ix.newsagent.one
+low-plus246-ol-ix.potholder.top
 low-plus542-ol-ix.brusque.sbs
 low-plus689-ol-ix.rooftile.one
+low-plus710-ol-ix.kreekly.cfd
 low-plus756-ol-ix.duvet.sbs
 low-plus869-ol-ix.rubble.one
 low-plus913-ol-ix.conclusion.sbs
@@ -40647,6 +40676,7 @@ midocean.live
 midsaules.com
 midtnadvertising.com
 midweekssp.pl
+midyp3.webwave.dev
 mie.depanticr.site
 miecnadzieje.eu
 mieczyslaw.adaolga.warszawa.pl
@@ -53231,6 +53261,7 @@ pg.diiz.site
 pg.h0st.site
 pg.typstade.xyz
 pg6ir3.webwave.dev
+pgcloudglobal.online
 pge-arise.firebaseapp.com
 pge-arise.web.app
 pge-bok.net
@@ -53472,7 +53503,9 @@ photailakewoodtacoma.com
 photo-sylwia.dgdev.pl
 photo.2g8r.shop
 photo.4615flv.sbs
+photo.5g4k.me
 photo.b3dr1.sbs
+photo.bd87a.shop
 photo.df51231fs1.com
 photo.dgv4y.sbs
 photo.drer4.club
@@ -55636,6 +55669,7 @@ pocztex-polska24.com
 pocztex.rt6u.xyz
 pocztex.s3ph.net
 pocztex.u32l.site
+pocztex.wi46.site
 pocztex.z62f.info
 pocztex.z7an.site
 pocztex24.pl
@@ -57816,6 +57850,7 @@ pracujemy.click
 pracujemy.shop
 pracujemy.wiki
 pracujemy.xyz
+pracujmy-madrze.online
 pracujmy.waw.pl
 pracujwdomu.com.pl
 pradodev.com
@@ -62918,6 +62953,7 @@ site.52548745.xyz
 site.acadiamall.com
 site.admooddesign.com
 site.beemerstuff.com
+site.chugachbnb.com
 site.familia-friend.com
 site.find-yourfamily.com
 site.ideagenuine.com
@@ -63071,7 +63107,10 @@ skutki-fotek.eu
 skwitoray.site
 skwonzhiu.space
 sky-club201-in-npot.conclusion.sbs
+sky-club269-in-npot.periwinkle.top
+sky-club289-in-npot.kreekly.cfd
 sky-club296-in-npot.glassware.sbs
+sky-club312-in-npot.ordinates.one
 sky-club340-in-npot.brusque.sbs
 sky-projects.hair
 sky-projects.quest
@@ -65760,6 +65799,7 @@ telsupport-returnfund.co
 telsupport-securityreturn.live
 telya.my-chatprogram.xyz
 telya.sheprogrramsre.site
+telymux.online
 telz.safars.online
 tem-puts.site
 tem-x.statnew78.xyz
@@ -66391,6 +66431,7 @@ thescrooge-gold.com
 theserviceproducts.net
 theshorka.info
 thesniffjblog.com
+thessed.online
 thesuperiority.com
 thetafuelcode.financialmarketsworld.com
 theteamcenter.site
@@ -66826,6 +66867,7 @@ toolbox.feenfloete.de
 toolboxs.info
 tooles.net
 toomer.life
+tooreve.online
 toostart.us
 toosweettobesour.com
 toothlitunonnusc.tk
@@ -69725,6 +69767,7 @@ vihted.084522.xyz
 vihted.08759577.xyz
 vihted.18451254.xyz
 vihted.320621545455.xyz
+vihted.3534547.xyz
 vihted.481515212.xyz
 vihted.526502122.xyz
 vihted.73452-sendinggoods.xyz
@@ -71564,6 +71607,8 @@ vinted.556326566.xyz
 vinted.5712222.xyz
 vinted.605956323.xyz
 vinted.60900081.xyz
+vinted.63645375.xyz
+vinted.636453755.xyz
 vinted.642145.xyz
 vinted.65152122.xyz
 vinted.6521541212.xyz
@@ -71764,6 +71809,7 @@ vintedl-polsknw18988.danvm112.best
 vintedl-polsknw3899.qespnl26.art
 vintedl058-pold.domportal.cyou
 vintedl10991-polds.dogwood.one
+vintedl165-pols.abstemious.one
 vintedl2203-polds.celebrate.ink
 vintedl24921-polds.seedling.ink
 vintedl275-pold.dellhouse.cyou
@@ -72394,6 +72440,7 @@ vjnted-storeinfo.6879080088.xyz
 vjnted-storepay.9803121145.xyz
 vjnted-storesite.09887541.xyz
 vjnted.05956653.xyz
+vjnted.077687676.xyz
 vjnted.0875897.xyz
 vjnted.1014441.xyz
 vjnted.11storeinfo.xyz
@@ -72405,6 +72452,7 @@ vjnted.326205122222.xyz
 vjnted.347874.xyz
 vjnted.3481222.xyz
 vjnted.3deliveryinform.xyz
+vjnted.434534535.xyz
 vjnted.4481222.xyz
 vjnted.477887887.xyz
 vjnted.4912541215.xyz
@@ -77176,6 +77224,7 @@ www.baltic-pipe.net
 www.baltic-pipe.stream
 www.baltic-piper.com
 www.baltic-pl.buzz
+www.baltic-projekt.site
 www.baltica0.finnewspl.com
 www.baltica9.finnewspl.com
 www.balticinvest.online
@@ -80859,6 +80908,7 @@ www.dominicara.online
 www.domodi-sklep.pl
 www.domowaplaza.pl
 www.domowe-zajecie.waw.pl
+www.domowy-etat.waw.pl
 www.domportal.cyou
 www.domsmlteadoms.online
 www.domunasklep.pl
@@ -81251,6 +81301,7 @@ www.drslotenmaker.nl
 www.drucotgisnonflipsdi.tk
 www.drugastrona.org.pl
 www.drvaltnewport.com
+www.dryg.waw.pl
 www.dryoutwqoq.space
 www.ds2ols.webwave.dev
 www.dsbproducciones.com
@@ -95800,6 +95851,7 @@ www.phonogra.pl
 www.phorogrammer.com
 www.phoscal.net
 www.photailakewoodtacoma.com
+www.photo.5g4k.me
 www.photobiologiessongful.com
 www.photographymentor.com
 www.photohub.vot.pl
@@ -100994,6 +101046,7 @@ www.telsupport-fundsecurity.com
 www.telsupport-returnfund.co
 www.telsupport-securityfunds.co
 www.telsupport-securityreturn.live
+www.telymux.online
 www.tem-puts.site
 www.temasow.com
 www.temat-szokujacy.eu
@@ -105947,6 +106000,7 @@ x846.info
 x85pjz.webwave.dev
 x8wh3r.webwave.dev
 x9sms.in
+x9wqun.webwave.dev
 xa.cchattonline.site
 xabeyangex.xyz
 xac.gaznf.xyz
@@ -107333,6 +107387,7 @@ zuzankas.pl
 zuztrans.pl
 zuzutikasa.ml
 zuzywacsie.site
+zv0tb8.webwave.dev
 zvamwoq.pl
 zvonchee.com
 zw578376khsds.com.ng
