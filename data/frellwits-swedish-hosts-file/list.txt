@@ -123,6 +123,7 @@ ambassador.referralhero.com
 amd.sellingsimplified.net
 ana.headerlift.com
 analytics-sdk.yle.fi
+analytics.apotekhjartat.se
 analytics.ci-360.se
 analytics.ciseway.se
 analytics.clickdimensions.com
