@@ -74,6 +74,7 @@ ads.insikt24.se
 ads.internet24.se
 ads.kelkoo.com
 ads.lektion.se
+ads.leovegas.com
 ads.mainloop.net
 ads.motorvarlden.se
 ads.mrgreen.com
@@ -293,6 +294,7 @@ cdn.pushcrew.com
 cdn.reaktion.se
 cdn.relevant-digital.com
 cdn.rollbar.com
+cdn.routy.app
 cdn.shareaholic.net
 cdn.snigelweb.com
 cdn.speedcurve.com
@@ -364,6 +366,7 @@ d9v72urx9pbbc.cloudfront.net
 dackpartner-web.s3.amazonaws.com
 dagenstv.112.2o7.net
 dakine.com.se
+darwin.affiliatewindow.com
 data.adnuntius.com
 data.gblcdn.com
 deals.innocode.no
@@ -432,6 +435,7 @@ edge.atmtd.com
 edge.quantserve.com
 elasticad.net
 embed.bannerboo.com
+embed.bannerflow.com
 embi-media.com
 emea.hhkld.com
 emea.viadata.store
@@ -509,8 +513,10 @@ iba.feedblitz.com
 icarabatt.com
 iconosquare.com
 idpt.360yield.com
+images-ads.aland.com
 images.passendo.com
 img.ads.moceanads.com
+img.ascontentcloud.com
 img.upsales.com
 img06.en25.com
 imp.double.se
@@ -800,6 +806,7 @@ sebse.nuggad.net
 secserv.adtech.de
 secure-ds.serving-sys.com
 secure.adnxs.com
+secure.adtraction.com
 secure.curl7bike.com
 secure.img-cdn.mediaplex.com
 secure.quantserve.com

@@ -135,6 +135,7 @@ ads.feelingtouch.com
 ads.fotoable.com
 ads.glispa.com
 ads.go2reach.com
+ads.imbc.com
 ads.imovideo.ru
 ads.iosappsworld.com
 ads.jianchiapp.com
@@ -175,6 +176,7 @@ adsmogo.mobi
 adsmogo.net
 adsmogo.org
 adsmoloco.com
+adsmrapi.imbc.com
 adsniper.ru
 adspot.tfgapps.com
 adsrvmedia.net
@@ -659,6 +661,7 @@ ob.leap.app
 oclasrv.com
 oconner.biz
 offerwall-adnative.com
+offerwall.yandex.net
 onedrive.su
 online-prod.zenmxapps.com
 onlineapi.youappi.com
