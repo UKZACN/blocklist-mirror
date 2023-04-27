@@ -3018,6 +3018,7 @@ blacktri-a.akamaihd.net
 blava.viessmann.sk
 bldr.mkt.samsung.com
 bleachbubble.com
+bleachscarecrow.com
 blfkmp.fti.de
 blinks.mindoktor.se
 blinkstest.mindoktor.se
@@ -12233,6 +12234,7 @@ stats.stadiastats.gg
 stats.steuer-soldaten.de
 stats.stopchikane.nu
 stats.strawberry.rocks
+stats.streamhub.io
 stats.strikogkod.dk
 stats.studypages.com
 stats.stylight.it
@@ -13790,6 +13792,7 @@ trac.roomster.com
 traccoon.intellectsoft.net
 trace.qq.com
 tracer.autoscout24.ch
+track-dark-bz.b-cdn.net
 track-mail.homage.co
 track-selectmedia.com
 track-srv.vietnamnet.vn
@@ -13806,6 +13809,7 @@ track.collegeboard.org
 track.contently.com
 track.cordial.io
 track.custora.com
+track.dark.bz
 track.dictionary.com
 track.digitalriver.com
 track.dws.de
