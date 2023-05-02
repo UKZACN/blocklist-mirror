@@ -819,6 +819,7 @@ seoab.io
 seonify.com
 serenitycandles.com.se
 serve.albacross.com
+servedby.aqua-adserver.com
 servedby.flashtalking.com
 servedby.lintigroup.se
 servedby.revive-adserver.net
@@ -865,6 +866,7 @@ static.hotjar.com
 static.matchads.net
 static.stat.truthlyanalytics.com
 static.step.dk
+static.ws.apsis.one
 static.zotabox.com
 statistics.heltenkelt.se
 statistik.blogg1.se
