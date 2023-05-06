@@ -490,6 +490,7 @@ go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
 greatstoryvideo.se
+gtm.findroommate.dk
 gwen.insertcoin.se
 gym-shark-sverige.com.se
 gymsharksverige.com.se
@@ -794,6 +795,7 @@ script.ioam.de
 script.tailsweep.com
 scripts.cleverwebserver.com
 scripts.kiosked.com
+scripts.makeinfluence.com
 scripts.mediavine.com
 sdk.pulse.schibsted.com
 se-02.adtomafusion.com
