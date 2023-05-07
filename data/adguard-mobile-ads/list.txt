@@ -48,6 +48,7 @@ ad.ohmyad.co
 ad.particlenews.com
 ad.period-calendar.com
 ad.prismamediadigital.com
+ad.simpledesign.ltd
 ad.smaad.jp
 ad.snappea.com
 ad.snaptube.app
@@ -122,6 +123,8 @@ ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-gdl.imovideo.ru
 ads-interfaces.sc-cdn.net
 ads-leaseweb.appsgeyser.com
+ads-resources.waze.com
+ads-sdk.mattel163.com
 ads-server.mxplay.com
 ads.ad2iction.com
 ads.admoda.com
@@ -147,6 +150,7 @@ ads.mobvertising.net
 ads.mopub.com
 ads.n-ws.org
 ads.ookla.com
+ads.oppomobile.com
 ads.pdbarea.com
 ads.pinger.com
 ads.reward.rakuten.jp
@@ -156,6 +160,7 @@ ads.xlxtra.com
 ads.youtube.com
 adsapi.manhuaren.com
 adsapi.snapchat.com
+adsassets.waze.com
 adsbynimbus.com
 adsdk.vrvm.com
 adsee.jp
@@ -166,6 +171,7 @@ adserver.pandora.com
 adserver.shadow.snapads.com
 adserver.ubiyoo.com
 adservice.tohsoft.com
+adsfs.oppomobile.com
 adsgard.aprod.scopely.io
 adshost2.com
 adslog.apexinnotech.com
@@ -297,6 +303,7 @@ bayctrk.com
 bcfads.com
 bd1.guancha.cn
 bd2.guancha.cn
+bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 bdvwidxfiextwof.ru
 begun.ru
@@ -836,6 +843,7 @@ tnc16-useast1a.isnssdk.com
 tnkfactory.com
 tonefuse.com
 tongqing2015.com
+toponadss.com
 tpbid.com
 tpc.googlesyndication.com
 track.cpatool.net
