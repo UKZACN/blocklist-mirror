@@ -336,6 +336,7 @@ collector.brandmetrics.com
 collector.cint.com
 collector.houston-analytics.com
 collector.schibsted.io
+comeonconnect-api.omarsys.com
 connectad.io
 connectio.s3.amazonaws.com
 content.adten.eu
@@ -487,6 +488,7 @@ gcdn.2mdn.net
 get.optad360.io
 get.s-onetag.com
 girohjalm.com.se
+glitnoraffiliates.elb.myaffiliates.com
 go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
@@ -544,6 +546,7 @@ jackwolfskinsverige.com.se
 js-agent.newrelic.com
 js-sec.indexww.com
 js.appboycdn.com
+js.glitnoraffiliates.com
 js.hs-analytics.net
 js.hs-banner.com
 js.hsadspixel.net
@@ -667,6 +670,7 @@ nordishopping.com
 norranstats.azurewebsites.net
 norstatsurveys.com
 npario-inc.net
+ntrfr.expekt.se
 nucleusanalytics.io
 nvpx.adhost.se
 oas.market.se
@@ -801,6 +805,7 @@ scripts.cleverwebserver.com
 scripts.kiosked.com
 scripts.makeinfluence.com
 scripts.mediavine.com
+scripts.opti-digital.com
 sdk.pulse.schibsted.com
 se-02.adtomafusion.com
 se-ads-microservice.ads.allermedia.io

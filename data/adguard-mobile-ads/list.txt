@@ -66,6 +66,7 @@ adbrau.com
 adcamp.ru
 adcel.co
 adcel.vrvm.com
+adcenter-api.cashwalk.co
 adcolony.com
 adcs.rqmob.com
 addapptr.com
@@ -232,6 +233,7 @@ amobee.com
 an.facebook.com
 analytics.scalemonk.com
 aniview.com
+anythinktech.com
 ap.smardroid.com
 api-a.op-mobile.opera.com
 api-ad-adapter.wps.com
@@ -403,6 +405,7 @@ d239g0z67jcted.cloudfront.net
 d27tpsznug51gz.cloudfront.net
 d2nrdy2pg3k168.cloudfront.net
 d32z5ni8t5127x.cloudfront.net
+d3hdbjtb1686tn.cloudfront.net
 d60y8cj1tje2a.cloudfront.net
 d830x8j3o1b2k.cloudfront.net
 dad-api.dcard.tw
@@ -495,6 +498,7 @@ houseads.ttpsdk.info
 hqsjc.com
 httpool.com
 huntmad.com
+hybird.rayjump.com
 hybrid.ai
 hyperadx.com
 i-mobile.co.jp
@@ -745,6 +749,7 @@ rtb.nexage.com
 rtb.platform.glispa.com
 s-adx.op-mobile.opera.com
 s.adx.opera.com
+s.hisp.in
 s3.ttpsdk.info
 sas816.ujikdd041o.cn
 saymedia.com
