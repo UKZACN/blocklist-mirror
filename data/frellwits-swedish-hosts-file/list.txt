@@ -552,6 +552,7 @@ js.hs-banner.com
 js.hsadspixel.net
 js.hsleadflows.net
 js.interestmoments.com
+js.monitor.azure.com
 js.pafpartners.com
 jsc.adskeeper.co.uk
 jsc.adskeeper.com
@@ -853,6 +854,7 @@ snap.licdn.com
 sneakersisverige.com
 sociuslive.com
 source.advisible.com
+sp.tinymce.com
 spel.expressen.se
 sprinklecontent.com
 sprinkletxt.com
