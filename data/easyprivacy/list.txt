@@ -5043,7 +5043,6 @@ content.hourigan.group
 content.hurix.com
 content.hydraulicsproducts.com
 content.icanmkrtg.com
-content.id.elsevier.com
 content.investresolve.com
 content.juniper.net
 content.linesight.com
@@ -5084,7 +5083,6 @@ convsgmp.taboola.com
 cookchalk.com
 cookie-guard-erdee.ey.r.appspot.com
 cookie.amerigas.com
-cookie.codemarketing.cloud
 cookie.cynch.com
 cookie.myamerigas.com
 cookie.sync.usonar.jp
@@ -9353,6 +9351,7 @@ local.computer
 local.qinlili.bid
 local.sisteminha.com
 localho.st
+localhost.direct
 localtest.me
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
@@ -10735,6 +10734,7 @@ net.zooplus.nl
 net.zooroyal.de
 net1.netski.com
 netc.sfr.fr
+netfinity.hostedrmm.com
 networkingexchange.att.com
 networkprotection.mcafee.com
 networks.balluff.com
@@ -11645,7 +11645,6 @@ pv.hd.sohu.com
 pv.kuaizhan.com
 pv.ltn.com.tw
 pv.partenaires-verisure.fr
-pv.pjtsu.com
 pv.sohu.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
@@ -15137,7 +15136,6 @@ tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.cmp.tail.digital
-tags.creativille.co.uk
 tags.fullcontact.com
 tags.globo.com
 tags.johnlewis.com
