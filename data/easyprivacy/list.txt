@@ -4687,6 +4687,7 @@ cm.bilibili.com
 cm.informaengage.com
 cm.nordvpn.com
 cmp.courrierinternational.com
+cmp.datasign.co
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -4877,6 +4878,7 @@ conditionchange.com
 conditioncrush.com
 conf.optum.com
 conferences.cigna.com
+confiant-integrations.global.ssl.fastly.net
 confiant-integrations.net
 confiant.msn.com
 confirm.aon.com
@@ -6801,6 +6803,7 @@ events.onet.pl
 events.practo.com
 events.prd.api.max.com
 events.privy.com
+events.qortex.ai
 events.realgravity.com
 events.reclamefolder.nl
 events.reddit.com
@@ -8467,6 +8470,7 @@ infos.whitepages.com.au
 infos.yellow.com.au
 infos.yellowpages.com.au
 ingest.make.rvapps.io
+ingest.make.rvohealth.com
 ingress.linktr.ee
 inhalt.bild.de
 innerskinresearch.com
@@ -8493,6 +8497,7 @@ insights.bodog.co.uk
 insights.bodoglife.co.uk
 insights.cdt.ch
 insights.compagnon.com
+insights.decathlon.net
 insights.documill.com
 insights.frenchtogether.com
 insights.golubcapital.com
@@ -11280,6 +11285,7 @@ pixel.facebook.com
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
+pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
 pixel.kknews.cc
@@ -12028,6 +12034,7 @@ ruthlessmilk.com
 ruthlessrobin.com
 ruvdkw.turk.net
 rvbqze.albamoda.de
+rvo-cohesion.healthline.com
 rvv.emol.com
 rvz9.destinia.co.ro
 rw.marchex.io
