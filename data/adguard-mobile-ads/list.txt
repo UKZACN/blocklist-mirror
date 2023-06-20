@@ -4,8 +4,6 @@
 360yield.com
 883.engine.mobileapptracking.com
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
-a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
-a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 a.applvn.com
 a.cookpad-ads.com
 a2dfp.net
@@ -33,14 +31,11 @@ ad.cauly.co.kr
 ad.daum.net
 ad.doubleclick.net
 ad.duapps.com
-ad.endpo.in
 ad.flipboard.com
 ad.jorte.com
 ad.leadboltapps.net
 ad.leap.app
-ad.madvertise.de
 ad.mail.ru
-ad.mobiuspace.net
 ad.nvdvr.cn
 ad.ohmyad.co
 ad.particlenews.com
@@ -48,7 +43,6 @@ ad.period-calendar.com
 ad.simpledesign.ltd
 ad.smaad.jp
 ad.snappea.com
-ad.snaptube.app
 ad.sxp.smartclip.net
 ad.tencentmusic.com
 ad.vrvm.com
@@ -93,7 +87,6 @@ admarvel.com
 admarvel.s3.amazonaws.com
 admedia.com
 admicro1.vcmedia.vn
-admicro2.vcmedia.vn
 admin.appnext.com
 admitad.com
 admixer.co.kr
@@ -106,7 +99,6 @@ adpies.com
 adplatform.vrtcal.com
 adplex.co.kr
 adpopcorn.com
-adpriv.nikkei.com
 adprotected.com
 adproxy.tf1.fr
 adpublisher.s3.amazonaws.com
@@ -124,15 +116,13 @@ ads-resources.waze.com
 ads-sdk.mattel163.com
 ads-server.mxplay.com
 ads.ad2iction.com
-ads.admoda.com
+ads.adadapted.com
 ads.aerserv.com
 ads.aitype.net
 ads.appsgeyser.com
-ads.aws.viber.com
 ads.bulldogcpi.com
 ads.edadeal.ru
 ads.feelingtouch.com
-ads.fotoable.com
 ads.imbc.com
 ads.imovideo.ru
 ads.iosappsworld.com
@@ -141,11 +131,8 @@ ads.mobilefuse.net
 ads.mobilityware.com
 ads.mobvertising.net
 ads.mopub.com
-ads.ookla.com
-ads.oppomobile.com
 ads.pdbarea.com
 ads.pinger.com
-ads.reward.rakuten.jp
 ads.taptapnetworks.com
 ads.viber.com
 ads.xlxtra.com
@@ -225,7 +212,6 @@ api-a.op-mobile.opera.com
 api-ad-adapter.wps.com
 api-ad-callback.mobiuspace.net
 api.ad-locus.com
-api.adnet.mob.com
 api.ads.newsdigest.jp
 api.ads.watchabc.go.com
 api.ampiri.com
@@ -328,7 +314,6 @@ cdn-api.admost.com
 cdn-cf.postitial.com
 cdn-image.com
 cdn-ketchapp.akamaized.net
-cdn.88-f.net
 cdn.appnext.com
 cdn.auditude.com
 cdn.batmobi.net
@@ -352,7 +337,6 @@ cloudads-a.akamaihd.net
 cls.vrvm.com
 common.duapps.com
 comscore.com
-config.88-f.net
 config.appjolt.com
 config.tremorhub.com
 configuration.ttpsdk.info
@@ -444,7 +428,6 @@ gumgum.com
 gwrtdp-tn690bfadt.tclclouds.com
 gynax.com
 h5.isnssdk.com
-h5.wannaplay.cn
 ha-api.pushwoosh.com
 hb.rayjump.com
 hellay.net
@@ -540,7 +523,6 @@ mbn.com.ua
 mcoreads.com
 mdotm.com
 med-api.admost.com
-media.motrixi.com
 medialand.ru
 meendocash.com
 metamx.com
@@ -551,13 +533,10 @@ mimicromax.com
 mintegral.com
 mixadvert.com
 mixmarket.biz
-mmnetwork.mobi
 mmp001.scalemonk.com
 mo.freeindoapp.com
 moatads.com.edgekey.net
-mob.huimee.net
 moba8.net
-mobad.ijinshan.com
 mobads.baidu.com
 mobads4app.com
 mobclix.com
@@ -569,7 +548,6 @@ mobidriven.com
 mobile-campaigns.avast.com
 mobile-click.biz
 mobile333.com
-mobileads.msn.com
 mobilebanner.ru
 mobilecore.com
 mobiledl.adboe.com
@@ -583,7 +561,6 @@ mofox.com
 mojiva.com
 monitor.adcaffe.com
 mopub-win-us-east.bksn.se
-mp.huangye.miui.com
 ms.applvn.com
 msg.ettoday.net
 mtag.mman.kr
@@ -684,14 +661,12 @@ rek.mobi
 reqde.afreecatv.com
 restartad.com
 revcontent.com
-rg.yottos.com
 richpays.com
 rossoad.com
 rotaban.ru
 rqmob.com
 rtapi.abbi.io
 rtb.appbid.com
-rtb.platform.glispa.com
 s-adx.op-mobile.opera.com
 s.adx.opera.com
 s.hisp.in
@@ -706,7 +681,6 @@ sdk.starbolt.io
 sdkv2.imaginationunwired.com
 search.adcaffe.com
 sensors.larkplayerapp.com
-sensors.snaptubeapp.com
 serve-sys.com
 servebom.com
 servedby.o2.co.uk
@@ -721,7 +695,6 @@ sitescout.com
 skadnetwork.singular.net
 skadsdk.appsflyer.com
 skt-asum.com
-slb.gedawang.com
 smaclick.com
 smartadserver.com
 smilered.com
@@ -753,7 +726,6 @@ swelen.com
 switchadhub.com
 syndication.trafficreps.com
 synthes.vo.llnwd.net
-t.singular.net
 t7z.cupid.iqiyi.com
 tap-nexus.appspot.com
 tapad.com
@@ -794,7 +766,6 @@ tpbid.com
 tpc.googlesyndication.com
 track.cpatool.net
 trackimpression.com
-tracking.acekoala.com
 tracking.applift.com
 tradeadexchange.com
 tradplusad.com
@@ -816,7 +787,6 @@ ultraadserver.com
 umbel.com
 unicume.com
 unityads.unity3d.com
-update.sdk.batmobi.net
 upsight-api.com
 upsight.com
 usekahuna.com
@@ -826,7 +796,6 @@ velti.com
 videoads-cloud.rovio.com
 videoplus.vo.llnwd.net
 vidout.net
-view-prod.ad.singular.net
 vm5apis.com
 vmap.v.ad-generation.jp
 vrizead.com
@@ -859,5 +828,10 @@ youmi.net
 yovoads.com
 yuhuads.com
 zedo.com
+zfehvv.xyz
+zfkjrm.xyz
+zflfoy.buzz
+zflfoy.xyz
+zflylg.buzz
 ziffdavis.com
 zzhengre.com
