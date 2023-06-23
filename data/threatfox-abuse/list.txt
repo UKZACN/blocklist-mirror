@@ -523,6 +523,7 @@ artmicrodesign.com
 artoboxnapi.com
 arttronova124.duckdns.org
 arturprikhodkosh.com
+artwork.siddavisart.com
 artztech.dyndns.info
 arutyund.xyz
 arvin78sh.com
@@ -798,7 +799,6 @@ belesdaszas.beauty
 belezasemlimites.beauty
 belezasemlimites.makeup
 belezfasturais.beauty
-belnderr3d.org
 benagineko.com
 benciotaerl.one
 benevixinformes.website
@@ -1106,6 +1106,7 @@ cdn.sncyhkttp.nl
 cdn.softproxyapi.com
 cdn.suiteb.io
 cdn.teucent.com
+cdn.update.microsoft.com.w.kunluncan.com
 cdn.whereismyip.cf
 cdn.winserver-network.in
 cdn.winservers-network.in
@@ -1424,6 +1425,7 @@ cs.usy7.cc
 cs2-1629717.internalsupports.com
 cs40a.microsoftup.pw
 cs45.meiiqia.com
+cscscscscs.imalloc.cn
 csklo06p.slt.sched.intlscdn.com
 csou.link
 csremote.duckdns.org
@@ -1634,6 +1636,7 @@ dns.djn.blue
 dns.exploitresearch.art
 dns.forcorpor.com
 dns.greypsecurity.training
+dns.incididunt.com
 dns.ionscapir.com
 dns.ns1.akingump.cloud
 dns.steasteel.net
@@ -1865,13 +1868,21 @@ escardhes.mom
 eserverlink.com
 esmaltesetintas.beauty
 esmaltesetintas.makeup
+espacocontabilrec.one
 espacorafah.network
 especialistaemadministrao.boats
 essadonio.com
 esspcambodia.com
 esterekauetelecomme.cloud
+estiletelivros.shop
+estilingulivrose.shop
+estojlivrosodepintura.shop
+estojodemaquiagem.shop
+estojolivrosdelapis.shop
+estriblivroso.shop
 etaluclac.sa.com
 etaqeryg.org
+etiquelivrosta.shop
 etjr30vui8t.ebertoebryanpadariame.pro
 eu-1.myegov.eu
 eu.eredirected.xyz
@@ -1893,6 +1904,9 @@ ew8ho9ma0t.vitubtiagobuffetme.mobi
 ewga-precision.xyz
 ewyersbetter.com
 ewzcjo511.top
+exameoldeaion.one
+examesesaude.one
+exauslivrostor.shop
 exchangeallltd.com
 exchanges1.microsoftser.top
 exchanges2.microsoftser.top
@@ -1908,9 +1922,11 @@ exp-pc.com
 expotechsupport.com
 expresssmash.com
 extcourse.zurvio.com
+extensaeletrica.shop
 extensions-update.azurewebsites.net
 external.myazureonline.com
 extic.icu
+extilivrosntor.shop
 extracreditunion.online
 extractor-ultra.top
 extranetserver.com
@@ -1976,6 +1992,7 @@ fearful.top
 feedlack.buzz
 feeldarcked.com
 fefinegoldfor.com
+felasuthir.one
 felipeefilipetelasme.icu
 felisekun.sbs
 felzater.lol
@@ -2942,6 +2959,7 @@ imperialback.com
 imprimirdocdigital2023.top
 impulsoti.autos
 imvcatool.com
+incididunt.com
 incinnovation.best
 incracks.com
 indelible.beauty
@@ -2973,6 +2991,7 @@ innolarenta.com
 innovativesitecreations.com
 inovacaonegocio.cyou
 inshotforpc.com
+inside.awesomepotions.com
 insidiousmann.sbs
 insidiousson.sbs
 insidioustrom.sbs
@@ -3410,8 +3429,6 @@ log0x1.s01kaspersky.com
 log5ny.top
 log9sh04.beget.tech
 logedin.ssndob.cn.com
-logedin1.kasperslkyupdate.com
-logedin2.kasperslkyupdate.com
 login.up.interior-gov-pk.org
 login.webapi-telegram.com
 loliapitudet.com
@@ -3695,7 +3712,6 @@ microsofteamsus.top
 microsoftmicrosoftmicrosoft.ydns.eu
 microsoftservice.ml
 microsoftservicev55.hopto.org
-microsoftteams.top
 microsoftupdateassist.net
 mid.dodopizza.top
 mid71.autometrics.pro
@@ -4031,6 +4047,7 @@ ns1.adcqowtrhs.com
 ns1.aehliu.com
 ns1.akingump.cloud
 ns1.alidns1.tk
+ns1.allegiancefithealth.com
 ns1.aptce4.top
 ns1.azure-atp.com
 ns1.bernetdiscover.com
@@ -4100,6 +4117,7 @@ ns2.ace3.ru
 ns2.adcqowtrhs.com
 ns2.aehliu.com
 ns2.alidns1.tk
+ns2.allegiancefithealth.com
 ns2.aptce4.top
 ns2.bernetdiscover.com
 ns2.blackwaf.tk
@@ -4730,6 +4748,7 @@ r8nf80d2qrdfw.eu
 raconianstarvard.com
 radar.game
 radiantneetacademy.in
+radicalhosts.ir
 ragaun.one
 raidla.ru
 rainqor.com
@@ -4765,6 +4784,7 @@ recoverportal2.com
 recoveryweb2.com
 redir1.nevergonnagiveyouup.us
 redirect.frontlinepay.us
+redteambp.tech
 redteamminepool.ug
 redteamone.tech
 reg.n0tepad-plus.com
@@ -4848,6 +4868,7 @@ roodmawell.com
 root.sncyhkttp.nl
 rootedlifeinc.ca
 rotmang.tk
+route.muenchner-finanzhilfe.workers.dev
 royaltybel.top
 rp7rts8auw8.hfarinhadester.pro
 rprotecruuio.com
@@ -5855,7 +5876,6 @@ update.ankining.com
 update.edgeupdates.com
 update.h4ck3r.workers.dev
 update.kernel-service.workers.dev
-update.mcrsoffice.workers.dev
 update.microsoftapply.com
 update.microsofthk.com
 update.microsoftkernel.com
@@ -5903,6 +5923,7 @@ us-thunderbird-soft.com
 us-thunderbird-soft.top
 us-west-11608.packetriot.net
 us.securitycloud-symantec.icu
+usadevgroup.com
 usafuj02.top
 uscracks.com
 usdt.lat
@@ -6097,6 +6118,7 @@ webbrandhuber.com
 webcliente.mom
 webconecta.pics
 webcopy.cloud
+webriiz.radicalhosts.ir
 webtoolsmedia.com
 webyoutubeshop.com
 wecrack.su
@@ -7055,10 +7077,10 @@ wwww-teamvlewer.top
 wwwwanydeskcom.top
 wwwwdiscord.top
 wxtencent.com
+wyekszloldhc.cfd
 x-vpn.ug
 xavierat.ddnsfree.com
 xburyate2017.com
-xedefeg.com
 xer382yrotxz.yachts
 xevayuhace.com
 xfive5pn.top
@@ -8595,6 +8617,7 @@ xwkdxusiokz.buzz
 xwr6sf3aea.gfmileniumdez.info
 xxxpasoxxx.ddnsfree.com
 xxxsthebagsxxx.mywire.org
+xyanavegador.makeup
 xytcdn.hongmengchuangke.com
 y1.ffbbyykk.com
 yafatid.com
@@ -8671,6 +8694,7 @@ yourcracks.com
 youthconscience.com
 yoyiwevigo.com
 yozadading.com
+yrqcxhixmoxp.cfd
 ythingamgladt.com
 ytsoftware.info
 ytxr3dyauw7.hugoeyagomucasltda.shop
@@ -8760,5 +8784,4 @@ zx.vm3dservice.com
 zx.vrghosst.com
 zx.vsexec.com
 zxd12.fun
-zyba.ceshi897.tk
 zzseven7pn.top
