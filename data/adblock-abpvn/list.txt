@@ -1423,6 +1423,7 @@ ads.livetv658.me
 ads.livetv662.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv671.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -3327,6 +3328,7 @@ applifier.com
 applift-a.apptornado.com
 applift-b.apptornado.com
 applinks.adbrix.io
+applog-perf.uc.cn
 applog.airpush.com
 applog.camera360.com
 applog.uc.cn
@@ -6308,6 +6310,7 @@ d2r1yp2w7bby2u.cloudfront.net
 d2sbzwmcg5amr3.cloudfront.net
 d2ty8gaf6rmowa.cloudfront.net
 d2uap9jskdzp2.cloudfront.net
+d2uhnetoehh304.cloudfront.net
 d2wbr3tthrn9lu.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2yyd1h5u9mauk.cloudfront.net
@@ -8730,6 +8733,7 @@ ht.alcmpn.com
 ht.indexww.com
 ht55.cn
 htlb.casalemedia.com
+htlbid.com
 html.polyad.net
 html5.adsrvr.org
 httpkafka-master.ads.prd.ie.internal.unity3d.com
@@ -10177,7 +10181,13 @@ log-baophapluat.zadn.vn
 log-bizlive.zadn.vn
 log-collector.shopee.vn
 log-config.samsungacr.com
+log-dttc-sggp.epicdn.me
+log-dttc.sggp.org.vn
 log-eap-sg.coloros.com
+log-en-nhandan.epicdn.me
+log-en-sggp.epicdn.me
+log-en.nhandan.vn
+log-en.sggp.org.vn
 log-giacngo.zadn.vn
 log-giaoduc.epicdn.me
 log-giaoduc.zadn.vn
@@ -10667,6 +10677,7 @@ matchid.adfox.yandex.ru
 matching.ivitrack.com
 matching.truffle.bid
 matecatenae.com
+materialplayground.com
 mathcountryside.com
 matheranalytics.com
 mathtag.com
@@ -10893,6 +10904,7 @@ mepuzz.com
 merchant.accesstrade.net
 mercury-int.marketo.com
 merzostueru2hu8jr09.com
+mesallysavor.tech
 mesangefanwise.tech
 meshpetrols.com
 message.meitu.com
@@ -10942,6 +10954,7 @@ metrics.foxnews.com
 metrics.gammadsp.com
 metrics.govexec.com
 metrics.icloud.com
+metrics.kmsmep.com
 metrics.linkshare.com
 metrics.m.ambientplatform.vn
 metrics.mzstatic.com
@@ -11949,6 +11962,7 @@ ord-ae.conversantmedia.com
 orest-vlv.com
 organizationwoundedvast.com
 orgxts.com
+origanfumier.digital
 orige-duo.com
 origin-ads.exdynsrv.com
 origin-ads.exosrv.com
@@ -12606,6 +12620,7 @@ pixels.ad.gt
 pixels.asia
 pixels.omnitagjs.com
 pixels.truvidplayer.com
+pixfuture.com
 pixiedust.buzzfeed.com
 piximedia.com
 pixnet-network-falcon.pixanalytics.com
@@ -13690,6 +13705,7 @@ report.vnay.vn
 report.woodpeckerlog.com
 report2.mediahub.vn
 reportcentral.doubleclick.net
+reporting-api.gannettinnovation.com
 reporting-stvde.adsafety.net
 reporting.aatkit.com
 reporting.bidtellect.com
@@ -14641,6 +14657,7 @@ serve.revcontent.com
 serve.somplo.com
 serve2.cheqzone.com
 servebom.com
+served-by.pixfuture.com
 servedby-buysellads.com
 servedby.aqua-adserver.com
 servedby.flashtalking.com
@@ -16826,6 +16843,7 @@ travelholic.adop.cc
 travelingturtleharmonious.com
 travis.bosscasinos.com
 trax-ad.jp
+traxex.gannettdigital.com
 trazk.com
 trblocked.com
 trbo.com
