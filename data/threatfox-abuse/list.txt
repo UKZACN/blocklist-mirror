@@ -502,6 +502,7 @@ arpaav2.ddns.net
 arpaviews.com
 arponet.duckdns.org
 arrowlchat.com
+artacrazy.s2.subdomainbot.top
 artes911sh.com
 arthas89sh.com
 arthurcauaaraujozepto.live
@@ -592,6 +593,7 @@ aui.hopto.org
 auronavtimor.com
 aurorawenters.com
 aus-anzhelp.com
+ausixo.xyz
 australiansuper.xyz
 auth.webapi-telegram.com
 authenticate.top
@@ -1136,8 +1138,10 @@ chasdaey.makeup
 chatgigi2.com
 cheaper.buzz
 cheaplate.info
+check.judicical.ml
 check.up.interior-gov-pk.org
 check.update.nadra-pk.org
+check1.judicical.ml
 checkdoubledns.xyz
 checkmybones.dns.army
 checkping.ddns.us
@@ -1214,6 +1218,7 @@ cms.epicbags.top
 cnc.cattostresser.com
 cnc.corh.cf
 cnc.kintaro.cc
+cnc.nekololis.wtf
 cnc.wq.gy
 cnzz.fnxitong.com
 coalafoods.com
@@ -1424,7 +1429,6 @@ czxsderwsaiovc.cyou
 czxsderwsaiovc.makeup
 d12lysxt2c11pc.cloudfront.net
 d1672414.azureedge.net
-d16vrz45pe7l8i.cloudfront.net
 d194zjmj02lpmi.cloudfront.net
 d1am0nd.ddns.net
 d1fgry9dth4dwk.cloudfront.net
@@ -1443,7 +1447,6 @@ d2h7014tid4d1y.cloudfront.net
 d2it5qvo5v7f26.cloudfront.net
 d2k9649bx1yvrv.cloudfront.net
 d2keeghmxuwkh3.cloudfront.net
-d2keqa7g0xnve6.cloudfront.net
 d2r7zxxp94uuq9.cloudfront.net
 d2s6z1m6xnp5uj.cloudfront.net
 d2t63xuowhr5jl.cloudfront.net
@@ -3528,6 +3531,7 @@ m.msi-afteburner.com
 m.msl-afteburner.com
 m.msl-aftebuurner.xyz
 m0.nu
+m7py7pju95.execute-api.us-east-1.amazonaws.com
 m7r4r2i2.stackpathcdn.com
 maboloud.com
 macapps-download.com
@@ -3773,6 +3777,7 @@ msf-sql.com
 msft-resources.eastus.cloudapp.azure.com
 msi-afteburner.com
 msi-afterbarner.com
+msk-gov.com
 msl-afterbarnur.gethonestseo.com
 msl-afterbumers.shop
 msl-afterbumers.xyz
@@ -4872,6 +4877,7 @@ s172.minrosoftupdate.com
 s173.minrosoftupdate.com
 s2.google-support.org
 s2.mieccm.com
+s2.subdomainbot.top
 s28bxcw.xyz
 s3amzn.com
 s3r.ompan.top
@@ -5139,7 +5145,6 @@ service-myg47s10-1256578115.gz.apigw.tencentcs.com
 service-n4ufol3c-1252579309.gz.apigw.tencentcs.com
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com
 service-na956zr6-1309996193.gz.apigw.tencentcs.com
-service-nl25bhib-1257451595.sh.apigw.tencentcs.com
 service-nllkzxuw-1301998990.hk.apigw.tencentcs.com
 service-now.support
 service-nwe3sk3y-1303130145.gz.apigw.tencentcs.com
@@ -5274,7 +5279,6 @@ slom0wise4.xyz
 slow.digisert-telemetry.com
 slugmefilehos.xyz
 smacktoloapert.com
-smallpetlive.com
 smiley.seersoc.com
 smkpro.to
 smockalifatori.com
@@ -5352,6 +5356,7 @@ srvupdate.duckdns.org
 ss.apjeoighw.com
 sscimails.com
 ssm.awszonwork.com
+sso.airspace.lol
 sso.gimsvalued.com
 sso.sermifleksiks.com
 sso.silversters.com
@@ -5406,6 +5411,7 @@ stylediamond.top
 stylinup.top
 su1001-2.top
 sub.not2beabused02.xyz
+subdomainbot.top
 submitgoogleurl.com
 success.ehealthsimplified.com
 sucessoempresarial.best
@@ -5525,6 +5531,7 @@ test.bookinfirst.com
 test.g-security.cn
 test.gethonestseo.com
 test.gxzf.site
+test.htl502.tech
 test.msi-afteburner.com
 test.msl-afteburner.link
 test.msl-aftebuurner.xyz
@@ -5835,7 +5842,6 @@ update.nodfirewalld.org
 update.pwserver.top
 update.sixcode.shop
 update.up.interior-gov-pk.org
-update.viewdns.net
 update04.microsoft-essentials.com
 updateclientssoftware.com
 updatecloudservice1.com
@@ -8622,6 +8628,7 @@ yawzyj44.top
 ycracks.com
 ydteamwou.com
 ydwwfxeazat.top
+yeit8sb.top
 yekuvob.com
 yellokomput.xyz
 yelsopotre.com
@@ -8647,7 +8654,10 @@ yoyiwevigo.com
 yozadading.com
 yrqcxhixmoxp.cfd
 ys.myhome.xin
+yseven7sb.top
+ysix6sb.top
 ythingamgladt.com
+ythre3pn.top
 ythre3sb.top
 ytsoftware.info
 ytxr3dyauw7.hugoeyagomucasltda.shop
@@ -8655,6 +8665,7 @@ ytyrxcvuiorwe.cyou
 ytyrxcvuiorwe.makeup
 yun.1wkxpfzmtvdkvekpro.xyz
 yw2204.shop
+yyfive5vs.top
 zacharryblogs.com
 zahidgo.ru
 zaocopper.sbs

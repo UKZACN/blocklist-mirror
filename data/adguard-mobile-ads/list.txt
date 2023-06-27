@@ -451,6 +451,7 @@ i.isnssdk.com
 i.singular.net
 i.skimresources.com
 i16-tb.isnssdk.com
+i18n-pglstatp.com
 i2.myapkcdn.in
 i2ad.jp
 iad.appboy.com
@@ -618,6 +619,7 @@ pagefair.net
 painsko.com
 pangle.io
 pangolin16.isnssdk.com
+pangolin16.sgsnssdk.com
 partnerad.l.doubleclick.net
 partnerearning.com
 pasta.esfile.duapps.com
@@ -687,6 +689,7 @@ servedby.o2.co.uk
 sessionm.com
 setting.rayjump.com
 sexpennyauctions.com
+sf16-scmcdn-sg.ibytedtos.com
 shareasale.com
 sharethrough.com
 silvermob.com
