@@ -340,7 +340,6 @@ comscore.com
 config.appjolt.com
 config.tremorhub.com
 configuration.ttpsdk.info
-content.ad
 contextualadv.com
 cp.pushwoosh.com
 cpactions.com
@@ -563,6 +562,7 @@ mofox.com
 mojiva.com
 monitor.adcaffe.com
 mopub-win-us-east.bksn.se
+mradx.net
 ms.applvn.com
 msg.ettoday.net
 mtag.mman.kr
@@ -690,7 +690,6 @@ servedby.o2.co.uk
 sessionm.com
 setting.rayjump.com
 sexpennyauctions.com
-sf16-scmcdn-sg.ibytedtos.com
 shareasale.com
 sharethrough.com
 silvermob.com
@@ -750,6 +749,7 @@ thecatmachine.com
 theship.club
 thetrafficstat.net
 thind-gke-euw.prd.data.corp.unity3d.com
+tivan.naver.com
 tizerclik.com
 tk0x1.com
 tkcatrun.aotter.net
@@ -797,6 +797,7 @@ usekahuna.com
 usp1.baidu.com
 valshara.com
 velti.com
+veta.naver.com
 videoads-cloud.rovio.com
 videoplus.vo.llnwd.net
 vidout.net
