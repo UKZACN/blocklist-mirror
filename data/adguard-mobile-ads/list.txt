@@ -406,6 +406,7 @@ flurry.com
 flygo.ru
 focas.jp
 friendlyduck.com
+frontman.tmobiapi.com
 fyber.com
 g.doubleclick.net
 gameanalysis.appcpi.net
@@ -581,6 +582,7 @@ nasimobi.com
 native.cli.bz
 nativead.s3.amazonaws.com
 nativex.com
+naverpa-phinf.pstatic.net
 nearbyad.com
 nend.net
 net.rayjump.com
