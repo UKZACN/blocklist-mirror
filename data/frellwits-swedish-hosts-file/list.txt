@@ -446,6 +446,7 @@ etc-cdn-staging.ams3.digitaloceanspaces.com
 eteppy.com
 eu.npario-inc.net
 eu2.madsone.com
+eum.instana.io
 europe-west1-bonnier-big-data.cloudfunctions.net
 eus.rubiconproject.com
 events-collector.spot.im
@@ -494,6 +495,7 @@ go.ezoic.net
 graphics.adrecord.com
 greatstoryvideo.se
 gtm.findroommate.dk
+gtm.proff.se
 gwen.insertcoin.se
 gym-shark-sverige.com.se
 gymsharksverige.com.se
@@ -899,6 +901,7 @@ stats.jibber.social
 stats.kaltura.com
 stats.playoncenter.com
 stats.poddtoppen.se
+stats.proff.se
 stats.tipser.com
 stats.userneeds.com
 stats.wp.com
