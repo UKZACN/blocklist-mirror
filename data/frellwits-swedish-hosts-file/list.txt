@@ -247,6 +247,7 @@ cdn-eu.clickdimensions.com
 cdn-gl.imrworldwide.com
 cdn-scripts.signifyd.com
 cdn.adfenix.com
+cdn.adligature.com
 cdn.adnuntius.com
 cdn.adpushup.com
 cdn.adspirit.de
@@ -919,6 +920,8 @@ svt.d3.sc.omtrdc.net
 sync.go.sonobi.com
 sync.richaudience.com
 synchrobox.adswizz.com
+system-notify.app
+t.atmng.io
 t.contentinsights.com
 t.elasticsuite.io
 t.fml.rip
