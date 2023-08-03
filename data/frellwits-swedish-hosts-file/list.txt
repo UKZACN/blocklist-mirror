@@ -549,6 +549,7 @@ jackwolfskinsverige.com.se
 js-agent.newrelic.com
 js-sec.indexww.com
 js.appboycdn.com
+js.datadome.co
 js.glitnoraffiliates.com
 js.hs-analytics.net
 js.hs-banner.com
@@ -930,6 +931,7 @@ t.myvisitors.se
 t.raptorsmartadvisor.com
 t0.extreme-dm.com
 t1.extreme-dm.com
+tag.aticdn.net
 tag.heylink.com
 tag.imonomy.com
 tag.targeting.unrulymedia.com
