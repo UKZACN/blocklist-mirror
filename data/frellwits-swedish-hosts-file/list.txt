@@ -300,6 +300,7 @@ cdn.routy.app
 cdn.shareaholic.net
 cdn.snigelweb.com
 cdn.speedcurve.com
+cdn.sprida.se
 cdn.taboola.com
 cdn.usefathom.com
 cdn.userreport.com
@@ -516,6 +517,7 @@ hpevoices.com
 hsadspixel.net
 hst.tradedoubler.com
 htlb.casalemedia.com
+ib.adnxs-simple.com
 ib.adnxs.com
 iba.feedblitz.com
 icarabatt.com
