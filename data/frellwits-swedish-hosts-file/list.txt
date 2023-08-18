@@ -552,6 +552,7 @@ js-agent.newrelic.com
 js-sec.indexww.com
 js.appboycdn.com
 js.datadome.co
+js.getlasso.co
 js.glitnoraffiliates.com
 js.hs-analytics.net
 js.hs-banner.com
@@ -581,6 +582,7 @@ l.betrad.com
 l.sharethis.com
 lanapengar.expressen.se
 lararforbundet.analytics.ozzi.io
+lasso.link
 lduhtrp.net
 leadconnect.ipmaxi.se
 leadenhancer.com
