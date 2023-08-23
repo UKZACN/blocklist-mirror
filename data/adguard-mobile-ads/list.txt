@@ -27,6 +27,7 @@ ad-x.co.uk
 ad.apps.fm
 ad.apsalar.com
 ad.auditude.com
+ad.buzzvil.com
 ad.cauly.co.kr
 ad.daum.net
 ad.doubleclick.net
@@ -679,6 +680,7 @@ s3.ttpsdk.info
 saymedia.com
 sc.smardroid.com
 scorecardresearch.com
+screen.buzzvil.com
 sdk-api-v1.singular.net
 sdk.adtiming.com
 sdk.native123.com
