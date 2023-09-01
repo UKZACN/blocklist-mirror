@@ -154,7 +154,6 @@ api.deep.bi
 api.fouanalytics.com
 api.getlevelten.com
 api.innomdc.com
-api.ipify.org
 api.retargetly.com
 api.segment.io
 api3847.d41.co
