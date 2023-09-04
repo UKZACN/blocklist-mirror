@@ -49,6 +49,7 @@ ad9.emediate.dk
 ad9.emediate.se
 adcell.io
 adclick.se
+addrevenue.io
 addy.expressen.se
 adeprimo.se
 adglare.net
@@ -244,6 +245,7 @@ cdn-3.convertexperiments.com
 cdn-a.yieldlove.com
 cdn-eu.clickdimensions.com
 cdn-gl.imrworldwide.com
+cdn-magiclinks.trackonomics.net
 cdn-scripts.signifyd.com
 cdn.adfenix.com
 cdn.adligature.com
@@ -1141,6 +1143,7 @@ www.air-max.se
 www.alphalete.com.se
 www.altrasverige.com.se
 www.anrdoezrs.net
+www.aservice.tools
 www.awin1.com
 www.awltovhc.com
 www.blogtoplist.se
