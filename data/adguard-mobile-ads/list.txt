@@ -106,6 +106,7 @@ adproxy.tf1.fr
 adpublisher.s3.amazonaws.com
 adpush.goforandroid.com
 adquota.com
+ads-api.kidsnote.com
 ads-bidder-api.twitter.com
 ads-chunks.prod.ihrhls.com
 ads-cloud.rovio.com

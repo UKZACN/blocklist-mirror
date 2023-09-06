@@ -1120,6 +1120,7 @@ wdg.headerlift.com
 web-analytics.ica.se
 webbannons.ntm.eu
 webpower.eu
+websdk.appsflyer.com
 webstats.100procent.com
 widget.boende.se
 widget.cdn.citygate.se
