@@ -1362,6 +1362,8 @@
 13m-allegro-9283.turboparts-identify.com
 13markets.com
 13onet.azureedge.net
+14-09-govpl.online
+14-09govpl.online
 14-energy.azureedge.net
 14-interia.azureedge.net
 14-wp.azureedge.net
@@ -2004,6 +2006,7 @@
 1o.money-poland.fun
 1onet.azureedge.net
 1p.kdowwqko.com
+1p.mbnbmmb.com
 1p.poland-lux.fun
 1pl.mom
 1pl.site
@@ -2043,6 +2046,7 @@
 1tprog.activpl-pro.site
 1uniquequest.xyz
 1up.quest
+1vigore.za.com
 1vvl753ktp0a.swipepages.net
 1w-informacjepl.waw.pl
 1wiadomosci-24news.ct8.pl
@@ -2679,6 +2683,7 @@
 2active.services-ai-tech.site
 2ae3223879a75238b99181ede8ce2777.alldom.co.pl
 2ae5998a394a3dd82ae5998a394a3dd8.azureedge.net
+2alcaparral.sa.com
 2anewsfeed.com
 2app.fintodayai.fun
 2app.tech-online-ai.pics
@@ -6004,6 +6009,7 @@
 88c3e807d363bc8b4c809e44c62af66e.alldom.co.pl
 88c78b95388cee5ed0c5cc9a79a0f93d.hospla.co.pl
 88e649ba39663aed458099bb89a9d709.szlapaks.pl
+89-23-103-27.cprapid.com
 890.1223234.pw
 890.345893.pw
 890099aktualizacja-weryfikacja.dawideka.pl
@@ -7055,6 +7061,11 @@ aa135.dichvummo.xyz
 aa139.shopmuopios.online
 aa165.dichvummo.xyz
 aa168.dichvummo.xyz
+aa179.shopmuopios.online
+aa183.dichvummo.xyz
+aa203.shopmuopios.online
+aa23.dichvummo.xyz
+aa24.shopmuopios.online
 aa259.dichvummo.xyz
 aa26.dichvummo.xyz
 aa300.dichvummo.xyz
@@ -7065,16 +7076,21 @@ aa405.dichvummo.xyz
 aa425.dichvummo.xyz
 aa427.dichvummo.xyz
 aa427fd25e23962c332be9340d8d41ea.twojedom.pl
+aa43.shopmuopios.online
 aa440.dichvummo.xyz
+aa446.dichvummo.xyz
 aa44d4c320beb3aa2e47e1d4ff16b922.hospla.co.pl
 aa452.dichvummo.xyz
 aa4718624fe91adffadb66bbdb3d8d66.trsdha.pl
 aa473590356248eebe6a9a553da7e9fc.wopma.co.pl
+aa48.shopmuopios.online
 aa480.dichvummo.xyz
+aa486.shopmuopios.online
 aa494.dichvummo.xyz
 aa498bb399d360af534448554622d7f7.alldom.co.pl
 aa509.dichvummo.xyz
 aa52.dichvummo.xyz
+aa555.shopmuopios.online
 aa560.dichvummo.xyz
 aa566.shopmuopios.online
 aa569b639434b4efb1425bb5d579b5ad.podlaw.co.pl
@@ -7085,10 +7101,15 @@ aa592.dichvummo.xyz
 aa606.dichvummo.xyz
 aa642.shopmuopios.online
 aa644.dichvummo.xyz
+aa646.shopmuopios.online
+aa647.dichvummo.xyz
+aa647.shopmuopios.online
 aa675.dichvummo.xyz
+aa691.shopmuopios.online
 aa699.shopmuopios.online
 aa710.dichvummo.xyz
 aa716.shopmuopios.online
+aa72.dichvummo.xyz
 aa727.dichvummo.xyz
 aa730.dichvummo.xyz
 aa731.dichvummo.xyz
@@ -7097,16 +7118,21 @@ aa762.dichvummo.xyz
 aa767.dichvummo.xyz
 aa768.dichvummo.xyz
 aa770.dichvummo.xyz
+aa774.shopmuopios.online
 aa782.dichvummo.xyz
 aa795.dichvummo.xyz
 aa804.dichvummo.xyz
+aa806.shopmuopios.online
 aa809.dichvummo.xyz
 aa813.dichvummo.xyz
+aa834.shopmuopios.online
 aa838.dichvummo.xyz
 aa84098036161f33c7adee9cfd49bc57.dopla.com.pl
 aa867.dichvummo.xyz
 aa870.dichvummo.xyz
+aa878.dichvummo.xyz
 aa889.dichvummo.xyz
+aa904.shopmuopios.online
 aa907.shopmuopios.online
 aa915.dichvummo.xyz
 aa92.dichvummo.xyz
@@ -7157,6 +7183,7 @@ aaronwestbrook.com
 aarsheet.com
 aas.frankprogpr.site
 aasbpb.webwave.dev
+aascc.everadpro.click
 aasjhjjddjkssojssoj.site
 aasjqheudgue.site
 aasjwieiururrnhhhdjjf.site
@@ -7715,6 +7742,7 @@ adventur3life.online
 adventureawaiits.site
 adventurous-shrouded-llama.glitch.me
 adventurous4litt.life
+advicetipmediastory.com
 adviseebk.site
 advisorycouncil.top
 advisorycouncil.xyz
@@ -9544,17 +9572,21 @@ allegrolokalnie.info-formpaygoods.xyz
 allegrolokalnie.informpaydellvery.xyz
 allegrolokalnie.ip-954342.pw
 allegrolokalnie.kup-aukcja24.pl
+allegrolokalnie.kup-sprzedaj.pl
+allegrolokalnie.kup-z-bezpieczna-przesylka.pl
 allegrolokalnie.kup-z-dostawa24.pl
 allegrolokalnie.kup-z-przesylka24.pl
 allegrolokalnie.kupno24.pl
 allegrolokalnie.kupowanie-24.pl
 allegrolokalnie.kupteraz-24.pl
+allegrolokalnie.kupuj-bezpieczenie.pl
 allegrolokalnie.kupuj-bezpiecznie.pl
 allegrolokalnie.kupuj-bezpiecznie24.pl
 allegrolokalnie.life
 allegrolokalnie.live
 allegrolokalnie.loan
 allegrolokalnie.me
+allegrolokalnie.mobilnaplatnosc.pl
 allegrolokalnie.net
 allegrolokalnie.news
 allegrolokalnie.oferta.tech
@@ -9593,6 +9625,9 @@ allegrolokalnie.one
 allegrolokalnie.online
 allegrolokalnie.order7secure.site
 allegrolokalnie.ordering-parcelinfo.xyz
+allegrolokalnie.pay-now24.pl
+allegrolokalnie.pay-u.pl
+allegrolokalnie.payu-online.pl
 allegrolokalnie.pl-buyforitem.pw
 allegrolokalnie.pl-compaytrans.pw
 allegrolokalnie.pl-deliveryfor.pw
@@ -9622,6 +9657,8 @@ allegrolokalnie.pl.paytransbuycom.site
 allegrolokalnie.pl.terencomtrans.pw
 allegrolokalnie.pl.transpbuyitemss.pw
 allegrolokalnie.platnosc-online.pl
+allegrolokalnie.platnosc-online24.pl
+allegrolokalnie.platnosc-payu24.pl
 allegrolokalnie.platnosc-w-sieci.pl
 allegrolokalnie.prywatne-ogloszenia24.pl
 allegrolokalnie.przesylka24h.pl
@@ -9644,8 +9681,11 @@ allegrolokalnie.wygodna-platnosc.pl
 allegrolokalnie.wysylka-online.pl
 allegrolokalnie.zakup-produkt.pl
 allegrolokalnie.zakup-zweryfikowany.pl
+allegrolokalnie.zakup24.pl
+allegrolokalnie.zamow-produkt.pl
 allegrolokalnie.zamow-przedmiot.pl
 allegrolokalnie.zamow-przesylke.pl
+allegrolokalnie.zaplac-bezpieczenie.pl
 allegrolokalnie.zaplac-bezpiecznie.pl
 allegrolokalnie.zaplac-online24.pl
 allegrolokalnie.zaplac-teraz.pl
@@ -10053,6 +10093,7 @@ aluminumon.online
 alunlifirina.cf
 aluxupclub.site
 aluxuphelp.site
+aluxupplus.site
 aluziasi.pl
 alvarez.paulinacieslik.pl
 alvegroiokallne-buy12.423645545.xyz
@@ -10077,6 +10118,7 @@ am.onlineregts.top
 am.polskadep.xyz
 am.siteregitsl.top
 am.zlpolska.xyz
+am2zing45x2z.xyz
 amadeusplo.pl
 amadeusz.arekhasnik.pl
 amadeusz.diament.info.pl
@@ -10089,6 +10131,7 @@ amando.online
 amaon14.com
 amaon15.com
 amaon19.com
+amaon80.com
 amaon81.com
 amaon83.com
 amaon86.com
@@ -10109,6 +10152,7 @@ amazing-sutherland.62-210-144-174.plesk.page
 amazing24qu4st.quest
 amazing63gf7.online
 amazingdiiscovery.site
+amazingscrtdeal.com
 amazon-008.com
 amazon-06.com
 amazon-08.com
@@ -10184,6 +10228,7 @@ amo.can-info.site
 amonitalia.it
 amortuota.com
 amos-salsa-liberty.webnode.it
+amount-in.com
 amourquiz.com
 amphibioticas.live
 amphidiploidies.com
@@ -10435,6 +10480,7 @@ annalovesrichard.com
 annaparteka.pl
 annapolisrotary.com
 annaposluszna.pl
+annasampurnbramha.com
 anncirsmankk.site
 annddis.site
 anneas.click
@@ -10813,6 +10859,7 @@ apple.us-track.email
 apple.us.lnfo.pw
 appleaccount.cfolks.pl
 appleandroseeducation.com
+appleboysmusical.com
 appleid-account.com
 appleid-find.com
 appleid-map.com
@@ -11099,6 +11146,7 @@ artblos.prog-max1pro0g.site
 artbulgaria.com
 arteaframeworks.com
 artechgroupltd.com
+artepolska.github.io
 arteritiss.com
 artfairshow.com
 artfixture.org
@@ -11448,6 +11496,7 @@ atomicenergyo.xyz
 atomicfusionk.xyz
 atomicradiationd.xyz
 atomoxetine.live
+atordeg.com.br
 atovwhacba.cf
 atp-c.ru
 atq.gentrad.xyz
@@ -12033,6 +12082,7 @@ awassa.pl
 awayance.store
 awayclub.monster
 awayence.site
+awayhelp.xyz
 awaying.website
 awazne-fakty.adepusa.com
 awazne-o2.azureedge.net
@@ -12079,6 +12129,7 @@ axa.woltar.live
 axaw.utulo.site
 axd-watter.xyz
 axeisback.site
+axelmetals.cc
 axionlab.com
 axjpzjepvxoqd2glv339rgzrw552.iecza.vip
 axlesys.in
@@ -13742,6 +13793,7 @@ bazarmazowiecki24.pl
 bazave.online
 bazeosyiwi.postmanro.cf
 bazfop.online
+bazgoo.net
 bazhane.xyz
 bazizioboard.com
 bazzoilpgpro.site
@@ -13754,40 +13806,54 @@ bb0ea3792eca030dd44e0723dca73b84.ll-pl.co.pl
 bb139.dichvummo.xyz
 bb166.dichvummo.xyz
 bb167.dichvummo.xyz
+bb171.shopmuopios.online
 bb18.dichvummo.xyz
+bb190.dichvummo.xyz
+bb191.shopmuopios.online
+bb195.shopmuopios.online
 bb196.dichvummo.xyz
 bb197.dichvummo.xyz
 bb20.dichvummo.xyz
 bb228.dichvummo.xyz
+bb233.shopmuopios.online
 bb237.dichvummo.xyz
 bb238.shopmuopios.online
 bb264.dichvummo.xyz
 bb277.dichvummo.xyz
+bb286.shopmuopios.online
 bb287.dichvummo.xyz
 bb2c7942538581aabb673c3a89b6905a.rha.co.pl
+bb30.shopmuopios.online
 bb313.shopmuopios.online
 bb316.dichvummo.xyz
 bb334.dichvummo.xyz
 bb343.dichvummo.xyz
 bb3459.wixsite.com
 bb355.dichvummo.xyz
+bb367.shopmuopios.online
 bb372.dichvummo.xyz
+bb377.shopmuopios.online
 bb415.dichvummo.xyz
+bb416.shopmuopios.online
 bb426.dichvummo.xyz
 bb43.dichvummo.xyz
 bb431.dichvummo.xyz
 bb444.dichvummo.xyz
 bb47.dichvummo.xyz
 bb471.dichvummo.xyz
+bb497.dichvummo.xyz
 bb50.dichvummo.xyz
 bb506.shopmuopios.online
 bb51.shopmuopios.online
 bb511.shopmuopios.online
+bb542.shopmuopios.online
 bb543.dichvummo.xyz
 bb553.dichvummo.xyz
 bb558500d7cc418b7dcd4b822a78e210.rha.co.pl
 bb565.shopmuopios.online
 bb578.dichvummo.xyz
+bb580.shoptheios.online
+bb586.shopmuopios.online
 bb59.dichvummo.xyz
 bb5b8e0a7cf8bb38c82c174810806d83.serswise.pl
 bb609.dichvummo.xyz
@@ -13799,11 +13865,13 @@ bb646.dichvummo.xyz
 bb654.dichvummo.xyz
 bb668.dichvummo.xyz
 bb6738802fc90b982113ce60a831402a.m-pl.co.pl
+bb678.shopmuopios.online
 bb700.dichvummo.xyz
 bb709.dichvummo.xyz
 bb713c9af4a9efb4e21bbf171f5bc87a.hospla.co.pl
 bb716125b3a36c67d9d40b029c7caedb.pocklag.pl
 bb719.dichvummo.xyz
+bb722.shopmuopios.online
 bb728.dichvummo.xyz
 bb729.shopmuopios.online
 bb73.dichvummo.xyz
@@ -13812,14 +13880,18 @@ bb761.dichvummo.xyz
 bb763bf37762bb888eef3a5d5794e27f.krokla.co.pl
 bb788.dichvummo.xyz
 bb791.dichvummo.xyz
+bb795.dichvummo.xyz
 bb796.dichvummo.xyz
 bb796c6ef9ef6ca1cf6b8284fcf7458b.domsna.pl
+bb80.shopmuopios.online
 bb805.dichvummo.xyz
 bb808.dichvummo.xyz
 bb810.dichvummo.xyz
 bb820.dichvummo.xyz
+bb823.shopmuopios.online
 bb834.dichvummo.xyz
 bb837.dichvummo.xyz
+bb844.shopmuopios.online
 bb846.dichvummo.xyz
 bb856.dichvummo.xyz
 bb864.dichvummo.xyz
@@ -13832,14 +13904,18 @@ bb875.dichvummo.xyz
 bb877.dichvummo.xyz
 bb880.dichvummo.xyz
 bb906.shopmuopios.online
+bb91.shopmuopios.online
 bb912.dichvummo.xyz
 bb933.dichvummo.xyz
+bb944.dichvummo.xyz
 bb954.dichvummo.xyz
 bb96.shopmuopios.online
 bb968.dichvummo.xyz
+bb978.shopmuopios.online
 bb98167bbad55d07086fc892d67cb752.alldom.co.pl
 bb984.dichvummo.xyz
 bb989.shopmuopios.online
+bb990.shopmuopios.online
 bb991.dichvummo.xyz
 bb995.dichvummo.xyz
 bb999.dichvummo.xyz
@@ -14142,6 +14218,7 @@ bejalinasvet19.za.com
 bejeezu.com
 bejesuit.life
 beka.antcris.xyz
+bekarats.com
 beklear.net
 bel-store.online
 belacharts.com
@@ -15424,6 +15501,7 @@ blogg.maxipl-system.xyz
 blogg.maxiprog.xyz
 blogg.t0project.site
 blogg1.t0project.site
+blogger-register.com
 blogggl.czpro.site
 blogi-pro.prof-stat.site
 blogi.ctiril.online
@@ -15511,6 +15589,7 @@ bltpipe.myoilcamps.com
 bltt.myoilcamps.com
 blttc.plprogram-act.site
 blubberous.live
+blue-angelica-29.tiiny.site
 blue-milk.com
 bluebadgecenters.tk
 bluebillsb.com
@@ -17982,6 +18061,7 @@ caxielerk.site
 caz.gaznf.xyz
 caz.livered.xyz
 cazs.lareg.site
+cb-k43.one
 cb-maxpl.bond
 cb-roblox.com
 cb.newaistar.top
@@ -18028,17 +18108,22 @@ cbvz2.codetop1a.click
 cc.aboutnews.top
 cc.propl.top
 cc0ed3dcae1.bakerstreet.uk.com
+cc102.shopmuopios.online
 cc108.dichvummo.xyz
+cc114.shopmuopios.online
 cc115.dichvummo.xyz
+cc115.shopmuopios.online
 cc131.dichvummo.xyz
 cc133.dichvummo.xyz
 cc143.shopmuopios.online
+cc163.dichvummo.xyz
 cc166.dichvummo.xyz
 cc17301.tmweb.ru
 cc17729.tmweb.ru
 cc182.dichvummo.xyz
 cc189.shopmuopios.online
 cc201.dichvummo.xyz
+cc203.dichvummo.xyz
 cc204.dichvummo.xyz
 cc206.dichvummo.xyz
 cc209.shopmuopios.online
@@ -18049,18 +18134,26 @@ cc257.dichvummo.xyz
 cc282.dichvummo.xyz
 cc29.dichvummo.xyz
 cc295.shopmuopios.online
+cc304.dichvummo.xyz
 cc32.shopmuopios.online
+cc336.shopmuopios.online
 cc342.dichvummo.xyz
 cc364.dichvummo.xyz
 cc378.shopmuopios.online
+cc391.shopmuopios.online
 cc3f35714aaa353f6d9211d297b789ae.alldom.co.pl
 cc407.dichvummo.xyz
 cc4288d2c705dcbca08350db138d909c.sht.co.pl
+cc438.shopmuopios.online
+cc441.dichvummo.xyz
 cc443.dichvummo.xyz
 cc449.dichvummo.xyz
 cc454.dichvummo.xyz
+cc455.shopmuopios.online
+cc459.shopmuopios.online
 cc467.dichvummo.xyz
 cc468.dichvummo.xyz
+cc468.shopmuopios.online
 cc469.dichvummo.xyz
 cc495.dichvummo.xyz
 cc4c65ca6d368acb31d8c021b9404a84.alldom.co.pl
@@ -18072,8 +18165,11 @@ cc566.dichvummo.xyz
 cc567.dichvummo.xyz
 cc567.shopmuopios.online
 cc571.dichvummo.xyz
+cc592.dichvummo.xyz
 cc594.shopmuopios.online
 cc598.dichvummo.xyz
+cc598.shoptheios.online
+cc602.dichvummo.xyz
 cc60b9422dd1d12a164c6c906e0a86d5.krokla.co.pl
 cc611.dichvummo.xyz
 cc625.dichvummo.xyz
@@ -18084,9 +18180,12 @@ cc672.dichvummo.xyz
 cc675.dichvummo.xyz
 cc67620.tmweb.ru
 cc683.dichvummo.xyz
+cc685.shopmuopios.online
 cc689.dichvummo.xyz
 cc690c4c270.johncornell.com
 cc696.dichvummo.xyz
+cc701.shopmuopios.online
+cc712.shopmuopios.online
 cc714.dichvummo.xyz
 cc717.shopmuopios.online
 cc72.dichvummo.xyz
@@ -18101,8 +18200,11 @@ cc75607.tmweb.ru
 cc757.dichvummo.xyz
 cc759.dichvummo.xyz
 cc767.dichvummo.xyz
+cc775.dichvummo.xyz
 cc778.shopmuopios.online
+cc784.shopmuopios.online
 cc787.shopcanhios.online
+cc798.shopmuopios.online
 cc80.dichvummo.xyz
 cc835.shopmuopios.online
 cc838.dichvummo.xyz
@@ -18306,6 +18408,7 @@ celipe.pl
 cell101.online
 cellared.space
 cellarette.pl
+cellfons.online
 cellobiose.pl
 celltranspl.com
 cellulokrk.space
@@ -18446,6 +18549,7 @@ cerranita.com
 cersed-site.preview-domain.com
 cerskot.online
 cert-info.pl
+cert.pl.leaseholdgeese.com
 certanvonservation.xyz
 certel.xyz
 certenity.com
@@ -18936,6 +19040,7 @@ childinfo.eu
 chilequetequiero.cl
 chillmag.it
 chillprog.pl-pr0fiprog.site
+chillweekend.online
 chilndreninfo.eu
 chimayo.life
 chimlasski.pl
@@ -19577,6 +19682,7 @@ codebomber.com
 codebrew.nl
 codeformer.com
 codejit.com
+codelabnp.com
 codenexuss.online
 codenhealth.com
 codequista.com
@@ -20212,6 +20318,7 @@ correos-sa.top
 correospl.top
 correosposts.top
 correses.buzz
+correspondence.ima-lb.com
 correspondtyu.online
 corroborat.pl
 corrodeimpale.space
@@ -20521,6 +20628,7 @@ creatureli.pl
 creatz.pl
 creazionesitointernet.xyz
 credefor-site.preview-domain.com
+credi-enlinea.com
 credisales.com
 credit-agrecolle.pl
 credit-agricole-fr.de.cool
@@ -21069,6 +21177,7 @@ cyfronet-pl.webnode.page
 cyfrowypolsate.com
 cylinderin.com
 cylindroconical.org
+cynuguuautr2.pro
 cyop.geekslabs.bond
 cyp9pl.urrencypl.site
 cyperuss.info
@@ -23604,11 +23713,14 @@ dd1c68858375c6bda82c617e8c0ed03a.aols.pl
 dd1d0a99ea03b1c195b3d6efa9c7109b.hospla.co.pl
 dd1ipz7r6g6rn.cloudfront.net
 dd203.dichvummo.xyz
+dd204.shopmuopios.online
 dd234.shopmuopios.online
 dd237.dichvummo.xyz
 dd239.shopmuopios.online
+dd255.dichvummo.xyz
 dd257.dichvummo.xyz
 dd280.dichvummo.xyz
+dd291.shopmuopios.online
 dd292.dichvummo.xyz
 dd2aa43xdzweu.cloudfront.net
 dd328.shopmuopios.online
@@ -23616,13 +23728,17 @@ dd342.dichvummo.xyz
 dd344c42380892545bd2e5877d208913.alldom.co.pl
 dd345.dichvummo.xyz
 dd346.dichvummo.xyz
+dd367.shopmuopios.online
 dd374.dichvummo.xyz
 dd384.dichvummo.xyz
 dd390.shopmuopios.online
+dd397.shopmuopios.online
 dd418.shopmuopios.online
 dd421.shopmuopios.online
 dd437.dichvummo.xyz
+dd449.shopmuopios.online
 dd451.dichvummo.xyz
+dd476.shopmuopios.online
 dd479.dichvummo.xyz
 dd490.shopmuopios.online
 dd4cdc812e3136e8a3163ab53eb7ffaf.alldom.co.pl
@@ -23631,6 +23747,7 @@ dd506.dichvummo.xyz
 dd51.dichvummo.xyz
 dd51.shopmuopios.online
 dd510.dichvummo.xyz
+dd518.shopmuopios.online
 dd552.dichvummo.xyz
 dd56173c7c631bb852afdb70fecdf81c.alldom.co.pl
 dd562.dichvummo.xyz
@@ -23643,16 +23760,19 @@ dd5a64a07b025070d4bc2df8564786ca.alldom.co.pl
 dd5sehfh7gng0.cloudfront.net
 dd60ce25b7e3d0b17f6b0e62cf549564.dopla.com.pl
 dd61.dichvummo.xyz
+dd615.shopmuopios.online
 dd620.dichvummo.xyz
 dd630.dichvummo.xyz
 dd630.shopcanhios.online
 dd641.shopmuopios.online
 dd66.dichvummo.xyz
 dd661.dichvummo.xyz
+dd669.shopmuopios.online
 dd675.shopmuopios.online
 dd6e58e3d724bc08dab2821bc1860c22.ll-pl.co.pl
 dd703.dichvummo.xyz
 dd712.dichvummo.xyz
+dd712.shopmuopios.online
 dd721d92ef9.chefs-kitchen.co.uk
 dd727.dichvummo.xyz
 dd748.dichvummo.xyz
@@ -23666,11 +23786,17 @@ dd8.nasilorulur.com
 dd808a0aa601d7a03d1fedf2226a5714.moksila.pl
 dd82xtn58ba6q.cloudfront.net
 dd835.dichvummo.xyz
+dd859.dichvummo.xyz
 dd864.dichvummo.xyz
+dd875.shopmuopios.online
+dd882.shopmuopios.online
+dd884.dichvummo.xyz
 dd90.dichvummo.xyz
 dd914.dichvummo.xyz
 dd924eb58e03b952445585b29007dd06.malego.co.pl
 dd92738abf8c9ffd1a4881377cfe569e.hospla.co.pl
+dd928.shopmuopios.online
+dd941.shopmuopios.online
 dd94626be66d83afe8596eb74c3c4eff.hospla.co.pl
 dd947.dichvummo.xyz
 dd964.dichvummo.xyz
@@ -24954,6 +25080,7 @@ dggfhcjdkhdslkattsfs.weebly.com
 dggvbj9o0rnkf.cloudfront.net
 dghool.miliomp.xyz
 dgjdla9k827sl.cloudfront.net
+dgkl-3l.cfd
 dgks.autos
 dgkx03.buzz
 dgl-32.homes
@@ -26192,6 +26319,7 @@ donatecanna.com
 donated.live
 donatelaoperpl.site
 donaticampise.eczechow.net.pl
+donationsform.com
 donationukraine.io
 donboss.com.pl
 donboss.pl
@@ -26287,6 +26415,7 @@ doreczyciel24.net
 doreczyciele.net
 dorery.weebly.com
 dorestpgno.com
+doret.onlinezuckprogs.online
 dorian-shard-shell.glitch.me
 dorilis-invest.pro
 dorion.life
@@ -28990,6 +29119,7 @@ egwbqsx.vip
 egxk-offers.com
 egyptbenz.com
 egyptianvegetables.com
+egyptily.com
 egyptmercedes.com
 egypttel.com
 egyyds.xyz
@@ -29044,6 +29174,7 @@ eizzv4f6tz.woronka.com.pl
 ejaculacaotardia.online
 ejecensu.com
 ejectazo.com
+ejectorseshoe.eu
 ejnowak.celinamilla.com.pl
 ejqtyp.webwave.dev
 ejrozkzotw.cfolks.pl
@@ -29218,6 +29349,7 @@ elizabethbell.org
 elizabethrocca.com
 elizapet.com
 elj.finnewspl.com
+elkukuteo.com
 ellafinances.com
 ellastikka.online
 ellectrokuchnia.pl
@@ -29661,6 +29793,7 @@ enjoymenthh.top
 enkerinwordlib.tk
 enkolayyol.com
 enkon-cn.com
+enlaguanabana.com
 enlistments.live
 enneagramtesting.org
 enorhydti.ml
@@ -29724,6 +29857,7 @@ eolopiles.com
 eolx.id-9482.me
 eolx.pl
 eom7.maxpeoplepl.top
+eonegreen.com
 eonepy.com
 eopher.pl
 eoplaty.net
@@ -31133,6 +31267,7 @@ fact.job-bfl.xyz
 fact.meetttaa-prog.top
 fact.mestopoland.pro
 fact.online-prog1.site
+factdonkey.com
 factes.welcme-proftr.site
 factgyani.com
 facticityg.pl
@@ -31193,6 +31328,7 @@ fairandwhiteboutique.com
 fairnessestallis.info
 fairtrade.ethicalbusinesses.cfd
 fairwayweb.net
+fairylighthouse.com
 fairyseasonn.com
 faitesi.site
 faith-bridge.org
@@ -31575,6 +31711,7 @@ famedeyas.com
 fameloteria.pl
 famfunj.com
 famiecomea.com
+familiehojland2.b2style.dk
 familybudget.cyou
 familybudget.rest
 familyfithealth.com
@@ -32075,6 +32212,7 @@ fdiyn.ritual-construction-kit.com
 fdmoe.hrsfregencyclub.com
 fdn4au.webwave.dev
 fdnzx.com
+fdqryznbktsm.com
 fds.neomai.site
 fds799a-allegro.pl.sprale.co.pl
 fds799a-allegro.pl.torza.co.pl
@@ -32162,6 +32300,7 @@ federico-r-figueredo.com
 fedex.info.pl
 fedmsmdscke.site
 fednsmo-xyz.preview-domain.com
+fedoroffssteaks.com
 fedyaeva.com
 fee0b6cb0653ab08fae4b6500a7429b3.sht.co.pl
 fee4a37c2c179a2834e06f2243a5a754.alldom.co.pl
@@ -32289,6 +32428,7 @@ fesdor.link
 fesdorw.com
 fesgol.link
 fesoe.viralspotlight.com
+festate.net
 festeatemashop.it
 festerphosphate.com
 festivalofsnow.com
@@ -32316,15 +32456,19 @@ ff00c3489ee022c1ad5be5fdb48aab38.podlaw.co.pl
 ff07b6d7193b229c40f4c9174e014523.iwosa.pl
 ff104.dichvummo.xyz
 ff105.dichvummo.xyz
+ff128.shoptheios.online
 ff134.dichvummo.xyz
 ff155.dichvummo.xyz
 ff156.dichvummo.xyz
+ff16.shoptheios.online
 ff1602b299af4b1e8a3825c30f55a759.negosla.pl
 ff174b29c8069c6b9fcd6a9cfa0f19b8.boawgr.pl
 ff178.dichvummo.xyz
+ff191.dichvummo.xyz
 ff192.dichvummo.xyz
 ff193.dichvummo.xyz
 ff24info.pl
+ff279.shopmuopios.online
 ff28.dichvummo.xyz
 ff281.dichvummo.xyz
 ff295.dichvummo.xyz
@@ -32333,6 +32477,7 @@ ff316.dichvummo.xyz
 ff332.dichvummo.xyz
 ff338.dichvummo.xyz
 ff362.dichvummo.xyz
+ff363.shopmuopios.online
 ff364.dichvummo.xyz
 ff366.dichvummo.xyz
 ff37050fd3f418318697cc2aa0a61529.dopla.com.pl
@@ -32344,19 +32489,27 @@ ff394.dichvummo.xyz
 ff433.dichvummo.xyz
 ff44.dichvummo.xyz
 ff440.dichvummo.xyz
+ff444.dichvummo.xyz
 ff460.dichvummo.xyz
+ff464.dichvummo.xyz
+ff484.shopmuopios.online
 ff486.dichvummo.xyz
 ff49.shopmuopios.online
+ff490.shopmuopios.online
+ff502.shopmuopios.online
 ff506.dichvummo.xyz
+ff513.shopmuopios.online
 ff520.dichvummo.xyz
 ff546.shopmuopios.online
 ff558.dichvummo.xyz
 ff562.dichvummo.xyz
+ff564.shoptheios.online
 ff593.dichvummo.xyz
 ff5c1f4972d423a78b8d7cebb27d2a6b.finangro.co.pl
 ff611.dichvummo.xyz
 ff632.shopmuopios.online
 ff660.shopmuopios.online
+ff667.shopmuopios.online
 ff675.dichvummo.xyz
 ff681.dichvummo.xyz
 ff683.dichvummo.xyz
@@ -32368,6 +32521,7 @@ ff743.dichvummo.xyz
 ff757.shopmuopios.online
 ff760.dichvummo.xyz
 ff773.dichvummo.xyz
+ff782.shopmuopios.online
 ff789.dichvummo.xyz
 ff795.shopmuopios.online
 ff7cebaf977bb80f5dc43a71a3baef84.podlaw.co.pl
@@ -32379,6 +32533,7 @@ ff89.dichvummo.xyz
 ff939.dichvummo.xyz
 ff945.dichvummo.xyz
 ff946.dichvummo.xyz
+ff957.shopmuopios.online
 ff96157136154e440ff1c8ce2d3abbbb.vicerna.pl
 ff976.dichvummo.xyz
 ff990.dichvummo.xyz
@@ -32810,6 +32965,7 @@ finplustechnology.com
 finpubnetwork.com
 finpypj.space
 finschool.info
+finset.website
 finspace.club
 finssuccess.com
 fintamedia.com
@@ -32856,6 +33012,7 @@ first.top-invst.store
 first1business.site
 firstavenuegroup.com
 firstborn.info
+firstcalldisaster.com
 firstchoicehvacplumbing.com
 firstcripto.com
 firstcriptostart.com
@@ -33033,6 +33190,7 @@ flightmanagementsystems.com
 flightpetition.top
 flimak.com
 flimsilyst.life
+flingvideo.com
 flinisprewinclamkid.tk
 flip-io.web.app
 flipbottleonce.shop
@@ -33222,6 +33380,7 @@ fooke.lotynogid.site
 fooledbeer.xyz
 foomkeant.site
 foorseaver.space
+foos.mmtsa.top
 footboardb.com
 footherallpo.online
 footkala.ir
@@ -33388,6 +33547,7 @@ fortress-module.webnode.co.uk
 fortuna.richway.eu
 fortunecu.com
 fortv893210-atndsa231.becbu.com.pl
+fortw.sbs
 forum-okazje.pl
 forum-okazji.net.pl
 forum-okazji.pl
@@ -33668,6 +33828,7 @@ fresh2022-invest.com
 fresh27a82-begin83272z.finapws.co.pl
 fresh30lif7.life
 fresh3que1t.xyz
+fresh5x3z.xyz
 fresh6xy7.quest
 freshbalanceoxygenug.xyz
 freshbyte.site
@@ -33930,6 +34091,7 @@ furryfables.com
 furtherl.sbs
 furthey28a-dica82s.mozeschs.co.pl
 fusevses.shop
+fusionmedialabs.com
 fusionmosaics.com
 fusionwoodworx.com
 fusiooncaro79.site
@@ -34387,6 +34549,8 @@ gazeta-radom.xyz
 gazeta-regionalna.com
 gazeta-sosnowiec.xyz
 gazeta-swiatowa.pl
+gazeta-wyborcza.com.pl
+gazeta-wyborcza.pl
 gazeta.axecart.com
 gazeta.kutno.pl
 gazeta.lomza.pl
@@ -34933,6 +35097,7 @@ ggb.neomai.site
 ggchat.activ-wpro.online
 ggctb.jiuandtiff.com
 ggdab.co
+ggdvrk.shoptheios.online
 ggewgwegwe.001www.com
 ggft.formew.top
 ggftl.formpr.top
@@ -35112,6 +35277,7 @@ gis.emptymileu.online
 gisaiw.com
 gissa-dev.com
 gisz.net.pl
+gitanjalihealthcareservices.com
 gitconvex.com
 gitd.gov.pl.gitdgov.pl
 gitdgov.pl
@@ -35149,6 +35315,7 @@ givverojethe.site
 giwler.pl
 giz.dowss.site
 gizamore.com
+gj-74d.cfd
 gj.abdlidogenerator.site
 gj.startto.top
 gj.tsla-coin.xyz
@@ -36060,6 +36227,7 @@ govbot.space
 government-ads.com
 governorofri.com
 govfac.com
+govisitx.com
 govmexx-govproject.info
 govody.site
 govpl-system.icu
@@ -36071,6 +36239,7 @@ govpl.tech
 govpl.website
 govpl.xyz
 govreadyq.com
+govs.live
 govtjobopenings.com
 govukinfo.com
 govv.pw
@@ -36228,6 +36397,7 @@ gre6enfi1elds.site
 greally.xyz
 greasegorillas.com
 great2mirror.sa.com
+great47onli33e.online
 great4choice.xyz
 greatadmirationpoland.monster
 greatcareernow.com
@@ -36522,6 +36692,7 @@ gsnqh.loleg.com
 gsoo.online
 gsp.typstade.xyz
 gsp20-o029a.klospa.co.pl
+gspe-35.cfd
 gsraf.gradspeeches.com
 gstatic-node.io
 gsuniversal.net
@@ -36548,6 +36719,7 @@ gu98fwrbbpgzgwbbxirvew.on.drv.tw
 guanahanigroup.com
 guanglinwenhua.com
 guarans.uno
+guaranteedcarpetcare.com
 guarmo.win
 gubbancie.com
 guboshlepa.email
@@ -37088,6 +37260,7 @@ hashcontri.pl
 hashkatento.site
 hashresidency.com
 hasiku.maymaxy.xyz
+hasipeacea.live
 hasiuwydi.site
 hasnwqpsma.pl
 hasrt.planticrysa.xyz
@@ -37771,6 +37944,7 @@ hjid.tentaklsistem.click
 hjjxz.shop
 hjkotor.site
 hjkslddow.site
+hjpfuj.webwave.dev
 hjqver.com
 hk-news.net
 hk.tryregnow.xyz
@@ -37949,6 +38123,7 @@ hope-pl.xyz
 hope-polska.live
 hopeforhealth.com.ph
 hopegassproff.site
+hopeofhealth.com
 hopetopinvest.pro
 hophip.redsistem.site
 hopleqor.space
@@ -38145,6 +38320,7 @@ hrudam.com
 hruoxpcwlns0b.bar
 hrvvvintesd.joukenhamy.tk
 hrzgloszenia.wixsite.com
+hs4-ig.cfd
 hs732198321a-j8328329a.milaex.co.pl
 hsb-corp.com
 hsbc-international.com
@@ -38240,6 +38416,7 @@ hulgand.website
 hulkettes.com
 hulking-sleepy-cheetah.glitch.me
 humanismsu.pl
+humanitiesstg.uap.asia
 humanization.life
 humanobstaclecourse.com
 humbleconsultant.com
@@ -38593,6 +38770,7 @@ ic5.topco-eu.xyz
 icanmag.com
 icbc.vividrriver.pw
 iccafirm.com
+iccpookkottumpadam.com
 icdwvintesd.myoraustanidsoc.tk
 ice-metemask.com
 icecraft.info
@@ -38673,6 +38851,7 @@ id852828-attachments.ga
 id870212.pw
 id923923a032ls98329a-f9329alds8329dsa.thisnoew.co.pl
 id95972.net
+idahoexpressoffers.com
 idaro.xyz
 idasdesing.com
 idaum.brujosinternacionales2019.com
@@ -40617,6 +40796,7 @@ informatorpolski-9092126846882.azureedge.net
 informatorpolski-9224804468466.azureedge.net
 informatorpolski-9411011743457.azureedge.net
 informatorpolski-9767169254424.azureedge.net
+informatorpolski-wp.pl
 informatorwojewodzki.cal24.pl
 informatycznie.com.pl
 informcas.inforedan.space
@@ -42813,6 +42993,7 @@ inpost-pl.helpgrow.shop
 inpost-pl.henriette.shop
 inpost-pl.heoustr.ink
 inpost-pl.herbata.top
+inpost-pl.hersan.site
 inpost-pl.hit565783.pw
 inpost-pl.hoclud.site
 inpost-pl.horsecr.club
@@ -43201,6 +43382,7 @@ inpost-pl.umowa93489.shop
 inpost-pl.unblockfun.online
 inpost-pl.unocoinin.shop
 inpost-pl.userinfo-6568.xyz
+inpost-pl.uyfan.space
 inpost-pl.vaflya.online
 inpost-pl.vardas.lol
 inpost-pl.varennes.fun
@@ -43208,6 +43390,7 @@ inpost-pl.velesi.pics
 inpost-pl.vesnju.store
 inpost-pl.visduti.online
 inpost-pl.vpejn.top
+inpost-pl.vtyfas.online
 inpost-pl.vuikhoe.pw
 inpost-pl.vznie.site
 inpost-pl.wagabon.shop
@@ -46770,6 +46953,7 @@ inspiracja-24.azureedge.net
 inspiracjewokol.click
 inspirationcourses.com
 inspired.work
+inspirehappinessquest.cam
 inspirigencebd.com
 inspiring-01923912388123-apsdwoaacadx.netlify.app
 inspiring-901294318924-pasdowoacwsca.netlify.app
@@ -48345,6 +48529,7 @@ jd3s3dp4rhnnzy2jd3s3dp4rhnnzy2.nutracollar.com
 jd990i.web.app
 jdaldavno-com.preview-domain.com
 jdfhbsjs.s3.us-east-005.backblazeb2.com
+jdhe.mmtsa.top
 jdj1ji.web.app
 jdjdlskjoeoeiqzznc.com
 jdjioasjio6jasdp0f.xyz
@@ -49103,6 +49288,7 @@ julejiku.site
 julek.diament.info.pl
 julek.ekomar.com.pl
 julek.magdulaa.pl
+julesbrawn.com
 julia487.pl
 juliaksiezek2023.000webhostapp.com
 juliasi.xyz
@@ -49127,6 +49313,7 @@ jumour.pl
 jump28282-on28az.flxtor.co.pl
 jumplus.com
 june-wealth.za.com
+june.seanewseu.host
 junge-website.preview-domain.com
 junglyu.pl
 jungmaracup.tk
@@ -49836,6 +50023,7 @@ kfmr.dfrtraderxsys.com
 kfsmradio.com
 kft.dropcanoiles.com
 kfubu.brujosychamanesdepanama.com
+kfy.objectop.xyz
 kg-hm-p.firebaseapp.com
 kg-hm-p.web.app
 kg-inv.web.app
@@ -52750,6 +52938,7 @@ lingwords.org
 liniamaterial.site
 liniowy.sportbetsignupcode.com
 link-chat.plwasinve7.site
+link-company.ink
 link-info.clulong1pl.site
 link-pl1.patnew1.xyz
 link.deal-finish-cashin.xyz
@@ -53525,6 +53714,7 @@ lnpost.kontogivecash-inform.space
 lnpost.kosupi.online
 lnpost.krilome.space
 lnpost.kt8.xyz
+lnpost.ktupis.site
 lnpost.lafaroladelujan.online
 lnpost.lanyx.org
 lnpost.laqwr.site
@@ -53817,6 +54007,7 @@ lobster-lock.com
 lobuzo.pl
 loc.bashus.site
 loc28a7z9-all0298z.mnmonikan.pl
+local416.info
 localiser-maps.live
 localizab.com
 localmoney2022.com
@@ -54781,6 +54972,7 @@ lux1.canpeoplefx.site
 lux1.firecantrade.site
 lux2.canpeoplefx.site
 lux4.canpeoplefx.site
+luxaluxup.site
 luxories.xyz
 luxuriant-quilt-map.glitch.me
 luxurious-life.shop
@@ -55014,6 +55206,7 @@ maddeningl.pl
 made4mini.com
 madebythecco.com
 madebythecco.net
+madegossips.com
 madeline.debilami.pl
 madella-sklep.pl
 madellasklep.pl
@@ -55111,6 +55304,7 @@ mail-wolomin.org.pl
 mail-zimbra-update.xllx.live
 mail.24e-lokalne.pl
 mail.5ce3ab6dfc9499285.temporary.link
+mail.89-23-103-27.cprapid.com
 mail.anuriacryp.xyz
 mail.arcticfish.com
 mail.barsplace.com
@@ -55507,6 +55701,7 @@ manuel.martastas.pl
 manuel.mirekkaminskimk.pl
 manuelcordoba.com
 manufzcturiingexcellence.site
+manutruction.com
 manvebader.com
 manveogame.com
 manwardsaccelerator.pl
@@ -55551,6 +55746,7 @@ maratonkv.com
 marballicappen.site
 marbautbaut.co.vu
 marbautyaa1.co.vu
+marbitt.com
 marbleandnoble.com
 marcalexanderjewelry.com
 marcatecnologia.com
@@ -56906,6 +57102,7 @@ meta-appeal-form-i8ds2.web.app
 meta-business-case-a5273.web.app
 meta-business-case-ad9dc.web.app
 meta-business-case-e3ee1.web.app
+meta-business-help.pagesupport.click
 meta-ca.club
 meta-ca.info
 meta-ca.live
@@ -57368,6 +57565,7 @@ millioreu.torgsystem.space
 milliseco.com
 milllogin.inawafnf.com
 milllogin.janeleone.com
+milloa.com
 millogin.janeleone.com
 millpl.getinvestingstrat.xyz
 mills.dozory.nieruchomosci.pl
@@ -57750,6 +57948,7 @@ mk.welcme-proftr.site
 mk17021.waw.pl
 mkalwda.pl
 mkas.apprety.site
+mkauie.com
 mkb-infra.com
 mkknbih.s3.us-west-004.backblazeb2.com
 mkkolerosoft.com
@@ -58361,6 +58560,7 @@ moldinvest.life
 moldprogect.club
 moldprogect.info
 moldprogect.life
+mole.sun-yeh.com
 moledue.xyz
 molinasklep.pl
 moliyamok.com
@@ -58413,6 +58613,7 @@ mondasklep.pl
 mondayswithmegan.com
 mondeo-com.preview-domain.com
 moneeispl.site
+monellin.live
 monento-pl.xyz
 moneronlpa.space
 monespace-bnp.fr
@@ -58669,6 +58870,7 @@ motogielda-handlowo.net.pl
 motogielda-kowaleski.pl
 motogielda-pakszewski.pl
 motogielda-rympek.pl
+motogielda-szpak.pl
 motogielda-wilczynski.pl
 motogielda-zachod.pl
 motogielda24.net.pl
@@ -59326,6 +59528,7 @@ mymaxcare.com
 mymilenium.site
 mymommystruggles.com
 mymtnland.com
+mynam5egen-eratorshop.xyz
 mynetflix-de.net
 mynetflix-setting.com
 mynetflix-user.com
@@ -60255,6 +60458,7 @@ nestbenk-pl.online
 nestbenk-pl.xyz
 nesterweb.pl
 nestpl.online
+nestplbank.com
 net-24-certain.hekko24.pl
 net-flex.com.pl
 net-flex.pl
@@ -60519,6 +60723,7 @@ new3.eu-point.site
 new3pl.site
 new4.eu-point.site
 new5.eu-point.site
+new6que2t.life
 newa.site
 newa.the-programer.xyz
 newabc24.pl
@@ -60575,31 +60780,46 @@ newmo.inforedan.space
 newmoon.btspolsky.top
 newmusks.traidinfomes.space
 newnew111.dichvummo.xyz
+newnew121.shopmuopios.online
 newnew135.dichvummo.xyz
 newnew14.dichvummo.xyz
 newnew145.dichvummo.xyz
+newnew155.shopmuopios.online
 newnew171.dichvummo.xyz
+newnew196.dichvummo.xyz
 newnew233.dichvummo.xyz
+newnew245.shopmuopios.online
 newnew246.dichvummo.xyz
 newnew247.dichvummo.xyz
 newnew268.dichvummo.xyz
+newnew273.dichvummo.xyz
 newnew283.dichvummo.xyz
 newnew306.dichvummo.xyz
 newnew314.shopmuopios.online
 newnew356.dichvummo.xyz
+newnew358.shopmuopios.online
 newnew374.shopcanhios.online
 newnew386.dichvummo.xyz
+newnew396.shopmuopios.online
+newnew404.shopmuopios.online
 newnew426.dichvummo.xyz
 newnew429.dichvummo.xyz
 newnew437.dichvummo.xyz
+newnew438.shopmuopios.online
 newnew444.dichvummo.xyz
+newnew449.shopmuopios.online
+newnew456.dichvummo.xyz
 newnew461.dichvummo.xyz
 newnew48.dichvummo.xyz
 newnew489.dichvummo.xyz
+newnew498.shopmuopios.online
 newnew513.dichvummo.xyz
 newnew523.dichvummo.xyz
 newnew525.dichvummo.xyz
+newnew528.shopmuopios.online
 newnew534.dichvummo.xyz
+newnew551.shopmuopios.online
+newnew554.shopmuopios.online
 newnew560.dichvummo.xyz
 newnew576.dichvummo.xyz
 newnew584.dichvummo.xyz
@@ -60616,9 +60836,12 @@ newnew677.dichvummo.xyz
 newnew680.dichvummo.xyz
 newnew695.shopmuopios.online
 newnew715.shopmuopios.online
+newnew722.shopmuopios.online
 newnew744.shopmuopios.online
+newnew747.shopmuopios.online
 newnew779.dichvummo.xyz
 newnew78.dichvummo.xyz
+newnew781.shopmuopios.online
 newnew787.dichvummo.xyz
 newnew791.dichvummo.xyz
 newnew80.dichvummo.xyz
@@ -60627,12 +60850,21 @@ newnew823.dichvummo.xyz
 newnew837.dichvummo.xyz
 newnew841.shopmuopios.online
 newnew847.dichvummo.xyz
+newnew849.shopmuopios.online
+newnew866.shopmuopios.online
+newnew887.dichvummo.xyz
 newnew888.dichvummo.xyz
 newnew891.shopcanhios.online
 newnew905.dichvummo.xyz
 newnew905.shopmuopios.online
+newnew910.shopmuopios.online
 newnew916.dichvummo.xyz
+newnew925.shoptheios.online
+newnew930.shopmuopios.online
 newnew934.dichvummo.xyz
+newnew942.dichvummo.xyz
+newnew947.shopmuopios.online
+newnew988.dichvummo.xyz
 newnew998.dichvummo.xyz
 newnews.fun
 newoff.newprif.site
@@ -60753,6 +60985,7 @@ news-pl-05.pages.dev
 news-pl-gazeta.online
 news-pl.info
 news-pl.site
+news-pl2.online
 news-plnews.store
 news-poland.biz
 news-poland.us
@@ -60762,6 +60995,8 @@ news-polska-1.profinance-23.com
 news-polska.profinance-23.com
 news-rare.store
 news-set.online
+news-sonce.site
+news-sonce.store
 news-soon.click
 news-soon.store
 news-spot.click
@@ -60800,6 +61035,7 @@ news1mn.site
 news1my.site
 news236.site
 news24.waw.pl
+news24notesun.com
 news24onet.pl
 news24rayswheelbarrow.com
 news24updatesummer.com
@@ -62745,6 +62981,8 @@ oddamprzyjme.pl
 oddamsprzedam24.pl
 oddamsprzedamkupie24.pl
 oddamsprzedamzamienie365.pl
+oddamswietokrzyskie24.pl
+oddamwielkopolskie.pl
 oddamwmazowszu24.pl
 oddamwpomorzu.pl
 oddamy-glosuje.eu
@@ -63155,6 +63393,8 @@ ogloszenia-gminne.pl
 ogloszenia-gumtree.pl
 ogloszenia-handel.pl
 ogloszenia-info.pl
+ogloszenia-informacja.pl
+ogloszenia-informacje.pl
 ogloszenia-iokaine.pl
 ogloszenia-komis.pl
 ogloszenia-kupuj.pl
@@ -63238,6 +63478,7 @@ ogloszenie-elektronika.site
 ogloszenie-elektronika.tech
 ogloszenie-handel.pl
 ogloszenie-informacja.pl
+ogloszenie-informacje.pl
 ogloszenie-kupteraz-097159.xyz
 ogloszenie-kupteraz-149175.xyz
 ogloszenie-kupteraz-187295.xyz
@@ -69393,6 +69634,7 @@ one-t3.pl
 one-t3.waw.pl
 one-t4.pl
 one-t4.waw.pl
+one.achievemeekers.online
 one.activeprov.xyz
 one.adventurevision.online
 one.atlantons.site
@@ -70256,6 +70498,7 @@ organicble.top
 organicschain.com
 organiizers.xyz
 organisedchurch.com
+organizacionperez.com
 organizacja-spoleczna.eu
 organizadordearmarios.com
 organizationislifesaving.com
@@ -70267,6 +70510,7 @@ organographic.life
 organoscopy.com
 orgasmadvisor.com
 orgesactioner.xyz
+orgondistribuidora.com
 orgosias.com
 orgpromanagp.site
 orhipdezimisan.gq
@@ -71023,6 +71267,7 @@ overposterblog.webnode.jp
 overprotec.pl
 overrunnin.com
 overs-gener.shop
+overset.cyou
 oversoftch.pl
 overstayingdugouts.info
 overstayingoverstaying.info
@@ -71740,6 +71985,7 @@ paskudnyporownanie.site
 paslamotu.ga
 pasmesas.tk
 pasnva.pl
+pasnyy.myshoplaza.com
 pasozyt.icu
 pasqualeparisi.com
 passalidaes.info
@@ -71761,6 +72007,7 @@ pastas.hervesta.lt
 pastedness.life
 pastedputrefy.com
 pastelcromes.com
+pasteleria-juanita.com
 pastelguess.com
 pastepozh.xyz
 pasteros.space
@@ -72515,6 +72762,7 @@ pepcopolsskaa.blogspot.com
 pepepe.3cx.eu
 peppypunjabis.com
 peps92920-d9828a.tributetv.co.pl
+pepsico.cam
 peptizable.live
 pequildedgue.site
 peqymyy.com
@@ -73383,6 +73631,7 @@ pitbullbjjmne.com
 pitching-o1-lx.seopost.cfd
 pitchouts.life
 piterdiver1.site
+piteriortesign.click
 pitifuldem.com
 pitito.ga
 pitocin.info
@@ -73702,6 +73951,7 @@ pl-kontrola-bezpieczenstwa.space
 pl-kontrola-poczty.pw
 pl-kurier.cloud
 pl-kurjerzy.cloud
+pl-landtiket.online
 pl-linkedin.security-online.pt
 pl-livemoney.xyz
 pl-lk.site
@@ -74540,6 +74790,7 @@ platnosconline.online
 platnosconline.site
 platnosconline.space
 platnosconline.tech
+platosdeducha.com
 platosklep.pl
 plausiblec.com
 plaxlvvanf.cfolks.pl
@@ -77761,6 +78012,7 @@ portalbytom.xyz
 portalcentrum24.waw.pl
 portalczestochowa.xyz
 portale-nexi.com
+portale.89-23-103-27.cprapid.com
 portale.account.allegro.80-85-152-46.cprapid.com
 portalek-pl.pl
 portalek24.eu5.net
@@ -78623,6 +78875,7 @@ preciosohomes.com
 preciousmomentsflorist.net
 precioustime.monster
 precipitableseizin.com
+preciselyn.sbs
 precisionattention.info
 precisionpowersystemsinc.com
 precocenuncamais.online
@@ -80063,6 +80316,8 @@ pub-631af03edd28472fac0716b74c7dbb15.r2.dev
 pub-6987cd1f4f9941a8aa47d9931b648655.r2.dev
 pub-6b7cf381524944f6ab8a998ca316b535.r2.dev
 pub-6ce4760959ee47bab8b8a3c99c1da014.r2.dev
+pub-72a38268a64f49eaad173ac3cc9c40f0.r2.dev
+pub-77d4749e4db64a639f08c0343f836364.r2.dev
 pub-847389e8d4534fc8b9e612bd5b8905ac.r2.dev
 pub-9bc5fa7d16454b21b944cd1e6a546086.r2.dev
 pub-9e0928b4b58945de9996d9063e5730b5.r2.dev
@@ -80075,6 +80330,7 @@ pub-c76c80a4910642e68d3a94d20750b801.r2.dev
 pub-c7e4cb30b3334d89a977060f8ce33fd0.r2.dev
 pub-ca9e8d36c537415790b11f7f367a3191.r2.dev
 pub-d537d5bc0d6c414ca0c847986ab3b3b7.r2.dev
+pub-d5e48d8e27ff4c2b84f89c66afccffa7.r2.dev
 pub-dcdebb93ba4d487a9ae2fac776078909.r2.dev
 pub-def62344ba834ff4a340310ae9c9bb86.r2.dev
 pub-dfc9057702ee48a2959b6792edf594f8.r2.dev
@@ -80350,6 +80606,7 @@ qdmvf.brujosdelamor2019.com
 qdwhh.gazeta-regionalna.com
 qe.gaznf.xyz
 qe2gla.webwave.dev
+qea2.com
 qebihgo.xyz
 qeeartwo.space
 qefitaynee.com
@@ -80476,6 +80733,7 @@ qsaqyv.webwave.dev
 qsd3fn.webwave.dev
 qsifj8qfkfvbjxv.bar
 qswe.utulo.site
+qsxnbtzs.shopmuopios.online
 qsystemas.club
 qt.orogdq1.xyz
 qt1e.com
@@ -80567,6 +80825,7 @@ queesorolaminado.com
 quegsgsiont.site
 quelicoral.com
 quentbuity.space
+quesifritos.com
 quest3oline.life
 questdestination.live
 questforchange.live
@@ -81071,6 +81330,7 @@ raptize.com
 raptoress.info
 raq.gaznf.xyz
 raquirad.pl
+rarelyv.sbs
 rareroastbeef.com
 rarified.pl
 raritumorpolect.tk
@@ -81902,9 +82162,13 @@ rescue.cci-fa.com
 rescuehide.info
 resectabilitys.live
 reseeingo.com
+reserivedoutlet.co
 reserv-booking.com
 reserv-comp.protrobit.site
 reservationhost.com
+reserved.boutiquemagasin.com
+reserved.mayoralgood.com
+reservedokay.com
 reserveresidences-condo.com
 reservpl.digserpro.xyz
 reset-your-device.com
@@ -82487,6 +82751,7 @@ rollof.pl
 rollpepair.click
 rolni.loyalmp3.site
 rolnicccttwo.site
+rolyfaobii.live
 rolz.totli.xyz
 rom.d4do.in
 romal.byseniscon.top
@@ -82787,6 +83052,7 @@ rumahelitsemarang.com
 rumanifees.com
 rumasklep.pl
 rumerion.site
+rummagesailor.com
 rumors-offers.com
 run2022-invest.com
 run2gen.us
@@ -82861,6 +83127,7 @@ ryalorprofitsystem.com
 ryanandkelsey.com
 ryancarlock.com
 ryancwallace.com
+ryanmckinneymarketing.com
 ryanponeill.com
 ryanswenson.org
 rybotko.space
@@ -83157,6 +83424,7 @@ sahso.phweditorial.com
 sahuaritaazbeeremoval.com
 saidthecoupons.xyz
 sainfoinsa.xyz
+saintcatalina.com
 sainthaven.info
 saintleads.autos
 saiyant.site
@@ -83271,6 +83539,7 @@ san-tan-drblkn.site
 san.ikilontesla.xyz
 san.pipe-dinero.shop
 san.wetss.xyz
+sanaltaki.com
 sanamantata.cfolks.pl
 sand.net.pl
 sandalwoodwellnessspaandmassage.com
@@ -83574,6 +83843,7 @@ schoolpraticewebdesigndomain.xyz
 schoolscart.com
 schoolsmul.com
 schooltubeprime.com
+schornidev.net
 schronisko.vot.pl
 schultz.michallota.com.pl
 schwenkfelders.live
@@ -83970,6 +84240,7 @@ selasklep.pl
 select-plmanagerlogin.stuc-vanlaerhoven.nl
 selectionreport.com
 selectlistbuilding.site
+selectlistreviews.site
 selectlistshop.site
 selectlistworld.site
 selenicereus.live
@@ -84030,6 +84301,7 @@ sen-ding56.xyz
 sen-log.net
 sen-twoje.eu
 senangfibre.com
+senateunited.com
 senatinos.com
 senator.icu
 senatow-xyz.preview-domain.com
@@ -84743,6 +85015,7 @@ sginboey.com
 sgmd.skin
 sgmqfhpjrucn.com
 sgo.capitalforetof.site
+sgo.objectop.xyz
 sgogolewski.pl
 sgopr0.com
 sgoxruwdi.eu
@@ -84953,6 +85226,7 @@ shmed.bolss.xyz
 shmeld.bolss.xyz
 shn.ifnprog.xyz
 shnariw.online
+sho.objectop.xyz
 shockersen.pl
 shoddiesti.com
 shoeboxes.info
@@ -85607,6 +85881,7 @@ siz.mastt.xyz
 sizeerngas.site
 sj-78.one
 sjestawrzesnia.pl
+sjf.shopcuongios.online
 sjgo.homes
 sjh.sun-corpcustomerslogin-au.com
 sjhngh.s3.us-east-005.backblazeb2.com
@@ -86277,6 +86552,7 @@ sodel.uno
 sodertornsekologerna.org
 sodomised.life
 sodomitishs.com
+sofawood.top
 sofkrow.com
 soft-tech.top
 softbet365.com
@@ -86337,6 +86613,7 @@ solushow.com
 solutiionmasters.site
 solution.se7ls.space
 solutionmatech.com
+solvmedia.com
 somaexim.com
 somakompl.site
 somaslounge.de
@@ -86388,6 +86665,7 @@ sop.wetss.xyz
 sopechincha.com
 sophieparry.com
 sophisical.xyz
+sophisticatedfireplaceblazing.com
 sopitesra.com
 sopockie-newsy.pl
 soporte.csimonbolivar.cl
@@ -87066,6 +87344,7 @@ ssl0.wikgab.pl
 sslbroua.fun
 ssll-payu.com
 ssll-payu.pl
+ssll.mmtsa.top
 sslpayu.com
 sslpayu.pl
 ssnothent.site
@@ -87248,6 +87527,7 @@ startup-orlen.biz
 startup-orlen.us
 startupequation.org
 startuplawmagazine.com
+startuplonsint.000webhostapp.com
 startuporlen.biz
 startuporlen.us
 startuppge.biz
@@ -87389,6 +87669,7 @@ steawcomnunity.com
 stedfund.com
 steelcanary.com
 steelframerosario.com
+steelhouseconstructora.com
 steelpsu.com
 steelsurfer.com
 steemcomunity.com
@@ -87815,6 +88096,7 @@ studesko.com
 studfishessapsago.com
 studio-marketingu.pl
 studiomim.com.pl
+studiorogus.com
 studycr-genius.us
 studycrypto-genius.us
 studyprofit.biz
@@ -88231,6 +88513,7 @@ sunmanttelettere.site
 sunmest-uno.preview-domain.com
 sunmest.uno
 sunny18onli5e.online
+sunny31tg7.quest
 sunny48qu77st.quest
 sunnyday1.site
 sunnynewsweekstarz.com
@@ -88345,6 +88628,7 @@ suppressiveruthless.top
 supremal.org
 suproyec.com
 suquamishes.live
+suquiadeco.com
 surang.com
 surapartments.com
 surbater.com
@@ -88647,6 +88931,7 @@ synchro-stableswapprotocol.com
 synchroassetsprotocol.com
 synchroearnprotocol.com
 synchrohelpcenter.com
+synchronizerprotocol.com
 synchsynchro.com
 synchtoken.com
 syncretist.pl
@@ -90077,6 +90362,7 @@ tesluse.life
 tesluse.top
 teslx.coin-mark.xyz
 teslx.prosyst1.site
+teslx.wtf
 teslx1.prosyst1.site
 teslxp.cryp-b.xyz
 teslxpl.top
@@ -90349,6 +90635,7 @@ thecppinteractivetour.net
 thecraftalog.com
 thecricketschedule.com
 thecryptounlocked.com
+thedabbery.com
 thedailyfaststart.com
 thedailyfinancier.com
 thedarksidewood.com
@@ -91661,6 +91948,7 @@ topshareio.com
 topshorka.info
 topsoftopsoff.com
 topspecialoffers4you.com
+topstarfacilities.com
 topstockapp.com
 topstockbrandlive.com
 topstockoffs.com
@@ -92126,6 +92414,7 @@ travell2eafenergykrfads.xyz
 travell2eafenfergykrfds.xyz
 traveltesla.biz
 travelventure.online
+travelwild.info
 travelwildexpeditions.net
 travenza.com
 travertinfall.site
@@ -93831,6 +94120,7 @@ uniqo-s.web.app
 unique-druid-e56935.netlify.app
 unique-lolly-a61974headline-mortar.netlify.app
 unique6.com
+unique74cd9.xyz
 uniqued.xyz
 uniqueideasmumbai.com
 uniradiant.com
@@ -94041,6 +94331,7 @@ upocztapolsk.net
 upocztapolska.net
 uppdragledning.se
 upperclassinvetstments.com
+upperpaul.com
 uppllaan.site
 uppocztapolska.net
 uppong.site
@@ -94240,6 +94531,7 @@ user9payment.xyz
 userallegro-lokalnje.42376565.xyz
 usernewsystemform.xyz
 userollx.2612125.xyz
+userpages.gnplay.com
 users-netflix.com
 usersonline.top
 uservinted-dispatch.6778554.xyz
@@ -99061,6 +99353,7 @@ wa726a87-exp827a.adamos2310.com.pl
 wa8279-pa827a.otraltv.co.pl
 wa928-in827a.zapoca.co.pl
 waaskorson.uno
+wacaraacey.live
 wacyjnyzego.webnode.ro
 waczek.pl
 wadawdaw.investnev3.xyz
@@ -99707,6 +100000,7 @@ weblabcode.com
 weblandskapet.se
 weblo9278a98z-nfi928zid.regtontf.co.pl
 weblsite.com
+webm.d2f3df4a.ddnss.eu
 webmail-100333.weeblysite.com
 webmail-home.com
 webmail-login.nl
@@ -100272,6 +100566,7 @@ wetimentanol.site
 wetransfer-cloud.zora-vc.com
 wetsararob.pl
 wew.mix-legl.top
+wew.worldpeoplefx.top
 wewallalll.site
 weworkmaoce.co
 wex4a5.webwave.dev
@@ -100491,6 +100786,7 @@ wi-nted.220212111222.xyz
 wi-ntedstore.4marketsite3.xyz
 wi4.foldeeas.online
 wi4.free9k.site
+wi4v7b0c25p3bejr2ulfddr0.readfinancenewsnow.com
 wi6.klimaaz.online
 wi7m.rockstas.xyz
 wia.can-info.site
@@ -101234,6 +101530,7 @@ wjrt.cfd
 wjuodcrlqc045lhriqbaknfo.readfinancenewsnow.com
 wk.amsonk0in.xyz
 wk.anonline.site
+wk74erlk5am5mhjr2cb6kofk.readfinancenewsnow.com
 wkatowicach.xyz
 wkdnsilly.site
 wkielcach.xyz
@@ -101509,6 +101806,7 @@ worldniews.com
 worldoffinance.monster
 worldpoland.biz
 worldpoland.us
+worldpositivitypath.click
 worldprolife.top
 worldramen.com
 worlds-news.org
@@ -101578,6 +101876,7 @@ wp-swiat24.com.pl
 wp-swiat24.pl
 wp-uwaga.eu
 wp-warszawwa.website
+wp-wiadomosci-polskie.pl
 wp-wiadomosci.eu
 wp-wiadomosci.pl
 wp-wiadomosci72.pl
@@ -101796,6 +102095,7 @@ wtab.plsitegov.site
 wtapril.ttssonine.top
 wtc1.molods.xyz
 wtffn.tmjalliance.com
+wtha2v3m24764fjrioeijudo.readfinancenewsnow.com
 wthmg.lynnetteolsen.com
 wtlrjth.cn
 wtor.teconkilotr.site
@@ -102323,6 +102623,7 @@ www.832934konto5204.rejepl.co.pl
 www.857.allegro-lokalnie.cyou
 www.862166aktualizacja.mail-all.cfd
 www.888h4ck.com
+www.89-23-103-27.cprapid.com
 www.89151535.cube-cologne.com
 www.8ace74fd814a.kino-nf.pl
 www.8csdg3iejj.lilagoraj.pl
@@ -106879,6 +107180,7 @@ www.cl90234.tmweb.ru
 www.clafoutisb.com
 www.claim-idevices.live
 www.claim-sentry.com
+www.claim.kim
 www.claimsinch.com
 www.claireui.com
 www.clamityttrg.com
@@ -138442,6 +138744,7 @@ yellowwashsquare.site
 yemenite.live
 yenienieiororepitit.site
 yenis.zeroines.site
+yenkii.com
 yennefer.com.pl
 yennefer6664.pl
 yeomanagate-herd.webnode.co.uk
@@ -138533,6 +138836,7 @@ yogoprimary.com
 yogurteriatirana.com
 yoiugh.site
 yol8282-js92a.poibnut.co.pl
+yoll.info
 yomdaksw.pl
 yomdyes.com
 yomwqksaw.pl
@@ -139424,6 +139728,7 @@ zeynepkarahan.com
 zeyvebilisim.com
 zfbwdt.top
 zfi.vbgerg.pl
+zfidg5bch95wmze8gzk1.w5fq.ru
 zgadnijnieugiety.site
 zgjzhk.com
 zgliwic.xyz
