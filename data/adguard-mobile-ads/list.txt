@@ -81,6 +81,7 @@ aditic.net
 adition.com
 adkernel.com
 adkmob.com
+adkwai.com
 adleads.com
 adlibr.com
 adman.gr
@@ -200,6 +201,7 @@ adzerk.net
 adzmobi.com
 agent.tamedia.com.tw
 ajdivotdelbloab24.jio.com
+ali-ad.a.yximgs.com
 alicdn.com
 alt-ad.mail.ru
 am15.net
@@ -447,6 +449,7 @@ houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
 httpool.com
 huntmad.com
+hw-ot-ad.a.yximgs.com
 hybird.rayjump.com
 hybrid.ai
 hyperadx.com
@@ -501,6 +504,7 @@ kochava.com
 komoona.com
 krt.asycxtz.cn
 krutilka.net
+kskwai.com
 kusuriyasan.org
 l0-secure.videohub.tv
 l3op.info
@@ -794,6 +798,8 @@ turn.com
 tveta.naver.net
 tw-api.vpon.com
 tw.api.vpon.com
+tx-ad.a.yximgs.com
+tx-kmpaudio.pull.yximgs.com
 u-ad.info
 ufz.doesxyz.com
 ultraadserver.com
