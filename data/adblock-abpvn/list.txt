@@ -1953,6 +1953,7 @@ adtag.ad.smaato.net
 adtag.admarketplace.net
 adtag.loopme.me
 adtag.sphdigital.com
+adtago.s3.amazonaws.com
 adtailor.com
 adtaily.com
 adtaily.pl
@@ -1964,6 +1965,7 @@ adtech.com
 adtech.de
 adtechjp.com
 adtechus.com
+adtechvideo.s3.amazonaws.com
 adtegrity.net
 adtelligent.com
 adtheorent.com
@@ -2123,6 +2125,7 @@ advertstream.com
 advertwizard.com
 advg.jp
 advgalaxy.com
+advice-ads.s3.amazonaws.com
 advideo.dsp.yandexadexchange.net
 advideo.movad.net
 advideo.uimserv.net
@@ -2923,6 +2926,7 @@ analytics.ravelz.com
 analytics.rayjump.com
 analytics.rever.vn
 analytics.s.id
+analytics.s3.amazonaws.com
 analytics.saas-vn.network
 analytics.samdd.me
 analytics.samsungknox.com
@@ -2972,6 +2976,7 @@ analytics.zim.vn
 analytics2.ad.daum.net
 analytics2.m2.ai
 analyticsapi.bsbportal.com
+analyticsengine.s3.amazonaws.com
 analyticsnew.overwolf.com
 analyze.accesstrade.net
 anansao2ay8yap09.com
@@ -16123,6 +16128,7 @@ spotxchange.com
 sppzkqnk9.com
 spr.ad-stir.com
 springaftermath.com
+sprocket-ping.s3.amazonaws.com
 sprout-ad.com
 sprout-ad.genieesspv.jp
 spruecutworm.com
