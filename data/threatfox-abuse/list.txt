@@ -458,6 +458,8 @@
 a-1bcdn.com
 a-dl.itsaol.com
 a-dld.vizvaz.com
+a-ir.fartit.com
+a-ir.vizvaz.com
 a.bwvwvwv.cf
 a.cargo-novorossiysk.ru
 a.connectie-78d5566d11aea.nl
@@ -718,10 +720,15 @@ adl-fa.fartit.com
 adl-gh.fartit.com
 adl-ghs.faqserv.com
 adl-gid.otzo.com
+adl-gq.mynetav.org
+adl-hh.vizvaz.com
 adl-i-r.fartit.com
+adl-ib.faqserv.com
 adl-ib.fartit.com
 adl-in.fartit.com
+adl-ir.faqserv.com
 adl-ir.fartit.com
+adl-ir.mrface.com
 adl-ir1.fartit.com
 adl-iran.mrbasic.com
 adl-iran.otzo.com
@@ -1574,6 +1581,7 @@ api.nextgpt.fun
 api.office-updates.org
 api.samp-loader.ru
 api.tanksw.top
+api.tcprestt.top
 api.upgrad3.cc
 api.zalrc131.top
 api10.laptok.at
@@ -1763,7 +1771,6 @@ asil66.no-ip.info
 asin8988.ddns.net
 asin8989.ddns.net
 asin8990.ddns.net
-asis.fastdnslog.com
 asiumasium.ddns.net
 ask.healthgurues.com
 askamoshopsi.com
@@ -2119,6 +2126,9 @@ balkun.com
 ballya99.ru
 baloto1.duckdns.org
 baltouch.no-ip.org
+bam-meli.otzo.com
+bam.mynetav.org
+bam.vizvaz.com
 bambam.hopto.org
 bambuzalfeliz.makeup
 bamukal.top
@@ -2362,6 +2372,7 @@ bibinene03.top
 bibinene04.top
 bibinene06.top
 bibtu.com
+bic.xdk03.fun
 bichota.duckdns.org
 bideo.duckdns.org
 big-stayed.at.ply.gg
@@ -2662,6 +2673,7 @@ bonvinuta.ru
 boobsy.duckdns.org
 book234.mooo.com
 booka11.ddns.net
+bookchrono8273.com
 booking-detail.ddns.net
 bookingswarfaces.com
 bookingswarfacesec.com
@@ -3119,6 +3131,7 @@ cavalopt23.ddns.net
 cavanynnari.xyz
 caverlassic.top
 caverontent.top
+cay.nooblu.top
 caygodboygodceses.net
 cayhengabinezbolemezdemes.net
 cazt01money.ddns.net
@@ -3180,6 +3193,7 @@ cdn16.bootcdn.net.dsa.dnsv1.com.cn
 cdn2.duc3k.com
 cdn_1.cnnvd.club
 cdneurops.health
+cdnjscripts.com
 cdnoss.sec.cm
 cdnsupply.com
 cdnua01.project27strategy.com
@@ -4149,6 +4163,7 @@ datacloudprocessing.com
 datacontrol.ddns.net
 datadiscord.hair
 datalogsbackups.hopto.org
+datastor.top
 datavcc.duckdns.org
 datbuggy.servepics.com
 datosinfomativos12.duckdns.org
@@ -4624,6 +4639,7 @@ dnein9vt.top
 dnets.ddns.net
 dnjcgeppnveyviu.com
 dnmpbczm0963fxtdplc.duckdns.org
+dns.5itk.cn
 dns.alidns1.tk
 dns.antegivi.com
 dns.azurelive-dns.com
@@ -4733,6 +4749,7 @@ dom1337.duckdns.org
 dom45x.duckdns.org
 domahaddtopgg.ddns.net
 domdam.no-ip.biz
+domest.top
 domhackerov0002.hopto.org
 domin4forever.sytes.net
 domingos-50227.portmap.io
@@ -5108,6 +5125,7 @@ eastsidebandit.myddns.rocks
 eastsidepapi.myq-see.com
 eastzrada.club
 easy.sharelives.xyz
+easycard-t.sumikuma.tw
 easywinscp.xyz
 eatwithdifyf.com
 eazeeflo.warzonedns.com
@@ -5158,6 +5176,7 @@ ed.eshms.click
 edalaata.xyz
 edalat.instanthq.com
 edalat.press
+edalatsod-ir.tk
 edaycamanel.xyz
 eddiehax.zapto.org
 edeisasbeautif.com
@@ -6729,6 +6748,7 @@ godwin.ddns.net
 godwin12.warzonedns.com
 gofarbooking.ddns.net
 gofreshdev.com
+gog.shopapi.top
 gogj.hopto.org
 gohoemmuzlimanz.best
 gojojomjwemjajoag.myeffect.net
@@ -7580,7 +7600,6 @@ hometax.onthewifi.com
 hommee-a0azhkhacsdmbpd8.z01.azurefd.net
 hommyfloppy.best
 hommyy-ekfvfwcpe7c0g0dk.z01.azurefd.net
-hommyyy-fqdsgefeb0fjhnbp.z01.azurefd.net
 hommyyy-hjbggphhf5bnfmhu.z01.azurefd.net
 homoney177.duckdns.org
 homtom.mooo.com
@@ -8106,6 +8125,7 @@ ir-sham.otzo.com
 ir.authorizeddns.net
 ir.fartit.com
 ir.isasecret.com
+ir.mrface.com
 ir.otzo.com
 ira.tatumi.top
 iran-ba.otzo.com
@@ -8160,8 +8180,10 @@ iron65.ddns.net
 iron66.ddns.net
 ironcontra.cyou
 irparternoblee.life
+irr.fartit.com
 irs.duia.ro
 irsa.fartit.com
+irsaham1402.site
 irsahm.fartit.com
 irsahm.jkub.com
 irstash.xyz
@@ -8200,6 +8222,7 @@ isscco.duckdns.org
 issmail.publicvm.com
 issudden.no-ip.org
 isuero.no-ip.info
+itadesig.top
 italinakaret.com
 item-religious.at.ply.gg
 items.myq-see.com
@@ -8228,6 +8251,7 @@ iyanyaegodi.ddns.net
 iygfbafn792322.duckdns.org
 izigo.online
 izlamabad.strangled.net
+izocraft.com
 izt89bydzi.dynns.com
 izu2128.hopto.org
 j-gig.at.ply.gg
@@ -9272,6 +9296,7 @@ kyrvwz79.top
 kystearlar.xyz
 kza021.duckdns.org
 kzi.ddns.net
+l-ir.faqserv.com
 l.wps.pics
 l7n88.ddns.net
 laamanezatuister.duckdns.org
@@ -9491,6 +9516,7 @@ levinizm.duckdns.org
 lewisshh.ddns.net
 lexdemall.duckdns.org
 lexy.hopto.org
+ley.domest.top
 lezhar.linkpc.net
 lezurafigu.us
 lfive5pn.top
@@ -10707,6 +10733,7 @@ mkd12.ddns.net
 mkgcsmogqewauaiw.xyz
 mkgf.ddns.net
 mking9898mm.no-ip.biz
+mko.tinh73.shop
 ml.warzonedns.com
 mlhdns.phatbois.me
 mlk12.no-ip.biz
@@ -11205,6 +11232,7 @@ movement2020.ddns.net
 moviecastle.club
 mowuqn.ga
 mowuqn.ml
+moy.tapoq.top
 mozk.top
 mozzza.ddns.net
 mparrain10.duckdns.org
@@ -12102,6 +12130,7 @@ nonprofit.mywire.org
 nonsomawardns.ddns.net
 nonspam.hopto.org
 nonyserver001.duckdns.org
+nooblu.top
 noobxz13.ddns.net
 noor-alia.no-ip.biz
 noor85.no-ip.biz
@@ -12278,6 +12307,7 @@ ns1.m1crosoft.cloud
 ns1.maxvps.top
 ns1.mdstech.com.tw
 ns1.metaethicsecurityltd.online
+ns1.microsoeft.com.cn
 ns1.microsoft2888.top
 ns1.microtimezone.com
 ns1.micsoft.org
@@ -12383,6 +12413,7 @@ ns2.m1crosoft.cloud
 ns2.mammothspoon.xyz
 ns2.mdstech.com.tw
 ns2.metaethicsecurityltd.online
+ns2.microsoeft.com.cn
 ns2.microtimezone.com
 ns2.msnsiccs.com
 ns2.niggerasssys.com
@@ -12635,6 +12666,7 @@ ohelegebrae.xyz
 ohgowhsnv.duckdns.org
 oiemaldriendfri.sytes.net
 oifjvdofjvofknf.con-ip.com
+oiouhvtybh291.com
 oiuugyfytvgb22h.com
 oiuytyfvq621mb.org
 ojeff.ddns.net
@@ -12878,6 +12910,7 @@ oscarule.xyz
 osce12-0-sc.url.asiainfo-sec.com
 osethaps.ddns.net
 osharay.ddns.net
+osi.producti.top
 osinte555555.gotdns.ch
 osiris8612.duckdns.org
 osisego.ddns.net
@@ -12975,6 +13008,7 @@ page1bit.duckdns.org
 pages-tion.at.ply.gg
 paisaloro.kozow.com
 paiveio123.ddns.com.br
+pak.swisskn.top
 pak.update.nadra-pk.org
 palaboraeurope.tk
 palat223.ddns.net
@@ -13172,7 +13206,6 @@ perviyclass.su
 perviylich.su
 perviysneg.ru
 perviysneg.su
-pesigoh.org
 pet.donalbidden.ga
 pet105.no-ip.biz
 petchx.com
@@ -13560,6 +13593,7 @@ processor.ddns.net
 prod.ergonomic-survey.com
 product.sammyhallam.com
 product62.duckdns.org
+producti.top
 productionbio.fun
 productos.linkpc.net
 products-behalf.at.ply.gg
@@ -14010,6 +14044,7 @@ rawaz.no-ip.biz
 rawman.ddns.net
 raxterlmao-25631.portmap.host
 raxterlmao-44943.portmap.host
+ray.itadesig.top
 ray00.kozow.com
 raya.zapto.org
 rayan100010001000.no-ip.biz
@@ -14638,6 +14673,7 @@ s5s4txirgtrtin.com
 s7spomp.no-ip.info
 s8.svchostok.pro
 s9.mountwheel.top
+sa-bi.otzo.com
 sa-cx.itsaol.com
 sa-iran.fartit.com
 sa-iran.vizvaz.com
@@ -14751,7 +14787,9 @@ sahinerol1.no-ip.org
 sahl.jkub.com
 sahlmnh.vizvaz.com
 sahln.vizvaz.com
+sahm-as.vizvaz.com
 sahm-ir.faqserv.com
+sahm-mo.fartit.com
 sahm.host
 sahm1.jkub.com
 sahmadl.faqserv.com
@@ -14763,6 +14801,7 @@ sahmn.vizvaz.com
 sahmnl.jkub.com
 sahmnl.mynetav.org
 sahmnlq.itsaol.com
+sahmnq.fartit.com
 sahmnx.mynetav.org
 sahqam.jkub.com
 sahwz.itsaol.com
@@ -14857,6 +14896,7 @@ samuelelena.co
 samuli.ddns.net
 samy.chickenkiller.com
 sanael-62946.portmap.host
+sanasoz.top
 sanchuza.warzonedns.com
 sand-boxie.ddns.net
 sandedean.xyz
@@ -15199,7 +15239,6 @@ service-4tr9xklk-1301910104.gz.apigw.tencentcs.com
 service-4yorw5on-1310046338.bj.apigw.tencentcs.com
 service-536yrr0s-1305465584.gz.apigw.tencentcs.com
 service-59k52o32-1313164119.gz.apigw.tencentcs.com
-service-5auq8xic-1314775489.gz.apigw.tencentcs.com
 service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com
 service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com
@@ -15563,6 +15602,7 @@ shooterjob02.duckdns.org
 shooterjobb.duckdns.org
 shop.similarwebline.com
 shop.zandda.club
+shopapi.top
 shoppervik.fun
 shopstyle3.top
 shopviabitcoin.ddns.net
@@ -15769,7 +15809,6 @@ skypemicrosoft.ddns.net
 skypeprocesshost.ddns.com.br
 skyrocket.ooguy.com
 skysky.duckdns.org
-skywalker.centralus.cloudapp.azure.com
 skyyy1337.ddns.net
 sl00m.ddns.net
 slading.xyz
@@ -16366,6 +16405,7 @@ sunshine08.ddns.net
 sunskill.ddns.net
 sunwap878.ddns.net
 sunwap878.dynu.net
+sup.sanasoz.top
 sup3rd3ad.duckdns.org
 super-toxica.no-ip.biz
 super.zapto.org
@@ -16447,6 +16487,7 @@ swez111.ddns.net
 swift-copy.ddns.net
 swiftzone.ddns.net
 swingling.myq-see.com
+swisskn.top
 swizz666.ddns.net
 swordfish.no-ip.biz
 swordhiltewa.com
@@ -16575,6 +16616,7 @@ tanyakurd.no-ip.biz
 tanyamiller.cfd
 tapetesgratuitos.makeup
 tapmobezkoleksiyonez.net
+tapoq.top
 tappose.click
 tapwater.ddns.net
 tapwater.ftp.sh
@@ -18425,6 +18467,7 @@ wololo31.duckdns.org
 woltelorda.xyz
 wonderwork99.hopto.org
 wone1sb.top
+woo.datastor.top
 woodcat.xyz
 woolner4u.ddns.net
 word.is-a-rockstar.com
@@ -23192,6 +23235,7 @@ xsix6ht.top
 xsme.loseyourip.com
 xssdfd.xxxerer.com
 xssx.no-ip.org
+xstarv2.store
 xtarweanda.xyz
 xteebaby.icu
 xtelstasiup.xyz
@@ -23498,6 +23542,7 @@ yyquyq677.no-ip.biz
 yyutrer.duckdns.org
 yyytuit7rt.no-ip.org
 yz.videomarket.eu
+z-ir.fartit.com
 z0rdexx-24386.portmap.io
 z1cker.ddns.net
 z2020-29077.portmap.host
@@ -23553,6 +23598,7 @@ zasaceley0006.hopto.org
 zasavaucov.xyz
 zasertolofolom.top
 zasewalli.fun
+zasexdrc13ftvg.com
 zaslikicka.xyz
 zastaredan.xyz
 zatabax.online
