@@ -13,7 +13,6 @@
 0pmboy.duckdns.org
 0x01337.duckdns.org
 0x0x0pp.duckdns.org
-0xx1.kaspemskyupdate.com
 1.facewii.in
 1.ispnano.dns-cloud.net
 1.libya-10.com.ly
@@ -605,6 +604,7 @@ ack.firstblackphase.com
 acokoye85.hopto.org
 acommand.duckdns.org
 aconitumso.ru
+acornservices.org
 acorusso.ru
 acqgbbmsmebbaaqag.ditchyourip.com
 acronispandora.ddns.net
@@ -738,6 +738,7 @@ adl-v.mrbonus.com
 adl-v.my03.com
 adl-vb.vizvaz.com
 adl-vm.instanthq.com
+adl-vq.vizvaz.com
 adl-xc.faqserv.com
 adl-zx.fartit.com
 adl.authorizeddns.net
@@ -1261,7 +1262,6 @@ alrthesecuritywith.su
 alshareeftwtw-28524.portmap.host
 alsinyorq8.no-ip.org
 alsohavethis.top
-altamishpo.ru
 altyyarabdoo.no-ip.biz
 alukoren.duckdns.org
 alvaritospamlamu.con-ip.com
@@ -1549,7 +1549,6 @@ api.samp-loader.ru
 api.tanksw.top
 api.tcprestt.top
 api.upgrad3.cc
-api.zalrc131.top
 api10.laptok.at
 apikapatildi.net
 apilsin.host.org
@@ -1914,12 +1913,10 @@ axax120.zapto.org
 ay.specialblueitems.com
 ayarimar.ru
 ayatollahdada1.ddns.net
-aychobanpo.ru
 ayezhiznboram.ddns.net
 ayham.ddns.net
 ayhodholderfordes.net
 ayholforeydosneh.net
-aykutpo.ru
 aymaen.no-ip.biz
 ayman-hack.ddns.net
 ayman01149938158.hopto.org
@@ -1940,7 +1937,6 @@ ayrympo.ru
 aytashpo.ru
 ayyad99.no-ip.biz
 ayylmao3.duckdns.org
-ayzakpo.ru
 az3r-hh.no-ip.biz
 aza.mastercoa.co
 azadaus2000.ddns.net
@@ -2193,7 +2189,6 @@ bbbbbbbdss.no-ip.info
 bbbcrowded.sa.com
 bbbeioaag.com
 bbbr1.ddns.com.br
-bbc.cctv03.tk
 bbccdd.duckdns.org
 bbenson.ddns.net
 bbiy00362.duckdns.org
@@ -2903,6 +2898,7 @@ cabonjazul.duckdns.org
 cabovela.duckdns.org
 cabrisdobrisdomne.net
 cacgroups.hopto.org
+cache.thorjane.com
 cachepallioniwarznpa.icu
 cachi.duckdns.org
 cactus.con-ip.com
@@ -3914,6 +3910,8 @@ d1x3x.selfip.info
 d1x3x.selfip.net
 d2.ngobmc.com
 d2042y8vbs9p7p.cloudfront.net
+d2cpd93ebiah9g.cloudfront.net
+d2d756ulnohqjs.cloudfront.net
 d2nc4vdebby89a.cloudfront.net
 d2p814x3j1exqz.cloudfront.net
 d2s6z1m6xnp5uj.cloudfront.net
@@ -5817,6 +5815,7 @@ fgjrtgrgwhwrjjjsr.con-ip.com
 fgndibsvisdviree.con-ip.com
 fgtrert.duckdns.org
 fgtrert.duckdns.orgqweerreww.duckdns.org
+fgudhiiugiufgifufgihdhuidfxgd.duckdns.org
 fh-oode.no-ip.biz
 fhdtvbcxnvn.duckdns.org
 fhethdfhfdh.duckdns.org
@@ -6855,6 +6854,7 @@ gstatick.com
 gstpppp.crabdance.com
 gsyagvxnzmkoplbhduisbagtevcnxmzlopljdgye.ydns.eu
 gt500r32.no-ip.biz
+gta-fportal.com
 gta5.no-ip.info
 gta5lohi.ddns.net
 gtawins.ddns.net
@@ -7271,6 +7271,7 @@ hello-world-steep-glade-9514.ddosploit.workers.dev
 hello.zlc.ir
 hellobozo.duckdns.org
 hellomeee109.ddns.net
+helloone.accountants.monster
 helloservice.mywire.org
 helloworld.ddnsking.com
 helloworld.market
@@ -9175,7 +9176,6 @@ lakikali.sytes.net
 lakosmake.camdvr.org
 lal.qubono.top
 lalalalalaalal.fr.to
-lalovetoy.co
 lam83iss.hopto.org
 lamansoreus.xyz
 lambertofield.ddns.net
@@ -10159,7 +10159,6 @@ meadi.test.upcdn.net
 mean-garbage.at.ply.gg
 meanforthen.com
 measurement.springhealthpharmacy.com
-mecezom.biz
 mechanikal.top
 mechenchan.duckdns.org
 mectref.duckdns.org
@@ -11275,6 +11274,7 @@ mymann2021name.ddns.net
 mynameisking.site
 mynameismamad.site
 mynameisne0.no-ip.biz
+mynameisnull.site
 mynameissheykh.site
 mynameisstaff.warzonedns.com
 mynameissupp.site
@@ -11575,7 +11575,6 @@ netrna.duckdns.org
 netsecurez.com
 netserv.serveftp.com
 nettero.duckdns.org
-netupdates.net
 netutto.best
 netvillsm.giize.com
 netw.infiinite.com
@@ -11878,6 +11877,7 @@ nlucex1980.duckdns.org
 nluckyboy.ddns.net
 nm2070hnmh.ddns.net
 nmaxom.duckdns.org
+nmbvcxzasedrt.com
 nmch32.no-ip.biz
 nmkrupp.ddns.net
 nmrsyria1.ddns.net
@@ -12929,6 +12929,7 @@ paython.myq-see.com
 payygnwixvapfuev.ratkings.net
 pazmental.duckdns.org
 pbblackoutservices.ddns.net
+pbfenergy.azurewebsites.net
 pbmadu.com
 pbn1yt.top
 pbnt3io.top
@@ -13137,6 +13138,7 @@ planpnl.duckdns.org
 plantaincutter1809.ddns.net
 plastcmoont.com
 platitinas.ac.ug
+plawers.com
 player23.no-ip.org
 playertinid.com
 playgo88.fun
@@ -14565,6 +14567,7 @@ saham.edalat.press
 saham.instanthq.com
 saham.jkub.com
 sahame-ir.fartit.com
+sahame.symen.ir
 sahamedalat.seatech.ir
 sahamedalat.whi.ir
 sahamedalat.x10.bz
@@ -15165,6 +15168,7 @@ service-mptsa0js-1258128533.nj.apigw.tencentcs.com
 service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com
 service-mxnrshfx-1300276284.sh.apigw.tencentcs.com
 service-myg47s10-1256578115.gz.apigw.tencentcs.com
+service-n0tf95ic-1305872204.gz.apigw.tencentcs.com
 service-n232999m-1258583189.nj.apigw.tencentcs.com
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com
 service-n8rz74li-1301267584.hk.apigw.tencentcs.com
@@ -15382,7 +15386,6 @@ shironeki.ddns.net
 shit29.ddns.net
 shitgotreal.duckdns.org
 shker.ddns.net
-shkola24online.ru
 shm.charget.cloud
 shmylvaro.pw
 shniederdk.no-ip.biz
@@ -16291,6 +16294,7 @@ syhost.duckdns.org
 sylis.no-ip.biz
 sylviaoslh012.ddns.net
 sym.publicvm.com
+symen.ir
 synapsecracked.duckdns.org
 synchbrokers.asia
 syncronize.3utilities.com
@@ -17316,6 +17320,7 @@ upadte-reviewer-online.live
 upbeat-water-13533.pktriot.net
 upbetanetworks.org
 upcloudser.online
+upcls.online
 upd.cndlogstics.com
 upd232.windowservicecentar.com
 upd343.winserverupdates.com
@@ -18265,6 +18270,7 @@ wrzone-srvr-connector-port.windows-updates.co
 wsam1987.no-ip.biz
 wscp.shop
 wseven7sb.top
+wsexdrcftgyy191.com
 wsfgv.duckdns.org
 wsibc.com
 wtf222.hopto.org

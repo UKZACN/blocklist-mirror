@@ -1122,6 +1122,7 @@ wct-1.com
 wct-2.com
 wdg.headerlift.com
 web-analytics.ica.se
+web-sdk.smartlook.com
 webbannons.ntm.eu
 webpower.eu
 websdk.appsflyer.com
