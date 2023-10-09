@@ -9982,6 +9982,7 @@ allegrolokalnie.bezpieczne-transakcje.pl
 allegrolokalnie.bezpieczne-transakcje24.pl
 allegrolokalnie.bezpieczne-zakupy24.pl
 allegrolokalnie.bezpieczne-zaplac24.pl
+allegrolokalnie.bezpieczny-platnosci.pl
 allegrolokalnie.bid
 allegrolokalnie.biz
 allegrolokalnie.cam
@@ -10000,6 +10001,7 @@ allegrolokalnie.deals
 allegrolokalnie.delivery-6594.xyz
 allegrolokalnie.delivery-payform.xyz
 allegrolokalnie.digital
+allegrolokalnie.dokonaj-platnosci24.pl
 allegrolokalnie.dokonaj-zakupu-online.pl
 allegrolokalnie.dokonaj-zakupu.pl
 allegrolokalnie.dostawa-24.pl
@@ -10017,6 +10019,7 @@ allegrolokalnie.info-formpaygoods.xyz
 allegrolokalnie.informpaydellvery.xyz
 allegrolokalnie.ip-954342.pw
 allegrolokalnie.kup-aukcja24.pl
+allegrolokalnie.kup-online24h.pl
 allegrolokalnie.kup-sprzedaj.pl
 allegrolokalnie.kup-z-bezpieczna-przesylka.pl
 allegrolokalnie.kup-z-dostawa24.pl
@@ -10115,6 +10118,7 @@ allegrolokalnie.polskie-zakupy.pl
 allegrolokalnie.proste-zamowienia.pl
 allegrolokalnie.prywatne-ogloszenia24.pl
 allegrolokalnie.prywatny-zakup.pl
+allegrolokalnie.przelew-online24.pl
 allegrolokalnie.przesylka24h.pl
 allegrolokalnie.pw
 allegrolokalnie.replenishment-centerpl.xyz
@@ -10128,6 +10132,8 @@ allegrolokalnie.store
 allegrolokalnie.su
 allegrolokalnie.surf
 allegrolokalnie.szybka-paczka.pl
+allegrolokalnie.szybka-przesylka.pl
+allegrolokalnie.szybka-przesylka24.pl
 allegrolokalnie.szybka-wysylka.pl
 allegrolokalnie.tech
 allegrolokalnie.tk
@@ -10146,6 +10152,7 @@ allegrolokalnie.zamow-przedmiot.pl
 allegrolokalnie.zamow-przesylke.pl
 allegrolokalnie.zaplac-bezpieczenie.pl
 allegrolokalnie.zaplac-bezpiecznie.pl
+allegrolokalnie.zaplac-bezpiecznie24.pl
 allegrolokalnie.zaplac-online24.pl
 allegrolokalnie.zaplac-teraz.pl
 allegrolokalnie.zaufany-zakup.pl
@@ -12322,6 +12329,7 @@ augvxmnkgv640fd690c21b6.c2documents.ru
 auimy.hechizosyamarres2020.com
 aukainiereme.link
 aukcja-olx.pl
+aukcje-allegrolokalnie.pl
 aukobere.site
 aukpd.hrsfregencyclub.com
 aumgruv.com
@@ -12359,6 +12367,7 @@ australianews-abc.com
 australianews-abc.online
 austrophile.info
 auta-czesci.pl
+auta-gdynia.pl
 auta-gielda.pl
 auta-handei.pl
 auta-handlujemy.pl
@@ -12380,6 +12389,7 @@ auta-poland.pl
 auta-polska.pl
 auta-pruszynski.pl
 auta-sklepy.pl
+auta-sopot.pl
 auta-sprzedaz.pl
 autagielda.pl
 autamarket.pl
@@ -15442,6 +15452,7 @@ bezpieczneprzesylki.pl
 bezpieczny-delivery-pl.com
 bezpieczny-delivery.pl
 bezpieczny-dostawa.org
+bezpieczny-platnosci.pl
 bezpieczny-transfer.top
 bezpieczny-zakup.info
 bezpieczny-zakup.name
@@ -16915,6 +16926,7 @@ booking-confirm.one
 booking-eu.id-26305.pw
 booking-eu.id-327897.pw
 booking-eu.id-9340483.site
+booking-eu.id3434.xyz
 booking-eu.pay-id925856.top
 booking-eur.id-154476.pw
 booking-gbjs.pl-id07016550.xyz
@@ -21312,6 +21324,7 @@ confirmations.top
 confirmed-want.com
 confirming-pages-idntitysupport.web.id
 confirmingmypoczta.blogspot.com
+confirmprotection.pro
 conflictful.info
 conflictocero.com
 conformald.pl
@@ -27740,6 +27753,7 @@ dokani.app
 dokformula.com
 dokitu.icu
 dokm.dasms.xyz
+dokonaj-platnosci24.pl
 dokonajniemozliwego.online
 dokonczstyuuajcietv.cyou
 dokonuj-wyborow.eu
@@ -40337,20 +40351,59 @@ home-ipko.com
 home-pl-035fd1da51f.datalp.com.br
 home-pl-065aa539ee1.datalp.com.br
 home-pl-0727a7eceb3.datalp.com.br
+home-pl-073da07c3f4.datalp.com.br
+home-pl-0b1fd260d09.datalp.com.br
+home-pl-10ea9196e8b.datalp.com.br
+home-pl-132f0248a8b.datalp.com.br
+home-pl-1363a60c3ad.datalp.com.br
 home-pl-13d0daf1638.datalp.com.br
 home-pl-16708152df2.datalp.com.br
+home-pl-18c0f05f2dd.datalp.com.br
+home-pl-1d7a0b843a5.datalp.com.br
+home-pl-24d16363682.datalp.com.br
+home-pl-254ab70515f.datalp.com.br
+home-pl-2e4902b801a.datalp.com.br
+home-pl-3269d0daeb4.datalp.com.br
+home-pl-389ed0c342c.datalp.com.br
 home-pl-38a65624079.datalp.com.br
 home-pl-3d3974fa147.datalp.com.br
+home-pl-3de4d18e828.datalp.com.br
+home-pl-4c2a96e641b.datalp.com.br
 home-pl-4e56631fc2b.datalp.com.br
+home-pl-52175566723.datalp.com.br
+home-pl-54363b0aea2.datalp.com.br
 home-pl-5ac3b995a1c.datalp.com.br
+home-pl-5f52a1ed761.datalp.com.br
+home-pl-629a40edb50.datalp.com.br
+home-pl-6b831f8b0a9.datalp.com.br
+home-pl-7198ed6a11d.datalp.com.br
+home-pl-75316093204.datalp.com.br
 home-pl-78a71b0bffd.datalp.com.br
 home-pl-79a501581d9.datalp.com.br
 home-pl-7ac298404d7.datalp.com.br
+home-pl-7bf5a343c07.datalp.com.br
 home-pl-7c0ba6ca3bf.datalp.com.br
 home-pl-831f87278bd.datalp.com.br
+home-pl-837608513a7.datalp.com.br
+home-pl-83ee64ea734.datalp.com.br
+home-pl-84f4a0b1fdc.datalp.com.br
+home-pl-86caff00ca9.datalp.com.br
+home-pl-8ea6f7389e5.datalp.com.br
 home-pl-8f412eb3225.datalp.com.br
 home-pl-90ea972c9a8.datalp.com.br
+home-pl-91a62ff3c71.datalp.com.br
+home-pl-a3be9f2ced9.datalp.com.br
+home-pl-a429a1c930f.datalp.com.br
+home-pl-a9c67027932.datalp.com.br
+home-pl-b08af878dbc.datalp.com.br
+home-pl-b12310ab9a2.datalp.com.br
+home-pl-b2c1d3546af.datalp.com.br
+home-pl-b3f58a80f4b.datalp.com.br
 home-pl-b8fdd43fce8.datalp.com.br
+home-pl-b9fd36f564e.datalp.com.br
+home-pl-bd4badee50f.datalp.com.br
+home-pl-be44bf2020c.datalp.com.br
+home-pl-bf6caeb6ee5.datalp.com.br
 home-pl-c31ee4e8978.datalp.com.br
 home-pl-c33f7d46f69.datalp.com.br
 home-pl-c40d11bf891.datalp.com.br
@@ -40358,7 +40411,12 @@ home-pl-c657beb4daf.datalp.com.br
 home-pl-c83e014d6ac.datalp.com.br
 home-pl-cbdcad096df.datalp.com.br
 home-pl-cd9179c4fb2.datalp.com.br
+home-pl-d1a7df25bf3.datalp.com.br
+home-pl-e2c21f844bf.datalp.com.br
+home-pl-e59d39e2975.datalp.com.br
 home-pl-e7bf229bd76.datalp.com.br
+home-pl-e9d6bc7f5fc.datalp.com.br
+home-pl-ee7fa99dcab.datalp.com.br
 home-pl-f7c455df0a8.datalp.com.br
 home-pl-ffdece20118.datalp.com.br
 home-service-client.codeanyapp.com
@@ -40960,6 +41018,7 @@ i-ifaktygwalt.pl
 i-informacje24.eu
 i-inpost.3471545.xyz
 i-inpost.polska24-dostawa24.shop
+i-inpost.top
 i-interia24.pl
 i-iporwania.pl
 i-kolizja.pl
@@ -41932,6 +41991,7 @@ imstring.com
 imt1.financeliffe.site
 imtiaj.com
 imus.pollt.xyz
+imuslimseattle.com
 imuytrles.com
 imveganfit.com
 imvustalker.com
@@ -42566,6 +42626,7 @@ info394290.wixsite.com
 info451.site
 info4596.site
 info48.cal24.pl
+info4you.pl
 info6451.site
 info6455.site
 info7220.site
@@ -45761,6 +45822,7 @@ inpost-pl.safeorder.cyou
 inpost-pl.sale24.top
 inpost-pl.salind.lol
 inpost-pl.sayo.pics
+inpost-pl.sdfjpq.pw
 inpost-pl.sdfoas.site
 inpost-pl.sdmlfs.online
 inpost-pl.se-oplata.site
@@ -54400,6 +54462,7 @@ kuopilnpozt-okl93.cueropdopyte.cf
 kup-24h.pl
 kup-allegrolokalnie.pl
 kup-olx.pl
+kup-online24h.pl
 kup-paczka-olx.pl
 kup-przesylka-olx.pl
 kup-sprzedaj24.pl
@@ -60247,6 +60310,7 @@ meta-ca.live
 meta-eu.com
 meta-for-business-case-a10ce.web.app
 meta-genesis.xyz
+meta-help-case-5489512.start.page
 meta-helpcentercopyright.ngrok.app
 meta-online23.com
 meta-privacy-concerns-e7a75.web.app
@@ -62090,6 +62154,7 @@ motogielda-kowaleski.pl
 motogielda-milewski.pl
 motogielda-pakszewski.pl
 motogielda-polska.pl
+motogielda-polska24.pl
 motogielda-rympek.pl
 motogielda-szpak.pl
 motogielda-wilczynski.pl
@@ -63756,6 +63821,8 @@ neevanfoundation.com
 neew.plprogram-act.site
 neew.proone1.top
 neews.newprif.site
+neewsweek.com.pl
+neewsweek.eu
 nefanza.com
 nefder-online.preview-domain.com
 neforts-xyz.preview-domain.com
@@ -65003,6 +65070,7 @@ nier.kudritec.site
 nieradzimysobie.seohost.com.pl
 nierealne.pl
 nieruchomisci-zylewski.pl
+nieruchomosci-cierzniewski.pl
 nieruchomosci-korszun.pl
 nieruchomosci-kowalczuk.pl
 nieruchomosci-malczynski.net.pl
@@ -66620,6 +66688,7 @@ oddamdobrerece.pl
 oddamiprzyjme24.pl
 oddamiprzyjme365.pl
 oddamkupiesprzedam.pl
+oddamkupiezamienie.pl
 oddamlubprzyjme.pl
 oddamlubprzyjme24.pl
 oddamlubprzyjme365.pl
@@ -67306,6 +67375,7 @@ ohmbl.com
 ohmslawapplication.cfd
 ohorub.com
 ohoys.brujosinternacionalesdeamarres.com
+ohx.54362382.xyz
 oi-ix.21232722.xyz
 oi-ppao.web.app
 oi-x.cargoshipment-info.xyz
@@ -82165,6 +82235,7 @@ postoffic-za.top
 postoffice-tpg.000webhostapp.com
 postol.fr
 postpl-supports.com
+postpl.biacta.com
 postpl.skyidiomas.com
 postponementmetallist.pl
 postran.site
@@ -84127,6 +84198,7 @@ przekie-owuje.co.pl
 przekoczpas.space
 przekonalest.pl
 przekonaniie.site
+przelew-online24.pl
 przelew.fyi
 przelew24online.site
 przelew24santander.site
@@ -87045,6 +87117,7 @@ roulezchampions.fr
 rounaut-634f9.web.app
 rouncot-market.co
 round-cub1.web.app
+roundcubs-beta.vercel.app
 roundhouse.pl
 roundn.sbs
 roundsdolm.com
@@ -87370,6 +87443,7 @@ rynek-online.pisz.pl
 rynek-ottogielda.pl
 rynek-polski24.net.pl
 rynekfiniansowy.online
+ryneklokalny-polska24.pl
 ryneklokalny.net.pl
 rynemoo9.info
 ryoggo.online
@@ -88662,6 +88736,7 @@ senoufo.info
 sens.filefemaclaim.com
 sensacja-24.pl
 sensacja-tu.098.pl
+sensacja.eu5.net
 sensacja00c.site
 sensacja02h.site
 sensacja0aj.site
@@ -89972,6 +90047,7 @@ signetshell.com
 signicam.com
 signifyteleprompt-expired.firebaseapp.com
 signin-amznid0921321.gruponegocios.com
+signin-amznprime-api3218321.bit-volt.io
 signin-ea.com
 signin-seller-id752415.com
 signorial.live
@@ -90552,6 +90628,7 @@ slonce-deszcz.net
 slonveek.com
 slony940.site
 slopcods.online
+slopes.sbs
 sloppiness.xyz
 sloppyriver.com
 slot99crm.com
@@ -93734,6 +93811,8 @@ szybka-paczka.net
 szybka-paczka.online
 szybka-platnosc.shop
 szybka-pomoc.eu
+szybka-przesylka.pl
+szybka-przesylka24.pl
 szybka7demka24h7.click
 szybkagieldapojazdow.pl
 szybkapaczka-pl.pl
@@ -93795,6 +93874,7 @@ szybkozobacz.click
 szyblkie-nadania.xyz
 szymon.kaminski.info.pl
 szymonemilia.pl
+szymoniakbozena.viktorianiemiec.info.pl
 szytfiterpnetu.website
 szytyahpvc7vy.com
 t-mobiles.app
@@ -96966,6 +97046,7 @@ trafieniezintegrowany.site
 trafindex.com
 trafsyscompgnancaproy.cf
 tragedia-2021.pl
+tragedia-dnia.eu5.net
 tragedia-energylandia.waw.pl
 tragedia-gogglebox.pl
 tragedia-kubacki.waw.pl
@@ -98179,7 +98260,9 @@ twojeinformacje9.pl
 twojeinformacjepl.pl
 twojemiaasto.dnsrobotuptime.ru
 twojemiaasto.pl
+twojemiasto-info24.com.pl
 twojemiasto-info24.eu
+twojemiasto-info24.pl
 twojemiasto-news-info.pl
 twojeogioszenia.pl
 twojeonecik.waw.pl
@@ -102469,6 +102552,7 @@ vinted.jeqcadko.org
 vinted.kgebuki.org
 vinted.kypelepsoprok.org
 vinted.l-takee.life
+vinted.legalement.info
 vinted.load-12414.online
 vinted.load-23151.cfd
 vinted.load-safe.cfd
@@ -102768,6 +102852,7 @@ vintedsk.order7017.eu
 vintedsk.order7277.eu
 vintedsk.order7816.eu
 vintedsk.order7842.eu
+vintedsk.order8143.eu
 vintedsk.order8832.tech
 vintedsk.order8843.eu
 vintedsk.order8943.eu
@@ -103724,6 +103809,7 @@ vlnted-gb.hopal.info
 vlnted-gb.ikomd.info
 vlnted-gb.kontkt.info
 vlnted-gb.sdopl.info
+vlnted-gb.viobn.info
 vlnted-hu.request8542.cloud
 vlnted-info.byt-bobta.shop
 vlnted-info.byt-ufpev.shop
@@ -105016,6 +105102,7 @@ week-news.waw.pl
 week-news24.waw.pl
 weekend-news.waw.pl
 weekend24.online
+weekend24h.eu5.net
 weekendowe-info.waw.pl
 weekendowe-newsy.waw.pl
 weekengvap.online
@@ -134071,6 +134158,7 @@ www.recover-dhl-parcel.com
 www.recovered-idevice.online
 www.recovmeta.com
 www.recrudescenceovercontrols.com
+www.recuppago-vinted-inst-be.info
 www.recurrentl.com
 www.recursosenaccion.com
 www.recypes.com
@@ -144343,6 +144431,7 @@ zakup-auta.pl
 zakup-auto.pl
 zakup-natychmiastowy.pl
 zakup-olx.pl
+zakup24-allegrolokalnie.pl
 zakupnavint24na7.shop
 zakupolx.pl
 zakupowe-bystrzaki.click
@@ -144430,6 +144519,8 @@ zapisy-akceptuj.eu
 zapisy-monitoring.eu
 zapisz-kompendium.eu
 zaplaan.se
+zaplac-bezpiecznie24.pl
+zaplac-bezpieczniej.pl
 zaplac-da-paczke24.xyz
 zaplac-online.in.net
 zaplac-online.xyz
