@@ -404,6 +404,7 @@ ad-exchange.toast.com
 ad-g.doubleclick.net
 ad-hcm.24hstatic.com
 ad-hn.24hstatic.com
+ad-log-upload-os.hoyoverse.com
 ad-log.dable.io
 ad-maven.xml-eu.ak-is2.net
 ad-maven.xml.ak-is2.net
@@ -1768,6 +1769,7 @@ adserver.adtech.advertising.com
 adserver.adtechjp.com
 adserver.adtechus.com
 adserver.adultfriendfinder.com
+adserver.adverty.com
 adserver.atdnetwork.com
 adserver.b2c.com
 adserver.barrapunto.com
@@ -1968,6 +1970,7 @@ adtdp.com
 adteaser.ru
 adtech.com
 adtech.de
+adtech.yahooinc.com
 adtechjp.com
 adtechus.com
 adtechvideo.s3.amazonaws.com
@@ -2089,6 +2092,7 @@ advert.wiztube.xyz
 advert360.com
 advertbox.ru
 advertica-cdn.com
+advertica-cdn2.com
 advertica.ae
 advertica.eu
 adverticum.com
@@ -2096,6 +2100,7 @@ adverticum.net
 adverticus.de
 advertise.bingads.microsoft.com
 advertise.com
+advertise.ldplayer.net
 advertiseireland.com
 advertisementafterthought.com
 advertiser.advangelists.com
@@ -2183,6 +2188,7 @@ adx-in.ads.heytapmobile.com
 adx-kh.ads.heytapmobile.com
 adx-mm.ads.heytapmobile.com
 adx-my.ads.heytapmobile.com
+adx-os.anythinktech.com
 adx-ph.ads.heytapmobile.com
 adx-sg.ads.heytapmobi.com
 adx-sg.ads.heytapmobile.com
@@ -4794,6 +4800,7 @@ c.amazon-adsystem.com
 c.amazon-adsystems.com
 c.appier.net
 c.atdmt.com
+c.bannerflow.net
 c.bebi.com
 c.betrad.com
 c.bigmir.net
@@ -5831,11 +5838,13 @@ clickopop1000.com
 clickppc.infolinks.com
 clickreport.online
 clicks.equantum.com
+clicks.eventbrite.com
 clicks.mods.de
 clicks.parsely.com
 clicks.truongton.net
 clickserv.sitescout.com
 clickserve.cc-dt.com
+clicksmint.site
 clicksor.com
 clicktag.de
 clickterra.net
@@ -6249,6 +6258,7 @@ coralogix.com
 core.insightexpressai.com
 core.iprom.net
 core.polyad.net
+core.royalads.net
 core.vchat.vn
 core.vnecdn.com
 coreidkanaka.digital
@@ -6436,6 +6446,8 @@ crm.ants.vn
 crm.bizfly.vn
 crm.englishtown.edu.vn
 crmbizfly.todo.vn
+crmpt.livejasmin.com
+crmt.livejasmin.com
 crmx.eqvn.net
 croakdisconnectedclaw.com
 crocopop.com
@@ -7980,6 +7992,7 @@ exonymayuyu.com
 exosrv.com
 exoticads.com
 exp.360in.com
+expdirclk.com
 expensepurpose.com
 experience.tinypass.com
 experteerads.com
@@ -8583,6 +8596,7 @@ geoplugin.net
 geotags.w55c.net
 geovisite.com
 geoworker.ayads.co
+get-here-click.xyz
 get.2leep.com
 get.gaug.es
 get.optad360.io
@@ -10348,6 +10362,7 @@ julysystems.com
 jumptap.com
 jungianoxamide.space
 junkieswudge.com
+junmediadirect1.com
 junotherome.com
 juratoroutsees.uno
 juringupstage.com
@@ -11001,6 +11016,7 @@ log.vovworld.vn
 log.x2convert.com
 log.xoso.com.vn
 log.ys7.com
+log.zalo.video
 log.zamba.vn
 log.zingmp3.vn
 log.zingnews.com.vn
@@ -11379,14 +11395,17 @@ mathtag.com.edgekey.net
 matomo.cloud
 matomo.ecoe.vn
 matomo.hicity.vn
+matomo.openstreetmap.org
 matomo.quan.hoabinh.vn
 matomo.shac.vn
 matomo.vepg.vn
+matomo.vietlottsms.vn
 matomy.com
 matqqagvkaaftr.com
 matrimonyfeudboss.com
 matzohshoey.com
 maulupoa.com
+mautic-learn.teky.edu.vn
 mautic.200lab.io
 mautic.akhoe.vn
 mautic.bdev.co.th
@@ -11670,6 +11689,7 @@ metrics.sdkbox.com
 metrics.smaato.net
 metrics.walmart.com
 metrics.wpm.neustar.biz
+metrics2.data.hicloud.com
 metricswpsh.com
 metrika.yandex.ru
 metrilo.com
@@ -11760,6 +11780,7 @@ ml314.com
 mlm.de
 mlog.appguard.co.kr
 mlog.hiido.com
+mlsend.com
 mlvgxzenoiz.com
 mm-cgnews.com
 mmaglobal.com
@@ -13622,6 +13643,7 @@ poppinhelodes.store
 popruexo.com
 popsoffer.com
 popub.com
+popunder.bid
 popunder.ru
 popup.msn.com
 popup.popupsmart.com
@@ -17578,6 +17600,7 @@ toplist.pornhost.com
 toplistcity.com
 topmmorpgsites.com
 toponad.com
+toponadss.com
 toppage.vn
 toprebates.com
 toprevenuecpmnetwork.com
@@ -17871,6 +17894,7 @@ tracking2.vnncdn.net
 tracking3.vnncdn.net
 trackingapi.foody.vn
 trackingflaregames.net
+trackingsea.zingplay.com
 trackingsoft.com
 trackingtraffo.com
 trackingvn.zingplay.com
@@ -18151,6 +18175,7 @@ ubermedia.com
 uberouspolitei.com
 ubewpjbfo.com
 ubmcmm.baidustatic.com
+ubt-sin.tripcdn.com
 ubuyanalytics.ubuy.com
 uc.ucweb.com
 ucads.ucweb.com
@@ -19068,6 +19093,7 @@ webpower.com
 webproducts.click
 webpush.bizfly.vn
 webpush.todo.vn
+webpush.vn
 webpushdirect.biz
 webpushr.com
 webreseau.com
