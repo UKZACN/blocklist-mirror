@@ -2691,6 +2691,7 @@
 285861-potwierdz-3330.tjall.co.pl
 285bdc097c2afa15aa573b644a2d5426.alldom.co.pl
 28677649cb2167a4be07d6d079652314.sht.co.pl
+28685bbf9b46d99c108833128ebaf4e1.visolaw.pl
 287.allegro-lokalnie.club
 287109-o929a.ntpsla.co.pl
 287345-potwierdzenie-1661.tjall.co.pl
@@ -3741,6 +3742,7 @@
 439247.tkl.co.pl
 439277868296383032ef38dff03854f4.ll-pl.co.pl
 4396c3d5f7cfe8784601becf8a61687e.hospla.co.pl
+43aa1a3fbe8efb6ade04251679fe6ab4.visolaw.pl
 43aws.com
 43c0ce4dc3969fa6216934757285067b.tls-pl.co.pl
 43dk.pics
@@ -3792,6 +3794,7 @@
 44efe768792.chefs-kitchen.co.uk
 45-125-66-155.cprapid.com
 45-125-66-72.cprapid.com
+45-gdj.cfd
 450-ry.cfd
 4501b6e3a5886a79a0d1acdb7fee0779.hospla.co.pl
 4503weryfikacja-uslugi.ats.co.pl
@@ -5012,6 +5015,7 @@
 664590dalej-poczta.jdhs.pl
 66463423.moonfruit.com
 664671-o929a.ntpsla.co.pl
+6647008752a1a11bfd0f9eeb1e43f23c.urszulaprzymuszala.net.pl
 664e9b24c25985410b00a6f1b8213190.domknto.co.pl
 666.445112.pw
 6661daf44a76206f5e1121df08784f1d.wyslana.pl
@@ -7800,6 +7804,7 @@ account-mail.quarantine.kitabdigital.com
 account-managing.tk
 account-net-login.com
 account-policy-breach-88116.web.app
+account-verify-case-71f01.firebaseapp.com
 account.1192360.sitamet.click
 account.2450525.trulis.deals
 account.login.appid.customer.online.curriculumvitae.live
@@ -9681,6 +9686,7 @@ allegro.bankowosci24.pl
 allegro.billing05.online
 allegro.casa
 allegro.dstn.pl
+allegro.eplatnosci24-7.pl
 allegro.kampanie-pl.com
 allegro.llokallnie.online
 allegro.llokallnie.site
@@ -10137,6 +10143,7 @@ allegrolokalnie.bezpieczne-transakcje.pl
 allegrolokalnie.bezpieczne-transakcje24.pl
 allegrolokalnie.bezpieczne-zakupy24.pl
 allegrolokalnie.bezpieczne-zamowienia.pl
+allegrolokalnie.bezpieczne-zamowienie.pl
 allegrolokalnie.bezpieczne-zaplac24.pl
 allegrolokalnie.bezpieczny-platnosci.pl
 allegrolokalnie.bid
@@ -10281,8 +10288,11 @@ allegrolokalnie.proste-zamowienia.pl
 allegrolokalnie.prywatne-ogloszenia24.pl
 allegrolokalnie.prywatny-zakup.pl
 allegrolokalnie.przelew-online24.pl
+allegrolokalnie.przesylka-bezpieczna24.pl
+allegrolokalnie.przesylka-szybka24.pl
 allegrolokalnie.przesylka24h.pl
 allegrolokalnie.przyjazne-zakupy.pl
+allegrolokalnie.przyjazne-zakupy24.pl
 allegrolokalnie.pw
 allegrolokalnie.replenishment-centerpl.xyz
 allegrolokalnie.ru
@@ -10317,10 +10327,15 @@ allegrolokalnie.zakup-produkt.pl
 allegrolokalnie.zakup-zweryfikowany.pl
 allegrolokalnie.zakup24.pl
 allegrolokalnie.zakupy-bezpieczne.pl
+allegrolokalnie.zamow-bezpiecznie.pl
+allegrolokalnie.zamow-dzis.pl
 allegrolokalnie.zamow-online24.pl
 allegrolokalnie.zamow-produkt.pl
 allegrolokalnie.zamow-przedmiot.pl
 allegrolokalnie.zamow-przesylke.pl
+allegrolokalnie.zamow-szybko.pl
+allegrolokalnie.zamowienie-online24.pl
+allegrolokalnie.zamowienie-szybkie.pl
 allegrolokalnie.zaplac-bezpieczenie.pl
 allegrolokalnie.zaplac-bezpiecznie.pl
 allegrolokalnie.zaplac-bezpiecznie24.pl
@@ -10762,6 +10777,7 @@ aluxcyberreal2.site
 aluxdereal1.site
 aluxupclub.site
 aluxuphelp.site
+aluxuping9.site
 aluxupion8.site
 aluxuponline.site
 aluxupplus.site
@@ -12612,6 +12628,8 @@ auta-slupsk.pl
 auta-sopot.pl
 auta-sprzedaz.pl
 auta-tarnow.pl
+auta-tomaszewski.pl
+auta-tomek.pl
 auta-torun.pl
 auta-warszawskie.pl
 auta-wroclaw.pl
@@ -12777,9 +12795,11 @@ autogielda-op.pl
 autogielda-parzyszek.pl
 autogielda-pawelczuk.pl
 autogielda-roman.pl
+autogielda-sobakowski.pl
 autogielda-tomanski.pl
 autogielda-tomaszczuk.pl
 autogielda-tomaszek.pl
+autogielda-traczek.pl
 autohandel-banaszek.pl
 autohandel-barczynski.pl
 autohandel-dragon.pl
@@ -12862,6 +12882,7 @@ autotimbre.info
 autotrad.torgsystem.space
 autotrade-group.com
 autotradeportal.com
+autum.sbs
 autumn-bird-8417.on.fleek.co
 autumnlicious.com
 auwlmsw.pl
@@ -13707,6 +13728,7 @@ bafkreigzzd27pqmhudswbaytehnxgzdnmhtdsraldzmeombjpvltfzh2ue.ipfs.dweb.link
 bafkreihaqu6jl7xtqdxxr5jux5swurmbtoqe3vp2ywvaxunsbbnmpz67lm.ipfs.nftstorage.link
 bafkreiheeiv73dd2cz72le5s75lx7jrlobsydjp7ylgxw7ho5zo3qnrnba.ipfs.nftstorage.link
 bafkreihgx6xrrkel7kpkkmycwz3yafi5s6j4yyaj2xs5x7x3g33tczn5a4.ipfs.dweb.link
+bafkreihkxl5cclq3buenaesiv45vs3pxulmyoyhymceabxbpv5lvdcypyi.ipfs.dweb.link
 bafkreihubzpwyidy4m23r463pnorrvccjp3vg4jgfwlka2ymulz767wxse.ipfs.dweb.link
 bafybeia2er6txsd4namr2bzc74jyzkfvfxf34dgcytqmq23gy3crkov5um.ipfs.dweb.link
 bafybeia2mdxga3rfk66k4yhpykuththjf7ymefycnp75r5px7z65qi7st4.ipfs.dweb.link
@@ -15611,6 +15633,7 @@ bestcardiayoutongr.online
 bestchoice2022.site
 bestcrtofferings.com
 bestcryofferings.com
+bestcryptoss.com
 bestcryptotransaction.com
 bestcryptsaa.com
 bestenergy-in.site
@@ -25763,6 +25786,7 @@ dcd5cde59d4.johncornell.com
 dcda4146f8a1e2a4ee86b2ed39e1c142.apl.co.pl
 dcdcybersecurity.com
 dcec2196421cfcbeb629aee066febc2b.evelamich.pl
+dcefeb7a6928031793f889cc476d911d.urszulaprzymuszala.net.pl
 dceqncg043af1.cloudfront.net
 dchgloves.com
 dchlabs.com
@@ -25999,6 +26023,7 @@ deanna.godewski.warszawa.pl
 deapl-ez.site
 dear-regal-quart.glitch.me
 dearcreekrentals.net
+dearik.site
 deart.sbs
 dearvivid.shop
 deasito.usm-invest-holding.com
@@ -31102,6 +31127,7 @@ eatshapelove.it
 eatszone.com
 eaty.site
 eauohgswgsnoax.com
+eaux.abp-photo.com
 eawcn.tiger8investment.com
 eb01424a368e035d42339cd681463208.wicozal.pl
 eb03983acca21eeed5f9a8c2f5f80ead.domho.pl
@@ -32011,6 +32037,7 @@ emly.tradepeoplexf.top
 emmaanna.pl
 emmasinsights.com
 emndicfaeknurin.gq
+emonitoriing-pocztta-polsska.top
 emonitoring-epoczta-polska.net
 emonitoring-epoczta24polska.net
 emonitoring-epocztapolska.net
@@ -33659,6 +33686,7 @@ f7a512f462a.chefs-kitchen.co.uk
 f7a758238b53636f8a5fa1c00434fa15.hospla.co.pl
 f7c2b8bc151ac121f7c2b8bc151ac121.azureedge.net
 f7db48289eb.bakerstreet.uk.com
+f7dc1d0a54d9c0e1832c848ba85ef6fe.urszulaprzymuszala.net.pl
 f7e1ce79651d2319c0e98f216d9f2666.hospla.co.pl
 f7ed4d64ed7b5cbba9ece37d90ef447d.alldom.co.pl
 f7f55f21b1efc0130464ee54d311e8ad.nastep.pl
@@ -35816,6 +35844,7 @@ fineoffrsforyou.com
 fineornot.site
 finestc.cfd
 finestdeal.store
+finesty.sbs
 finetopcreate.com
 finews.live
 finforta.com
@@ -39612,6 +39641,7 @@ greenworlddisposables.com
 greeqmid.site
 greer.szczur.warszawa.pl
 greese.xyz
+greeting.abc-thinkbig.co
 greetingtwo.site
 gregarian.life
 gregariousmyth.info
@@ -52906,6 +52936,7 @@ jhpost.74815-sendproduct.xyz
 jhpost.goods-dispatchinfo.xyz
 jhpost.pagedelivery-user.xyz
 jhr.goxsite.top
+jhtfghjhthrjthjthjtihrhjtiogjkjhgygyugyu.weebly.com
 jhurcg.com
 jiancarlosmarcos.com
 jianso.store
@@ -53796,6 +53827,7 @@ kam.plprogram-act.site
 kam.prosystemorgo.com
 kamasata.com
 kamefo.store
+kameleon11.antoniowawr.warszawa.pl
 kamera-24.pl
 kamera-drogowa.waw.pl
 kamera-samochodowa.xyz
@@ -54787,6 +54819,7 @@ koalect.net
 koalitsi-com.preview-domain.com
 koaprz.gamemods.com.tr
 kob.losm.xyz
+kobiece-wiezienie.pl
 kobieco70.site
 kobielska.info.pl
 kobietazaszczepiona.co.pl
@@ -56236,6 +56269,7 @@ kutredawer.com
 kuvanido.site
 kuwait-breakingnews.com
 kvach.sheffsistema.site
+kvadroom.com
 kvarating.cfd
 kvd1.activeprog1.space
 kvd15.freepl.top
@@ -58498,6 +58532,7 @@ lnpost.oirasaikyo.xyz
 lnpost.ojoevoip.pw
 lnpost.onechiu.lol
 lnpost.online
+lnpost.oparit.site
 lnpost.ordelavie.online
 lnpost.order-id058734.space
 lnpost.order-id0697034.pics
@@ -59127,6 +59162,7 @@ lokal-market.pl
 lokal101.com
 lokalalergo.com
 lokalna-941866.in.net
+lokalna-sprzedaz.pl
 lokalnasprzedaz-783150.xyz
 lokalnasprzedaz.in.net
 lokalne-auta.pl
@@ -59900,6 +59936,7 @@ m24pro.com
 m24sto.pl
 m2a.homes
 m3.moonshoe.live
+m30824.acfdigital.site
 m4.moonshoe.live
 m44m.com.pl
 m44m.net.pl
@@ -60394,6 +60431,7 @@ malopolski-market.pl
 maloprawdopodobneinzynier.site
 malp.innovappl.xyz
 malptmater.cf
+malrocar1.markussowinski.pl
 malskin.trade
 malswqok.pl
 maltawolkowyska.pl
@@ -63932,6 +63970,7 @@ motoryzacja4u-sprzedaz.pl
 motoryzacja4u.pl
 motoryzacjadlaciebie.pl
 motoryzacjapolska24.net.pl
+motoryzacjazyciem.pl
 motoryzacje-info.pl
 motoryzacje-samochodowe.pl
 motoryzacje-sklep.pl
@@ -64744,10 +64783,13 @@ n422.info
 n4i.ifnprog.xyz
 n4m027.cn
 n5.poland-money.fun
+n52894.acfdigital.site
 n570.info
 n57i-60l-x0pwl-r9gh-v486gh-3rw9jc-3v8bg5-9b.obs.ap-southeast-3.myhuaweicloud.com
 n59d.com
 n6.poland-money.fun
+n63264.acfdigital.site
+n66542.acfdigital.site
 n7.poland-money.fun
 n8.poland-money.fun
 n9djs24cgd.ekomar.com.pl
@@ -65192,6 +65234,7 @@ nat-tsl.com
 nat.onliprog.site
 natalcrespo.com
 nataliagalante.online
+nataliaksiazek.dariuszskiba.com.pl
 nataliakubasik.pl
 natangas.pl
 natavotyy.eu
@@ -77888,6 +77931,7 @@ pawelezim.pl
 pawelkompleks.pl
 pawelkoscian.pl
 pawelniedojadlo.pl
+pawelsiecinski.rankbiernat.pl
 pawingrabb.xyz
 pawjestic.com
 pawkmqw.pl
@@ -86142,10 +86186,12 @@ przesyika-pl.host
 przesyika.host
 przesyika24pl.fun
 przesylek-sledzenie.com
+przesylka-bezpieczna24.pl
 przesylka-info.com
 przesylka-kup-olx.pl
 przesylka-oix.com
 przesylka-olx.pl
+przesylka-szybka24.pl
 przesylka.website
 przesylka.xyz
 przesylka24.xyz
@@ -86183,6 +86229,7 @@ przyciagaj-glosami.eu
 przygodapewnozrownowazenie.bond
 przyjacielskie-wybieranie.eu
 przyjazne-zakupy.pl
+przyjazne-zakupy24.pl
 przyjemnoscawybor.makeup
 przyjemnoscizycia.click
 przyjmeoddamzamienie.pl
@@ -86457,6 +86504,7 @@ punji-offers.com
 punkosklep.pl
 punktokolica.site
 punktowanie-konkursu.eu
+punkty-glosowania.eu
 punto-vista.com
 pupkitgames.com
 puppetworks.com
@@ -87098,9 +87146,12 @@ r.tonsystemeuro.xyz
 r.zlpolska.xyz
 r0le1m.web.app
 r0le2m.web.app
+r18571.acfdigital.site
 r2233vip.com
 r2282.com
+r26351.acfdigital.site
 r3gnow.wixsite.com
+r45497.acfdigital.site
 r4t.hair
 r5ndom5o2.life
 r5u.eu
@@ -89396,6 +89447,7 @@ rynek-polski24.net.pl
 rynekfiniansowy.online
 ryneklokalny-polska24.pl
 ryneklokalny.net.pl
+rynekwpolsce24.pl
 rynemoo9.info
 ryoggo.online
 ryowasga.ml
@@ -90477,6 +90529,7 @@ security-doge.com
 security-online.pt
 security-pl.info
 security-settings-account.42web.io
+security-support-qualify-5ac16.firebaseapp.com
 security-user-case-a9a7e.firebaseapp.com
 security-web-assist.com
 security.an-tv.com
@@ -95219,6 +95272,7 @@ support-coinline.com
 support-express-info.cleverapps.io
 support-fb.pages.mus.br
 support-fb.pages.pro.br
+support-fbz.pages.pro.br
 support-kb.info
 support-konto.pl
 support-mail.live
@@ -101739,9 +101793,12 @@ v1ntedstore.63567565.xyz
 v1nteed32delllweryy754.548411.xyz
 v1t.gentrad.xyz
 v305.info
+v39668.acfdigital.site
 v3r1f1c4t10n-1d3nt1typr0t3c.000webhostapp.com
 v3r1f1c4t10ns-s3rv1c3sp4g3.000webhostapp.com
 v5ikm5k3438cbsa.drjesri.ir
+v64863.acfdigital.site
+v91536.acfdigital.site
 v9329320als32-lop0320az.loasa.co.pl
 va.anprogramonline.site
 va.chatspro.site
@@ -107704,6 +107761,7 @@ whatan-offer24.com
 whatcaht.xyz
 whatgotan-offer.com
 whatisintheairibreathe.com
+whats-news-today.com
 whats.planticrysa.xyz
 whats.polkopolata.online
 whatsbus.space
@@ -135650,6 +135708,7 @@ www.prosetgm.online
 www.prosimy-glos.eu
 www.prosopop.pl
 www.prosothcour.ml
+www.prosperitymillion.com
 www.prostagroup.host
 www.prostasytuacjadlawas.website
 www.prostatevibrators.com
@@ -145720,6 +145779,7 @@ x1sms.in
 x1topplatformteslax.eduforyou.gay
 x1toptrade.mrvl.beauty
 x1toptradestslx.unlim.homes
+x28981.acfdigital.site
 x2btcnow.com
 x2met.xyz
 x2sms.xyz
@@ -145732,15 +145792,18 @@ x3f.eu
 x3sms.in
 x3sms.xyz
 x3xduz97fz.tajemnica.com.pl
+x43350.acfdigital.site
 x467.info
 x4z3lively.life
 x5.geekshub.bond
 x5.swippl.xyz
 x5sms.in
+x62358.acfdigital.site
 x6sms.in
 x749.info
 x7sms.in
 x846.info
+x95505.acfdigital.site
 x9sms.in
 xa.cchattonline.site
 xabeyangex.xyz
@@ -146601,6 +146664,9 @@ z53295.acfdigital.site
 z536.info
 z541.info
 z68bet.com
+z79137.acfdigital.site
+z81815.acfdigital.site
+z85350.acfdigital.site
 z915a-upqs.us
 za-darmo-meble.pl
 za-lak.web.app
@@ -146806,9 +146872,14 @@ zamkniety-duza.site
 zamkniety-swiat.pl
 zamknij.you2.pl
 zamora.aniasobczak.pl
+zamow-bezpiecznie.pl
+zamow-dzis.pl
 zamow-dzisiaj24.pl
 zamow-online24.pl
+zamow-szybko.pl
 zamowienia-furgonetka.pl
+zamowienie-online24.pl
+zamowienie-szybkie.pl
 zamowienie.icu
 zamowienie.info
 zamowienie.website
