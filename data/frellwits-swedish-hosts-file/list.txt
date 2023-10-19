@@ -328,6 +328,8 @@ clickdimensions.com
 clientcdn.pushengage.com
 cm.g.doubleclick.net
 cmp.network-n.com
+cncpt.dk
+cncptx.com
 code3.adtlgc.com
 collect-metrics.aquro.com
 collect.breakit.se
