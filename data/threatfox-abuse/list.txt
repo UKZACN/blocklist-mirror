@@ -448,7 +448,6 @@
 9days.duckdns.org
 9dediciembreconlabendicion.duckdns.org
 9mdxmex.damnserver.com
-9mltg07b.slt-dk.sched.tdnsv8.com
 9project.duckdns.org
 9seeallcars.best
 9sta9rt4.store
@@ -700,6 +699,7 @@ adem.publicvm.com
 ademdjr.ddns.net
 ademhaker.ddns.net
 adequatelicensing.at
+adf.faqserv.com
 adfgs-l.mrface.com
 adg-ir.fartit.com
 adgjmptw2.kro.kr
@@ -983,6 +983,7 @@ adobedata.webredirect.org
 adobemoney.linkpc.net
 adoring-driscoll.31-214-157-11.plesk.page
 adpggf.faqserv.com
+adq.fartit.com
 adqdqqewqewplzoqmzq.site
 adrian20031424.hopto.org
 ads-info.ru
@@ -1398,6 +1399,7 @@ alquilos123.ddns.net
 alquilosabc.loseyourip.com
 alrma.lat
 alrthesecuritywith.su
+als.mrbasic.com
 alshareeftwtw-28524.portmap.host
 alsinyorq8.no-ip.org
 alsohavethis.top
@@ -1562,7 +1564,6 @@ angmmox.con-ip.com
 anhphux4-60615.portmap.host
 anihelardd.xyz
 animals-sewing.at.ply.gg
-animamagaznaf.com
 animeserverarchives.serveminecraft.net
 anis76.no-ip.biz
 anisiderblomm.com
@@ -1810,7 +1811,6 @@ as.regsvrsvc.com
 as.sortx2.com
 as.svchostsreg.com
 as.svcregsvr.com
-as.sveexec.com
 as.tackhostw.com
 as.vm3dservice.com
 as44aa11.top
@@ -1819,9 +1819,11 @@ asadhashmi.ddns.net
 asaham.itsaol.com
 asas2021.duckdns.org
 asasasbb.hopto.org
+asc.itsaol.com
 asc1.linkpc.net
 ascoitaliasa.duckdns.org
 ascoitaliasasummer.duckdns.org
+asd.isasecret.com
 asd1112.f3322.net
 asd2xxx.duckdns.org
 asdasd05.com
@@ -1888,6 +1890,7 @@ asnyc2020.ddns.net
 asoom.hopto.org
 asperuguz.store
 aspmx5.clsr.ca
+asq.dns05.com
 asra0.no-ip.biz
 asrspoe.com
 assassinodz.ddns.net
@@ -2068,7 +2071,6 @@ ayoubbellagha.no-ip.biz
 ayoubrezki.myq-see.com
 ayouxi2014.no-ip.biz
 ayoway.ddns.net
-ayranger10.ddns.net
 ayyad99.no-ip.biz
 ayylmao3.duckdns.org
 az3r-hh.no-ip.biz
@@ -3600,7 +3602,6 @@ closhop.duckdns.org
 cloud-ptclnetpk.servehttp.com
 cloud014.cisconode.com
 cloudappsoftware.com
-cloudateup.online
 cloudeyes.duckdns.org
 cloudframehost.ddnsgeek.com
 cloudhoststatic.com
@@ -4476,7 +4477,6 @@ detuyaluro.xyz
 deutwell.net
 dev01.kagotsurube.org
 dev02.kagotsurube.org
-dev04.ruok.org
 developersolutions.org
 developmentgear.com
 deviatefromnorm.com
@@ -4693,6 +4693,7 @@ dmiredindee.com
 dmjncbzvayuywqalponmcbvzcxhyuesgfhdnautwm.ydns.eu
 dmmd.ddns.net
 dmrpc77bm.myactivedirectory.com
+dms.mrface.com
 dmx22.no-ip.biz
 dn4d1v1ofq2j1.cloudfront.net
 dndzh457thdhjk.at
@@ -4951,7 +4952,6 @@ dracula00.no-ip.biz
 draggedline.org
 dragonetzone.com
 dragonlimb.com
-dragrun.top
 drazmatik56.no-ip.org
 drbenz.duckdns.org
 drcheeks102.ddns.net
@@ -5040,6 +5040,8 @@ dsix6sb.top
 dsix6vs.top
 dsix6vt.top
 dsl-135-108.bl26.telepac.pt
+dsm.faqserv.com
+dsm.mrbasic.com
 dsoiuhvciosdjncoshvibd.con-ip.com
 dsrgdsfgdf.duckdns.org
 dssclientdownloadsprospect.com
@@ -5543,7 +5545,6 @@ epicgamesfn.ddns.net
 epiclauncher.duckdns.org
 epicryan449.duckdns.org
 epicswagg.duckdns.org
-epiczplus.buzz
 epidine.com
 epifile.info
 eppo.blogoz.top
@@ -5924,7 +5925,6 @@ favour2020.ddns.net
 favour2021.ddns.net
 favournwa.ddns.net
 fawaz050.noip.me
-fawirocizu.org
 fax-joh.dyn-ip24.de
 fax-prince.home-webserver.de
 fayezhaked.no.ip.biz
@@ -6193,7 +6193,6 @@ fofa97.no-ip.biz
 fogame.ddns.net
 fokn2121.duckdns.org
 foknstreet.duckdns.org
-foliagedesigner.azurewebsites.net
 folkmusicstreams.com
 follerring.best
 follovertv.fun
@@ -7793,7 +7792,6 @@ houstrik.gleeze.com
 houstru.ddnsfree.com
 houstus.gleeze.com
 houtske.freeddns.org
-hovaupdates.buzz
 hovelpubtrav.fun
 howmanytimes3.xyz
 howtolive913-31335.portmap.host
@@ -8250,6 +8248,7 @@ iran-sah.fartit.com
 iran-sahm.fartit.com
 iran-sahm.otzo.com
 iran-sahm.vizvaz.com
+iran-sh.fartit.com
 iran-st.vizvaz.com
 iran-ta.faqserv.com
 iran-tb.fartit.com
@@ -8276,6 +8275,7 @@ ircxx.us.to
 iredsahm.com
 irenewoman.duckdns.org
 irha3wzuu.top
+irhg.fartit.com
 irib.fartit.com
 irib.jkub.com
 irib.my03.com
@@ -9289,7 +9289,6 @@ krieten.zapto.org
 krimeaboom.xyz
 krimo2015.noip.me
 krishalvarado.autos
-krnewfine.work.gd
 krossred957.duckdns.org
 krugovayaporuka.ru
 krugovayaporuka.su
@@ -9681,7 +9680,6 @@ lintingdaun.com
 linuxhosts.ddns.net
 linvorodana.cyou
 linvosuyi.myddns.me
-lionfish.top
 lionsguard.ddns.net
 liopalsdrom.com
 lioualioualioua.ddns.net
@@ -11714,7 +11712,6 @@ nationalgeografics2020.duckdns.org
 natsudragneelsucksdick.chickenkiller.com
 nattyma.no-ip.biz
 natural-sugar.auto.playit.gg
-naturetrtwentond.com
 natursaker.com
 nauhancs.duckdns.org
 navaikargranites.line.pm
@@ -14009,7 +14006,6 @@ qw.regsvrsvc.com
 qw.sortx2.com
 qw.svchostsreg.com
 qw.svcregsvr.com
-qw.sveexec.com
 qw.tackhostw.com
 qw.vm3dservice.com
 qwaszx.club
@@ -14404,6 +14400,7 @@ rencos121.duckdns.org
 rendinfo.shop
 rendnar.link
 rendomaname.duckdns.org
+renew-certificate.azureedge.net
 renewals4u.xyz
 renewbleenergey.ru
 renko.ddns.net
@@ -14956,6 +14953,7 @@ sahmln.vizvaz.com
 sahmn-b.vizvaz.com
 sahmn.camdvr.org
 sahmn.duia.ro
+sahmn.fartit.com
 sahmn.jkub.com
 sahmn.vizvaz.com
 sahmnl.faqserv.com
@@ -15463,7 +15461,6 @@ service-a7n7217q-1258444660.gz.apigw.tencentcs.com
 service-a83yg9pg-1307556005.gz.apigw.tencentcs.com
 service-a85mcmy2-1259015174.gz.apigw.tencentcs.com
 service-ayurikha-1302461797.gz.apigw.tencentcs.com
-service-b2qhuyiu-1307021836.gz.apigw.tencentcs.com
 service-besjnih9-1307114390.sh.apigw.tencentcs.com
 service-bflrax8k-1306177445.gz.apigw.tencentcs.com
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com
@@ -15482,6 +15479,7 @@ service-dijaz85p-1318228220.sh.apigw.tencentcs.com
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com
 service-dxka5ebo-1306407718.gz.apigw.tencentcs.com
+service-e699j3k6-1259689902.gz.apigw.tencentcs.com
 service-e6qj5a3r-1251769991.bj.apigw.tencentcs.com
 service-ehj0oavc-1258426110.gz.apigw.tencentcs.com
 service-eii49n6u-1256578115.gz.apigw.tencentcs.com
@@ -16224,7 +16222,6 @@ spartanazul.duckdns.org
 spdxx.ddns.net
 spec.ir
 special-alpine.at.ply.gg
-specialblue.pm
 specialblue.wf
 specialblueitems.com
 specialnewspaper.com
@@ -16684,6 +16681,7 @@ swordhiltewa.com
 swrypaiii.ydns.eu
 sx01.info
 sxeodus12.duckdns.org
+sxsigami2021.cf
 sydney112.hopto.org
 sydor.tjsosda.com
 sye.zapto.org
@@ -16874,6 +16872,7 @@ techz.duckdns.org
 tecnorocket.xyz
 tecnotrendgame.ddns.net
 teculio20.duckdns.org
+tedalat.hair
 teddytroja.duckdns.org
 tedyoepela.xyz
 teensviolet.com
@@ -17726,6 +17725,7 @@ upcloudser.online
 upcls.online
 upd.cndlogstics.com
 update-regb-service.com
+update-services.azureedge.net
 update-system.duckdns.org
 update.aquaholic.dev
 update.edgeupdates.com
@@ -22542,7 +22542,6 @@ zx.regsvrsvc.com
 zx.sortx2.com
 zx.svchostsreg.com
 zx.svcregsvr.com
-zx.sveexec.com
 zx.tackhostw.com
 zx.vm3dservice.com
 zxc123598.e2.luyouxia.net
