@@ -3256,6 +3256,7 @@ cloud.xenoris.fr
 cloud001.info
 cloud002.info
 cloudfilesharingdomainurllinksys.duckdns.org
+cloudhost.myfirewall.org
 clouding-world.online
 cloudpassreset.ga
 cloudpoa.com
