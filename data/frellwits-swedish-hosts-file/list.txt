@@ -514,6 +514,7 @@ hb.headbidder.net
 hb.improvedigital.com
 hbid.ams3.cdn.digitaloceanspaces.com
 headerlift.com
+here.selectofmychoices.com
 heroaffiliates.com
 highcpmrevenuenetwork.com
 hollistersverige.com.se
@@ -841,6 +842,7 @@ secure.reaktion.se
 secure.statcounter.com
 securepubads.g.doubleclick.net
 seenthis.se
+selectofmychoices.com
 sentry.outbid.io
 seoab.io
 seonify.com
@@ -978,6 +980,10 @@ track.uniqodo.com
 trackcmp.net
 tracker-v4.gamedock.io
 tracker.gamedock.io
+tracker.kollega.open-analytics.se
+tracker.kulturradet.open-analytics.se
+tracker.lakemedelsverket.open-analytics.se
+tracker.transportstyrelsen.open-analytics.se
 tracker.zummycloud.com
 tracking.adviralmedia.com
 tracking.aktuellhallbarhet.se
@@ -1130,6 +1136,8 @@ webbannons.ntm.eu
 webpower.eu
 websdk.appsflyer.com
 webstats.100procent.com
+west.statisticplatform.com
+where.selectofmychoices.com
 widget.boende.se
 widget.cdn.citygate.se
 widget.citygate.se
