@@ -191,6 +191,7 @@ a.opmnstr.com
 a.optimizesrv.com
 a.optmnstr.com
 a.orbsrv.com
+a.pemsrv.com
 a.photowonder.net
 a.popin.cc
 a.postrelease.com
@@ -232,6 +233,7 @@ a9.com
 aa.agkn.com
 aa.online-metrix.net
 aa.toponad.com
+aaacompany.net
 aab.adxxx.com
 aaddcount.com
 aaddzz.com
@@ -413,6 +415,7 @@ ad-miner.com
 ad-monitor.kargo.com
 ad-move.jp
 ad-ndtv.3s.com.vn
+ad-nex.com
 ad-pay.de
 ad-rotator.com
 ad-score.com
@@ -945,6 +948,7 @@ adm.fwmrm.net
 adm.hotjar.com
 adm.phunusuckhoe.vn
 adm.phunuvagiadinh.vn
+adm.shinobi.jp
 adm0.autoimg.cn
 adm3.autoimg.cn
 admagnet.net
@@ -1770,6 +1774,7 @@ adserver.adtechjp.com
 adserver.adtechus.com
 adserver.adultfriendfinder.com
 adserver.adverty.com
+adserver.assistads.net
 adserver.atdnetwork.com
 adserver.b2c.com
 adserver.barrapunto.com
@@ -3756,6 +3761,7 @@ assets.ubembed.com
 assets.vlitag.com
 assets1.adroll.com
 assets1.exgfnetwork.com
+assistads.net
 assistedadultrib.com
 assoc-amazon.com
 assoc-msdk-cn.amazon-adsystem.com
@@ -4647,6 +4653,7 @@ bridge.sfo1.admarketplace.net
 bridgetrack.com
 brief.logrocket.com
 brief.mediaz.vn
+brightadnetwork.com
 brightcombid.marphezis.com
 brightgluttony.com
 brightinfo.com
@@ -6664,6 +6671,7 @@ d2cmedia.ca
 d2dq2ahtl5zl1z.cloudfront.net
 d2er1uyk6qcknh.cloudfront.net
 d2ers4gi7coxau.cloudfront.net
+d2ezz24t9nm0vu.cloudfront.net
 d2fsfacjuqds81.cloudfront.net
 d2g8ksx1za632p.cloudfront.net
 d2j042cj1421wi.cloudfront.net
@@ -7561,6 +7569,7 @@ ebocornac.com
 ebs.criteo.com
 ebuzzing.com
 ebvkmavxibi.com
+ec-optimizer.com
 ec-uat.instapagemetrics.com
 ec.adsymptotic.com
 ec.atdmt.com
@@ -9024,6 +9033,7 @@ hal90002.redintelligence.net
 hal90006.redintelligence.net
 halidspilau.guru
 hammerhearing.com
+hananokai.tv
 handkerchiefpersonnel.com
 handlingfaster.com
 handyfield.com
@@ -9432,6 +9442,7 @@ i1img.com
 i1media.no
 i2.2leep.com
 i2.cnt.my
+i2ad.jp
 i2i.jp
 i3.cnt.my
 ia-cert.inner-active.mobi
@@ -9627,10 +9638,12 @@ imces.dfw1.vip.inmobi.com
 imces.inmobi.com
 imdb.amazon-adsystem.com
 imedia.cz
+img-ad-nex.com
 img.1rx.io
 img.24smi.net
 img.3lift.com
 img.accesstrade.net
+img.ad-nex.com
 img.ad-stir.com
 img.adcaffe.com
 img.adpia.vn
@@ -11509,6 +11522,7 @@ media.adtimaserver.vn
 media.adup-tech.com
 media.ambientplatform.vn
 media.amntx1.net
+media.assistads.net
 media.atemda.com
 media.bidgear.com
 media.bidr.io
@@ -13240,6 +13254,7 @@ pejzeexukxo.com
 pelagicmismate.com
 pelfsgarote.com
 peltastglaires.uno
+pemsrv.com
 pencilmoralturkey.com
 pennilesscomingall.com
 pennyweb.com
@@ -14074,6 +14089,7 @@ pumpaiss.net
 punchbowl.alcmpn.com
 punnisshaci.com
 punyplant.com
+puppyderisiverear.com
 puqszoxagogc.com
 purch-match.dotomi.com
 purch-sync.go.sonobi.com
@@ -15185,6 +15201,7 @@ s.opoxv.com
 s.optvx.com
 s.orbsrv.com
 s.outbrain.com
+s.pemsrv.com
 s.pixanalytics.com
 s.pmddby.com
 s.pssy.xyz
@@ -16152,6 +16169,7 @@ spf3.advergine.com
 spf3.advergine.ru
 sphere-dev.outbrain.com
 sphere.outbrain.com
+spicy-effect.com
 spidersboats.com
 spiffymachine.com
 spikereekvelocity.com
@@ -16221,6 +16239,7 @@ srv.pixel.parsely.com
 srv.trafficgate.net
 srv.tunefindforfans.com
 srv.vivaclix.com
+srv1.aaacompany.net
 srv2.trafficgate.net
 srvcc.media.net
 srvjsr.media.net

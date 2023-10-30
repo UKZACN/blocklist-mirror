@@ -1151,6 +1151,7 @@
 1.codefus1ona.sbs
 1.cozdadda.com
 1.dasdasw.com
+1.degreat11.xyz
 1.dropshunter.bio
 1.fgdgfdgfd.com
 1.foregreat.xyz
@@ -9670,6 +9671,7 @@ all.paneevareoman.xyz
 all.qu3stmas7er.quest
 all.se-69rene.life
 allaboutfinancenow.com
+allaboutjob.online
 allaboutyouadultyouthservices.com
 allaccounts-aktualizacja.weebly.com
 allacea.site
@@ -10419,6 +10421,7 @@ allegrolokalnie.bezpieczne-zamowienia.pl
 allegrolokalnie.bezpieczne-zamowienie.pl
 allegrolokalnie.bezpieczne-zaplac24.pl
 allegrolokalnie.bezpieczne-zaplaty.pl
+allegrolokalnie.bezpiecznie-kup.pl
 allegrolokalnie.bezpieczny-kupiec.pl
 allegrolokalnie.bezpieczny-platnosci.pl
 allegrolokalnie.bid
@@ -10474,6 +10477,7 @@ allegrolokalnie.kup-aukcja24.pl
 allegrolokalnie.kup-bezpiecznie-24.pl
 allegrolokalnie.kup-online247.pl
 allegrolokalnie.kup-online24h.pl
+allegrolokalnie.kup-prywatnie.pl
 allegrolokalnie.kup-przedmiot.pl
 allegrolokalnie.kup-sprzedaj.pl
 allegrolokalnie.kup-z-bezpieczna-przesylka.pl
@@ -10542,11 +10546,13 @@ allegrolokalnie.oferta987567.xyz
 allegrolokalnie.oferta999555.xyz
 allegrolokalnie.one
 allegrolokalnie.online
+allegrolokalnie.online-zakupy.pl
 allegrolokalnie.order7secure.site
 allegrolokalnie.ordering-parcelinfo.xyz
 allegrolokalnie.pay-now24.pl
 allegrolokalnie.pay-u.pl
 allegrolokalnie.payu-online.pl
+allegrolokalnie.pewnie-zakup.pl
 allegrolokalnie.pl-buyforitem.pw
 allegrolokalnie.pl-compaytrans.pw
 allegrolokalnie.pl-deliveryfor.pw
@@ -10566,6 +10572,7 @@ allegrolokalnie.pl-rutranspauying.pw
 allegrolokalnie.pl-spayinfo.pw
 allegrolokalnie.pl-transbuycom.pw
 allegrolokalnie.pl-transpayingpay.pw
+allegrolokalnie.pl-zakup-dzis.pl
 allegrolokalnie.pl-zakup-przedmiot.pl
 allegrolokalnie.pl-zakupy-online.pl
 allegrolokalnie.pl.baythikicom.pw
@@ -10593,6 +10600,7 @@ allegrolokalnie.platnosc-teraz.pl
 allegrolokalnie.platnosc-w-sieci.pl
 allegrolokalnie.platnosc-zweryfikowana.pl
 allegrolokalnie.platnosci-24h.pl
+allegrolokalnie.platnosci-z-ochrona.pl
 allegrolokalnie.polskie-zakupy.pl
 allegrolokalnie.proste-zamowienia.pl
 allegrolokalnie.prywanty-zakup24.pl
@@ -10600,7 +10608,9 @@ allegrolokalnie.prywatna-aukcja-uzytkownika.pl
 allegrolokalnie.prywatna-aukcja24.pl
 allegrolokalnie.prywatna-aukcja247.pl
 allegrolokalnie.prywatne-ogloszenia24.pl
+allegrolokalnie.prywatne-zakupy.pl
 allegrolokalnie.prywatne-zakupy247.pl
+allegrolokalnie.prywatnie-kupuj.pl
 allegrolokalnie.prywatnie-kupuje247.pl
 allegrolokalnie.prywatny-zakup.pl
 allegrolokalnie.przelew-online.pl
@@ -10635,12 +10645,14 @@ allegrolokalnie.szybka-przesylka.pl
 allegrolokalnie.szybka-przesylka24.pl
 allegrolokalnie.szybka-wysylka.pl
 allegrolokalnie.szybka-zamowienie.pl
+allegrolokalnie.szybki-zakupy24.pl
 allegrolokalnie.szybkie-kupowanie.pl
 allegrolokalnie.szybkie-ogloszenie.pl
 allegrolokalnie.szybkie-zamowienie.pl
 allegrolokalnie.szybkie-zaplac.pl
 allegrolokalnie.szybko-kupuj.pl
 allegrolokalnie.szybko-zakup24.pl
+allegrolokalnie.tani-zakup.pl
 allegrolokalnie.tanie-zamowienie.pl
 allegrolokalnie.tech
 allegrolokalnie.tk
@@ -10654,9 +10666,11 @@ allegrolokalnie.wysylka-online.pl
 allegrolokalnie.zakup-dzis.pl
 allegrolokalnie.zakup-payu.pl
 allegrolokalnie.zakup-produkt.pl
+allegrolokalnie.zakup-przez-internet.pl
 allegrolokalnie.zakup-z-gwarancja.pl
 allegrolokalnie.zakup-zweryfikowany.pl
 allegrolokalnie.zakup24.pl
+allegrolokalnie.zakupw-sieci.pl
 allegrolokalnie.zakupwsieci.pl
 allegrolokalnie.zakupy-24h.pl
 allegrolokalnie.zakupy-bezpieczne.pl
@@ -10675,7 +10689,9 @@ allegrolokalnie.zamow-przedmioty24.pl
 allegrolokalnie.zamow-przesylke.pl
 allegrolokalnie.zamow-szybko.pl
 allegrolokalnie.zamow-taniej.pl
+allegrolokalnie.zamowienia-bezpieczne24.pl
 allegrolokalnie.zamowienia-online.pl
+allegrolokalnie.zamowienia-szybko.pl
 allegrolokalnie.zamowienie-24h.pl
 allegrolokalnie.zamowienie-online24.pl
 allegrolokalnie.zamowienie-szybkie.pl
@@ -10689,6 +10705,7 @@ allegrolokalnie.zaplac-teraz.pl
 allegrolokalnie.zaplac-teraz24.pl
 allegrolokalnie.zaplac-teraz24h.pl
 allegrolokalnie.zaplac-wygodnie.pl
+allegrolokalnie.zaplac24h.pl
 allegrolokalnie.zaufany-zakup.pl
 allegrolokalnie24-7.pl
 allegrolokalnie24h-7.pl
@@ -13117,16 +13134,19 @@ auta-jakub.pl
 auta-jan.pl
 auta-jarek.pl
 auta-kalinowski.pl
+auta-kaminski.pl
 auta-katowice.pl
 auta-komis.pl
 auta-kosowski.pl
 auta-koszalin.pl
+auta-kowalczyk.pl
 auta-kowalska.pl
 auta-krakow.pl
 auta-krzysztof.pl
 auta-kuba.pl
 auta-kwiatkowski.pl
 auta-leszczynski.pl
+auta-lewandowski.pl
 auta-lisiecki.pl
 auta-lokalne.pl
 auta-lokalnie.pl
@@ -13172,6 +13192,7 @@ auta-slupsk.pl
 auta-sobieski.pl
 auta-sopot.pl
 auta-sprzedaz.pl
+auta-szymanski.pl
 auta-tadeusz.pl
 auta-tarnow.pl
 auta-tomasz.pl
@@ -13183,6 +13204,7 @@ auta-warszawskie.pl
 auta-wiejska.pl
 auta-wojciech.pl
 auta-wojtek.pl
+auta-wozniak.pl
 auta-wroclaw.pl
 auta-zborowski.pl
 auta-zbyszek.pl
@@ -14373,6 +14395,7 @@ bafkreifnidwwlwfsyp372gl27s3n4k64dppkxpd6yej3k2awdms3thkt6e.ipfs.dweb.link
 bafkreifpqlcukjt4kdxyeqrs4xw3xsipxlimhyjyfpyuq35nsw7mud7vym.ipfs.dweb.link
 bafkreift3ttkysxmdyd3iwfkcuxqzb3xanfmmlgfcmzw7uniypfo5btyma.ipfs.dweb.link
 bafkreifvbjme7qstbd634sc3ztu4nlh2pru3dy5bxyry3nvtusewhg2thq.ipfs.dweb.link
+bafkreig3jjm4tmyhcllyksngzrqqgihtbo7sxvthlzbo4x2vwwwbgzlyx4.ipfs.dweb.link
 bafkreigemmzotizqmwmmhlbrd6c7slnc2qjea2a7dvh6nm4ymbzwgji7dm.ipfs.dweb.link
 bafkreigin5zchgbbrulsnw6hrb67fsjauyuzwh2gkh6bcyjlga473c4zra.ipfs.nftstorage.link
 bafkreigojuuqk5ofusxjqlqqk33hoxflfjn7o72sonvh2yqxq7fpq466vy.ipfs.dweb.link
@@ -14916,6 +14939,7 @@ balint.badura.warszawa.pl
 balint.bozeanna.pl
 balint.pioklemba.pl
 balint.tadeuszsochacki.com.pl
+balipodo.com
 balit.lazt.online
 balit.takilon.top
 balitikpalpe.com
@@ -16383,6 +16407,7 @@ bestlaptoplist.com
 bestleder.online
 bestlifepress.com
 bestlifewell.com
+bestlinework.com
 bestmarketstoday.click
 bestmetalprints.com
 bestmobilebettingsites.com
@@ -16556,6 +16581,7 @@ bezpieczne-zamowienia.pl
 bezpieczne-zamowienie.pl
 bezpieczne-zaplaty.pl
 bezpieczneprzesylki.pl
+bezpiecznie-kup.pl
 bezpieczny-delivery-pl.com
 bezpieczny-delivery.pl
 bezpieczny-dostawa.org
@@ -20448,6 +20474,7 @@ carryonline.cfd
 carryprize.online
 cars-handel24.net.pl
 carsalonsamochodowy.pl
+carsdeal.net.pl
 carseatconsultations.com
 carshandel.pl
 carspolska.pl
@@ -22901,6 +22928,7 @@ considerrevive.info
 consityr600.xyz
 consmdcfed.site
 consonancies.info
+conspactiletu.gq
 conspecifi.pl
 consstep.com
 constanta-doc.kz
@@ -23538,6 +23566,7 @@ croncall.com
 croodles.life
 crop.can-info.site
 crop.warycafe.com
+croppcom.top
 croppots.com
 cropsharesafrica.com
 crosapersisig.tk
@@ -28859,6 +28888,7 @@ dipu.prlmaxiiisok.xyz
 diqomoofai.live
 direct-5f724.web.app
 direct-79ab7.web.app
+direct-8fc3a.web.app
 direct-962dd.web.app
 direct-c4ded.web.app
 direct-f434d.web.app
@@ -29501,6 +29531,7 @@ dogecarrental.com
 doggieduck.com
 doggier.xyz
 dogo.teconkilotr.site
+dogodnewiadomosci.click
 dogoint.uno
 dogoodlab.org
 dogs-study.tk
@@ -31570,6 +31601,7 @@ duzastronawlasnaprostadrogapolska.space
 duzatoykay.live
 duzeezkno.site
 duzemarzeniie.site
+duzeosiagniecia.click
 duzhe.tech
 duzm.dowss.site
 duzoludzi.pl
@@ -32867,6 +32899,7 @@ ekronaapp-net.financialmarketsworld.com
 eksdeeteapdq.vdl.pl
 eksj.boats
 ekskluzywneapartamenty.com
+ekspansywnosci.click
 ekspedycja.solushow.com
 eksperciodekonomiipolecaja.com
 ekspertlifestyleu.click
@@ -34476,6 +34509,7 @@ express-dpd.com
 express-fakt.azureedge.net
 express-inpost.com
 express-olx.pl
+express-packs.net
 express-paczka.today
 express-platnosci.pl
 express-topical-news.com
@@ -39661,6 +39695,7 @@ giacongmigia.com
 giadungbienhoa.com
 giangroew.com
 giantc.cfd
+gianttransferwind.com
 giasveam.space
 gibaske.space
 gibbingcontortionist.com
@@ -40278,6 +40313,7 @@ goblznesplanetonline.cloud
 gobmxxx.top
 gobnponlineparihas.pl
 gobnpparihas.pl
+goboxs2.pro
 gocaptiau.com
 gochinesename.com
 gocodie.com.learnitskills.com
@@ -50541,6 +50577,7 @@ inpost.18471515.xyz
 inpost.1847542.xyz
 inpost.18512215.xyz
 inpost.1875151.xyz
+inpost.19784574.xyz
 inpost.20451544.xyz
 inpost.2115151.xyz
 inpost.21561.site
@@ -57947,6 +57984,7 @@ kup-olx.pl
 kup-online247.pl
 kup-online24h.pl
 kup-paczka-olx.pl
+kup-prywatnie.pl
 kup-przedmiot.pl
 kup-przesylka-olx.pl
 kup-sprzedaj24.pl
@@ -60087,6 +60125,7 @@ lnpost.10002.xyz
 lnpost.14984115.xyz
 lnpost.1nightstand.xyz
 lnpost.2851215.xyz
+lnpost.3481512.xyz
 lnpost.3535.website
 lnpost.3695845.xyz
 lnpost.3804151.xyz
@@ -60397,6 +60436,7 @@ lnpost.nybusa.space
 lnpost.nyrot.pw
 lnpost.nysecurity.fun
 lnpost.oasoip.pw
+lnpost.oifask.space
 lnpost.oirasaikyo.xyz
 lnpost.ojoevoip.pw
 lnpost.onechiu.lol
@@ -65635,6 +65675,7 @@ monikablasiak.pl
 monikakodzis.pl
 monikamurz.pl
 monikareplin.pl
+monikawalaszek.com
 monitero-it.homes
 monitero-it.icu
 monitero-pl.cyou
@@ -68957,6 +68998,7 @@ niejednoznaczne-charakterystyczny.site
 niejestoszustem.site
 niejestzlepolska24.online
 niejiawei.com
+niekonsekwentny.click
 niekwestionowane.cfolks.pl
 niemacogadacpolska.website
 niemacogadacpolska1.website
@@ -69528,6 +69570,7 @@ noticeculture.com
 notificationspl.pl
 notificationstwo.pl
 notifierhe.com
+notify-account-locked-fadc5.firebaseapp.com
 notifymnow.com
 notifynow1.com
 notihe.site
@@ -70680,6 +70723,7 @@ oddamy-glosuje.eu
 oddamy-ogloszenia.pl
 oddamy-yorka.site
 oddamy-yorka.store
+oddamyonline24.pl
 oddamywmazowszu.pl
 oddamyzadarmo.pl
 oddamyzadarmo365.pl
@@ -74491,6 +74535,7 @@ olx.beverkyt.org
 olx.bezpiecznaprzesylka.pl
 olx.bezpieczne-kupno.pl
 olx.bezpieczneprzesylki.pl
+olx.bezpiecznie-kup.pl
 olx.bifkpazy.org
 olx.billing09.online
 olx.billing36.online
@@ -74719,6 +74764,7 @@ olx.kontopl.xyz
 olx.kontospl.cam
 olx.kontospls.casa
 olx.kup-24.pl
+olx.kup-prywatnie.pl
 olx.kupie-teraz.pl
 olx.kupuj-bezpiecznie.pl
 olx.kupuj-online24.pl
@@ -74850,6 +74896,7 @@ olx.olxoferts.store
 olx.olxoferts.work
 olx.olxoferts.xyz
 olx.online-pay.pl
+olx.online-zakupy.pl
 olx.oplata-256677.space
 olx.oplata-is.com
 olx.oplata24.pl
@@ -74978,6 +75025,7 @@ olx.paysafe.site
 olx.paysdeals.ru
 olx.paysend.space
 olx.payu-sio.com
+olx.pewnie-zakup.pl
 olx.peyu24-7.pl
 olx.pikynomyt.org
 olx.pink
@@ -76731,6 +76779,7 @@ olx.pl-wyplata.site
 olx.pl-wysylka.info
 olx.pl-wysylka.shop
 olx.pl-wysylka.world
+olx.pl-zakup-dzis.pl
 olx.pl-zakupy.casa
 olx.pl-zakupy.icu
 olx.pl-zakupy.life
@@ -77085,6 +77134,8 @@ olx.prosta-przesylka.pl
 olx.prostaprzesylka.pl
 olx.prosteprzesylki.pl
 olx.prostewysylki.pl
+olx.prywatne-zakupy.pl
+olx.prywatnie-kupuj.pl
 olx.prywatny-zakup.pl
 olx.przesylk.biz
 olx.przesylk.com
@@ -77131,7 +77182,9 @@ olx.sokgomegok.org
 olx.sprzedazsklep.pl
 olx.ssumday.pw
 olx.swell-redirect.pw
+olx.szybki-zakupy24.pl
 olx.szybkiewysylki.pl
+olx.tani-zakup.pl
 olx.tcpay.ru
 olx.tevladoleps.org
 olx.thegoodhours.xyz
@@ -77198,10 +77251,14 @@ olx.zakup.me
 olx.zakup24-7.pl
 olx.zakupybezpieczne.pl
 olx.zakupyogloszenia.pl
+olx.zamawiaj-taniej.pl
+olx.zamowienia-bezpieczne24.pl
+olx.zamowienia-szybko.pl
 olx.zamowienie.org
 olx.zamowienie.pw
 olx.zamowienie.su
 olx.zamowienie24.pl
+olx.zaplac24h.pl
 olx.zaplacic.info
 olx.zaufany-zakup.pl
 olx.zijkpedo.org
@@ -77749,6 +77806,7 @@ online-potwierdzenie.life
 online-securesite-official.com
 online-sklep.xyz
 online-tvn.pl
+online-zakupy.pl
 online.acc-1258.xyz
 online.agreements.best
 online.carers.best
@@ -80947,6 +81005,7 @@ pewaukees.live
 pewbbsflff.sa.com
 pewiendzienzmieniazycie.site
 pewlladfeer.site
+pewnie-zakup.pl
 pewnieze-tak2.site
 pewnieze-tak24.site
 pewterclub.com
@@ -82364,6 +82423,7 @@ pl-wyslij.club
 pl-wysylka.club
 pl-x.invetr1l.site
 pl-xp-proga.maxfakt.xyz
+pl-zakup-dzis.pl
 pl-zakup-przedmiot.pl
 pl-zakupy-online.pl
 pl-zamawienie.shop
@@ -82888,6 +82948,7 @@ platnosci-online.services
 platnosci-payu.prv.pl
 platnosci-pge.net
 platnosci-sendit.link
+platnosci-z-ochrona.pl
 platnosci.in.net
 platnosci.live
 platnosci.netafixu.live
@@ -84588,6 +84649,7 @@ pola-un.web.app
 pola.loginautovao.site
 polaagga.site
 polacy-oddaja.pl
+polacydlapolski.com
 polacypomagaja.click
 polaczenie-odpust.site
 polaczenie.xn.pl
@@ -85591,6 +85653,7 @@ polskadhl.upmenusite.com
 polskadom.info
 polskadziennik.pl
 polskaecoinsights.online
+polskaeposta.top
 polskagazeta.co.pl
 polskagazeta.xyz
 polskagazetka.pl
@@ -88350,8 +88413,10 @@ prywatne-ogloszenia24.pl
 prywatne-ogloszenie24h.pl
 prywatne-samochody.pl
 prywatne-transakcje.pl
+prywatne-zakupy.pl
 prywatne-zakupy247.pl
 prywatnespprawypolaka.cyou
+prywatnie-kupuj.pl
 prywatnie-kupuje247.pl
 prywatniepolska.online
 prywatnosc-onet.pl
@@ -88794,6 +88859,7 @@ puerperaekickboard.xyz
 puertoricoflyfishing.com
 puesc-gov.web.app
 puesc-kas.web.app
+puff98.xyz
 puffeepdort.site
 pugareetab.com
 puggishp.pl
@@ -98498,6 +98564,7 @@ szybkaplatnosc.com
 szybki-konkurs.eu
 szybki-przelew24.pl
 szybki-typ.eu
+szybki-zakupy24.pl
 szybkibiiegacz.site
 szybkie-dodanie.eu
 szybkie-dostawy.pl
@@ -98813,6 +98880,7 @@ tangy-cat-turn.glitch.me
 tani-pojazd.pl
 tani-samochod.com.pl
 tani-samochod.pl
+tani-zakup.pl
 tania-motoryzacja24.pl
 tania-wycieczka.pl
 taniapaczka.top
@@ -103180,6 +103248,7 @@ tylkodojdziedosiebie.club
 tylkoplskawp.pl
 tylkotutajinfosygnal.randsnap.com
 tylkowypoczynekwciaz.website
+tyloogo.com
 tymgino.com
 tymodaakau.live
 tymosha.com
@@ -104630,6 +104699,9 @@ valisssack.cf
 valleyhomeinvestment.net
 valleyhomogeneous.top
 valleylemon.com
+valorant-arcane.fun
+valorant-money.fun
+valorant-promo.fun
 valorant-supreme.com
 valorant99.com
 valorantcrew.net
@@ -107621,6 +107693,7 @@ vintedcz.cell120.online
 vintedcz.info21.pw
 vintedcz.order146.online
 vintedcz.order1692.eu
+vintedcz.order253.com
 vintedcz.order2974.eu
 vintedcz.order345.online
 vintedcz.order382.eu
@@ -108766,6 +108839,7 @@ vlnted-cz.72234.space
 vlnted-cz.839156.xyz
 vlnted-cz.id483756.xyz
 vlnted-es.63442.space
+vlnted-gb.abelg.info
 vlnted-gb.abigl.info
 vlnted-gb.aciox.info
 vlnted-gb.akiji.info
@@ -108964,6 +109038,7 @@ voodoom.store
 voogueemania.site
 voolsop-website.preview-domain.com
 voopcreative.com
+vop-poczta0.top
 vop.bashus.site
 vop.bosd.online
 vop.kosmm.xyz
@@ -109163,6 +109238,7 @@ vz404.netdc.pl
 vzeskyrpog.es
 vzgrof.gamemods.com.tr
 vzleret.online
+vzp-poczta0.top
 vzrst.redustenes.xyz
 vzxqm.shivamgmt.com
 w-chat.masterprogr.xyz
@@ -149450,6 +149526,7 @@ yourchance.mstock.top
 yourchoice.stormo.site
 yourchoise.online
 yourdayproft.site
+yourdealsoffers.com
 yourdochod.site
 yourdochod15000.site
 yourealization.club
@@ -149802,6 +149879,7 @@ zakup-kontrolowany.pl
 zakup-natychmiastowy.pl
 zakup-olx.pl
 zakup-payu.pl
+zakup-przez-internet.pl
 zakup-z-gwarancja.pl
 zakup24-allegrolokalnie.pl
 zakupnavint24na7.shop
@@ -149865,8 +149943,10 @@ zamow-przesylka.pl
 zamow-szybko.pl
 zamow-taniej.pl
 zamow-tanio.pl
+zamowienia-bezpieczne24.pl
 zamowienia-furgonetka.pl
 zamowienia-online.pl
+zamowienia-szybko.pl
 zamowienie-24h.pl
 zamowienie-online24.pl
 zamowienie-szybkie.pl
@@ -149929,6 +150009,7 @@ zaplac-teraz.pl
 zaplac-teraz24h.pl
 zaplac-wygodnie.pl
 zaplac-za-paczke.space
+zaplac24h.pl
 zaplacals.pl
 zaplacmandat.online
 zaplacmandat.site
