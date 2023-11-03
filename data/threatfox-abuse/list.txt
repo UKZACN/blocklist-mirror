@@ -1446,7 +1446,6 @@ alka.ddns.net
 alkal.publicvm.com
 alkh20.no-ip.biz
 alkhorsan.no-ip.biz
-alkolsuz.top
 alla.mywire.org
 allah3131.duckdns.org
 allahoyunda.duckdns.org
@@ -1807,6 +1806,7 @@ apis.stratosbody.com
 apiv1.duckdns.org
 apiv1.financialservicesnorthamerica.com
 apiv4.unemployment-compensation.org
+apix.mircofots.online
 apjeoighw.com
 apk.theworkpc.com
 apkandro.duckdns.org
@@ -3328,6 +3328,7 @@ car.dasautoco.top
 carapuce-2014.no-ip.biz
 card-conversation.at.playit.gg
 card.starbucks.com.s3.bucket-amazon.com
+card.union-pay.vip
 cardgoal.makeup
 cardlogical.info
 cardupdatation.in
@@ -4800,9 +4801,11 @@ cleenjordancleen.no-ip.info
 click.clickandanalytics.com
 client.orxy.space
 clients.adobe-research.net
+clients.dns-response.net
 clients.doubleclickad.net
 clients.loadbalance-akadns.net
 clients.msexplorer.net
+clients.trafficmannager.net
 clientss777.duckdns.org
 climedballon.org
 clinton.hopto.org
@@ -5781,7 +5784,6 @@ dgjidsjgvcx2341.ddns.net
 dgokmertli23q.com
 dgorijan20785.hopto.org
 dgrthdg.duckdns.org
-dh5rg5aebo6yx.cloudfront.net
 dhayan.ip-dynamic.com
 dhbgtfrhtg.hopto.org
 dhciaicjzis.xyz
@@ -5984,7 +5986,6 @@ dns.stratpringl.com
 dns.tssrt.de
 dns.velmeded.com
 dns.veriernano.com
-dns.viewdns.net
 dns.zonstdns.xyz
 dns1.4399tv.net
 dns1.noreply-alert.cloud
@@ -6478,6 +6479,7 @@ ec2-13-208-185-148.ap-northeast-3.compute.amazonaws.com
 ec2-13-245-163-162.af-south-1.compute.amazonaws.com
 ec2-13-50-236-83.eu-north-1.compute.amazonaws.com
 ec2-13-52-237-170.us-west-1.compute.amazonaws.com
+ec2-16-170-143-138.eu-north-1.compute.amazonaws.com
 ec2-16-171-13-101.eu-north-1.compute.amazonaws.com
 ec2-18-143-202-5.ap-southeast-1.compute.amazonaws.com
 ec2-18-162-116-128.ap-east-1.compute.amazonaws.com
@@ -6499,6 +6501,7 @@ ec2-3-209-5-89.compute-1.amazonaws.com
 ec2-3-212-79-175.compute-1.amazonaws.com
 ec2-3-22-201-79.us-east-2.compute.amazonaws.com
 ec2-3-252-35-198.eu-west-1.compute.amazonaws.com
+ec2-3-254-254-189.eu-west-1.compute.amazonaws.com
 ec2-3-26-15-248.ap-southeast-2.compute.amazonaws.com
 ec2-3-70-75-167.eu-central-1.compute.amazonaws.com
 ec2-3-8-28-84.eu-west-2.compute.amazonaws.com
@@ -6513,8 +6516,10 @@ ec2-35-180-131-29.eu-west-3.compute.amazonaws.com
 ec2-35-180-27-17.eu-west-3.compute.amazonaws.com
 ec2-35-181-26-122.eu-west-3.compute.amazonaws.com
 ec2-35-181-60-59.eu-west-3.compute.amazonaws.com
+ec2-43-198-242-245.ap-east-1.compute.amazonaws.com
 ec2-43-205-193-102.ap-south-1.compute.amazonaws.com
 ec2-44-193-191-18.compute-1.amazonaws.com
+ec2-44-198-16-37.compute-1.amazonaws.com
 ec2-44-201-174-217.compute-1.amazonaws.com
 ec2-44-202-151-94.compute-1.amazonaws.com
 ec2-44-212-6-35.compute-1.amazonaws.com
@@ -7515,7 +7520,6 @@ flingmodder-44266.portmap.io
 flipperzillo.quest
 fliskmanon.com
 fliy.ddns.net
-fllrnd.com
 floatfil.com
 flood.bounceme.net
 floptuytonroyem.sytes.net
@@ -7858,6 +7862,7 @@ galistens.com
 galo.servehttp.com
 galoservices.servequake.com
 gamallastu.xyz
+game.easthudsoninvestments.com
 game.server.redlan.it
 gameblog18.xyz
 gamefoods.xyz
@@ -8950,7 +8955,6 @@ hfiepqnsyosb.top
 hfinteract.com
 hgauahhh.com
 hgfdytrywq.com
-hghfe.cf
 hgjdjs.0pe.kr
 hgjvhnfgg.duckdns.org
 hgukhs-39227.portmap.host
@@ -9101,6 +9105,7 @@ hondaza.duckdns.org
 honeypotsep.duckdns.org
 hongkongserver.duckdns.org
 hongphilxxx.duckdns.org
+hongtong502.cc
 honoluluo.club
 hookshome.ddns.net
 hooleg.ddns.net
@@ -9514,6 +9519,7 @@ infit.ddns.net
 info.altacom.it
 info.ctxcel.com
 info.gtjas.site
+info.union-pay.vip
 info07.ddns.net
 info111.ddns.net
 infocolornido.publicvm.com
@@ -9856,7 +9862,6 @@ jaga.theworkpc.com
 jagab.duckdns.org
 jagerteam.top
 jah0seh.duckdns.org
-jahayakoj.info
 jahismyhelper.hopto.org
 jaiban.duckdns.org
 jailedtrump.club
@@ -11077,6 +11082,7 @@ lidnslog.cn
 liemuteste.com
 liezaphare.xyz
 life-chase.at.ply.gg
+life.union-pay.vip
 lifeceii.cam
 lifehaks.ddns.net
 lifehax.no-ip.biz
@@ -13118,7 +13124,6 @@ myodissey.top
 myowndomain394863467.com
 myownvm.anondns.net
 mypayday0091.duckdns.org
-mypcs.myvnc.com
 mypepsi22.duckdns.org
 mypepsi25.duckdns.org
 mypepsi32.duckdns.org
@@ -13987,6 +13992,7 @@ ns1.niggerasssys.com
 ns1.njzjamc.cloud
 ns1.nonalom.com
 ns1.norahomespace.online
+ns1.obenkyou.site
 ns1.oneipsoft.com
 ns1.opposrv.top
 ns1.ossqianxin.co
@@ -14105,6 +14111,7 @@ ns2.msnsiccs.com
 ns2.niggerasssys.com
 ns2.njzjamc.cloud
 ns2.norahomespace.online
+ns2.obenkyou.site
 ns2.oneipsoft.com
 ns2.opposrv.top
 ns2.ossqianxin.co
@@ -14921,7 +14928,6 @@ pegarpefar.duckdns.org
 pegasusinfo.wiki
 peggy.ddnsgeek.com
 peggyboo.duckdns.org
-peiploersea.com
 peixe.no-ip.org
 peixess.duckdns.org
 pejik.com
@@ -15387,6 +15393,7 @@ profile.htl502.tech
 profile.office365update.cn
 profiles.server.redlan.it
 profit-gain365.com
+profitcentronline.com
 progaming69.ml
 progesteron610.ddns.net
 program-gifts.at.ply.gg
@@ -16469,6 +16476,7 @@ rzf9k8gh4.duckdns.org
 rzipaurgysmanmaskssmastaezya.abkhazia.su
 s-ir.faqserv.com
 s.redrasta.biz
+s.svmp.eu.org
 s.u00.ca
 s1.freesocksvpn.xyz
 s1.freevpnsocks.xyz
@@ -17212,7 +17220,6 @@ service-e699j3k6-1259689902.gz.apigw.tencentcs.com
 service-e6qj5a3r-1251769991.bj.apigw.tencentcs.com
 service-ehj0oavc-1258426110.gz.apigw.tencentcs.com
 service-eii49n6u-1256578115.gz.apigw.tencentcs.com
-service-elsvu1ds-1308206226.gz.apigw.tencentcs.com
 service-euf0eusq-1317136909.gz.apigw.tencentcs.com
 service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com
@@ -18536,7 +18543,6 @@ tableditermanaging.pro
 tacreofunsrdeos2.ru
 tadas123.mooo.com
 tadkadfads.beauty
-tadogem.com
 taeedakaron.xyz
 taenaia.ac.ug
 tagaldenasas.no-ip.biz
@@ -19527,6 +19533,7 @@ uone1ht.top
 uone1sr.top
 uone1vt.top
 uotterfox.linkpc.net
+up.union-pay.vip
 up18gr.ddns.net
 upadte-reviewer-online.live
 upbeat-water-13533.pktriot.net
@@ -19567,6 +19574,7 @@ updateing.zapto.org
 updater-discord.duckdns.org
 updatersvc.duckdns.org
 updaterwindows.ddns.net
+updates.imedicalhub.com
 updates.securitylab.io
 updateservicer.ignorelist.com
 updateshost.zapto.org
@@ -20184,6 +20192,7 @@ webforma.chickenkiller.com
 webhosting.no-ip.biz
 webkit.publicvm.com
 webmail.biswapvoilet.com
+webmail.gpuxdrv.com
 webmail.perubahan-tarif-brlmo.com
 webmail.psd2.info.87-121-52-23.cprapid.com
 webrequest.tech
@@ -20239,7 +20248,6 @@ wespeaktruthtoman12.sytes.net
 west.statisticplatform.com
 western12.ddns.net
 westernogetobarsbrmng.ooguy.com
-westus.speech-microsoft.com
 weswtef.com
 weurtdgfjs.rapiddns.ru
 wewesuga.com
