@@ -103,6 +103,7 @@
 135.181.253.8.sslip.io
 1368.vnh.wtf
 138-197-182-180.cprapid.com
+139-144-113-139.ip.linodeusercontent.com
 139-144-173-67.ip.linodeusercontent.com
 139-144-69-139.ip.linodeusercontent.com
 139-162-130-26.ip.linodeusercontent.com
@@ -619,6 +620,7 @@ abasali00.no-ip.biz
 abasrab16.no-ip.biz
 abasshacker.no-ip.info
 abatata.ddns.net
+abb-bank.wiki
 abbas3.ddns.net
 abbccc.zapto.org
 abc.hvd9qquq.top
@@ -818,6 +820,7 @@ adikremix.ydns.eu
 adilo.no-ip.biz
 adinoreiver.xyz
 adir.faqserv.com
+adirir.itsaol.com
 adk-iran.mrface.com
 adl-1.faqserv.com
 adl-a.mynetav.org
@@ -981,6 +984,7 @@ adlaq.toythieves.com
 adlc.faqserv.com
 adlc.vizvaz.com
 adld.vizvaz.com
+adlddf.dns05.com
 adlde.mrface.com
 adldfs.isasecret.com
 adle-ir.otzo.com
@@ -999,6 +1003,7 @@ adlff.otzo.com
 adlg-aa.fartit.com
 adlg-sahm.fartit.com
 adlg.dns05.com
+adlggs.fartit.com
 adlgh.2waky.com
 adlgh.mefound.com
 adlgha.yourtrap.com
@@ -1011,10 +1016,13 @@ adlhz.fartit.com
 adli-bn.otzo.com
 adli-ir.mrface.com
 adli-q.fartit.com
+adlihh.itsaol.com
+adliir.vizvaz.com
 adliiu.mynetav.org
 adlilr.qhigh.com
 adlio.faqserv.com
 adlio.got-game.org
+adlio.vizvaz.com
 adlioj.my03.com
 adliolj.jkub.com
 adliorl.jkub.com
@@ -1030,6 +1038,7 @@ adliran.dns05.com
 adliran.duia.ro
 adliraq.qpoe.com
 adlirhs.otzo.com
+adliris.faqserv.com
 adlirjh.instanthq.com
 adlirn.dnsrd.com
 adlirn.faqserv.com
@@ -1043,6 +1052,7 @@ adlkj.faqserv.com
 adlkj.vizvaz.com
 adll.camdvr.org
 adllhs.itsaol.com
+adllsg.mrface.com
 adlo.jkub.com
 adloi.mrbasic.com
 adloio.iownyour.org
@@ -1052,6 +1062,7 @@ adlq.itsaol.com
 adlqw.mefound.com
 adlr.mrbasic.com
 adlriran.com
+adlrs.dns05.com
 adls.dns05.com
 adls.mrface.com
 adls.vizvaz.com
@@ -1062,14 +1073,18 @@ adlsf.vizvaz.com
 adlsfa.mynetav.org
 adlsg-qha.vizvaz.com
 adlsg.mrface.com
+adlsgh.mrbonus.com
 adlsgq.mefound.com
 adlsh.fartit.com
+adlsh.vizvaz.com
 adlshq.mynetav.org
 adlsj.dns05.com
+adlsjd.faqserv.com
 adlss.dns05.com
 adlut.faqserv.com
 adlv.mrface.com
 adlv.my03.com
+adlwh.itsaol.com
 adlz.2waky.com
 adlzc.2waky.com
 adm.cutmedic.com
@@ -1122,6 +1137,7 @@ ads.telegramvip.shop
 adsfs.fartit.com
 adsh.vizvaz.com
 adspirenetwork.com
+adsqe.fartit.com
 adsqe.mrbasic.com
 adsqq.vizvaz.com
 adstat277xm.xyz
@@ -1545,6 +1561,7 @@ alsinyorq8.no-ip.org
 alsohavethis.top
 altyyarabdoo.no-ip.biz
 alukoren.duckdns.org
+alureza.nl
 alureza0021.xyz
 alvaritospamlamu.con-ip.com
 alwerfalli.ddns.net
@@ -1822,6 +1839,7 @@ api-prod.davantaged.com
 api.adb007.top
 api.adctf.site
 api.cert-ex.net
+api.clubpro.space
 api.flawcra.cc
 api.google-analytics.cloud
 api.imango.ink
@@ -1849,6 +1867,7 @@ apix.mircofots.online
 apjeoighw.com
 apk.theworkpc.com
 apkandro.duckdns.org
+apkyrm.pro
 apleegod12345.ddns.net
 apostleremcos.duckdns.org
 apostleremcos77.ddns.net
@@ -4869,6 +4888,7 @@ clients.dns-response.net
 clients.doubleclickad.net
 clients.idnslookup.net
 clients.loadbalance-akadns.net
+clients.loadbalance-akamai.net
 clients.msexplorer.net
 clients.trafficmannager.net
 clientss777.duckdns.org
@@ -4895,7 +4915,6 @@ clouds.localhost-microsoft.com
 cloudsappert.best
 cloudserv.ddns.net
 cloudservices.duckdns.org
-cloudshareinc.com
 cloudsnike-my.xyz
 cloudsofsolarwinds.servehttp.com
 cloudupdateservice.online
@@ -5319,6 +5338,7 @@ cvelasiren.ru
 cvelasiren.su
 cves.sh
 cvm.faqserv.com
+cvtuiox.cloud
 cwt1u0vv8ic357ov.info
 cwzxas.ddns.net
 cx.alipaydn.com
@@ -5359,7 +5379,6 @@ d162563.ddns.net
 d1672414.azureedge.net
 d1am0nd.ddns.net
 d1m383qkjwdfx0.cloudfront.net
-d1n3g6gayr311x.cloudfront.net
 d1o5jj3er1p34c.cloudfront.net
 d1qzl7xiwymjyn.cloudfront.net
 d1t18p67ia2cnc.cloudfront.net
@@ -5385,7 +5404,6 @@ d3a95mnixoebky.cloudfront.net
 d3co4r.duckdns.org
 d3dx-botnet.portmap.host
 d3m6daqa7jwjsk.cloudfront.net
-d3onbhsbjmu9qx.cloudfront.net
 d3ondvpc6davvt.cloudfront.net
 d3ryeb3hz8ljby.cloudfront.net
 d3ss.duckdns.org
@@ -6024,6 +6042,7 @@ dnein9vt.top
 dnets.ddns.net
 dnetspi.sh
 dnjcgeppnveyviu.com
+dnm.n0reply.eu.org
 dnmpbczm0963fxtdplc.duckdns.org
 dns.4399tv.net
 dns.5itk.cn
@@ -6321,6 +6340,7 @@ drkgatevservicceoffice.net
 drlogs1.publicvm.com
 drmido.no-ip.biz
 drnaif.no-ip.biz
+drnull.ngrok.dev
 droidtech2.com
 dromautocar.xyz
 drontchanging-24954.portmap.io
@@ -6543,6 +6563,7 @@ eblag.faqserv.com
 eblagh.my03.com
 eblagh.wikaba.com
 eblaghonline.host
+eblaghs.fartit.com
 eblaghshekayatname.hyperphp.com
 eblaghviran.host
 eblagiyeonline.host
@@ -6566,6 +6587,7 @@ ec2-18-143-202-5.ap-southeast-1.compute.amazonaws.com
 ec2-18-162-116-128.ap-east-1.compute.amazonaws.com
 ec2-18-167-68-219.ap-east-1.compute.amazonaws.com
 ec2-18-169-242-50.eu-west-2.compute.amazonaws.com
+ec2-18-192-20-216.eu-central-1.compute.amazonaws.com
 ec2-18-195-241-171.eu-central-1.compute.amazonaws.com
 ec2-18-196-203-78.eu-central-1.compute.amazonaws.com
 ec2-18-233-101-117.compute-1.amazonaws.com
@@ -6747,6 +6769,7 @@ efficient-oil.auto.playit.gg
 efgrdhgrdhtrdh.noip.me
 efiigbo9.duckdns.org
 efjcfmbnnmnhkdn.top
+efmdwkmwk.xyz
 efs.faqserv.com
 efsefwesrfg.ddns.net
 efweegfdg.duckdns.org
@@ -7221,6 +7244,7 @@ extra-large-step.auto.playit.gg
 extraordinarycurc.club
 extrasofts.org
 extrawebty.com
+extreme.enove-dental.com
 extreme33.dns1.us
 exzubnt.zapto.org
 eyad.ddns.net
@@ -8435,6 +8459,7 @@ gpent.duckdns.org
 gpmaw.duckdns.org
 gpt-use.com
 gr.treef.top
+gr1.apkyrm.pro
 gr1z0uu.zapto.org
 gr4c.cc
 grace.adds-only.xyz
@@ -9393,6 +9418,7 @@ hyptonix.ddns.net
 hysy0516.codns.com
 hyunjoon.n-e.kr
 i-br.noip.me
+i-iran.itsaol.com
 i-sh.detectors-cycognito.com
 i.3y.kz
 i.concentration1234.com
@@ -9643,6 +9669,7 @@ insttaller.com
 insurance-agencies.at.ply.gg
 int.cdipen.jp
 int.mhnam.com
+intclientpage.co
 integralcalc.ddns.net
 intelligentminds14.mooo.com
 interact.breachmonkey.net
@@ -9772,7 +9799,10 @@ iran-ed.otzo.com
 iran-gz.vizvaz.com
 iran-ha.isasecret.com
 iran-hg.itsaol.com
+iran-hh.dns05.com
+iran-hhs.fartit.com
 iran-hj.fartit.com
+iran-hk.mrface.com
 iran-hz.mrface.com
 iran-ib.otzo.com
 iran-ird.otzo.com
@@ -9801,6 +9831,7 @@ iran-vb.fartit.com
 iran-vz.dns05.com
 iran.fartit.com
 iran.isasecret.com
+iranda.mrbasic.com
 iraq2005.no-ip.biz
 iraqa6536.no-ip.org
 iraqi11hack.no-ip.biz
@@ -13957,6 +13988,7 @@ ns1.asavior2.lat
 ns1.baidu-cdn.cloud
 ns1.baidu12366.xyz
 ns1.bernetdiscover.com
+ns1.beta-microsoft.com
 ns1.bewiser.at
 ns1.bingapp.cloudns.nz
 ns1.bogotatrade.co
@@ -14102,6 +14134,7 @@ ns2.api-azure.com
 ns2.aptce4.top
 ns2.baidu-cdn.cloud
 ns2.bernetdiscover.com
+ns2.beta-microsoft.com
 ns2.bingapp.cloudns.nz
 ns2.blackwaf.tk
 ns2.box-cache.com
@@ -15455,6 +15488,7 @@ programs-events.gl.at.ply.gg
 programs-scsi.at.ply.gg
 project-noted.at.ply.gg
 prolomstenn.fun
+prometheus.clubpro.space
 promlag.ddns.net
 promlag.hopto.org
 promoactionsadvmrktng.net
@@ -15598,6 +15632,7 @@ pvtrans.ydns.eu
 pw3922065test.ddns.net
 pwhfatal.ddns.net
 pwn.bar
+pwn.safetygarden.ru
 pwnx.pro
 pwrat.duckdns.org
 pwtk000001.ddns.net
@@ -15657,6 +15692,7 @@ qovar.cf
 qpurrybeatmecamtest.ddns.net
 qq.chenda.xyz
 qq.honker.info
+qq.monolthicpower.com
 qqns.asdasd33.info
 qqns1.asdasd33.info
 qqqqqqqqqq.ddnsking.com
@@ -16125,6 +16161,7 @@ remote.mynameissheykh.site
 remote.mynameiszeus.site
 remotemake.xyz
 remotes1338.hopto.org
+remotiss.online
 remove.is-uberleet.com
 remremrem2021marzo2021.duckdns.org
 remrew72.top
@@ -16351,6 +16388,7 @@ rododondast.xyz
 rodtrojan.duckdns.org
 rogeliada333.duckdns.org
 rogerboy12.no-ip.biz
+rogers-returndata.com
 rokllofrold29.com
 rokllold279.com
 roko.duckdns.org
@@ -16659,6 +16697,7 @@ sah.jkub.com
 sah.vizvaz.com
 saha-m.fartit.com
 sahaam.faqserv.com
+sahadl.fartit.com
 saham-a.mcfadyen.com
 saham-b.skcarriages.com
 saham-cs.skcarriages.com
@@ -17031,6 +17070,7 @@ sdl.faqserv.com
 sdm.faqserv.com
 sdmbyo.xyz
 sds.faqserv.com
+sdt.faqserv.com
 sdvjhdibvcksdnvisdhvsds.con-ip.com
 se2qwz60l2oxznm.xyz
 se7ense7en.hopto.org
@@ -17236,7 +17276,6 @@ service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com
 service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com
 service-5xhfsa5m-1258216230.nj.apigw.tencentcs.com
-service-5xjib65m-1300464441.gz.apigw.tencentcs.com
 service-61zfv6yw-1310360203.hk.apigw.tencentcs.com
 service-6a4f07lw-1308639534.nj.apigw.tencentcs.com
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com
@@ -17270,7 +17309,6 @@ service-a83yg9pg-1307556005.gz.apigw.tencentcs.com
 service-a85mcmy2-1259015174.gz.apigw.tencentcs.com
 service-ayurikha-1302461797.gz.apigw.tencentcs.com
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com
-service-bflrax8k-1306177445.gz.apigw.tencentcs.com
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com
 service-bvc0c0em-1309275416.nj.apigw.tencentcs.com
@@ -17303,7 +17341,6 @@ service-gnzojfcb-1302811215.sh.apigw.tencentcs.com
 service-gt4aitdw-1252551592.gz.apigw.tencentcs.com
 service-gw6u6362-1318524606.gz.apigw.tencentcs.com
 service-h5j54wzu-1301910104.nj.apigw.tencentcs.com
-service-hklg6utm-1304313899.nj.apigw.tencentcs.com
 service-hohlyv8m-1300389563.gz.apigw.tencentcs.com
 service-http.servehttp.com
 service-hzdiypvm-1318122919.gz.apigw.tencentcs.com
@@ -17468,6 +17505,7 @@ sf.freefree.today
 sfa7hack9211.ddns.net
 sfanx.no.biz
 sfbvwvwsev.duckdns.org
+sfc.faqserv.com
 sfcarbotexpl.ddns.net
 sferasnderbioyne7r.ru
 sfghggewfgrthy.top
@@ -19359,6 +19397,7 @@ trx05.duckdns.org
 try.selectofmychoices.com
 tryweaswweee.ydns.eu
 ts.appliedrc.com
+ts.bagelswap.site
 ts.ibuilder360.com
 tsa.faqserv.com
 tsalkshower.cyou
@@ -20064,6 +20103,7 @@ vpn-v2rynge-ir.tk
 vpn.comchinantp.com
 vpn366710782.softether.net
 vpn500541278.softether.net
+vpn977472420.softether.net
 vpngoogle.duckdns.org
 vpnnid.hopto.org
 vps-4adb31ad.vps.ovh.net
@@ -20715,6 +20755,7 @@ www.citcc.shop
 www.city-optikhaus.shop
 www.cjjt.com.cn
 www.cl-powar.com
+www.clubpro.space
 www.cnhile-hl.com
 www.connecteds.online
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com
@@ -20756,7 +20797,6 @@ www.happynewgamewx.xyz
 www.helpcats.net
 www.hemidiindia.com
 www.himalware.cn
-www.hinet-dns.tw
 www.hjh365.com
 www.hkuspace.site
 www.hlsloading.xyz
@@ -20786,7 +20826,6 @@ www.manager2013.com
 www.maneediem.com
 www.meinelba.de
 www.mescot-metal.com
-www.miamibankingrates.com
 www.micorsoft.live
 www.micorsoft.pro
 www.micorsoft.xyz
@@ -20842,7 +20881,6 @@ www.serapey.xyz
 www.servicedesk-internal.com
 www.sgstgfahdg7126edha.duckdns.org
 www.shangri3.com
-www.sharksbaby.pro
 www.shop.jlsecurity.org
 www.simsekaluminyurn.com
 www.siptestasets.com
@@ -20855,6 +20893,7 @@ www.stellionlab.com
 www.strg.win
 www.stripchat15.com
 www.suchfamily.eu
+www.sunwu.world
 www.supremeswitchgear.com
 www.swqrn.com
 www.sydlarremedies.com
@@ -20900,6 +20939,7 @@ www.ye0kr1n.top
 www.yisuyunpan.social
 www.ymmxc.top
 www.yowell.pw
+www.zhaoyr.online
 www.zuimeitianqi.com
 www.zysnuy.com
 www1.ceshi897.cn
@@ -20963,6 +21003,7 @@ xavierat.ddnsfree.com
 xbaxis.ddns.net
 xbaxisx.ddns.net
 xbbu.myq-see.com
+xbhdabss.org
 xbox1.servebeer.com
 xboxoner.duckdns.org
 xcaadoadw.store
