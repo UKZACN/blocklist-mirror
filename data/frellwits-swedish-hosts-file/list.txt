@@ -144,7 +144,6 @@ analytics.sunet.se
 analytics.svt.se
 angry-golick-2a96e5.netlify.app
 annoncer.nichehuset.dk
-annons.lidkopingsnytt.nu
 annons.svenskjakt.se
 annons.turist.se
 annonsera.kyrkanstidning.se
@@ -171,7 +170,6 @@ aquaplatform.com
 arbetaren.innocraft.cloud
 as-sec.casalemedia.com
 asicsisverige.com
-asicsverige.com.se
 asmassets.mtvnservices.com
 asset.pagefair.com
 assets.adfenix.com
@@ -204,19 +202,16 @@ betrad.com
 bettersport.se
 bettingstugan.se
 bid.g.doubleclick.net
-bilcertificat.se
 bilpolicydi.bytelab.dk
 biowebb-data.s3.amazonaws.com
 bitstarz.com
 bjursundfastigheter.se
-bmbstatic.blob.core.windows.net
 bn-01d.adtomafusion.com
 boost-cdn.manatee.dk
 boot.pbstck.com
 borsvarlden-banners.azurewebsites.net
 branch.io
 brandy.bonniernewslifestyle.se
-brews.marketale.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser.covatic.io
@@ -434,7 +429,6 @@ eas8.emediate.se
 eas9.emediate.eu
 eas9.emediate.se
 easyresearch.se
-eccoskorea.com.se
 ecdn.analysis.fi
 ecdn.firstimpression.io
 ecsanalytics.com
@@ -448,7 +442,6 @@ emea.hhkld.com
 emea.viadata.store
 engine.widespace.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
-eteppy.com
 eu.npario-inc.net
 eu2.madsone.com
 eum.instana.io
@@ -504,7 +497,6 @@ gtm.proff.se
 gtm.stampenmedia.se
 gwen.insertcoin.se
 gym-shark-sverige.com.se
-gymsharksverige.com.se
 h.online-metrix.net
 hapyak.com
 hb.adpone.com
@@ -518,7 +510,6 @@ heroaffiliates.com
 highcpmrevenuenetwork.com
 hollistersverige.com.se
 hotwords.es
-hpevoices.com
 hsadspixel.net
 hst.tradedoubler.com
 htlb.casalemedia.com
@@ -590,7 +581,6 @@ lasso.link
 lduhtrp.net
 leadconnect.ipmaxi.se
 leadenhancer.com
-legero.com.se
 leiki-doubleclick-proxy.appspot.com
 leiki.com
 levaochbo.compricer.se
@@ -611,7 +601,6 @@ logx.optimizely.com
 longchampstockholm.com.se
 look.ufinkln.com
 low1sneakerssverige.com
-lululemonstockholm.com.se
 lwadm.com
 m.burt.io
 m.extellio.com
@@ -658,14 +647,11 @@ mindreskatt.se
 missaffiliate.com
 mmetrix.mobi
 moceanads.com
-mountainhardwearsverige.com.se
-mouskor.com.se
 mraffiliate.com
 mrporter-creative.prf.hn
 mtpc.se
 mtst.io
 mtv.hb.omtrdc.net
-muckbootssverige.com.se
 munchkin.marketo.net
 my.hellobar.com
 n.dyntrk.com
@@ -706,7 +692,6 @@ paf.elb.myaffiliates.com
 palmangelssverige.com.se
 partner.googleadservices.com
 partners.mcontigo.com
-patagonias.com.se
 pcf.tdscd.com
 petrk.com
 pheegoab.click
@@ -740,7 +725,6 @@ public.servenobid.com
 publish-int.se
 publish.ne.cision.com
 publishing.kaloo.ga
-pumaskorrea.com.se
 push-notifications.top
 pushcrew.com
 pushnice.com
@@ -753,7 +737,6 @@ reauthenticator.com
 recirculation.spot.im
 record.findtrustclicks.com
 redistats.com
-reeboksverige.com.se
 region1.google-analytics.com
 regstat.se
 reklam.6x.se
@@ -858,7 +841,6 @@ services.vlitag.com
 sgtm.inet.se
 sibautomation.com
 sifomedia.sportsverige.se
-simpleoneline.online
 skattamindre.se
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
@@ -1097,7 +1079,6 @@ traffic.feedremedy.com
 trafficgateway.research-int.se
 trckr.nordiskemedier.dk
 trckr1.nordiskemedier.dk
-tretorn-rea.com.se
 trugaze.io
 try.abtasty.com
 tt.onthe.io
@@ -1109,7 +1090,6 @@ upsales.com
 userneeds.dk
 utt.impactcdn.com
 v.lkqd.net
-vagabondskorrea.com.se
 valentinosverige.com
 veinteractive.com
 vejaskorstockholm.com.se
