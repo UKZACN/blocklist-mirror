@@ -310,7 +310,6 @@ cdn001.milotree.com
 cdn1.profitmetrics.io
 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 ced.sascdn.com
-chaco.com.se
 cintnetworks.com
 cision.com
 cl-eu2.k5a.io
@@ -565,7 +564,6 @@ jssdk.pulse.schibsted.com
 jssdkcdns.mparticle.com
 jtp.expressen.se
 jubiitag.dk
-kaloo.ga
 keenstockholm.com.se
 keymetrics.se
 kiosked.com
@@ -611,7 +609,6 @@ madsone.com
 marcjacobssverige.com.se
 marfeel.com
 markhor.organicfruitapps.com
-marlin.kumo.at
 marmotsverige.com.se
 masture.mobi
 match.adsby.bidtheatre.com
@@ -724,7 +721,6 @@ pubads.g.doubleclick.net
 public.servenobid.com
 publish-int.se
 publish.ne.cision.com
-publishing.kaloo.ga
 push-notifications.top
 pushcrew.com
 pushnice.com
@@ -1135,7 +1131,6 @@ www.adsmatcher.com
 www.adsnet.se
 www.air-max.se
 www.alphalete.com.se
-www.altrasverige.com.se
 www.anrdoezrs.net
 www.aservice.tools
 www.awin1.com
@@ -1158,6 +1153,7 @@ www.nichehuset.dk
 www.npttech.com
 www.onclickalgo.com
 www.resultify.com
+www.runningshoessverige.com
 www.stadiumstage.com
 www.statcounter.com
 www.tamgrt.com
