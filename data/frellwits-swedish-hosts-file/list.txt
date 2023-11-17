@@ -238,7 +238,6 @@ cdn.blueconic.net
 cdn.branch.io
 cdn.brandmetrics.com
 cdn.broadstreetads.com
-cdn.churnkit.com
 cdn.convertbox.com
 cdn.cxense.com
 cdn.decibelinsight.net
@@ -646,7 +645,6 @@ r.existenz.se
 rabble-res.cloudinary.com
 reauthenticator.com
 recirculation.spot.im
-record.findtrustclicks.com
 redistats.com
 region1.google-analytics.com
 regstat.se
@@ -1036,8 +1034,8 @@ www.dwin2.com
 www.effectivecreativeformat.com
 www.fakturino.se
 www.guesssverige.com.se
+www.gym-sharksweden.com
 www.gymshark-sweden.com.se
-www.gymsharkswedens.com
 www.kundvisaren.se
 www.mymediaindex.com
 www.nichehuset.dk
