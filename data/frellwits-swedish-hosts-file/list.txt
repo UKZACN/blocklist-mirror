@@ -918,6 +918,7 @@ tracking.etidning.vetlandaposten.se
 tracking.etidning.vlt.se
 tracking.etidning.vn.se
 tracking.eurosport.com
+tracking.expressen.se
 tracking.fagersta-posten.se
 tracking.falkopingstidning.se
 tracking.falukuriren.se
