@@ -785,6 +785,7 @@ stats.blogg.se
 stats.bluebillywig.com
 stats.datawrapper.de
 stats.docu.info
+stats.ehandel.se
 stats.g.doubleclick.net
 stats.helsingborg.se
 stats.jibber.social
