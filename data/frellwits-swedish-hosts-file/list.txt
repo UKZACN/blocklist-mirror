@@ -212,6 +212,7 @@ cdn-eu.clickdimensions.com
 cdn-gl.imrworldwide.com
 cdn-magiclinks.trackonomics.net
 cdn-scripts.signifyd.com
+cdn.adapex.io
 cdn.adfenix.com
 cdn.adligature.com
 cdn.adnuntius.com
@@ -267,6 +268,7 @@ cdn.speedcurve.com
 cdn.sprida.se
 cdn.subscribers.com
 cdn.taboola.com
+cdn.unblockia.com
 cdn.usefathom.com
 cdn.userreport.com
 cdn.viglink.com
