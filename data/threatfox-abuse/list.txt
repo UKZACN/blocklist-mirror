@@ -171,6 +171,7 @@
 173-44-141-47.nip.io
 174.226.194.35.bc.googleusercontent.com
 174.226.83.34.bc.googleusercontent.com
+176.225.41.34.bc.googleusercontent.com
 177.lan-vg2-1.static.rozabg.com
 178-79-185-106.ip.linodeusercontent.com
 179527.com
@@ -3325,7 +3326,6 @@ c1.unirorm.xyz
 c2.cache.ubernet.info
 c2.haopangnie.top
 c2.marfei.zone
-c2.ststjst.shop
 c2.yihuan.cc
 c27.vslai.net
 c2c.updatenews.me
@@ -3660,7 +3660,6 @@ cdn.ndgnetlabs.com
 cdn.qq2s.com
 cdn.scriptsplatform.com
 cdn.softproxyapi.com
-cdn.spark.re
 cdn.specialtaskevents.com
 cdn.statisticline.com
 cdn.suiteb.io
@@ -3668,6 +3667,7 @@ cdn.t411.re
 cdn.update.microsoft.com.w.kunluncan.com
 cdn.violetlovelines.com
 cdn2.duc3k.com
+cdn239.for149.xyz
 cdn_1.cnnvd.club
 cdnet-web.com
 cdnjscripts.com
@@ -4941,7 +4941,6 @@ clearsystemwo.net
 clearvisoingraphicsremcoz.ddns.net
 cleenjordancleen.no-ip.info
 click.clickandanalytics.com
-client.orxy.space
 client1111.ddns.net
 clients.ad-tracker.org
 clients.adobe-research.net
@@ -5440,10 +5439,8 @@ cyrus-test.ddns.net
 cystnovor.fun
 d.wps.pics
 d.zv.lex.fo
-d0.awsstatic.com
 d02297e47fefcb8af4e517022b64ba0235369fc19f32b013d150666b9.jaytele0.site
 d0e.no-ip.biz
-d1.awsstatic.com
 d1.ngobmc.com
 d11lqfjylv7hzs.cloudfront.net
 d11xzcebh7lvkz.cloudfront.net
@@ -5775,6 +5772,7 @@ defenderdoes.work
 defenderos.con-ip.com
 defenderos2.con-ip.com
 defeodallio.cyou
+defrosscrappeo.pw
 degrace2020.hopto.org
 degree-imported.at.ply.gg
 deidaranjrat.no-ip.org
@@ -7133,7 +7131,6 @@ epiclauncher.duckdns.org
 epicryan449.duckdns.org
 epicswagg.duckdns.org
 epidine.com
-eppo.blogoz.top
 epsonupdate.uk
 eptrem.duckdns.org
 equal.fairtaxcolorado.org
@@ -7420,7 +7417,6 @@ ezisec.duckdns.org
 ezispice.duckdns.org
 ezz.nulling.to
 ezzbn.noip.me
-f0.awsstatic.com
 f0837288.xsph.ru
 f1.pipen.at
 f1agg.top
@@ -8047,6 +8043,7 @@ fsociety249.duckdns.org
 ftap-29332.portmap.host
 fthbhd.no-ip.biz
 ftlamto.duckdns.org
+ftp.atelierzolotas.gr
 ftp.siscop.com.co
 ftp2017.serveftp.com
 ftw.pwn.bar
@@ -10587,6 +10584,7 @@ jxjmrpc797bm.mydissent.net
 jxworm2ndport.duckdns.org
 jyzjkjj.com
 k-essex.at.ply.gg
+k.25koggaam.pw
 k.mo4.xyz
 k0shosfo.kozow.com
 k3rry1xrd.hopto.org
@@ -11109,6 +11107,7 @@ krimeaboom.xyz
 krimo2015.noip.me
 krishalvarado.autos
 kriz-nas.ddnss.de
+kronosmagazine.com
 krossred957.duckdns.org
 krugovayaporuka.ru
 krugovayaporuka.su
@@ -11194,7 +11193,6 @@ l-i-r-n.itsaol.com
 l-ir.faqserv.com
 l.viop.cc
 l.wps.pics
-l0.awsstatic.com
 l0yolufbw5yeabs.com
 l11ol12s.sells-it.net
 l2chartsapi.com
@@ -11439,6 +11437,7 @@ license-donna.at.ply.gg
 license.itekgroup.com
 license.werewolves.su
 lidnslog.cn
+lido-fi.dev
 liemuteste.com
 liezaphare.xyz
 life-chase.at.ply.gg
@@ -12034,6 +12033,7 @@ mammoth01.ddns.net
 mamomamo.no-ip.biz
 mamoon.ddns.net
 mamostayanpoolllll.ddns.net
+mamutert.com
 man.from-ks.com
 man90.ddns.net
 manager.moonlighter.space
@@ -14425,7 +14425,6 @@ ns2.yahootk.tk
 ns2.zengjunhe.top
 ns2.zpepc.net
 ns3.10010.buzz
-ns3.aliyunapis.com
 ns3.api-azure.com
 ns3.chongfan1990.xyz
 ns3.ddddmart.xyz
@@ -14451,7 +14450,6 @@ ns3.yahootk.tk
 ns3.zpepc.net
 ns3080714.ip-217-182-199.eu
 ns4.10010.buzz
-ns4.aliyunapis.com
 ns4.digitelela.com
 ns4.hardlims.com
 ns4.icbcbc.com.cn
@@ -15385,6 +15383,7 @@ pksru.ddns.net
 pkvithtosh11.com
 pkvithtosh17.com
 pl.audiotest.top
+pl.mamutert.com
 pla.suphava.top
 place-viewed.gl.at.ply.gg
 placengine.site
@@ -15840,7 +15839,6 @@ pwnx.pro
 pwrat.duckdns.org
 pwtk000001.ddns.net
 pwwqkppwqkezqer.site
-pxp.softdetails.in
 pyeonno.kro.kr
 q-grounds.gl.at.ply.gg
 q.ub3r.in
@@ -15874,7 +15872,6 @@ qfive5vs.top
 qfive5vt.top
 qgexserver.hopto.org
 qianxin.edr-down.uk
-qiqi.podos.top
 qitoshalan.xyz
 qlvbsnv.binhphuoc.unixkernelhelp.com
 qnb.mooo.com
@@ -15983,7 +15980,6 @@ r.connectback.io
 r.hackade.org
 r.rewdio.fun
 r.tocat.co
-r0.awsstatic.com
 r00tz-36170.portmap.io
 r0c.ddns.net
 r0nj.ooguy.com
@@ -16780,7 +16776,6 @@ s-ir.faqserv.com
 s.redrasta.biz
 s.svmp.eu.org
 s.u00.ca
-s0.awsstatic.com
 s1.freesocksvpn.xyz
 s1.freevpnsocks.xyz
 s1.kekw.tk
@@ -17544,7 +17539,6 @@ service-bvle58gz-1311190281.sh.apigw.tencentcs.com
 service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com
 service-c3i28tfw-1259711277.gz.apigw.tencentcs.com
 service-c3p2vbb6-1313164119.gz.apigw.tencentcs.com
-service-cejxd4w6-1307021836.gz.apigw.tencentcs.com
 service-cia1auek-1314775489.gz.apigw.tencentcs.com
 service-cufhwy32-1317863896.gz.apigw.tencentcs.com
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com
@@ -18461,6 +18455,7 @@ stankovic.geekgalaxy.com
 stannano.golffan.us
 stanntinab.xyz
 stanuka12.duckdns.org
+starinteriordesigns.com
 starkduck0001.duckdns.org
 starlucky.warzonedns.com
 starmimo7.ddns.net
@@ -20100,8 +20095,10 @@ v2r-cn2.lifeisff.fun
 v2ray1.mmsy.top
 v2ray2.mmsy.top
 v3.aria21.pw
+v60390.php-friends.de
 v63768.php-friends.de
 v648698.hosted-by-vdsina.ru
+v75426.php-friends.de
 v7y.no-ip.biz
 vacation-family.at.ply.gg
 vadud.xyz
@@ -21013,7 +21010,6 @@ www.adblockext.ru
 www.admarseb.click
 www.agitated-bhabha.192-153-57-73.plesk.page
 www.air-canadaa.com
-www.ajzq.com
 www.akbeyaztckstil.com
 www.alexis-dasilva.com
 www.alexis-dasilva.pro
@@ -21049,7 +21045,6 @@ www.chromewebkit.com
 www.chtcom.tw
 www.citcc.shop
 www.city-optikhaus.shop
-www.cjjt.com.cn
 www.cl-powar.com
 www.clubpro.space
 www.cnhile-hl.com
@@ -21074,6 +21069,7 @@ www.envisiensintl.com
 www.erci.banochotelgh.com
 www.erp.derico.de
 www.estafetagoappa.cyou
+www.estafetagoappa.vip
 www.estafetagoappb.cyou
 www.estafetagoappb.vip
 www.estafetagoappc.cyou
@@ -21109,7 +21105,6 @@ www.inovacaptab.com
 www.irishrugby.info
 www.isec.pw
 www.isra-lift.com
-www.j-j-j.cn
 www.jlsecurity.org
 www.jsdel1vr.com
 www.jtitraining.com
