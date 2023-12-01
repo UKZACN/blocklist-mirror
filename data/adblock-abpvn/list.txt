@@ -12731,6 +12731,7 @@ openads.friendfinder.com
 openads.org
 openbid.pubmatic.com
 openclick.com
+openfpcdn.io
 openmarket.com
 openrtb-eu-west-1.axonix.com
 openrtb-eu.adkernel.com
