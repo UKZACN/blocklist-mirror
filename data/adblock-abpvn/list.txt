@@ -1762,6 +1762,7 @@ adserve.kargo.com
 adserve.mahimeta.com
 adserve.postrelease.com
 adserve.somplo.com
+adserve.tv
 adserve.work
 adserver-a.juicyads.com
 adserver-as.adtech.advertising.com
@@ -11051,8 +11052,8 @@ log.ys7.com
 log.zalo.video
 log.zamba.vn
 log.zingmp3.vn
-log.zingnews.com.vn
 log.zingnews.vn
+log.znews.vn
 log1.adsplay.net
 log2.adsplay.net
 log2.spotify.com
@@ -18554,6 +18555,7 @@ v-eu.amazon-adsystem.com
 v-preprod.amazon-adsystem.com
 v.adblade.com
 v.adgrx.com
+v.adserve.tv
 v.adsfactor.net
 v.adsrvr.org
 v.adthor.com
@@ -20494,8 +20496,6 @@ z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 za.baomoi.com
 za.zapps.vn
 za.zingmp3.vn
-za.zingnews.com.vn
-za.zingnews.vn
 zabbix.bidgear.com
 zabpbhko.com
 zads.me.zing.vn
