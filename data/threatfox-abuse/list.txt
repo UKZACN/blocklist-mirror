@@ -743,6 +743,7 @@
 20million.ddns.net
 211.ip.ply.gg
 21102m.dccr.ru
+212.224.88.253.sslip.io
 212.ip.ply.gg
 213-219-36-36.ip.linodeusercontent.com
 213podellkk.website
@@ -1042,6 +1043,8 @@
 82.240.100.34.bc.googleusercontent.com
 83961200.duckdns.org
 84688m.dccr.ru
+85-192-63-35.cprapid.com
+85.192.63.65.sslip.io
 8686.f3322.net
 87-248-157-219.cprapid.com
 87.61.132.34.bc.googleusercontent.com
@@ -1053,6 +1056,7 @@
 8888.tshacks.online
 88blakejames.ddns.net
 88futur.xyz
+89.185.85.34.sslip.io
 8903dnas.duckdns.org
 8970.ddns.net
 897midasgold.ddns.me
@@ -2438,6 +2442,7 @@ api.officeserviced.com
 api.qstories.today
 api.s1.maitianshanglv.cn
 api.samp-loader.ru
+api.taipowers.com
 api.tcprestt.top
 api.texvn.group
 api.tokenpocket.wiki
@@ -2473,6 +2478,8 @@ app.opposrv.top
 app.threatest.com
 app.up.karachihelpdesk.org
 app.vidadworld.com
+appblendemulator.info
+appblendstacks.top
 appfinez.hair
 appkasnofert.com
 apple.phruit.shop
@@ -2532,6 +2539,7 @@ archive.soundcast.me
 archivos.homelinux.net
 arena1.dynu.net
 arencoservices.ddns.net
+arenterprese2023.is-a-caterer.com
 arezo.click
 argeek.no-ip.org
 argentinocapuccho.cyou
@@ -3021,7 +3029,6 @@ balbalz2.com
 balckhack.zapto.org
 baldu.wiki
 balkimraklire.cyou
-balkun.com
 ballya99.ru
 baloto1.duckdns.org
 baltlifeapp.com
@@ -3106,6 +3113,7 @@ baskamioitali.com
 basmaa.no-ip.biz
 bassem-tn.zapto.org
 basspeak134.ddns.net
+basta-tourmoscow.ru
 basurax64.duckdns.org
 batashoes.ddns.net
 batata.hopto.org
@@ -3184,7 +3192,6 @@ bedohack123.ddns.net
 bee.selectofmychoices.com
 beedoris.top
 beepkauftagers.com
-beer.getdraft.shop
 beercontest.servebeer.com
 beerword.xyz
 befehd27.top
@@ -4189,6 +4196,7 @@ cdn.jscriptstore.com
 cdn.lightsteper.com
 cdn.microsoft-hk.com
 cdn.microsolt.top
+cdn.morisniff.ir
 cdn.ms-endpoint.com
 cdn.mww2.com
 cdn.myfreelibrary.org
@@ -5654,6 +5662,7 @@ con22.duckdns.org
 conan16.linkpc.net
 conan33.ddns.net
 concentration1234.com
+concert-uz.ru
 concgc.com
 condi.cloud
 condi.network
@@ -5716,6 +5725,7 @@ contract.ddns.net
 contrariancapital.backstopsolution.net
 contratos2020.duckdns.org
 controlmycomputer2.ddns.net
+convhandvideo.info
 coocooncookiedpo.com
 cookiebrokrash.info
 cookies3.ddns.net
@@ -5891,6 +5901,8 @@ cs.vegaking.xyz
 cs.wsxqaz.top
 cs1.accountsync.net
 cs1.dnsonlin.co
+cs1.francy.world
+cs2.francy.world
 cs45.gamesmetaa.com
 cs45tx230726.gamesmetaa.com
 cs45up230720.gamesmetaa.com
@@ -5987,6 +5999,7 @@ d.wps.pics
 d.zv.lex.fo
 d02297e47fefcb8af4e517022b64ba0235369fc19f32b013d150666b9.jaytele0.site
 d0e.no-ip.biz
+d1.morisniff.ir
 d1.ngobmc.com
 d11lqfjylv7hzs.cloudfront.net
 d11xzcebh7lvkz.cloudfront.net
@@ -6523,6 +6536,7 @@ diersrcerhtmlerhtml.com
 diffdns.duckdns.org
 digatjr.ddns.net
 digital.yesky.com
+digitalskillset1.com
 digtupu.com
 digyamonica.xyz
 diigerrb16.top
@@ -7170,6 +7184,7 @@ eastzrada.club
 easy.sharelives.xyz
 easycard-t.sumikuma.tw
 easyloanbazzar.com
+easyvideoconverters.com
 easywinscp.xyz
 eazeeflo.warzonedns.com
 eazyrape.ddns.net
@@ -7269,6 +7284,7 @@ ec2-34-199-174-236.compute-1.amazonaws.com
 ec2-34-207-174-202.compute-1.amazonaws.com
 ec2-34-219-121-232.us-west-2.compute.amazonaws.com
 ec2-34-221-248-6.us-west-2.compute.amazonaws.com
+ec2-34-224-9-208.compute-1.amazonaws.com
 ec2-34-231-97-149.compute-1.amazonaws.com
 ec2-34-232-77-201.compute-1.amazonaws.com
 ec2-34-238-242-104.compute-1.amazonaws.com
@@ -8228,6 +8244,7 @@ fhfgmjhmsdsdzx.duckdns.org
 fhfhhhrjtfg3637fgjd.at
 fhgerbugjreqnhfegrb.top
 fhijnfdvjdsd.duckdns.org
+fhipp-dbms.top
 fhjweheed74.top
 fia-secure-connect.ru
 fiamedanes.xyz
@@ -8493,7 +8510,6 @@ fredj.ddns.net
 fredlomberhfile.com
 fredneilq.ddns.net
 fredrchmn.duckdns.org
-freduska.com
 fredylopezlora09.duckdns.org
 free66.hopto.org
 freeace.xyz
@@ -8695,6 +8711,7 @@ galandskiyher1.com
 galandskiyher2.com
 galiso.top
 galistens.com
+gallery.tableaupubsecday.com
 galo.servehttp.com
 galoservices.servequake.com
 gamallastu.xyz
@@ -9585,6 +9602,7 @@ hamzauarist.zapto.org
 hamzawi.ddns.net
 hamzzagolozar.loseyourip.com
 hamzzaogolozar77.toythieves.com
+handbrakeconv.top
 handmoety.duckdns.org
 handofhor.duckdns.org
 hands-social.at.ply.gg
@@ -9837,6 +9855,7 @@ highallthetime.ddns.net
 highlifesearch.net
 highminded.us
 highnetwork.pw
+highqualityconverter.com
 hightense.duckdns.org
 highway.steelcdn.org
 higradevpn.xyz
@@ -10061,6 +10080,7 @@ howtolive913-31335.portmap.host
 hoysechichonea.con-ip.com
 hp.creepybadger.com
 hp200.spdns.eu
+hp22.weket.shop
 hp600.spdns.eu
 hpdndbnb.duckdns.org
 hpgmlol.no-ip.biz
@@ -10225,6 +10245,8 @@ id7oomz.ddns.net
 idai2babd1.xyz
 idcmht.com
 idde.ddns.net
+ideastradeai.com
+ideastradeai.top
 idegasbre.ddns.net
 ideology8cum.top
 ididallthis.best
@@ -10247,6 +10269,7 @@ ifeanyiogbunebe.ddns.net
 ifedinma.duckdns.org
 ifemelumma.linkpc.net
 iferuss.ddns.net
+ifisoundyou.gq
 ifn1h8ag1g.com
 ifua88ahahgh.com
 ifuyghiu.duckdns.org
@@ -10271,6 +10294,7 @@ ihechi.ddns.net
 ihfagzuuu.net
 ihttree.duckdns.org
 ii-usd.at.ply.gg
+ii.nggg.fun
 iii.tavrmon.top
 iiidsinbjvcsdvbg.top
 iiksa.ddns.net
@@ -12750,6 +12774,7 @@ mary-classroom.at.ply.gg
 marybskitchen.com
 maryik.ddns.net
 maryik.hopto.org
+marz6.adsmahsa.xyz
 marzingranocny.top
 marzo172022.con-ip.com
 marzo72022.con-ip.com
@@ -12889,6 +12914,7 @@ media-specified.gl.at.ply.gg
 media-talk.ru
 mediacome.duckdns.org
 mediamall098.freedynamicdns.org
+mediaskollsoft.com
 medicinebuckerrysa.pw
 medicosta.linkpc.net
 medlag03.ddns.net
@@ -14856,7 +14882,6 @@ ns1.h1ck0r.com
 ns1.h1ll0.cs.in
 ns1.htl502.tech
 ns1.icbcbc.com.cn
-ns1.imortal.icu
 ns1.investmentlineup.com
 ns1.jd-1111.cn
 ns1.jieinchangan.cn
@@ -14948,7 +14973,6 @@ ns2.gsafc.co
 ns2.gxyy77.xyz
 ns2.h1ll0.cs.in
 ns2.icbcbc.com.cn
-ns2.imortal.icu
 ns2.jd-1111.cn
 ns2.jieinchangan.cn
 ns2.l96.org
@@ -14991,7 +15015,6 @@ ns3.ga0.co
 ns3.gsafc.co
 ns3.hardlims.com
 ns3.icbcbc.com.cn
-ns3.imortal.icu
 ns3.kagotsurube.org
 ns3.livelogs.xyz
 ns3.njzjamc.cloud
@@ -15434,6 +15457,7 @@ opositive.es
 opportunities-rendered.craft.ply.gg
 opportunity-mandate.gl.at.ply.gg
 opsdjs.ug
+opsqhv54xl33qcahhakpdl7gf40bkhoj.lambda-url.us-east-1.on.aws
 opstin.spdns.eu
 optimization.camdvr.org
 optimous.no-ip.org
@@ -15822,6 +15846,7 @@ petelbomber.xyz
 petersenliner.com
 petersonsherian7.duckdns.org
 petersonvargas77.ddns.net
+petitbrun1.websiteseguro.com
 petite-bars-raise-82-45-123-4.loca.lt
 petroilimos.at
 petroilimos.su
@@ -17752,6 +17777,7 @@ sbijanr.xyz
 sbmsbm20.duckdns.org
 sbz9cytxalvupnz.eastus.atlas.cloudapp.azure.com
 sbz9cytxalvupnz.eastus.cloudapp.azure.com
+sc.nimmajic.online
 sca.fartit.com
 scambaiting2022.ddns.net
 scamher.chickenkiller.com
@@ -17896,6 +17922,7 @@ security.hashkeytech.pro
 security70.duckdns.org
 securitybitches1.at
 securitybitches3.at
+securityhealthservice.com
 securitytest.lat
 securityveriservers.ddns.net
 secvoya.ddns.net
@@ -18117,7 +18144,6 @@ service-jvv5aomb-1305465584.sh.apigw.tencentcs.com
 service-jzcboqxy-1301167793.gz.apigw.tencentcs.com
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com
-service-k6swyxf1-1258536377.cd.apigw.tencentcs.com
 service-k797j4br-1318291330.bj.apigw.tencentcs.com
 service-kiss7m2t-1305595184.bj.apigw.tencentcs.com
 service-kvmc8be7-1304892907.bj.apigw.tencentcs.com
@@ -18125,7 +18151,6 @@ service-l3k4wvla-1322622051.gz.apigw.tencentcs.com
 service-lew09ujr-1307700818.sh.apigw.tencentcs.com
 service-lj2mtzly-1318135905.gz.apigw.tencentcs.com
 service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com
-service-ln38c3rd-1257826321.sh.apigw.tencentcs.com
 service-lqymkqhs-1306655841.gz.apigw.tencentcs.com
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com
 service-lxxw7ork-1301466801.gz.apigw.tencentcs.com
@@ -18287,6 +18312,7 @@ shaa.fartit.com
 shaban123.no-ip.biz
 shabh853.ddns.net
 shadhk.duckdns.org
+shadow.schatten.ir
 shadow099.ddns.net
 shadow1assassin.dnsd.info
 shadow20199.ddns.net
@@ -19077,6 +19103,7 @@ static.67.97.78.5.clients.your-server.de
 static.72.104.161.5.clients.your-server.de
 static.73.151.108.65.clients.your-server.de
 static.76.200.181.135.clients.your-server.de
+static.78.100.216.95.clients.your-server.de
 static.85.22.27.37.clients.your-server.de
 static.94.80.108.65.clients.your-server.de
 static.96.10.203.116.clients.your-server.de
@@ -19602,6 +19629,7 @@ tedyoepela.xyz
 teensviolet.com
 tef-co-ir.com
 tefa83.no-ip.biz
+tehavi.com
 tehhallthehall.ddns.net
 tehilaproj.hopto.org
 tehliike.duckdns.org
@@ -19663,18 +19691,16 @@ test.blueteam.asia
 test.gpt-use.com
 test.htl502.tech
 test.kolunbia.com
+test.morisniff.cloudns.ph
 test.mydhx.top
 test.radwp.com
 test.xv.lex.fo
 test0303.chickenkiller.com
 test0day.zapto.org
-test1.imortal.icu
 test1.itsaol.com
 test1002.gleeze.com
 test1xa.duckdns.org
-test2.imortal.icu
 test2mail.online
-test3.imortal.icu
 test333.no-ip.org
 test5-18b.timoni.dev
 test777test.ddns.net
@@ -20218,6 +20244,7 @@ trustednovusbanks.com
 trustedwicky.com
 trustingod4brktru.dns53.biz
 trustkemi.duckdns.org
+trustpilots.cam
 trx05.duckdns.org
 try.selectofmychoices.com
 tryweaswweee.ydns.eu
@@ -21519,6 +21546,7 @@ workbox100.linkpc.net
 workbox100.publicvm.com
 workbro.duckdns.org
 workday2022.hopto.org
+worker-jolly-unit-e3af.jacobnero11.workers.dev
 workerholic.myq-see.com
 workerspickuper.club
 worklogin2019.duckdns.org
@@ -21722,6 +21750,7 @@ www.homelink.publicvm.com
 www.hongtong502.cc
 www.hosting.ptechconsult.com
 www.ichorx.duckdns.org
+www.ifisoundyou.gq
 www.iii-service.com
 www.infor.publicvm.com
 www.inovacaptab.com
@@ -21930,6 +21959,7 @@ xaiandaran.xyz
 xaker100.ddns.net
 xalemiaind.xyz
 xamp.zapto.org
+xampp.info
 xandy239.no-ip.org
 xandybars1.ddns.net
 xanerlaychi.xyz
