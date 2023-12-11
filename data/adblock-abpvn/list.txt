@@ -963,6 +963,7 @@ admanager.carsoup.com
 admanmedia.com
 admantx.com
 admarket.network
+admarketing.yahoo.net
 admarketplace.net
 admarvel.com
 admaster.com.cn
@@ -7958,6 +7959,7 @@ events.liftoff.io
 events.mapbox.com
 events.marketo.com
 events.mediarithmics.com
+events.newsroom.bi
 events.popinfo.jp
 events.proper.io
 events.redditmedia.com
@@ -9130,6 +9132,7 @@ hb.undertone.com
 hb.unoadsrv.com
 hb.vntsm.com
 hb.vntsm.io
+hb.yahoo.net
 hbevents.1rx.io
 hbint.emxdgt.com
 hbmp.mediafuse.com
@@ -10192,6 +10195,7 @@ j93557g.com
 ja.ad-stir.com
 ja2n2u30a6rgyd.com
 jaavnacsdw.com
+jac.yahoosandbox.com
 jacadpjirs.com
 jackadamo.com
 jacsmuvkymw.com
@@ -12767,6 +12771,7 @@ opensharecount.com
 opensource.pubnative.net
 openvideoads.com
 openvideoads.org
+openweb.jac.yahoosandbox.com
 openx.adhaven.com
 openx.angelsgroup.org.uk
 openx.com
@@ -15132,6 +15137,7 @@ rum.wpm.neustar.biz
 rumadel.com
 rumblerteg.space
 rumcdn.geoedge.be
+rumt-sg.com
 run-syndicate.com
 run.adrizer.com
 runads.com
@@ -16778,6 +16784,7 @@ stats.pusher.com
 stats.realclick.vn
 stats.searchftps.net
 stats.self.com
+stats.shopify.com
 stats.showcasethat.com
 stats.stg.zaloapp.com
 stats.tamdiem247.com
@@ -18602,6 +18609,7 @@ v.doublemax.net
 v.g.l.inmobicdn.net
 v.gdt.qq.com
 v.lkqd.net
+v.shopify.com
 v.vsimasd.pw
 v.vungle.com
 v.zcoup.com

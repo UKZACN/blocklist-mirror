@@ -489,6 +489,7 @@ js.hs-analytics.net
 js.hs-banner.com
 js.hsadspixel.net
 js.hsleadflows.net
+js.multibrandaffiliates.com
 jsc.adskeeper.co.uk
 jsc.adskeeper.com
 jsc.mgid.com
