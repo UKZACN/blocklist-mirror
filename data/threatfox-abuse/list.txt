@@ -688,6 +688,7 @@
 176.225.41.34.bc.googleusercontent.com
 177.lan-vg2-1.static.rozabg.com
 178-79-185-106.ip.linodeusercontent.com
+178.236.246.181.sslip.io
 179527.com
 180.ip.ply.gg
 181.ip.ply.gg
@@ -1984,6 +1985,7 @@ albumphotography.top
 albumphotoshow.top
 alcachofa724-46937.portmap.host
 alceaso.ru
+alchemystofficial.com
 alcoholremser.duckdns.org
 alda2024.duckdns.org
 alddie7mg.ddns.net
@@ -4002,6 +4004,8 @@ canarybeachhotel.sa
 canaziys.xyz
 candycandy.ddns.net
 canival.duckdns.org
+cannabisandpets.com
+cannabisfans.com
 cannabishang.com
 cannabisjoblistings.com
 cannabistalks.com
@@ -4225,7 +4229,6 @@ cdn.qq2s.com
 cdn.scriptsplatform.com
 cdn.specialtaskevents.com
 cdn.statisticline.com
-cdn.suiteb.io
 cdn.t411.re
 cdn.update.microsoft.com.w.kunluncan.com
 cdn.violetlovelines.com
@@ -7252,6 +7255,7 @@ ec2-13-59-168-154.us-east-2.compute.amazonaws.com
 ec2-16-16-26-234.eu-north-1.compute.amazonaws.com
 ec2-16-170-143-138.eu-north-1.compute.amazonaws.com
 ec2-16-171-13-101.eu-north-1.compute.amazonaws.com
+ec2-18-135-210-230.eu-west-2.compute.amazonaws.com
 ec2-18-142-44-78.ap-southeast-1.compute.amazonaws.com
 ec2-18-143-202-5.ap-southeast-1.compute.amazonaws.com
 ec2-18-162-116-128.ap-east-1.compute.amazonaws.com
@@ -8285,6 +8289,7 @@ filandes72.duckdns.org
 file.baidu-cdn.cloud
 file.kolunbia.com
 file.spotify.com.s3.bucket-amazon.com
+filersed.com
 files-gate.com
 files.bmcybersecurity.net
 files.jslibc.com
@@ -8520,6 +8525,7 @@ frankooxyz2.ddns.net
 frankrab.giize.com
 frankwill12.ddns.net
 fransislopesierra09.duckdns.org
+frasana.com
 frdan.mywire.org
 frdedsgf.duckdns.org
 fre22.ddns.net
@@ -9174,6 +9180,7 @@ googleads2.publicvm.com
 googleapis2.duckdns.org
 googleapis2m.duckdns.org
 googlecloud.servegame.com
+googlecloudad.com
 googlecloudns.com
 googlecloudstream.com
 googlecom.sytes.net
@@ -10276,6 +10283,7 @@ ididallthis.best
 idiotobocaefabmantenio2021.duckdns.org
 idkwhatnameto.ddns.net
 idofjodjvodjvojvojfojooiodijnj.con-ip.com
+idontgiveatruck.com
 idpm.stellantis-invite.com
 idpm.stellantis-service.com
 idsdias.no-ip.org
@@ -11378,6 +11386,7 @@ kelly.spencerstuartllc.top
 kellyben.hopto.org
 kelnob72.top
 kelsok22.top
+kelsoret.com
 kelstu62.top
 keludt32.top
 kelvin2018.ddns.net
@@ -11423,6 +11432,7 @@ keystroke94.chickenkiller.com
 kezlkelz.duckdns.org
 kf123.ddns.net
 kf99gkdfk1m2.ddns.net
+kfc.mom
 kfdhsa.ru
 kfdklhghghjytj.myddns.me
 kfdsljfsdwhg.ru
@@ -12228,6 +12238,7 @@ log.bisongdamall.com
 log.ddm11125.com
 log.speech-microsoft.com
 log5ny.top
+loganwcshost.com
 logcollector.xyz
 logged.duckdns.org
 login-servers.ddns.net
@@ -12331,6 +12342,7 @@ lorearss42.top
 lorearsx63.top
 lorearsz53.top
 lorenbermu09.duckdns.org
+lorented.com
 lorixo-40605.portmap.host
 lorixo123.gotdns.ch
 lorixo666-43778.portmap.host
@@ -12803,6 +12815,7 @@ marshost.publicvm.com
 marsrg03.top
 marstonstyl247.ddns.net
 martaafrica.co
+martenesid.com
 martinelialora09.con-ip.com
 martineliasdiazlora09.duckdns.org
 martinman99.hopto.org
@@ -13042,6 +13055,7 @@ menge.duckdns.org
 menmengogo.shop
 menorte.ddns.net
 mensmoment.xyz
+menstrachagex.com
 mentalhealth.cghospital.org
 menticolino1566.duckdns.org
 mentokiller.top
@@ -14163,7 +14177,6 @@ n.c2cc.cf
 n.exf.red
 n.nerdpol.ovh
 n0tion.link
-n1.yahu360.space
 n1313.publicvm.com
 n20b28tu88.info
 n4o.invesd.top
@@ -15810,6 +15823,7 @@ pcpc64.ddns.net
 pctor.link
 pdafact.com
 peace.winexmarkets11.com
+peaceful-lewin.195-85-207-218.plesk.page
 peacelist.ignorelist.com
 peakypinkers.duckdns.org
 pearlbarleyhit.fun
@@ -15911,7 +15925,6 @@ pexxota.space
 peygiri-eblughie-ir.cloud
 pfesp.duckdns.org
 pfizervacunadns.duckdns.org
-pfor4pt.top
 pgqduoyxvzennam.xyz
 phaldeshas.xyz
 phantom111-31422.portmap.host
@@ -16868,6 +16881,7 @@ refreshkho.ddns.net
 refuds.selfip.info
 refund2me.mywire.org
 refuseniks.no-ip.biz
+reganter.com
 reggy506.ru
 reggy914.ru
 regidis.mooo.com
@@ -18166,7 +18180,6 @@ service-eii49n6u-1256578115.gz.apigw.tencentcs.com
 service-euf0eusq-1317136909.gz.apigw.tencentcs.com
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com
 service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
-service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com
 service-g1c0a353-1302650299.sh.apigw.tencentcs.com
 service-gk0he65k-1301167793.gz.apigw.tencentcs.com
 service-gnzojfcb-1302811215.sh.apigw.tencentcs.com
@@ -18722,6 +18735,7 @@ smartcontractlicensetodo.info
 smartcontractlicensewow.info
 smartcoonect.duckdns.org
 smartcut.duckdns.org
+smartpoliceax.online
 smartslaves.hopto.org
 smartupdater.lignarn.com
 smartvodafone.duckdns.org
@@ -18934,7 +18948,6 @@ specialblueitems.com
 specialnewspaper.com
 specialtaskevents.com
 specific-algeria.at.ply.gg
-specific.autonerdmobilerepairs.com
 spedra.ddnsfree.com
 speedballing.warzonedns.com
 speedfatoppam.com
@@ -19624,7 +19637,6 @@ taypoleznorelzez.net
 tboss1.ddns.net
 tbs.faqserv.com
 tc.icnsh.pro
-tcar.dnsrd.com
 tceducn.com
 tcessolution.com
 tchikou.no-ip.info
@@ -19792,6 +19804,7 @@ tesxnext.duckdns.org
 tete2792-22120.portmap.host
 tetiquila.me
 tevomishn.xyz
+texascathlab.com
 texchi.xyz
 texeshserver.ddns.net
 texvn.group
@@ -20016,6 +20029,7 @@ todosnj4343.duckdns.org
 toff7857.duckdns.org
 togba.duckdns.org
 tojah77.duckdns.org
+tokeshare.com
 tokia7823.duckdns.org
 toknowomo.duckdns.org
 tokyonights.pdns.stream
@@ -20851,7 +20865,6 @@ vetiir04.top
 veztechno.duckdns.org
 vfdhgfjdhgkjsf.duckdns.org
 vfggfhd.servemp3.com
-vfive5pn.top
 vhackteam.no-ip.biz
 vhf.sytes.net
 vhsivhyugve.duckdns.org
@@ -20995,7 +21008,6 @@ volve.system-ns.net
 voly.ddns.net
 vonanevynal.xyz
 vondenay.com
-vone1pn.top
 vonix.hopto.org
 voodooangel.myq-see.com
 voracity.ddns.net
@@ -21042,7 +21054,6 @@ vremenew.ddns.net
 vrezvrez.com
 vrondafarih.com
 vrunabo.su
-vseven7pn.top
 vsimperial.com
 vslogtffgfgdwd.hopto.org
 vss128.yakoo.com.hk
@@ -21725,6 +21736,7 @@ www.bozkurt.xyz
 www.buesem2021.com
 www.c6ih1t.com
 www.cannabistalks.com
+www.cannabisvotes.com
 www.celikklczet.com
 www.centraless.com
 www.centrecertifieplus.com
@@ -21794,6 +21806,7 @@ www.hlsloading.xyz
 www.homelink.publicvm.com
 www.hongtong502.cc
 www.hosting.ptechconsult.com
+www.hy-link.com
 www.ichorx.duckdns.org
 www.ifisoundyou.gq
 www.iii-service.com
@@ -21808,6 +21821,7 @@ www.jlsecurity.org
 www.jsdel1vr.com
 www.jtitraining.com
 www.jubli-jungles.site
+www.kachinaweb.com
 www.kamssa.com
 www.kcal.rs
 www.kesaihk.com
@@ -21852,6 +21866,7 @@ www.pakchoob.me
 www.pakehoob.com
 www.pay.oast.cloud
 www.pcsoft.com.cn
+www.peterdanford.com
 www.plrdofuturo.online
 www.porkchopsandwich.net
 www.postreq.net
@@ -25510,7 +25525,6 @@ zelenui.gotdns.ch
 zelgen89.ddns.com
 zellavonela.xyz
 zen3x.duckdns.org
-zenzero-hqa4hxebf8hjejhg.z01.azurefd.net
 zer0-dust.com
 zera.hopto.org
 zerhacked123.ddns.net
