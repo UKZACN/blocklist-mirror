@@ -2479,7 +2479,6 @@ app-updates.me
 app.baidu-soft.com
 app.baitianshiyou.fun
 app.collab.tr4t.io
-app.dbapp.xyz
 app.ethvseos.nl
 app.hackwithautomation.com
 app.jinnahinternational.org
@@ -3665,6 +3664,7 @@ bot.wakeandbakealldaylong.com
 botellita3434-46423.portmap.host
 boterov.com
 botha.no-ip.info
+botnet.atakehosting.com
 botnet.ngocronglau.xyz
 botnetlogs.store
 botnetnotepad1.no-ip.biz
@@ -4057,7 +4057,6 @@ capurgol20.duckdns.org
 car.dasautoco.top
 carapuce-2014.no-ip.biz
 card-conversation.at.playit.gg
-card.starbucks.com.s3.bucket-amazon.com
 card.union-pay.vip
 cardgoal.makeup
 cardlogical.info
@@ -4151,6 +4150,7 @@ cato.fingusti.club
 cato.iownyour.org
 catomaaaaa.freedynamicdns.org
 catrinavc.shop
+catsndogz.org
 cauchmard-67.zapto.org
 cauh3bhssprbmqo000104hdi8gfozmwg5.oast.me
 cauh3bhssprbmqo000108a815xzpiudpe.oast.me
@@ -8313,7 +8313,6 @@ fessjacksrat.duckdns.org
 festivaldeamor.publicvm.com
 festive-jones.68-183-220-248.plesk.page
 festus1.ddns.net
-fever2new.top
 fewrgfg.no-ip.biz
 ffaass212.no-ip.biz
 fff.kingspy.ml
@@ -8364,7 +8363,6 @@ fikqso.com
 filandes72.duckdns.org
 file.baidu-cdn.cloud
 file.kolunbia.com
-file.spotify.com.s3.bucket-amazon.com
 filersed.com
 files-gate.com
 files.bmcybersecurity.net
@@ -9649,7 +9647,6 @@ hadesfirst.ddns.net
 hadespanel.online
 hadicentra.ddns.net
 hadkhadma.hopto.org
-hadleyshope.3utilities.com
 hadrqlo.ddns.net
 hadzija.duckdns.org
 hahalol.ddns.net
@@ -11062,7 +11059,6 @@ jhonvelasqueslora09.duckdns.org
 jiaxin.ddns.net
 jibrelcloe.bounceme.net
 jibrelcloe.freeddns.org
-jidisianyr.shop
 jiggaboojones.tech
 jihed2013.zapto.org
 jiiihihihiguuhhgygygtdtdtgdsdxfulllbb.ydns.eu
@@ -12238,7 +12234,6 @@ linkjshw-4.com
 linkll-11.com
 linkll-2.com
 linko8457y.com
-linkpop.com.s3.bucket-amazon.com
 linkqksi-3.com
 links-recovered.at.ply.gg
 links5675.ddns.net
@@ -13295,6 +13290,7 @@ microsoftslr.ddns.net
 microsoftssuy.no-ip.biz
 microsoftstolewindows.duckdns.org
 microsoftsupport10.ddns.net
+microsoftsyst3m.com
 microsofttask.zapto.org
 microsoftteams.con-ip.com
 microsoftteams.ddns.net
@@ -15072,7 +15068,6 @@ ns1.gsafc.co
 ns1.h1ck0r.com
 ns1.h1ll0.cs.in
 ns1.htl502.tech
-ns1.icbcbc.com.cn
 ns1.investmentlineup.com
 ns1.jd-1111.cn
 ns1.jieinchangan.cn
@@ -15088,7 +15083,6 @@ ns1.microsoft-update.one
 ns1.microsoft2888.top
 ns1.microsoftgame.online
 ns1.mikrokredit.shop
-ns1.myazureonline.com
 ns1.mylcyz.top
 ns1.mysqlnet.org
 ns1.njzjamc.cloud
@@ -15164,7 +15158,6 @@ ns2.gdcmxy.xyz
 ns2.ggbuild.buzz
 ns2.gsafc.co
 ns2.h1ll0.cs.in
-ns2.icbcbc.com.cn
 ns2.jd-1111.cn
 ns2.jieinchangan.cn
 ns2.l96.org
@@ -15230,9 +15223,7 @@ ns4.hardlims.com
 ns4.icbcbc.com.cn
 ns4.luccycatch.tech
 ns5.luccycatch.tech
-ns5.starbucksvip.com
 ns5006633.ip-51-79-230.net
-ns6.starbucksvip.com
 ns8.x7z.mom
 ns88.nanyafpg.com
 ns_update1.wps.bj.cn
@@ -18948,7 +18939,6 @@ snackebay.ddns.net
 snakeoil.nl
 snapservarior.com
 snc2015.no-ip.biz
-sneakerpop.bounceme.net
 sneakyhackersinc16.ddns.net
 snhacker.ddns.net
 snick.myddns.rocks
@@ -20371,7 +20361,6 @@ trackgoogle.at
 trackingg1-protectioon.cdn5.mozilla.net
 trackingg2-protectioon.cdn4.mozilla.net
 tracyll.ddns.net
-trademark.iglesiaelarca.com
 traderforex.no-ip.biz
 tradeshouse.top
 tradeworld.duckdns.org
@@ -25368,7 +25357,6 @@ yachtracingopt.fun
 yaelkom.ddns.net
 yahayaha.no-ip.biz
 yahmanioi.no-ip.biz
-yahoo.com.s3.bucket-amazon.com
 yahoo.no-ip.org
 yainnd.xyz
 yakbitpeople.duckdns.org
