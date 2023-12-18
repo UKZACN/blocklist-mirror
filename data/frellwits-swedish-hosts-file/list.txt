@@ -122,6 +122,7 @@ analytics.mailmunch.co
 analytics.nikkasystems.com
 analytics.sunet.se
 analytics.svt.se
+analytics.undeco.se
 angry-golick-2a96e5.netlify.app
 annoncer.nichehuset.dk
 annons.svenskjakt.se
