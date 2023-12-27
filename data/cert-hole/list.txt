@@ -7153,6 +7153,7 @@
 94215455.xyz
 942618dalej-logowanie.ernies.pl
 942ce51bd11.chefs-kitchen.co.uk
+942fb613a0ae6857e69ae3d961501001.nitwos.pl
 943094kod-zaloguj.officell.co.pl
 943243526367aff1f5218361377be3cb.al-pl.co.pl
 9444logowaniu-praca.ktls.co.pl
@@ -9431,6 +9432,7 @@ aimsmsc.com
 aimweebiy.weebly.com
 ainformacje.waw.pl
 ainoshiatsu.se
+ainpost.life
 ainpostpl.top
 ainrikainadne.eu-central-1.linodeobjects.com
 aintog.com
@@ -10582,6 +10584,7 @@ allegro.24-7ogloszenia.pl
 allegro.24-oferta.pl
 allegro.24-oferty.pl
 allegro.24-platnosci.pl
+allegro.24-zakupy.pl
 allegro.24ochrona.pl
 allegro.24ogloszenie.pl
 allegro.24transakcje.pl
@@ -10605,6 +10608,7 @@ allegro.e-zakupy247.pl
 allegro.epayu24-7.pl
 allegro.eplatnosci24-7.pl
 allegro.ezaplata24-7.pl
+allegro.i-aukcje24.pl
 allegro.i-payu-24.pl
 allegro.iaukcje24.pl
 allegro.kampanie-pl.com
@@ -10663,8 +10667,12 @@ allegro.paym08.info
 allegro.pays08.info
 allegro.pays22.info
 allegro.pays46.info
+allegro.payu-zakup-24.pl
 allegro.pl-0x6.pl
 allegro.pl-oferta.ml
+allegro.pl-oferta564366.pl
+allegro.pl-oferta568312.pl
+allegro.pl-oferta568316.pl
 allegro.pl-prywatna-aukcja-sprzedazy198235.pl
 allegro.pl-prywatna-aukcja-sprzedazy198241.pl
 allegro.pl-prywatna-aukcja-sprzedazy198242.pl
@@ -11098,6 +11106,7 @@ allegrolokalnie.aukcja-allegro.pl
 allegrolokalnie.aukcja-id746147.pl
 allegrolokalnie.aukcja-id7948261.pl
 allegrolokalnie.aukcja-id849214.pl
+allegrolokalnie.aukcja-id8971241.pl
 allegrolokalnie.aukcja-id916.pl
 allegrolokalnie.aukcja-payu.pl
 allegrolokalnie.aukcja-prywatna24.pl
@@ -11262,6 +11271,7 @@ allegrolokalnie.ochrona-allegro.pl
 allegrolokalnie.ochronazakupu.pl
 allegrolokalnie.ofera8921.pl
 allegrolokalnie.oferta-24h.pl
+allegrolokalnie.oferta-6534.pl
 allegrolokalnie.oferta-prywatna.pl
 allegrolokalnie.oferta-prywatna247.pl
 allegrolokalnie.oferta-zakupu.pl
@@ -11314,6 +11324,7 @@ allegrolokalnie.pay-now24.pl
 allegrolokalnie.pay-u.pl
 allegrolokalnie.pay247.pl
 allegrolokalnie.payu-online.pl
+allegrolokalnie.payu-zakup-24.pl
 allegrolokalnie.pewnie-zakup.pl
 allegrolokalnie.pewnie-zakup24.pl
 allegrolokalnie.pl-12476oferta.pl
@@ -11577,6 +11588,8 @@ allegrolokalnie.pl-oferta5421.pl
 allegrolokalnie.pl-oferta5435.pl
 allegrolokalnie.pl-oferta5471.pl
 allegrolokalnie.pl-oferta5625.pl
+allegrolokalnie.pl-oferta568312.pl
+allegrolokalnie.pl-oferta568316.pl
 allegrolokalnie.pl-oferta5687.pl
 allegrolokalnie.pl-oferta58274.pl
 allegrolokalnie.pl-oferta58275.pl
@@ -11656,6 +11669,7 @@ allegrolokalnie.pl-paupacs.pw
 allegrolokalnie.pl-pay.pl
 allegrolokalnie.pl-platnosc-24h.pl
 allegrolokalnie.pl-platnosc-payu.pl
+allegrolokalnie.pl-prywatna-aukcja-sprzedazy198228.pl
 allegrolokalnie.pl-prywatna-aukcja-sprzedazy198234.pl
 allegrolokalnie.pl-prywatna-aukcja-sprzedazy198235.pl
 allegrolokalnie.pl-prywatna-aukcja-sprzedazy198236.pl
@@ -11780,6 +11794,7 @@ allegrolokalnie.plac-online.pl
 allegrolokalnie.plac-online24.pl
 allegrolokalnie.platnosc-24h.pl
 allegrolokalnie.platnosc-bezpieczna24.pl
+allegrolokalnie.platnosc-oferta.pl
 allegrolokalnie.platnosc-online.pl
 allegrolokalnie.platnosc-online24.pl
 allegrolokalnie.platnosc-payu24.pl
@@ -15347,6 +15362,7 @@ autooo-gadek.pl
 autooomagazyn.pl
 autoooo-gielda.pl
 autopark-polska.pl
+autoperla-24.pl
 autoplagiarism.life
 autoplaza-sprzedaz.pl
 autopomysl-24.pl
@@ -15363,6 +15379,7 @@ autosmierc.click
 autosprzedajemy.pl
 autosprzedam.com.pl
 autosprzedaz-duklinski.pl
+autosprzedaz-holuba.pl
 autosprzedaz-ignaczewski.pl
 autosprzedaz-ilkowscy.pl
 autosprzedaz-kolinski.pl
@@ -19227,6 +19244,7 @@ bitcoinblueprints.net
 bitcoinbotts.com
 bitcoinbrass.com
 bitcoincentrum.pl
+bitcoindividend.site
 bitcoine-ad.foundation
 bitcoinera.app
 bitcoineranew.com
@@ -20580,6 +20598,7 @@ booking.order-h.cyou
 booking.order-received.xyz
 booking.order-repayed.xyz
 booking.orderpickup.xyz
+booking.partners-logins.com
 booking.paybacks.xyz
 booking.paycleaning.xyz
 booking.payconfirmed.xyz
@@ -31847,6 +31866,7 @@ dhlexpress.704950.ubuntu.buzz
 dhlexpresse-qa.com
 dhlfh1l8xj4e6.cloudfront.net
 dhll.club
+dhlogistics.pl
 dhlpack.de
 dhlpackage-delivery.info
 dhlpackage-info.com
@@ -34318,6 +34338,7 @@ dpd.razbunlas.org
 dpd.receivinginform-delivery.xyz
 dpd.reskotimor.org
 dpd.rontipd.org
+dpd.rubpoma.org
 dpd.salrpe.org
 dpd.sanbw.org
 dpd.saytins.org
@@ -37404,6 +37425,7 @@ entrbpreneurspot.site
 entreatfulghuge.life
 entrecanchas.com
 entreeqr.com
+entrega-de-paquetes.com
 entrenaressalud.com
 entrepreneuurlifestzle.site
 entreprise-generale.ostertag-peinture.ch
@@ -37757,6 +37779,7 @@ eska-radio.pol.boats
 eska-tv.dfirma.pl
 esklep.lebiedzinska.com.pl
 esklep.poczta-polska.c1391932.ferozo.com
+eskospj.konradluca.pl
 eskuarashmcer.info
 eskum.top
 esl-give.com
@@ -46550,6 +46573,7 @@ handy1915-impoct-pl.pushpin.top
 handy5626-impoct-pls.calyx.sbs
 handy9034-impoct-pl.toychest.top
 handycomet.cn
+handyranche.pro
 hangchina.vn
 hangingouttoday.com
 hangingrelatedly.com
@@ -49119,6 +49143,7 @@ i-4.cfd
 i-74l.pages.dev
 i-apple.fr
 i-applecare.cloud
+i-aukcje24.pl
 i-dpd.pl
 i-dworzecporwaniepl.pl
 i-dziewczynkaporwana.pl
@@ -49701,6 +49726,7 @@ ihpost.353265653.xyz
 ihpost.35534535.xyz
 ihpost.35534537.xyz
 ihpost.3851511.xyz
+ihpost.4142343.xyz
 ihpost.4262626.xyz
 ihpost.4315644.xyz
 ihpost.4415122.xyz
@@ -50333,6 +50359,7 @@ in-poland.web.app
 in-positp.cc
 in-posltpl.cc
 in-posst.xyz
+in-post-bl.one
 in-post-cp.top
 in-post-delliveri.dostawaplnds.pl
 in-post-dll.cc
@@ -51991,6 +52018,7 @@ ingpost-pl.top
 ingratiatespredicants.pl
 ingreny.com
 ingsart.xyz
+ingslaski.org
 inguklimiuts.info
 inguter.com
 inhaled.live
@@ -52396,6 +52424,8 @@ inpoczt.net
 inpoe.xyz
 inpoes.top
 inpoist.net
+inpoist.top
+inpoistpl.cc
 inpoosrpl.top
 inpoost-pl.top
 inpoost.0485151.xyz
@@ -52429,6 +52459,7 @@ inposl-3dell1w6ebsitie.vrcsgktrplnd.shop
 inposl-3diell5w7ebsitie.pollandsgktrpay.shop
 inposl-4delil2wiebsitae.plndeslpay.shop
 inposl-8delllweeb3site6.plndsgktr.shop
+inposlt.top
 inposst.top
 inpost-081.xyz
 inpost-1shop.875235.xyz
@@ -54075,6 +54106,7 @@ inpost-pl.ggergewgewrg-487585.space
 inpost-pl.gggg.date
 inpost-pl.ginku.pw
 inpost-pl.glebon.space
+inpost-pl.gmdevi.site
 inpost-pl.gnerfa.site
 inpost-pl.gnitso.online
 inpost-pl.gocha.site
@@ -55855,6 +55887,7 @@ inpost-wts.order0129501.info
 inpost-wvdu.order0912401.info
 inpost-wysylki.com
 inpost-x.id-43895.me
+inpost-xcn.top
 inpost-xdny.order3578.me
 inpost-xekv.id-845.me
 inpost-xepk.order674.info
@@ -58249,6 +58282,7 @@ inpostplposapp.top
 inpostplsl.top
 inpostpo.top
 inpostpol.top
+inpostpoles.life
 inpostpols.top
 inpostpolska-iax.order692612.info
 inpostpolska-rxn.order9512951.info
@@ -69672,6 +69706,7 @@ marketplace-gdynia.pl
 marketplace-kielce.pl
 marketplace-krakow.pl
 marketplace-malopolska.pl
+marketplace-ogloszenia.pl
 marketplace-olx.pl
 marketplace-plock.pl
 marketplace-poland.pl
@@ -71823,6 +71858,7 @@ minkowska.pl
 minneapoliscarsforsale.com
 minormore.com
 minpost.id-4343.me
+minpost.xyz
 minserathck.com
 mintajdw.icu
 minunfuanfsainmfisa.bar
@@ -72675,6 +72711,7 @@ mollybabes.com
 molodesko.es
 molpost.top
 molpostinost.top
+molpostinpast.top
 molpostinpost.top
 molsen.com
 moltanasklep.pl
@@ -77856,6 +77893,7 @@ o1x.1598122.xyz
 o1x.165666662.xyz
 o1x.16666553.xyz
 o1x.18451511.xyz
+o1x.1845423.xyz
 o1x.1894515.xyz
 o1x.1900450.xyz
 o1x.1900456.xyz
@@ -78650,6 +78688,7 @@ oferta-6.orders88421.info
 oferta-6.orders88515.info
 oferta-60.order77711902.info
 oferta-61.ordernew12312517.info
+oferta-6534.pl
 oferta-7.orders8354.com
 oferta-70.orders143.info
 oferta-71.ordernew837191.info
@@ -79012,6 +79051,7 @@ ogloszenia-sklepowe.pl
 ogloszenia-sprzedajemy.pl
 ogloszenia-sprzedazowo24.pl
 ogloszenia-swiat-polska.pl
+ogloszenia-taniej.pl
 ogloszenia-tarkowski.pl
 ogloszenia-tomaszewski.pl
 ogloszenia-top24h.ct8.pl
@@ -79540,6 +79580,7 @@ okkolpols.site
 oklindorel.store
 oklo.xyz
 oklurte.xyz
+oklzt.top
 okna-szyby.eu
 okninporst.acifirernur.cf
 oko.infbal.site
@@ -82572,6 +82613,7 @@ olx.e-zakup-24.pl
 olx.e-zakup.pl
 olx.eaukcja-24.pl
 olx.eaukcje24.pl
+olx.edkosyi.org
 olx.efyklopedas.org
 olx.ehikladerta.org
 olx.ejpeximna.org
@@ -87886,6 +87928,7 @@ pandorastrunk.com
 pandos.xyz
 panduratee.pl
 panel-home-pl-4ee7b03d5fc4ae76bb89.kbv-frankenberg.de
+panel-home.schaas.de
 panel-klienta-zaloguj-sie.cengs.it
 panel-nazwa.ashleysqualitycleaning.com
 panel.cybeerfolks.com
@@ -88700,6 +88743,7 @@ payu-online.pl
 payu-platnosc943412.pl
 payu-sa.net
 payu-secure.services
+payu-zakup-24.pl
 payu-zamowienie103234.pl
 payu-zamowienie901941.pl
 payu.co.pl
@@ -91945,6 +91989,7 @@ pll9.canmaxiprog.site
 plleuro.com
 pllevandpl.openinvestingstrat.xyz
 pllimtreinoll.shop
+pllinposte.top
 pllive-projpl.info
 pllll.prlmaxiiisok.xyz
 plloophole.digital
@@ -92796,6 +92841,7 @@ poczta-polskas.com
 poczta-polskas.cyou
 poczta-polskazx.top
 poczta-polskc.top
+poczta-polskc.xyz
 poczta-polskd.top
 poczta-polske-pl.buzz
 poczta-polske.top
@@ -93213,6 +93259,8 @@ pocztex24.pl
 pocztexa.02k6.vip
 pocztexa.x4ts.vip
 pocztexonline24.net
+pocztexpl.pocztax.top
+pocztexpl.pocztay.top
 pocztexpolska.com
 pocztexpolska.org
 pocztmix.net
@@ -93668,6 +93716,7 @@ polbittreders.online
 polccp-post.top
 polcka-platform.web.app
 polcompany.online
+polcrstinpast.top
 polczkapostdel.com
 polczta.fun
 polczta.polste.fun
@@ -93733,6 +93782,7 @@ poliksatgga.site
 polinder0llacreet.shop
 polinost.space
 polinposte.top
+polinpste.top
 polinvest.space
 polipropilenoperu.com
 poliseat.com
@@ -93825,6 +93875,7 @@ polowczyk-autohandel.pl
 polowczyk-cars.pl
 polowczykauto24.pl
 polowstar.pl
+polpcctinpost.top
 polpgprogroup.site
 polplofrer.site
 polpoastinpostlaw.top
@@ -93835,6 +93886,7 @@ polposter.top
 polpostes.top
 polpostinot.top
 polpostinpasta.top
+polpostinpastten.top
 polpostinpostoffice.top
 polpostlab.top
 polposts.top
@@ -97906,6 +97958,7 @@ psmo.zaklinaski.pl
 psocids.info
 psolzapo.icu
 psoxm.leecrown.com
+pspllly.top
 pspprzytyk.lilianagrzyb.pl
 pspts.top
 psq.teconkilotr.site
@@ -106318,6 +106371,7 @@ sprzedawaj-auto.pl
 sprzedawaj-info.pl
 sprzedawaj-kupuj.pl
 sprzedawaj-samochody.pl
+sprzedawaj-zakupy.pl
 sprzedaz-aiiegro.xyz
 sprzedaz-allegro-lokalnie.store
 sprzedaz-kupno.pl
@@ -112096,6 +112150,7 @@ tracking-packet-dhl.com
 tracking-parcel-help.com
 tracking-parcel-ups.net
 tracking-poczta-polska.com
+tracking-poland.pl
 tracking-ups-express.com
 tracking-ups-poland.turinguide.eu
 tracking-ups.pl
@@ -114464,6 +114519,7 @@ unmitringy.com
 unmusical.sbs
 unnaboat.com
 unnoredticedlaundry.com
+unnuusps.com
 unobscene.com
 unoliving-media.com
 unonforsoft.tk
@@ -118833,6 +118889,7 @@ viper.diverztt.life
 viper.haircutfd.icu
 viper.kioskmgg.icu
 viper.peachnf.icu
+vipinpost.top
 vipinsfitness.com
 vipna.takumasminkey.com
 vipnightout.com
@@ -119392,6 +119449,7 @@ vjnted.3575474.xyz
 vjnted.3575478.xyz
 vjnted.3deliveryinform.xyz
 vjnted.434534535.xyz
+vjnted.43523234.xyz
 vjnted.43533438.xyz
 vjnted.4445151.xyz
 vjnted.4481222.xyz
@@ -119836,6 +119894,7 @@ volitvco.site
 volkin-invest.pro
 volmar.polserwer.pl
 volos.emiliawrona.pl
+volpostinpost.top
 volt-kurier.cloud
 voltageregulator.cfd
 voltaundef.com
@@ -120187,6 +120246,7 @@ w7kwh.cdplayerfloor.ink
 w8l6qvd2mmd5i3krig7p24fo.readfinancenewsnow.com
 w8n7.uno
 w92hcdqm0tu0mauriu2c8q2u.quickmarketnow.me
+w9gu4f696oufcr0u291kmj5i.talkgossipz.com
 w9l7ehwhjj.mirekkaminskimk.pl
 wa.panska-energia.com
 wa.polkopolata.online
@@ -162129,6 +162189,7 @@ zksncwa.pl
 zkurs.com
 zl.meetencouragemnt.cfd
 zlakqiojazzkaie.site
+zlao.fun
 zlapspeca.pl
 zlcffyk.cn
 zlecaj-wybory.eu
