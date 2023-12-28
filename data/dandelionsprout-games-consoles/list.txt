@@ -9,4 +9,3 @@ nw-umwatson.events.data.microsoft.com
 rad.msn.com
 telemetry-cii.api.playstation.com
 telemetry-console.api.playstation.com
-watson.events.data.microsoft.com
