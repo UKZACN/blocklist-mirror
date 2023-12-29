@@ -107,6 +107,7 @@ ambassador.referralhero.com
 amd.sellingsimplified.net
 ana.headerlift.com
 analytics-sdk.yle.fi
+analytics-smhise.smhi.se
 analytics.apotekhjartat.se
 analytics.ci-360.se
 analytics.ciseway.se
@@ -120,6 +121,7 @@ analytics.kaltura.com
 analytics.kb.se
 analytics.mailmunch.co
 analytics.nikkasystems.com
+analytics.smhi.se
 analytics.sunet.se
 analytics.svt.se
 analytics.undeco.se
