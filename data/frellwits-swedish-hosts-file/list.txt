@@ -57,14 +57,12 @@ ads.docunordic.net
 ads.expekt.se
 ads.fotosidan.se
 ads.holid.io
-ads.insikt24.se
 ads.kelkoo.com
 ads.leovegas.com
 ads.mainloop.net
 ads.motorvarlden.se
 ads.mrgreen.com
 ads.nordreportern.se
-ads.nyatider.nu
 ads.playpilot.com
 ads.pubmatic.com
 ads.rubiconproject.com
@@ -149,7 +147,6 @@ apsislead.com
 aquaplatform.com
 arbetaren.innocraft.cloud
 as-sec.casalemedia.com
-asicsisverige.com
 asmassets.mtvnservices.com
 assets.adfenix.com
 assets.adnuntius.com
@@ -173,7 +170,6 @@ barbours.com.se
 bc.marfeelcache.com
 bcm.interactives.dk
 bellmetric.net
-besstahete.info
 bet365affiliates.com
 betrad.com
 bettingstugan.se
@@ -205,7 +201,6 @@ capi.connatix.com
 cargodisplayads.com
 carneoam.com
 casinotoplists.com
-caterpillarsverige.net
 caviera-sverige.shop
 ccjnhnqfnvsr3otokvf59ns52.litix.io
 cd.connatix.com
@@ -253,7 +248,6 @@ cdn.hubvisor.io
 cdn.insurads.com
 cdn.izooto.com
 cdn.jst.ai
-cdn.maaw.io
 cdn.matomo.cloud
 cdn.maxetise.net
 cdn.myadmessenger.com
@@ -303,7 +297,6 @@ cncptx.com
 code3.adtlgc.com
 collect-metrics.aquro.com
 collect.breakit.se
-collect.igodigital.com
 collect.tealiumiq.com
 collector-pxrf8vapwa.px-cdn.net
 collector-pxrf8vapwa.px-cloud.net
@@ -443,7 +436,6 @@ gtm.findroommate.dk
 gtm.proff.se
 gtm.stampenmedia.se
 gwen.insertcoin.se
-gym-shark-sverige.com.se
 h.online-metrix.net
 hapyak.com
 hb.adpone.com
@@ -756,7 +748,6 @@ sp.tinymce.com
 spel.expressen.se
 sprinklecontent.com
 sprinkletxt.com
-srv.se.znaptag.com
 ssl.webserviceaward.com
 ssp-nj.webtradehub.com
 ssp.api.tappx.com
