@@ -761,6 +761,7 @@
 1zab4ever.duckdns.org
 1zab4ever.no-ip.org
 1zx.me
+2.94.223.87.dynamic.jazztel.es
 2.bgf4s9ydfe.in
 2.kingx.info
 2.txlu.top
@@ -4183,6 +4184,7 @@ boterov.com
 botha.no-ip.info
 botnabe.zapto.org
 botnet.atakehosting.com
+botnet.bydgoszcz.pl
 botnet.ngocronglau.xyz
 botnetdarh1.no-ip.org
 botnetlogs.store
@@ -4856,6 +4858,7 @@ cdn.aa.aeromexico.foundation
 cdn.albumcallgirl.top
 cdn.amazon-shopping.nl
 cdn.apiadmin.live
+cdn.authenticateoffice.com
 cdn.cdndbapp.top
 cdn.clickandanalytics.com
 cdn.ctfmall.com
@@ -6433,6 +6436,7 @@ condorinside.net
 conecioplaystation4.ddnsfree.com
 conections2012.no-ip.org
 conectmeto.net
+conferencecenters.org
 confident-blackwell.159-223-29-112.plesk.page
 confident-faraday.160-20-109-76.plesk.page
 config-update-ms.francecentral.cloudapp.azure.com
@@ -6477,6 +6481,7 @@ considered-arrest.at.ply.gg
 considered-stars.at.ply.gg
 console-wifi.ddns.net
 conspiracylegal.xyz
+conspiracynomad.fvds.ru
 constantinedev.ddns.info
 constrtionfirst.com
 construcciones.disbayal.me
@@ -9220,7 +9225,6 @@ ezispice.duckdns.org
 ezz.nulling.to
 ezzbn.noip.me
 f.zapto.org
-f0837288.xsph.ru
 f0r3v3r21.no-ip.biz
 f1.pipen.at
 f1agg.top
@@ -10433,7 +10437,6 @@ global.freedynamicdns.net
 global.freedynamicdns.org
 global22.ddns.net
 globalbaido.site
-globaldate.top
 globalsalestore.com
 globalsystempl.ddns.net
 globeslord.duckdns.org
@@ -12242,6 +12245,7 @@ invadegames.duckdns.org
 invassao.no-ip.org
 inveess.com
 investmendvisor.net
+investmentgblog.net
 investmentlineup.com
 investmentrealtyhp.net
 investor.entracollc.top
@@ -12699,6 +12703,7 @@ jenanazem.zapto.org
 jenn.no-ip.info
 jennerardar.xyz
 jenniferhong.publicvm.com
+jenshol.com
 jenukulafu133.bounceme.net
 jeoash.servemp3.com
 jeremymass01-46300.portmap.host
@@ -12774,7 +12779,6 @@ jizzygamgp.com
 jj.byd66.cn
 jjajajajajadsdwasd-27002.portmap.host
 jjanuatu.com
-jjffhdjbjncsutyeiks.000webhostapp.com
 jjjjjjjjjjjjjjjjj.no-ip.biz
 jjo.no-ip.biz
 jjrn.no-ip.org
@@ -14652,6 +14656,7 @@ mail-mofagovpk.serveirc.com
 mail-mofagovpk.viewdns.net
 mail-pmogovpk.servehttp.com
 mail.103-61-224-87.cprapid.com
+mail.137-184-80-125.cprapid.com
 mail.143-198-109-200.cprapid.com
 mail.159-203-95-49.cprapid.com
 mail.159-65-168-135.cprapid.com
@@ -17092,7 +17097,6 @@ nitrocp.xyz
 nitrocpanel.xyz
 nitrohacker.no-ip.org
 nitronclub.com
-niuliang.xyz
 niuwxt.haowusong.com.cname.yunjiasu-cdn.net
 nixa21.zapto.org
 nizaoplov.xyz
@@ -17183,7 +17187,6 @@ nmch32.no-ip.biz
 nmkrupp.ddns.net
 nmrsyria1.ddns.net
 nmslcnmsb1.e2.luyouxia.net
-nn2.pw
 nnanch.xyz
 nndmb-42891.portmap.host
 nnew748.myvnc.com
@@ -17345,6 +17348,7 @@ noxx.no-ip.biz
 noxytng.no-ip.org
 np21tda.no-ip.biz
 npgsql.liveonlin.com
+nris-d.mqpslop.com
 nrj.ddns.net
 nrncipalmoonw.com
 nrsi.twilightparadox.com
@@ -17806,7 +17810,6 @@ olaneraskan.xyz
 old.axile.su
 old.owa.axile.su
 oldboypirate.no-ip.biz
-oldhorse.info
 oldredtoolbox.com.global.prod.fastly.net
 oldsfaq.com
 oldtwenty123123-21666.portmap.host
@@ -18172,7 +18175,6 @@ oxxyfix.xyz
 oxy01.duckdns.org
 oxygendwelli.fun
 oyashiroen83-53748.portmap.io
-oyndr.com
 oz112.no-ip.org
 ozanboi67.ddns.net
 ozcall.duckdns.org
@@ -18987,6 +18989,7 @@ prosperidad777.con-ip.com
 prostobomj.hopto.org
 protagonist.ac.ug
 protectgoogle.ddns.net
+protectionek.com
 protherm.ddns.net
 protondata.myq-see.com
 prototypevirus.no-ip.org
@@ -20181,6 +20184,7 @@ rze6.sytes.net
 rzf9k8gh4.duckdns.org
 rzipaurgysmanmaskssmastaezya.abkhazia.su
 s-ir.faqserv.com
+s-paketverfolgung.com
 s.redrasta.biz
 s.svmp.eu.org
 s.u00.ca
@@ -21005,7 +21009,6 @@ service-59k52o32-1313164119.gz.apigw.tencentcs.com
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com
 service-5xhfsa5m-1258216230.nj.apigw.tencentcs.com
 service-61zfv6yw-1310360203.hk.apigw.tencentcs.com
-service-6a4f07lw-1308639534.nj.apigw.tencentcs.com
 service-6wt8xswb-1307888624.sh.apigw.tencentcs.com
 service-6xtzl44u-1252551592.gz.apigw.tencentcs.com
 service-74yuo2f8-1300892604.hk.apigw.tencentcs.com
@@ -21066,7 +21069,6 @@ service-jzcboqxy-1301167793.gz.apigw.tencentcs.com
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com
 service-k6s27a4s-1318658931.nj.apigw.tencentcs.com
 service-k797j4br-1318291330.bj.apigw.tencentcs.com
-service-kiss7m2t-1305595184.bj.apigw.tencentcs.com
 service-kvmc8be7-1304892907.bj.apigw.tencentcs.com
 service-l3k4wvla-1322622051.gz.apigw.tencentcs.com
 service-lew09ujr-1307700818.sh.apigw.tencentcs.com
@@ -21476,6 +21478,7 @@ simo307.no-ip.org
 simoghazouani.no-ip.biz
 simolife.ddnsfree.com
 simoonovid.ddns.net
+simorten.com
 simows.no-ip.org
 simoxhacker98.no-ip.biz
 simple-drain.at.ply.gg
@@ -22817,6 +22820,7 @@ techetreka.ru
 techetreka.su
 techgames.duckdns.org
 techhack.ddns.net
+technologgies.com
 technologie.duckdns.org
 technologyprosecutiw.pw
 technorobo-life.com
@@ -22850,8 +22854,6 @@ tehown0.no-ip.biz
 tehown00.no-ip.biz
 tehran.ddns.net
 tehunseen.no-ip.org
-teit8sb.top
-teit8vs.top
 tekinmehmet.duckdns.org
 telachapesu.com
 telebit.cloud
@@ -23295,8 +23297,6 @@ tommaray.strangled.net
 tomniyvecher.ru
 tomniyvecher.su
 tomorrowknoks.top
-tone1sb.top
-tone1vs.top
 tonecc-com127001.servemp3.com
 toni2011.no-ip.org
 toninho157.no-ip.org
@@ -23598,9 +23598,7 @@ tsa.faqserv.com
 tsalkshower.cyou
 tsdn.linkpc.net
 tserver.dnsdynamic.com
-tseven7sb.top
 tsix.synology.me
-tsix6sb.top
 tsm.faqserv.com
 tsm.fartit.com
 tsmctracking.pro
@@ -23612,8 +23610,6 @@ tsuname157.no-ip.org
 tsvsnjv.com
 tsxrkj.synology.me
 ttaahhaa4321.ddns.net
-tten10sb.top
-tthre3sb.top
 tticrrnes.xyz
 ttnet-smile.no-ip.biz
 ttnznxatnj23395.com
@@ -23845,6 +23841,7 @@ under101.duckdns.org
 underbulletkey77.com
 understand-recommendation.at.playit.gg
 understandingtroll.cyou
+undiny.ru
 undone.sytes.net
 ungc.no-ip.biz
 unholyblanket.ddns.net
@@ -24306,7 +24303,6 @@ vip0f.hopto.org
 vip22gr.ru
 vipb2a.no-ip.biz
 vipc2.no-ip.org
-vipcloud-my.xyz
 vipeek1990-25013.portmap.host
 viper305.myftp.org
 viper34.servebbs.net
@@ -25230,6 +25226,7 @@ www.a-white.vn
 www.aa.aeromexico.foundation
 www.abaadoffice.net
 www.abodetv.com
+www.activelifes.shop
 www.adblockext.ru
 www.admarseb.click
 www.admin.www.ns1.www.staging.axile.su
@@ -25264,6 +25261,7 @@ www.association-financial.com
 www.auragmdh.com
 www.auth.xy0ke.pro
 www.auth08-verify3.dynamic-dns.net
+www.authenticateoffice.com
 www.autoconfig.autodiscover.staging.axile.su
 www.autodiscover.staging.axile.su
 www.avenueconsulting.co
@@ -25458,6 +25456,7 @@ www.leadlikeaunicorn.com
 www.leakeddata.site
 www.leathermasterpro.com
 www.legendcargocontrol.com
+www.levellivingfield.org
 www.liannanielsen.com
 www.localhost.img.cms.axile.su
 www.localhost.staging.cms.axile.su
@@ -25553,6 +25552,7 @@ www.rakishevkenes.com
 www.rawrie.eu
 www.recruitment59.com
 www.recruitment60.com
+www.recruitment61.com
 www.recruitment62.com
 www.red-hacks.com
 www.rede.tphost.com.br
@@ -25639,6 +25639,7 @@ www.ufc1tv.com
 www.ufcmmatv.com
 www.ugodengerguard.xyz
 www.unbreakable.live
+www.undiny.ru
 www.unruffled-heyrovsky.68-183-220-248.plesk.page
 www.upadte-reviewer-online.live
 www.upgrad3.cc

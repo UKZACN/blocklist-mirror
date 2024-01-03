@@ -175,6 +175,7 @@ a.impactradius-event.com
 a.ivstracker.net
 a.jumptap.com
 a.koudai.com
+a.labadena.com
 a.ladipage.com
 a.ligatus.com
 a.localytics.com
@@ -2285,6 +2286,7 @@ aff.bstatic.com
 aff.mclick.mobi
 aff.mobile-10.com
 affbuzzads.com
+affcpatrk.com
 affec.tv
 affforce.com
 affili.net
@@ -10498,6 +10500,7 @@ kts.visitstats.com
 ktu.sv2.biz
 ktwnjefd.com
 ku2d3a7pa8mdi.com
+ku42hjr2e.com
 kuasa-api.tenmax.io
 kuasa.pvmax.net
 kuasa.tenmax.io
@@ -10562,6 +10565,7 @@ la.vnecdn.net
 la2.eclick.vn
 la2.vnecdn.net
 la3.vnecdn.net
+labadena.com
 labs-cdn.revcontent.com
 labs.accesstrade.net
 labs.chitika.com
@@ -16557,6 +16561,7 @@ static.runative.com
 static.s2s.t13.io
 static.scanscout.com
 static.scarabresearch.com
+static.scptpx.com
 static.scroll.com
 static.servedby-buysellads.com
 static.sharethrough.com
