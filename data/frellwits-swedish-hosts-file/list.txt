@@ -115,6 +115,7 @@ analytics.freespee.com
 analytics.gen.shield.monitoringservice.co
 analytics.hpscloud.se
 analytics.ica.se
+analytics.icagruppen.se
 analytics.kaltura.com
 analytics.kb.se
 analytics.mailmunch.co
