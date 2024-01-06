@@ -2049,6 +2049,7 @@ adv.adflex.vn
 adv.aftonbladet.se
 adv.anhsangvacuocsong.vn
 adv.autosurf.vn
+adv.baoangiang.com.vn
 adv.baotintuc.vn
 adv.baovemoitruong.org.vn
 adv.cityads.com
@@ -8189,6 +8190,7 @@ finahkcrevuv.com
 finance.cityads.com
 financial-agent.headlines.pw
 findcommerce.com
+findingexchange.com
 findingviolent.com
 findjanupcreep.tech
 findnewline.com
@@ -10873,6 +10875,7 @@ log-plo.zadn.vn
 log-sggp.zadn.vn
 log-thanhnien.epicdn.me
 log-thanhnien.zadn.vn
+log-thuonggiaonline.epicdn.me
 log-tienphong.zadn.vn
 log-tinnhanhchungkhoan.epicdn.me
 log-tinnhanhchungkhoan.zadn.vn
@@ -10975,6 +10978,7 @@ log.tapchitaichinh.vn
 log.tbs.qq.com
 log.thanhnien.vn
 log.theleader.vn
+log.thuonggiaonline.vn
 log.tienphong.vn
 log.tieudungthoinay.vn
 log.tinnhac.com
@@ -13079,6 +13083,7 @@ partnerad.l.doubleclick.net
 partnerad.l.google.com
 partnerads.ysm.yahoo.com
 partnercash.de
+partnerlinks.io
 partnerportal.marketo.com
 partners.ad-brix.com
 partners.adpopcorn.com
