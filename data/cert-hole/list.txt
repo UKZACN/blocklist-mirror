@@ -4319,6 +4319,7 @@
 496814aktualizacja-poczta.malenst.pl
 496866cd074fc89481eb25b3f98a3f23.podlaw.co.pl
 4971e064.bcdashboards.com.br
+497397.com
 4976d052df13f60b3d777cff1cdbd912.dopla.com.pl
 498233f28e93f128cc5d222b93e52828.navalip.pl
 498669.tkl.co.pl
@@ -6595,6 +6596,7 @@
 84eabbced83838faefde3148d1dc1a5c.tls-pl.co.pl
 84edf072bbba06da37c39684a07e6cae.hospla.co.pl
 84j-sk.cfd
+84jsl3.cfd
 850197weryfikacja-sie.officell.co.pl
 850864kodem-potwierdz.jdhs.pl
 8511091354a4b3e3e4b29f35d362ff38.trsdha.pl
@@ -11263,6 +11265,7 @@ allegrolokalnie.ekupno-24.pl
 allegrolokalnie.ekupno24h-7.pl
 allegrolokalnie.eoferta24h.pl
 allegrolokalnie.epay-u24.pl
+allegrolokalnie.eplatnosc24h.pl
 allegrolokalnie.etransakcje-24.pl
 allegrolokalnie.euweb.cz
 allegrolokalnie.expresspayu-24.pl
@@ -11802,7 +11805,16 @@ allegrolokalnie.pl-paupacs.pw
 allegrolokalnie.pl-pay.pl
 allegrolokalnie.pl-platnosc-24h.pl
 allegrolokalnie.pl-platnosc-payu.pl
+allegrolokalnie.pl-platnosci3491.pl
+allegrolokalnie.pl-platnosci4072.pl
+allegrolokalnie.pl-platnosci407472.pl
+allegrolokalnie.pl-platnosci4215.pl
 allegrolokalnie.pl-platnosci4216.pl
+allegrolokalnie.pl-platnosci4217.pl
+allegrolokalnie.pl-platnosci4218.pl
+allegrolokalnie.pl-platnosci4219.pl
+allegrolokalnie.pl-platnosci4220.pl
+allegrolokalnie.pl-platnosci4666.pl
 allegrolokalnie.pl-prywanta-sprzedaz2137.pl
 allegrolokalnie.pl-prywanta-sprzedaz2138.pl
 allegrolokalnie.pl-prywanta-sprzedaz2139.pl
@@ -15322,9 +15334,12 @@ autogielda-gorczynski.pl
 autogielda-jablonski.pl
 autogielda-jagiello.pl
 autogielda-janaszak.pl
+autogielda-janczar.pl
 autogielda-janiczek.pl
+autogielda-jastrzebska.pl
 autogielda-jazda.pl
 autogielda-jedrasiak.pl
+autogielda-jenczewski.pl
 autogielda-juszczak.pl
 autogielda-kacperski.pl
 autogielda-kaczmarek.pl
@@ -15335,10 +15350,12 @@ autogielda-kaminski.pl
 autogielda-karpinski.pl
 autogielda-kawicka.pl
 autogielda-kedziorek.pl
+autogielda-kolodzejczyk.pl
 autogielda-konisiewicz.pl
 autogielda-kopczynski.pl
 autogielda-koprowski.pl
 autogielda-korowski.pl
+autogielda-koscielny.pl
 autogielda-kostka.pl
 autogielda-kostrzynski.pl
 autogielda-kotlowski.pl
@@ -15391,6 +15408,7 @@ autogielda-sidorczuk.pl
 autogielda-skowyrski.pl
 autogielda-slawski.pl
 autogielda-sobakowski.pl
+autogielda-staszewska.pl
 autogielda-stefaniuk.pl
 autogielda-stolarczyk.pl
 autogielda-stolarzyk.pl
@@ -27147,6 +27165,7 @@ cs2skingive.com
 cs2skinsforyou.com
 cs2sources-invites.com
 cs2take.pro
+cs2tt.ru
 cs2twitch.com
 cs2twt.com
 cs2wice.com
@@ -37201,6 +37220,7 @@ elimbocmukosau8.space
 eliminasgordura.online
 eliminesuasdores.com
 eliplop.xyz
+elite-grid.net
 eliteappalling.cn
 eliteauto-24.pl
 eliteclickers.com
@@ -41135,6 +41155,7 @@ femalewebdev.com
 femaregionthree.com
 feminae.pl
 femininaecriativa.com
+femmelikeyoubrand.online
 femmemetal.net
 femridge.cc
 fen.onlineprograms.xyz
@@ -43487,6 +43508,7 @@ gad.tcoprog.site
 gad6r4-uqps.club
 gadbik.website
 gadgeteq.com
+gadgetgg.com
 gadgetguru.space
 gadgetland.dk
 gadgetsecurity.com
@@ -44053,6 +44075,7 @@ gdsis.cl
 gdsp32.cfd
 gdsw.pasvar.xyz
 gdteg7.wixsite.com
+gdtui.sbs
 gdubwcpjsfyq.com
 gdvxcjz.olasep.site
 gdynia-fakt24.pl
@@ -49036,6 +49059,7 @@ honeysuck.live
 honeyumsbakery.com
 honfang-tw.com
 hongkongfootwear.org
+hongshunjidian.wixsite.com
 honkertoken.com
 honkiesser.pl
 honoreekun.pl
@@ -52053,6 +52077,7 @@ informacje-miastowe.elk.pl
 informacje-mojemiasto24.eu
 informacje-na-swiat.pl
 informacje-news.eu
+informacje-newsy-wp.com
 informacje-o-wypadkach.pl
 informacje-od-policji.pl
 informacje-od-policjiasdas.dnsrobotuptime.ru
@@ -56453,6 +56478,7 @@ inpost-upiy.id-4398.me
 inpost-upmo.order0129501.info
 inpost-uqjk.orders9910.info
 inpost-uruo.orders23441.info
+inpost-usl.top
 inpost-ustg.order121212.info
 inpost-uuzu.order8205.biz
 inpost-uveq.order77711902.info
@@ -60505,6 +60531,7 @@ iupostp.shop
 iurjhurhgjtrgnroibnjrnbnbte.weebly.com
 iurome.com
 iuta.artursarnowski.pl
+iuwfoe.sbs
 iv-crush.com
 ivalemn.com
 ivanwakeup.com
@@ -67619,6 +67646,7 @@ lnpost.flina.pw
 lnpost.flll.pics
 lnpost.flock.pics
 lnpost.flopis.online
+lnpost.fmikab.online
 lnpost.fnums.space
 lnpost.foetnb.online
 lnpost.freshstart.top
@@ -76269,6 +76297,7 @@ netvertex.pw
 network-mc.com
 networkave.com
 networkcorporation.one
+netysv.sbs
 neu-pl.neurals.xyz
 neu-pl.t0project.site
 neu-pl.urrencypl.site
@@ -78381,6 +78410,7 @@ ns.newstry.top
 ns1.dns-eu-east-32.xyz
 ns2.dns-eu-east-32.xyz
 ns3100751.ip-54-36-175.eu
+ns5-37.sbs
 nsaksb.pl
 nsaksbw.pl
 nsaleaday.com
@@ -86161,6 +86191,7 @@ olx.waleupl.org
 olx.web-shop.pw
 olx.wedtm.online
 olx.weryfi.org
+olx.wiklopsabik.org
 olx.wopfisax.org
 olx.worlabyr.org
 olx.wuhresio.org
@@ -89620,6 +89651,7 @@ payments-olx.pl
 paymentyinted.2546666766.xyz
 paymerchusa.store
 paymetnts.page.link
+paymutt.com
 paynazwa-pl-10133dd9.evv-auditing.com
 paynazwa-pl-10ebc841.evv-auditing.com
 paynazwa-pl-6ce740a6.evv-auditing.com
@@ -91996,6 +92028,16 @@ pl-pl2.neurals.xyz
 pl-platnosc-24h.pl
 pl-platnosc-payu.pl
 pl-platnosci.online
+pl-platnosci3491.pl
+pl-platnosci4072.pl
+pl-platnosci407472.pl
+pl-platnosci4215.pl
+pl-platnosci4216.pl
+pl-platnosci4217.pl
+pl-platnosci4218.pl
+pl-platnosci4219.pl
+pl-platnosci4220.pl
+pl-platnosci4666.pl
 pl-pocz.top
 pl-pocza.top
 pl-poczlta.63294.xyz
@@ -106221,11 +106263,16 @@ sklep-auto.pl
 sklep-automobil.pl
 sklep-czarnecki.pl
 sklep-denley.pl
+sklep-domanski.pl
 sklep-domodi.com.pl
 sklep-elektronlczny-320567.space
+sklep-jankowski.pl
+sklep-kaczmarek.pl
 sklep-kowalski.pl
 sklep-lemon.pl
+sklep-mazur.pl
 sklep-noltena.pl
+sklep-nowacki.pl
 sklep-nowak.pl
 sklep-ogloszenia.pl
 sklep-ogloszenie.pl
@@ -106237,6 +106284,7 @@ sklep-play.net.pl
 sklep-promoda.com.pl
 sklep-samochod.pl
 sklep-samochody.pl
+sklep-wisniewski.pl
 sklep-wojcik.pl
 sklep-z-oponami.pl
 sklep-zielinski.pl
@@ -113561,6 +113609,7 @@ tracking-ups.pl
 tracking.178429.sumnl03.club
 tracking.6994241.ant10frp.club
 tracking.item-pay.com
+trackingdelivery-help.com
 trackingdelivery-pl.com
 trackingforinternet.katowice.pl
 trackingmydhl-package.com
@@ -115613,6 +115662,7 @@ uky8.cfd
 ulalo.pl
 ulceredl.pl
 ulekob.com
+uletiwe.sbs
 ulfmz.gazeta-regionalna.com
 ulice24.waw.pl
 ulicznewalki.pl
@@ -116947,6 +116997,7 @@ vbowqpos.pl
 vbox.podzone.net
 vbs-game-2.pro
 vbs-game.pro
+vbsgame.com
 vbsgame.pro
 vc-apartments.com
 vc-wypadki.waw.pl
@@ -119581,6 +119632,7 @@ vinted-uk.deals-id.tech
 vinted-uk.id04313.com
 vinted-uk.id282973.com
 vinted-uk.id69273.com
+vinted-uk.id910854.com
 vinted-uk.securelvuz.store
 vinted-v.id-2830.me
 vinted-vlmg.order9125.info
@@ -121160,6 +121212,7 @@ vlnted-gb.aliad.info
 vlnted-gb.aoeri.info
 vlnted-gb.aoilk.info
 vlnted-gb.aoiok.info
+vlnted-gb.aoiuf.info
 vlnted-gb.asaop.info
 vlnted-gb.auiok.info
 vlnted-gb.auion.info
@@ -121908,6 +121961,7 @@ warela-sklep.pl
 warelasklep.pl
 warezrockstar.xyz
 warfourds.info
+wariaci-drogowi.pl
 warkonasklep.pl
 warlandosklep.pl
 warlordtroll.site
@@ -124174,6 +124228,7 @@ wizmass.org
 wj-nted.31marketshop.xyz
 wj1lbkom571kt2rs2ipdbbim.lifestylelayground.com
 wj2kjn.s3.us-east-005.backblazeb2.com
+wjas.top
 wjeadjt2c75nlrpr23hfur8g.quickmarketnow.me
 wjfc.skin
 wjhfweiuwerfh37.xyz
