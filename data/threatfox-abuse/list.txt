@@ -234,6 +234,7 @@
 162-243-162-176.ipv4.staticdns1.io
 162-33-179-116.cprapid.com
 163.227.29.34.bc.googleusercontent.com
+164-90-169-184.cprapid.com
 165001.cz
 165001.mba
 165001.net
@@ -1131,6 +1132,7 @@
 77caliescali77.no-ip.org
 77nwo77.no-ip.org
 78-157-163-36-static.silesnet.cz
+78.lan-so2-1.static.rozabg.com
 7896.sytes.net
 79.137.194.188.sslip.io
 792c682w73.goho.co
@@ -1480,6 +1482,8 @@ ad-lo.faqserv.com
 ad-saham.fartit.com
 ad-te.faqserv.com
 ad-tsm.vizvaz.com
+ad.ttss66.co
+ad.urlz.ws
 ad1.wensa.at
 ad3s.no-ip.biz
 ad93.myq-see.com
@@ -2447,7 +2451,6 @@ alonecod.zapto.org
 aloneone91.hopper.pw
 alonewolf-45132.portmap.host
 aloo2.no-ip.biz
-aloowforest.xyz
 alord-ameer21.no-ip.biz
 alotderedreamhome.fun
 alougt84.hopto.org
@@ -2816,6 +2819,7 @@ api.adb007.top
 api.adctf.site
 api.axile.su
 api.baitianshiyou.fun
+api.broler.shop
 api.cert-ex.net
 api.clubpro.space
 api.dynabot.top
@@ -2847,7 +2851,6 @@ api.vidadworld.com
 api.www.staging.axile.su
 api10.laptok.at
 apiedoe.servebeer.com
-apikapatildi.net
 apilsin.host.org
 apis.customerportalverify.store
 apis.stratosbody.com
@@ -2877,6 +2880,7 @@ app.maiziqianbao.site
 app.opposrv.top
 app.threatest.com
 app.to-kgb.ru
+app.ttss66.co
 app.up.karachihelpdesk.org
 app.vidadworld.com
 app.wallofmemes.io
@@ -2992,6 +2996,7 @@ artemsla6235.ddns.net
 artkar.ddns.net
 arto.sytes.net
 artofpinball.fr
+artre3.fvds.ru
 artsteerlingwheel.top
 arttronova1.duckdns.org
 artur9625423.ddns.net
@@ -3211,7 +3216,6 @@ attia.no-ip.biz
 attiya-dz.no-ip.biz
 atu.hopto.org
 atu042.hopto.org
-atusay.lat
 atv.faqserv.com
 au.warzonedns.com
 audio-alliance.com
@@ -4346,6 +4350,7 @@ brockles.duckdns.org
 brockmex57.golffan.us
 brodoyouevenlift.co.za
 brojizuza.com
+broler.shop
 bronxadoskep.com
 brookshacking.duckdns.org
 brorats32932.ddns.net
@@ -6793,6 +6798,7 @@ cs.sangfor911.top
 cs.sharksbaby.pro
 cs.vegaking.xyz
 cs.xcb.one
+cs1-tulalip.azureedge.net
 cs1.accountsync.net
 cs1.dnsonlin.co
 cs1.francy.world
@@ -6974,6 +6980,7 @@ d3a95mnixoebky.cloudfront.net
 d3c0t4g.no-ip.org
 d3co4r.duckdns.org
 d3dx-botnet.portmap.host
+d3l4l87i1ykapf.cloudfront.net
 d3ondvpc6davvt.cloudfront.net
 d3ryeb3hz8ljby.cloudfront.net
 d3ss.duckdns.org
@@ -7789,6 +7796,7 @@ dns.ringatpstul.com
 dns.rusetinz.xyz
 dns.sabifati.xyz
 dns.smwanyi1.top
+dns.stoneco.network
 dns.stratpringl.com
 dns.tssrt.de
 dns.ye0kr1n.top
@@ -7988,6 +7996,7 @@ dontreachme6.ddns.net
 donx.strangled.net
 donxo.duckdns.org
 donzola.duckdns.org
+doobiefly.com
 dool.ddns.net
 doomstreeyubun.com
 doopcrib.club
@@ -8073,7 +8082,6 @@ drepwer-phontestmans.sbs
 drerink.xyz
 dres199.ddns.net
 dretils.com
-drewgriess.com
 drfcjug.duckdns.org
 drftybun.ddns.net
 drgeraldvanluven12.zapto.org
@@ -8419,6 +8427,7 @@ ec2-13-53-125-231.eu-north-1.compute.amazonaws.com
 ec2-13-59-168-154.us-east-2.compute.amazonaws.com
 ec2-15-188-15-165.eu-west-3.compute.amazonaws.com
 ec2-15-205-128-169.us-gov-west-1.compute.amazonaws.com
+ec2-15-207-223-7.ap-south-1.compute.amazonaws.com
 ec2-16-16-26-234.eu-north-1.compute.amazonaws.com
 ec2-16-170-143-138.eu-north-1.compute.amazonaws.com
 ec2-16-171-13-101.eu-north-1.compute.amazonaws.com
@@ -8472,6 +8481,7 @@ ec2-3-235-217-21.compute-1.amazonaws.com
 ec2-3-252-35-198.eu-west-1.compute.amazonaws.com
 ec2-3-254-254-189.eu-west-1.compute.amazonaws.com
 ec2-3-26-15-248.ap-southeast-2.compute.amazonaws.com
+ec2-3-26-24-38.ap-southeast-2.compute.amazonaws.com
 ec2-3-66-49-194.eu-central-1.compute.amazonaws.com
 ec2-3-68-111-52.eu-central-1.compute.amazonaws.com
 ec2-3-70-75-167.eu-central-1.compute.amazonaws.com
@@ -8539,6 +8549,7 @@ ec2-52-204-111-102.compute-1.amazonaws.com
 ec2-52-204-70-129.compute-1.amazonaws.com
 ec2-52-206-84-200.compute-1.amazonaws.com
 ec2-52-209-202-121.eu-west-1.compute.amazonaws.com
+ec2-52-23-33-245.compute-1.amazonaws.com
 ec2-52-4-12-90.compute-1.amazonaws.com
 ec2-52-41-141-193.us-west-2.compute.amazonaws.com
 ec2-52-44-101-45.compute-1.amazonaws.com
@@ -8700,6 +8711,7 @@ edu2015.no-ip.biz
 eduardlarauhasdhau32ndanh.duckdns.org
 eduardoestevex.duckdns.org
 edubros.duckdns.org
+education.mccoe.org
 eduhsixx.no-ip.org
 eduhsixx3.no-ip.org
 eduin21.zapto.org
@@ -8996,7 +9008,6 @@ epidine.com
 epill.zapto.org
 episodeterrifylat.pw
 epsonupdate.uk
-eptrem.duckdns.org
 eqonix123.no-ip.biz
 equal.fairtaxcolorado.org
 equisdeperson.space
@@ -9889,7 +9900,6 @@ foxee5.cfd
 foxgazafreego.mypsx.net
 foxtrap96.duckdns.org
 fpt1.duckdns.org
-fpv.buyemlak.top
 fqrgwerfergertbertt.no-ip.info
 fr001.nerdpol.ovh
 fr33k-dz.zapto.org
@@ -12452,6 +12462,7 @@ iplytieulong666.hopto.org
 iplytieulong777.hopto.org
 ipmdegismismalcry.duckdns.org
 ipmonitor.services
+ipmotinov.fvds.ru
 ipngubinh.hopto.org
 ippie2.ddns.net
 ippoo.no-ip.org
@@ -13409,7 +13420,6 @@ kelhjb35.top
 kelioni.xyz
 keljke63.top
 kellerwarzone.ddns.net
-kellmda.click
 kelly.chinacarbonfiber.buzz
 kelly.spencerstuartllc.top
 kellyben.hopto.org
@@ -14657,7 +14667,6 @@ luckyday0728.org
 luckyfavour2022.ddns.net
 luckymanfavour.ddns.net
 luckymanoffavour.ddns.net
-luckynight.shop
 luckynovember4good.ddns.net
 luctesting.no-ip.org
 luda.ydns.eu
@@ -14932,7 +14941,6 @@ maique.no-ip.org
 mairoester.duckdns.org
 maistro.no-ip.org
 maixunkeji.com
-maizhangyu.top
 maizi.tokenpocket.wiki
 maiziqianbao.site
 majadd.zapto.org
@@ -14952,6 +14960,7 @@ makavi.hopto.org
 makavli.ddns.net
 make-hex-32332e39342e34302e3132-rr.1u.ms
 make-hex-32332e39352e3139372e313934-rr.1u.ms
+make-hex-32332e39352e39302e3633-rr.1u.ms
 makegreatagaintwwi.fun
 makelovenotmalware.local
 makesureeasteats.duckdns.org
@@ -16453,6 +16462,7 @@ mrv00100.publicvm.com
 mrwan.hopto.org
 mrwolf.3utilities.com
 mryasso.no-ip.biz
+ms-api-cs1.azureedge.net
 ms-endpoint.com
 ms-insider.net
 ms-punisher.no.-ip.org
@@ -16825,6 +16835,7 @@ namyonghospital.net
 nan.bocalee.com
 nan.fuzetec-tw.com
 nanafb3.sbs
+nanasuuakiaa.host
 nanat.ddns.net
 nanaya.uk
 nanc.ddns.net
@@ -17597,6 +17608,7 @@ ns1.asavior2.lat
 ns1.asurances.lu
 ns1.az-gateway.com
 ns1.baidu-cdn.cloud
+ns1.baidusec.top
 ns1.beta-microsoft.com
 ns1.bingapp.cloudns.nz
 ns1.blueseaedu.com
@@ -17690,6 +17702,7 @@ ns2.aliyunn.com.cn
 ns2.api-azure.com
 ns2.az-gateway.com
 ns2.baidu-cdn.cloud
+ns2.baidusec.top
 ns2.beta-microsoft.com
 ns2.bingapp.cloudns.nz
 ns2.blueseaedu.com
@@ -17744,6 +17757,7 @@ ns2.zpepc.net
 ns3.10010.buzz
 ns3.aliyunn.com.cn
 ns3.api-azure.com
+ns3.baidusec.top
 ns3.c1oudflare.com
 ns3.data.microsoftdata.site
 ns3.ga0.co
@@ -18664,7 +18678,6 @@ pepedique1.no-ip.biz
 pepos2015.no-ip.biz
 pepunn.com
 perceivedomerusp.pw
-percolysrl2.ddns.net
 perdimount.com
 perdunelo.ddns.net
 pereira2022.duckdns.org
@@ -18947,6 +18960,7 @@ policy-though.at.ply.gg
 policy.sso-epg.com
 policyprivacy.duckdns.org
 polimaplasko.duckdns.org
+polina.to-kgb.ru
 politicuseles.fun
 polki.anondns.net
 polkoirtyed.com
@@ -19117,6 +19131,7 @@ priceless-lamport.91-215-85-177.plesk.page
 prieizzebee.xyz
 prikhapert.com
 priklosta.com
+primalbrainhacks.com
 primary-comment.at.playit.gg
 primaryjet.duckdns.org
 prime.myftp.biz
@@ -21451,7 +21466,6 @@ servgameslupi.hopto.org
 service-00o1njdx-1317238936.sh.apigw.tencentcs.com
 service-04n5kmrn-1302014318.bj.apigw.tencentcs.com
 service-0gfsz81a-1306743016.gz.apigw.tencentcs.com
-service-0odwwo2z-1256327773.bj.apigw.tencentcs.com
 service-0wjkcltb-1317846665.bj.apigw.tencentcs.com
 service-18c6z8nb-1303896379.sh.tencentapigw.cn
 service-1925bm5o-1308639534.nj.apigw.tencentcs.com
@@ -21479,6 +21493,7 @@ service-7tnbn05f-1319135578.bj.apigw.tencentcs.com
 service-8d9lr7ah-1318291330.sh.apigw.tencentcs.com
 service-8wufk5et-1318401771.bj.apigw.tencentcs.com
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com
+service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com
 service-9wkno0fh-1304892907.bj.apigw.tencentcs.com
@@ -21504,7 +21519,6 @@ service-dafg2f39-1307026294.sh.apigw.tencentcs.com
 service-dauzg94w-1258021343.gz.apigw.tencentcs.com
 service-dlsvfir0-1319620322.gz.tencentapigw.com
 service-e699j3k6-1259689902.gz.apigw.tencentcs.com
-service-ehj0oavc-1258426110.gz.apigw.tencentcs.com
 service-euf0eusq-1317136909.gz.apigw.tencentcs.com
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com
 service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
@@ -21600,6 +21614,7 @@ sesentaytresrem.duckdns.org
 seskoal7rbe.ddns.net
 session.hydroquebec.energy
 sessions.usaa.website
+set.urlz.ws
 setokaiba.no-ip.biz
 setrester.com
 settingfir.com
@@ -22410,7 +22425,6 @@ speedfatoppam.com
 speedfoxx1.hopto.org
 speedplayers-23540.portmap.io
 speedslumpachierew.fun
-speedtestip.xyz
 spehanemzu.top
 spencerfoneill.icu
 spenserfitolife.com
@@ -22847,6 +22861,7 @@ style.ptbagasps.co.id
 styleco.me
 stylesasif.serveftp.net
 styonorong.xyz
+su.urlz.ws
 su1d.nerdpol.ovh
 su2d.nerdpol.ovh
 sub-zero88.no-ip.org
@@ -23288,6 +23303,7 @@ tdfshell3d.no-ip.biz
 tdm.faqserv.com
 te0am.hopto.org
 teaganwhitaker6437.top
+team-speak.r2283.com
 team-x.work.gd
 team.wedo-lnt.com
 teambit.giize.com
@@ -23426,7 +23442,6 @@ testalerlynch2.ddns.net
 testandohacker.zapto.org
 testapp.myvnc.com
 testarosa.duckdns.org
-testbots.maizhangyu.top
 testbush.duckdns.org
 testdcxtadmin.qianxinsecurity.com
 testdcxtadmin1.qianxinsecurity.com
@@ -23885,7 +23900,6 @@ torrentmyfriend.chickenkiller.com
 torretresdnremtorre.duckdns.org
 torreunoserrenc.duckdns.org
 torusdt.vvvvvbeng.com
-tosals.ink
 toshiba.no-ip.biz
 toshiba1122.duckdns.org
 tosson.ddns.net
@@ -24283,7 +24297,6 @@ uhie2020.duckdns.org
 uhie2021.duckdns.org
 uhie2025.hopto.org
 uhnazu3au.top
-uilove.ddns.net
 uilovee.ddns.net
 uilscvnzdds.shop
 uiopwq.duckdns.org
@@ -24736,6 +24749,7 @@ viasanainah.xyz
 vibe-ptclnetpk.servehalflife.com
 vibedroom.org
 vibopart.ddns.net
+vibrant-proskuriakova.185-228-234-171.plesk.page
 vic.myftp.biz
 vic1.duckdns.org
 viccavi.duckdns.org
@@ -24871,6 +24885,7 @@ vmi1510385.contaboserver.net
 vmi1514776.contaboserver.net
 vmi1527355.contaboserver.net
 vmi1543279.contaboserver.net
+vmi1561484.contaboserver.net
 vmm.hopto.org
 vmood-963.no-ip.biz
 vmware.ndnet2.org
@@ -26030,6 +26045,7 @@ www.lyncdiscover.www.staging.axile.su
 www.m.autodiscover.staging.axile.su
 www.m10688.com
 www.m18888.com
+www.maixunkeji.com
 www.makaa.work.gd
 www.makesherhappy.com
 www.manager2013.com
@@ -26244,6 +26260,7 @@ www.winedoscom.stag.tempweb.dev
 www.wingbuffet.com
 www.wlndows.net
 www.wolfchristmas.com
+www.wuxiaoyun.com
 www.www.admin.www.ns1.www.staging.axile.su
 www.www.api.www.staging.axile.su
 www.www.cms.www.staging.axile.su
@@ -29345,7 +29362,6 @@ xm.centralmarketingkur.com
 xmarvel.ddns.net
 xmaster123.no-ip.biz
 xmicrosoftx.no-ip.biz
-xmkq08012g.top
 xmmx.no-ip.biz
 xmowa.ddns.net
 xmr.ohuyal.xyz
@@ -29505,6 +29521,7 @@ yabalboy.p-e.kr
 yabelesatg.xyz
 yabs.duckdns.org
 yachtracingopt.fun
+yadongrec.com
 yaelkom.ddns.net
 yah-crackers.no-ip.org
 yahacker.no-ip.biz
