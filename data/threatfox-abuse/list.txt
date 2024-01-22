@@ -739,6 +739,7 @@
 18denero.con-ip.com
 1911drink.best
 192-129-227-114.cprapid.com
+192-3-255-42.nip.io
 192-46-232-181.ip.linodeusercontent.com
 192-53-171-76.ip.linodeusercontent.com
 19216811.no-ip.biz
@@ -1239,7 +1240,6 @@ a.cargo-novorossiysk.ru
 a.dbapps.top
 a.dedicforall.top
 a.famsydev.top
-a.kolunbia.com
 a.mynameisbasil.site
 a.osslog.com
 a.servecounterstrike.com
@@ -2837,6 +2837,7 @@ api.microsoft-service.workers.dev
 api.msservice.workers.dev
 api.nextgpt.fun
 api.niuwxt.haowusong.com
+api.nm.192-3-255-42.nip.io
 api.office-updates.org
 api.officeserviced.com
 api.qantas.aeromexico.foundation
@@ -5050,6 +5051,7 @@ cerpotionfe.com
 cert.casacam.net
 certserver.zapto.org
 ceryew2ir.com
+ceshi897.cn
 cevapveremezdolemereszoes2.net
 cevapveremezdolemezdolirezdoremifadso.net
 cf09b2kmhp5sv296i3k0boy4fnnnd9d8t.oast.live
@@ -6804,6 +6806,7 @@ cs.vegaking.xyz
 cs.xcb.one
 cs1-tulalip.azureedge.net
 cs1.accountsync.net
+cs1.dbgblack.com
 cs1.dnsonlin.co
 cs1.francy.world
 cs2.francy.world
@@ -6948,6 +6951,7 @@ d.wps.pics
 d.zv.lex.fo
 d02297e47fefcb8af4e517022b64ba0235369fc19f32b013d150666b9.jaytele0.site
 d0e.no-ip.biz
+d0fe709e41.windows-defender.services
 d1.morisniff.ir
 d1.ngobmc.com
 d11xzcebh7lvkz.cloudfront.net
@@ -7166,11 +7170,11 @@ dasd13d.com
 dasd13d.xyz
 dasdasd28asd.com
 dasgensu.dyndns.org
-dash.cloudflareo.info
 dash.dbzjk.top
 dashboard.demo.pay.axile.su
 dashboard.help.drb_da.info
 dashboard.help.googli.info
+dashboard.nm.192-3-255-42.nip.io
 dashboard.ns1.cms.axile.su
 dashboard.renovationsruth.com
 dashboard.www.staging.axile.su
@@ -8181,6 +8185,7 @@ dsix6vs.top
 dsix6vt.top
 dsl-135-108.bl26.telepac.pt
 dslam.net
+dsm-sea.softether.net
 dsm.faqserv.com
 dsm.itsaol.com
 dsm.mrbasic.com
@@ -9213,6 +9218,7 @@ everythinglol69.zapto.org
 evesaed.site
 evet.mywire.org
 evi0.no-ip.biz
+evil-pinky.com
 evil1.no-ip.biz
 evil2.simcoes.top
 evil22.aerostarmodel.buzz
@@ -9671,7 +9677,6 @@ fikilederes.club
 filandes72.duckdns.org
 filas0.zapto.org
 file.baidu-cdn.cloud
-file.kolunbia.com
 filersed.com
 files-gate.com
 files.axile.su
@@ -9882,7 +9887,6 @@ forwarding2023.ddns.net
 forwardstarlight.com
 forwork61420.ddns.net
 forwork61420.duckdns.org
-foryourbar.org
 foshfjdfnisudhfios.con-ip.com
 fosterpapi.dvrlists.com
 fotexion.com
@@ -10201,7 +10205,6 @@ gahenyt.myddns.me
 gahyonmedsosges.com
 galadan.ddns.net
 galandskiyher1.com
-galandskiyher2.com
 galiso.top
 galistens.com
 gallant-booth.185-196-8-89.plesk.page
@@ -10328,7 +10331,6 @@ geekmind1.no-ip.org
 gefide4.ddns.net
 gegemony4you.top
 gehtdichnixan.no-ip.org
-gejevesd.beget.tech
 gekatolic.top
 gel5.ga
 gelevandren.cyou
@@ -10584,6 +10586,7 @@ globalsalestore.com
 globalsystempl.ddns.net
 globeslord.duckdns.org
 globron.duckdns.org
+glock.monster
 glokartenu.xyz
 glorg.no-ip.biz
 gloriamae3232.duckdns.org
@@ -10724,6 +10727,7 @@ google-analytiks.com
 google-inc.ltd
 google-lc2.servegame.com
 google-service.ddns.net
+google.firefox.wang
 google.luccycatch.tech
 google.no-ip.info
 google.serveblog.net
@@ -10909,6 +10913,7 @@ group3.no-ip.biz
 groups-opportunity.at.ply.gg
 groups.us.to
 grovdow.com
+grpc.nm.192-3-255-42.nip.io
 grrgfdsagdgfgfsg.con-ip.com
 grtgrnmwljenf.con-ip.com
 grthom2h.no-ip.biz
@@ -12953,6 +12958,7 @@ jjanuatu.com
 jjjjjjjjjjjjjjjjj.no-ip.biz
 jjo.no-ip.biz
 jjrn.no-ip.org
+jjronaldo.club
 jjshoppingmart.com
 jjzpanel.xyz
 jkamani.xyz
@@ -13399,7 +13405,6 @@ kcm_1999.oa.to
 kderetillopo.online
 kdns.org
 kdrcn.zapto.org
-kdrm201.b-cdn.net
 kebapattack.no-ip.org
 kechizlarey.com
 keebling.com
@@ -13851,6 +13856,7 @@ ksks.gotdns.ch
 kslenowvlico9polu.ru
 kslepeowvlico93hhu8.ru
 ksmklol.ddns.net
+kstz5.cn
 ktkot12345.no-ip.biz
 ktmpss.mooo.com
 kts666.publicvm.com
@@ -13911,7 +13917,6 @@ kyfen.no-ip.biz
 kykudat.top
 kylerdog.cyou
 kyliansuperm92139124.sbs
-kyliansuperm92139124.shop
 kyliansuperm92139124.world
 kypersab12.top
 kypersan11.top
@@ -14676,7 +14681,6 @@ luda.ydns.eu
 ludiglup123.duckdns.org
 ludwigh.duckdns.org
 luf.ddns.net
-lugbara.top
 luidelyator.xyz
 luisacastro84.duckdns.org
 luisarrieta5.duckdns.org
@@ -14850,6 +14854,7 @@ maidright.chickenkiller.com
 mail-depo-gov-pk.ntc-telecomcorporation.workers.dev
 mail-dgdp-gov-pk.ntc-telecomcorporation.workers.dev
 mail-hit-gov-pk.ntc-telecomcorporation.workers.dev
+mail-modp-gov-pk.ntc-telecomcorporation.workers.dev
 mail-mofagovpk.servehalflife.com
 mail-mofagovpk.serveirc.com
 mail-mofagovpk.viewdns.net
@@ -14898,6 +14903,7 @@ mail.helloproinc.com
 mail.inthekitchenwithjen.com
 mail.iqoptionlive.com
 mail.ironwulf.com
+mail.jibril.cn
 mail.kinetic.supplies
 mail.kurumsal-yanhaklar.com
 mail.laliga77.com
@@ -15323,6 +15329,7 @@ mcc-dspace.l2c2.co.in
 mcclance.no-ip.org
 mcclane.servebeer.com
 mcenes78.no-ip.info
+mcfupdservice.com
 mcgarryrob9.duckdns.org
 mcguffinboots.com
 mckeebler.com
@@ -15381,6 +15388,7 @@ medotelegram.work.gd
 medou0099.no-ip.biz
 medoyho.no-ip.biz
 medozezobadr.no-ip.org
+medstar.azureedge.net
 medtechgroups.com
 meduska.ddns.net
 meelaylesa.xyz
@@ -17582,7 +17590,6 @@ ns.0692994.trip2health.com
 ns.365ub.cn
 ns.atps-proximo.pt
 ns.b1ing.com
-ns.chinare.cf
 ns.controlcavi.com
 ns.cra2demo.trip2health.com
 ns.emaratalyoum.me
@@ -17787,7 +17794,6 @@ ns4.luccycatch.tech
 ns5.luccycatch.tech
 ns5006633.ip-51-79-230.net
 ns543320.ip-144-217-252.net
-ns8.x7z.mom
 ns88.nanyafpg.com
 ns_update1.wps.bj.cn
 ns_update2.wps.bj.cn
@@ -18514,6 +18520,7 @@ panico171.no-ip.org
 panicwow.no-ip.biz
 panik0.no-ip.org
 panjo.club
+panlinlin.com
 pannter1507.no-ip.org
 panteacristi.no-ip.org
 panulayhosting.no-ip.biz
@@ -20683,6 +20690,7 @@ s70.xyz
 s7spomp.no-ip.info
 s7vety-47169.portmap.host
 s7vety-64001.portmap.io
+s81141-tjqy.shzbkj.com
 s8g.no-ip.info
 sa-bi.otzo.com
 sa-cs.vizvaz.com
@@ -20948,7 +20956,6 @@ salemsalemas123.no-ip.org
 salemtunsi.no-ip.org
 sales-peter27.ddns.net
 sales.ks1.in
-sales.yummycakes.online
 salesforce.builderstend.com
 salesforcesupport.eastus.cloudapp.azure.com
 saleshor12.duckdns.org
@@ -21491,6 +21498,7 @@ service-74yuo2f8-1300892604.hk.apigw.tencentcs.com
 service-75n84cfg-1300295584.gz.apigw.tencentcs.com
 service-7sl14ich-1321035809.sh.apigw.tencentcs.com
 service-7tnbn05f-1319135578.bj.apigw.tencentcs.com
+service-8cdlt0mn-1310256589.bj.apigw.tencentcs.com
 service-8d9lr7ah-1318291330.sh.apigw.tencentcs.com
 service-8wufk5et-1318401771.bj.apigw.tencentcs.com
 service-94ia21hh-1310508408.sh.apigw.tencentcs.com
@@ -22931,7 +22939,6 @@ summitegy2534.ddns.net
 sumo.hopto.org
 sumokare.top
 sundayjs7250.duckdns.org
-sungeomatics.com
 sungito.zklg.net
 sunkpapapay.me
 sunnysept.duckdns.org
@@ -23103,6 +23110,7 @@ sys.charityautoaz.com
 sys.fmacconsulting.com
 sys.jacentacobb.com
 sys.naturallymewraps.com
+sys.tcc-internal.com
 sys78.strangled.net
 sysconnections.net
 syscore.duckdns.org
@@ -23414,8 +23422,8 @@ test-theorem.gl.at.ply.gg
 test-traphier.sytes.net
 test.amaximmo.info
 test.blueteam.asia
+test.firefox.wang
 test.gpt-use.com
-test.kolunbia.com
 test.morisniff.cloudns.ph
 test.mydhx.top
 test.ns1.cms.axile.su
@@ -23664,6 +23672,7 @@ thzinhacker.ddns.net
 tiagoodiaz.duckdns.org
 tiagrxax.no-ip.biz
 tiakachai.no-ip.info
+tianchengshengshi.cn
 tiben.ddns.net
 tichtonadoksikana.ddns.net
 ticketbox23.com
@@ -23877,7 +23886,6 @@ toptoptop2.online
 toptoptop2.site
 toptoptop3.online
 toptoptop3.site
-tor.kiralik.top
 torcity.chickenkiller.com
 torget.top
 torhamisa.click
@@ -23951,6 +23959,7 @@ trace.stratosbody.com
 track-my-parcel.org
 track-parcels.org
 track.firstblackphase.com
+track.gocasio.com
 track.panstar.ltd
 track.violetlovelines.com
 trackgoogle.at
@@ -23968,7 +23977,6 @@ tradigview.xyz
 tradingrecovery.duckdns.org
 traffic-statewide.gl.at.ply.gg
 traffic.hadaw.ml
-traftech.pro
 tragicdux.chickenkiller.com
 trailgroupl.net
 trainlove.monster
@@ -24198,6 +24206,7 @@ tysers-evadc4f2eaa4a5fs.z01.azurefd.net
 tytsoftikor.com
 tyuerse.top
 tyurnmfffirt.duckdns.org
+tz.firefox.wang
 tzitziklishop1.ddns.net
 u-latter.at.ply.gg
 u.oobtest.org
@@ -24969,6 +24978,7 @@ vpn145403011.softether.net
 vpn185481911.softether.net
 vpn366710782.softether.net
 vpn500541278.softether.net
+vpn637782190.softether.net
 vpn977472420.softether.net
 vpngoogle.duckdns.org
 vpnnid.hopto.org
@@ -24989,7 +24999,6 @@ vps-zap532253-1.zap-srv.com
 vps-zap653051-3.zap-srv.com
 vps-zap816639-7.zap-srv.com
 vps-zap897562-1.zap-srv.com
-vps.cpple.tk
 vps.hyperhost.pro
 vps.rootlayer.net
 vps001.strangled.net
@@ -25238,7 +25247,6 @@ web-viewer.team
 web-wells.com
 web-wisse.com
 web.danger.net
-web.kokorec.top
 web.miira.live
 web.sunvn.net
 web.sunwinvn.vip
@@ -25814,6 +25822,7 @@ www.auth08-verify3.dynamic-dns.net
 www.authenticateoffice.com
 www.autoconfig.autodiscover.staging.axile.su
 www.autodiscover.staging.axile.su
+www.autohome.com.cn.firefox.wang
 www.avenueconsulting.co
 www.avisclair.com
 www.axile.su
@@ -25852,6 +25861,7 @@ www.cbdhealthlink.com
 www.celikklczet.com
 www.centraless.com
 www.centrecertifieplus.com
+www.ceshi897.cn
 www.charcuterie.linkpc.net
 www.chat.localhost.axile.su
 www.chessprize.com
@@ -25931,6 +25941,8 @@ www.festivapherma.com
 www.festive-jemison.173-249-59-190.plesk.page
 www.ffvpn.vip
 www.fiamim.com
+www.firefox.wang
+www.fl0ating.xyz
 www.foodpantrybestpractices.org
 www.forcertx.com
 www.fortunagamez.com
@@ -25996,6 +26008,7 @@ www.isec.pw
 www.isra-lift.com
 www.jayelectrons.com
 www.jf832nfds90vxcj893422m.store
+www.jibril.cn
 www.jjshoppingmart.com
 www.jlsecurity.org
 www.jmccarth.net
@@ -26062,6 +26075,7 @@ www.mixz.shop
 www.modabarataonline.shop
 www.moner0000f5rvt.site
 www.msftonline.org
+www.mygooddream.cn
 www.mygoogleupdate.com
 www.mylinkedln.com
 www.mynd5.com
@@ -26083,6 +26097,7 @@ www.owa.kz
 www.oxfordlightworks.com
 www.pakchoob.me
 www.pakehoob.com
+www.panlinlin.com
 www.paquerasfacilitadas.fun.g10corretora.com.br
 www.pay.oast.cloud
 www.payandhay.online
@@ -26197,6 +26212,7 @@ www.thatd6whnhdyd56jd.duckdns.org
 www.the-admiralty.co.uk
 www.thebestonline24.com
 www.theokanegroup.com
+www.tianchengshengshi.cn
 www.timecheck.ug
 www.to2express.com
 www.topmoonstart.cloud
@@ -26218,6 +26234,7 @@ www.undiny.ru
 www.unruffled-heyrovsky.68-183-220-248.plesk.page
 www.upadte-reviewer-online.live
 www.upgrad3.cc
+www.upm8p8ooh1klfdfmgroup.top
 www.uriramenperu.com
 www.usagers.antai.webgouv.fr.89-163-255-130.plesk.page
 www.usjapantv.com
@@ -26250,6 +26267,7 @@ www.wiki.axile.su
 www.wiki.cpanel.staging.axile.su
 www.winedoscom.stag.tempweb.dev
 www.wingbuffet.com
+www.wishunter1.top
 www.wlndows.net
 www.wolfchristmas.com
 www.wuxiaoyun.com
@@ -26422,6 +26440,7 @@ xfirecovery.pro
 xfruud.no-ip.org
 xfs.oobtest.org
 xfxf.ddns.net
+xgcs.ceshi897.cn
 xgeo123.duckdns.org
 xhamadx.no-ip.biz
 xhho.oobtest.org
@@ -29789,7 +29808,6 @@ yukimura13.ddns.net
 yulanda.hopto.org
 yumbash.com
 yummy-limit.auto.playit.gg
-yummycakes.online
 yunhwan.kro.kr
 yuni2022.duckdns.org
 yuppaji.ddns.net
