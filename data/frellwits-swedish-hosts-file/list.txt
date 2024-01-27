@@ -284,6 +284,7 @@ ced.sascdn.com
 cintnetworks.com
 cision.com
 cl-eu2.k5a.io
+cl-eu4.k5a.io
 cl.k5a.io
 classic.avantlink.com
 clevernt.com
@@ -321,6 +322,7 @@ creative.prf.hn
 creatives.bidtheatre.com
 creatopy-adtag-production.b-cdn.net
 cs.ns1p.net
+csync-global.smartadserver.com
 ctx.matchads.net
 curemedia.se
 cxpublic.com
