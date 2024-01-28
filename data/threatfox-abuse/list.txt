@@ -3679,6 +3679,7 @@ bdf2015.ddns.net
 bdios8877.duckdns.org
 be09dd19.ddns.net
 beachterminaldiff.fun
+beacon.evilginx2.bio
 beacon.keremsarmis.com
 beacon.keremsarmis.xyz
 beacon2.keremsarmis.com
@@ -3696,6 +3697,7 @@ bebika.ddns.net
 bebis2.ddns.net
 bebo96.ddns.net
 bec.faqserv.com
+bec.security-ssl.org
 becha.no-ip.biz
 bechir-bechir.no-ip.org
 beckz.duckdns.org
@@ -4358,7 +4360,6 @@ brojizuza.com
 broler.shop
 bronxadoskep.com
 brookshacking.duckdns.org
-brorats32932.ddns.net
 brostec7.ddns.net
 brosto.strangled.net
 brostod.jumpingcrab.com
@@ -4881,6 +4882,7 @@ cbswgc.duckdns.org
 cbt.faqserv.com
 cc.cert-ex.net
 cc.hakc.link
+cc.youku.zip
 cc15.no-ip.biz
 cc16e27vcrctchg0001047ku6a5kn46kr.oast.fun
 cc1jb3nvcrco5o000010uiagbs5qq3wfn.oast.pro
@@ -5089,7 +5091,6 @@ cfppnrkj2g2pdnssvnk0b5grzok4o4kcr.oast.me
 cfqko5jmj9e0rrq191k04f433m6n1qx45.oast.live
 cfr.eur-import.com
 cftiniug93hr82v3utugmr49n43bz7s88.oast.live
-cftn6129.b-cdn.net
 cfuac4r520h7f650p76g7ou3h1bgwsc89.oast.pro
 cfucos1phiuv7qk8dtr0xigwq3umo7gt6.oast.pro
 cfv.faqserv.com
@@ -5713,7 +5714,6 @@ chat.cms.axile.su
 chat.localhost.axile.su
 chat.pay.axile.su
 chateau-saint-benoit.89-163-255-130.plesk.page
-chatgenie.co.uk
 chatgpt-premium.com
 chatnoir.life
 chatthas.no-ip.info
@@ -6453,6 +6453,7 @@ colonisfg.com
 color-premises.at.playit.gg
 colorchangeme.com
 colorfuldreams.hopto.org
+colors.usajicgu.com
 colorschemeas.com
 colorusa.no-ip.org
 colosssueded.top
@@ -6791,7 +6792,6 @@ crypticgamings.com
 cryptoban.ddns.net
 cryptocrio.pw
 cryptocrio.top
-cryptonas.ru
 cryptotab.me
 cryptotabhost.online
 cryptserver.hopto.org
@@ -7805,12 +7805,15 @@ dns.check.support
 dns.cloudserve.store
 dns.codeacademytraining.com
 dns.cstest.buzz
+dns.currentbee.net
 dns.dracumi.com
 dns.elsewhens.org
 dns.firstblackphase.com
+dns.investmenttech.net
 dns.ionoslaba.com
 dns.kingspy.info
 dns.microsofts.live
+dns.modernbeem.net
 dns.ncats.link
 dns.nightmare.su
 dns.ninja.ovh
@@ -7884,7 +7887,6 @@ docusec.top
 doddyfire.dyndns.info
 doddyfire.dyndns.org
 doddyfire.linkpc.net
-dodgeavay.xyz
 dodgyl.ink
 dodo654.no-ip.biz
 dodoflightvogel.xyz
@@ -8171,7 +8173,6 @@ drzlzal.no-ip.org
 dsa.faqserv.com
 dsa.fartit.com
 dsa.itsaol.com
-dsa7mkr3avu2g.cloudfront.net
 dsadsadsafagagaga.p-e.kr
 dsadw33fdsfs.buzz
 dsb.mrbasic.com
@@ -8433,8 +8434,6 @@ eblagh.my03.com
 eblagh.wikaba.com
 eblaghs.fartit.com
 eblaghshekayatname.hyperphp.com
-eblaghviran.host
-eblagiyeonline.host
 eblaguwonmir.cfd
 ebo000000.ddns.net
 ebrahem100.no-ip.biz
@@ -8727,7 +8726,6 @@ edlaat.2waky.com
 edlat.shamdi.cfd
 edli.fartit.com
 edlir.cloud
-edlt.art
 edm.mrbasic.com
 edr.fartit.com
 edraquakwa.xyz
@@ -9809,6 +9807,7 @@ flatmourningdressow.pw
 flawgfx-25466.portmap.io
 fleightfreight.best
 flestriche.xyz
+fleury-dev-g8d5b7fhg8fghxcm.a03.azurefd.net
 flighfinder.xyz
 flightslots.online
 flingmodder-44266.portmap.io
@@ -12327,7 +12326,6 @@ inductiveoutomation.com
 inductlveautomation.com
 indusfacefinder.in
 indusv00.duckdns.org
-inerino.co.za
 inertialabs.co.uk
 inesjarraya.no-ip.org
 inextremi5.zapto.org
@@ -12419,7 +12417,6 @@ interest-stomach.at.ply.gg
 interest-throwing.at.ply.gg
 interesting-wozniak.45-153-48-176.plesk.page
 interface.qiluqhapp.vip
-interface59.need.cryptonas.ru
 intergenazurre.com
 international-berry.gl.at.ply.gg
 internet-explorer-background.duckdns.org
@@ -13055,7 +13052,6 @@ johnsnow.homes
 johnsuccess18.ddns.net
 johnsylvo.duckdns.org
 johnyuprol.loan
-johu91837.b-cdn.net
 join.naxtm.cfd
 jointish.ddns.net
 jojo228.hopto.org
@@ -15011,7 +15007,6 @@ make-hex-32332e39352e39302e3633-rr.1u.ms
 makegreatagaintwwi.fun
 makelovenotmalware.local
 makesureeasteats.duckdns.org
-makethumbmoney.com
 makinasi.top
 makote.ddns.net
 makram380.no-ip.org
@@ -16704,7 +16699,6 @@ mxtopsz.duckdns.org
 mxvssb.duckdns.org
 mxzaa.duckdns.org
 my-cracker.no-ip.biz
-my-game.biz
 my-package-tracking.net
 my-parcel-tracking.org
 my.bingoroll18.net
@@ -17396,7 +17390,6 @@ nisdfsuie.duckdns.org
 nishica.no-ip.biz
 nitido.con-ip.com
 nitrocp.xyz
-nitrocpanel.xyz
 nitrohacker.no-ip.org
 nitronclub.com
 niuwxt.haowusong.com.cname.yunjiasu-cdn.net
@@ -17762,7 +17755,6 @@ ns1.we-bank.icu
 ns1.weepstakes.com
 ns1.wiinvestmentsmart.com
 ns1.wpspcdn.com
-ns1.wsusmicrsotf2012.com
 ns1.www.staging.axile.su
 ns1.xtest.asia
 ns1.xvmp.eu.org
@@ -17893,7 +17885,6 @@ ntc-telecomcorporation.workers.dev
 ntcgo.com
 ntdc-govpk.viewdns.net
 ntdetect.ddns.net
-nthb041.b-cdn.net
 ntlplaast11.duckdns.org
 ntsclouds.com
 ntyart.no-ip.biz
@@ -18938,6 +18929,7 @@ pl.audiotest.top
 pl.mamutert.com
 place-viewed.gl.at.ply.gg
 placengine.site
+places.creeksidehuntingpreserve.com
 plainboardssixty.com
 plankxd.ddns.net
 planpnl.duckdns.org
@@ -20213,7 +20205,6 @@ remcos1.ydns.eu
 remcos2.legacyrealestateadvisors.net
 remcos2026.duckdns.org
 remcos50501.hopto.org
-remcosamarre.duckdns.org
 remcose.ddns.net
 remcosmoney.duckdns.org
 remcosos.duckdns.org
@@ -20387,7 +20378,6 @@ reyhrwwet4y.duckdns.org
 reylocoip.no-ip.org
 reyreich.ddns.net
 reysec-43171.portmap.host
-reza.nitrocpanel.xyz
 rezallta.ddns.net
 rezhwanhack.noip.me
 rezultbox.zapto.org
@@ -20662,7 +20652,6 @@ rtergsdfs.duckdns.org
 rtm16.no-ip.biz
 rtrkolada.xyz
 rtsnysrusdtbh.net
-rttest7-dns-rdir.westeurope.cloudapp.azure.com
 rtts.ddns.net
 rty777casinojoker.com
 ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion
@@ -20929,10 +20918,8 @@ sahamedalatir.fartit.com
 sahamedalatirr.fartit.com
 sahamedalato.ftp1.biz
 sahameli1402.site
-sahamet.host
 sahamet.website
 sahamiran.itsaol.com
-sahamirani.host
 sahamiru.hair
 sahamlj.fartit.com
 sahamman.charget.cloud
@@ -20959,7 +20946,6 @@ sahm-as.vizvaz.com
 sahm-ir.faqserv.com
 sahm-mo.fartit.com
 sahm.fartit.com
-sahm.host
 sahm.isasecret.com
 sahm.mrface.com
 sahm1.jkub.com
@@ -20967,8 +20953,6 @@ sahmadl.faqserv.com
 sahmanb.dns05.com
 sahmane.sbs
 sahmbe.fartit.com
-sahmd.host
-sahmi.host
 sahmk.mrface.com
 sahmln.vizvaz.com
 sahmn-b.vizvaz.com
@@ -21249,7 +21233,6 @@ scanworldbestip.xyz
 scanworldipbest.xyz
 sccwangluo.asselst.com
 sch.fartit.com
-schedule.sport-program.com
 schools-softball.gl.at.ply.gg
 schoolserver405.mooo.com
 schost.duckdns.org
@@ -21655,6 +21638,7 @@ service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com
 service-rsb9hux9-1258128533.cd.apigw.tencentcs.com
 service.net-freaks.com
 service.opposrv.top
+service.safaricom.workers.dev
 service.specialcraftbox.com
 service32.sytes.net
 servicedesk-solutions.net
@@ -22982,6 +22966,7 @@ subwoope.ooguy.com
 subzeroz.servegame.com
 sucamilla.no-ip.org
 success.165gov.cyou
+success.165gov.icu
 sucepd.no-ip.org
 suchitanandanmahavidyalaya.org
 suchthefool.no-ip.info
@@ -23072,7 +23057,6 @@ support.cabotfinancial-es.com
 support.dnsgdn.com
 support.encorecapital.app
 support.it-cabotfinancial.com
-support.narlcolife.com
 support.teamviewsoft.com
 support.vidadworld.com
 supportayzer.shop
@@ -24603,7 +24587,6 @@ user6teen.no-ip.biz
 user882019.dlinkddns.com
 userauto.space
 userchange.no-ip.biz
-userla.de
 usernamee.no-ip.biz
 ushatamaiet.xyz
 usher.zapto.org
