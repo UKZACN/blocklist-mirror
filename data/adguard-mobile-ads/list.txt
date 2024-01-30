@@ -52,6 +52,7 @@ ad.vrvm.com
 ad.weibo.com
 ad.weplayer.cc
 ad.wynk.in
+ad.youku.com
 ad.zijieapi.com
 ad6media.fr
 adadvisor.net
@@ -202,6 +203,7 @@ advombat.ru
 adwhirl.com
 adwods.com
 adx-dre.op.hicloud.com
+adx-open-service.youku.com
 adx-tk.rayjump.com
 adxcorp.kr
 adz.mobi
@@ -318,6 +320,7 @@ c2i.startappnetwork.com
 c2s.startappnetwork.com
 c3.myapkcdn.in
 c8.net.ua
+cad.youku.com
 cads.scalemonk.com
 cafe-latte.myshoplus.com
 campaigns.apps-connects.com
@@ -534,6 +537,7 @@ m.yap.yahoo.com
 ma-code.ru
 mad.mobisky.pl
 madnet.ru
+mads.amazon.com
 mads.bz
 manage.com
 manifest.auditude.com
@@ -669,6 +673,7 @@ pr.comet.yahoo.com
 prebid-cache.ifunny.co
 preitem.wshareit.com
 presage.io
+prod.adjoe.zone
 prod.cm.publishers.advertising.a2z.com
 projecta-common-1258344701.file.myqcloud.com
 promo-images.ttpsdk.info
@@ -862,6 +867,7 @@ yc-ads.s3.amazonaws.com
 yemonisoni.com
 yieldkit.com
 yieldmo.com
+ykad-data.youku.com
 yllix.com
 youmi.net
 yovoads.com

@@ -697,6 +697,7 @@
 16545.org
 16547.org
 16570.cn
+167-172-234-147.ipv4.staticdns2.io
 16agostok.duckdns.org
 16deoctubre.duckdns.org
 17.cmananan.com
@@ -734,7 +735,6 @@
 185-196-8-89.plesk.page
 185azyn6606dec24rd13.ddns.net
 188-166-191-209.cprapid.com
-18866-32530.bacloud.info
 189.89.93.34.bc.googleusercontent.com
 18abril2011.no-ip.info
 18denero.con-ip.com
@@ -1356,6 +1356,7 @@ abhorrent-thrill.auto.playit.gg
 abidejeks.hopto.org
 abigaeelrs.ddns.net
 abino.hopto.org
+abixmaly.duckdns.org
 abjhqm11.duckdns.org
 abk.toh.info
 ablegod.hopto.org
@@ -2878,7 +2879,6 @@ app.collab.tr4t.io
 app.ethvseos.nl
 app.hackwithautomation.com
 app.jinnahinternational.org
-app.livcloud.info
 app.maiziqianbao.site
 app.opposrv.top
 app.threatest.com
@@ -4656,6 +4656,7 @@ calitus.hopto.org
 call.colorschemeas.com
 call.getsmallcount.com
 callbackhubs.com
+callii.ydns.eu
 callito2024.sytes.net
 callmemitch.com
 callmeosos.no-ip.biz
@@ -4939,7 +4940,6 @@ cdn.apiadmin.live
 cdn.authenticateoffice.com
 cdn.clickandanalytics.com
 cdn.ctfmall.com
-cdn.glgjssy.xyz
 cdn.google-cloudflare-static.store
 cdn.imango.ink
 cdn.jscriptstore.com
@@ -6877,6 +6877,7 @@ cunnate.click
 cuorematto.no-ip.org
 cupidon.zapto.org
 curizpa.click
+currencyandsecurity.com
 current-necessity.at.ply.gg
 currentname.no-ip.org
 curtsom.no-ip.info
@@ -7858,7 +7859,6 @@ dnscheck.club
 dnscheck.design
 dnsinass.hopto.org
 dnslog.twittermisc.com
-dnslog.zhaoyr.online
 dnsontopnegros.ddns.net
 dnsproxi2022.duckdns.org
 dnsq.myq-see.com
@@ -9230,6 +9230,7 @@ europapokal2024.com
 europarem.duckdns.org
 europe.firstmillion.click
 european.dnsgdn.com
+euunclaimedpymt.com
 euuvua3.top
 ev232.no-ip.biz
 evaa.zapto.org
@@ -10151,7 +10152,6 @@ fugn1610.duckdns.org
 fugn1881.duckdns.org
 fukfndru.ddns.net
 full-qui.at.playit.gg
-fullpower682.store
 fullppc.xyz
 fumeta.noip.me
 fun4.dynu.com
@@ -15796,6 +15796,7 @@ minehidden-gpu.ru
 minehidden.ru
 mineiiroinfecty.no-ip.org
 minekroft.duckdns.org
+miner.eastestsite.com
 miner.fckinpwned.cn
 miner.sjzh.top
 minerboy123-61906.portmap.host
@@ -17728,7 +17729,6 @@ ns1.dracumi.com
 ns1.ecorp.asia
 ns1.electric-coop.com
 ns1.emailmigration.org
-ns1.emohack.xyz
 ns1.fcdncloud.link
 ns1.fiducaire.lu
 ns1.freedomsepter.com
@@ -17758,7 +17758,6 @@ ns1.mylcyz.top
 ns1.mysqlnet.org
 ns1.nonalom.com
 ns1.obenkyou.site
-ns1.oneipsoft.com
 ns1.onesdriveupdate.xyz
 ns1.pebrord.com
 ns1.sangfor911.top
@@ -17814,7 +17813,6 @@ ns2.dnsdnsdns.online
 ns2.dnslogik.com
 ns2.ecorp.asia
 ns2.electric-coop.com
-ns2.emohack.xyz
 ns2.fcdncloud.link
 ns2.ga0.co
 ns2.gdcmxy.xyz
@@ -17833,7 +17831,6 @@ ns2.microsoftgame.online
 ns2.mikrokredit.shop
 ns2.mylcyz.top
 ns2.obenkyou.site
-ns2.oneipsoft.com
 ns2.onesdriveupdate.xyz
 ns2.sangfor911.top
 ns2.sangforssl.xyz
@@ -17863,7 +17860,6 @@ ns3.gsafc.co
 ns3.hardlims.com
 ns3.livelogs.xyz
 ns3.microsoftgame.online
-ns3.oneipsoft.com
 ns3.sangfor911.top
 ns3.sangforssl.xyz
 ns3.simplence.cn
@@ -18320,7 +18316,6 @@ ooof.hopto.org
 oooodddd.ddns.net
 oooooojijantejijantes-51415.portmap.host
 oopscokir.com
-op.tomtoptom.top
 op114514.e1.luyouxia.net
 opa0.com
 opaeda123.no-ip.biz
@@ -18363,6 +18358,7 @@ opzxusdicnk.tk
 oqapp.xyz
 oqbpregoqbpreg.ddns.net
 oqdomain.com
+oracle-panel.online
 orang.ddns.net
 oranjun-60963.portmap.io
 orationseas7145-59097.portmap.host
@@ -20529,6 +20525,7 @@ roblucci.ddns.net
 robme54.duckdns.org
 robolorunerushe.pw
 roboscchi.duckdns.org
+rocheholding.top
 rock-lightning.at.ply.gg
 rock.extrafive.loan
 rock87.ddnsfree.com
@@ -22171,6 +22168,7 @@ skrepamulan.cyou
 skrgerona.com
 skrooo.no-ip.biz
 skry.serveirc.com
+skscarsrjn.in
 sku2du.no-ip.org
 skullsnail1.myftp.org
 skullzyboat-37846.portmap.host
@@ -22680,6 +22678,7 @@ stabillo.no-ip.org
 stableconn.online
 stablelightway.com
 stabsicknessord.pw
+stachmentsuprimeresult.com
 stackover.ddns.net
 stackpath-analytics-gpvlqzqeda-uc.a.run.app
 staezx.no-ip.org
@@ -23368,7 +23367,6 @@ tasks.sytes.net
 taskthebox.net
 tasyateles.club
 tata01111.no-ip.biz
-tatmacerasi.com
 tats2lou.ddns.net
 tattonmurpy6.ddns.net
 taviroza.click
@@ -23868,7 +23866,6 @@ toblo3.balad.shop
 tochi.ddns.net
 tocsicambar.xyz
 todatmonsye.duckdns.org
-toddy.sytes.net
 todonowext.com
 todoparadios.duckdns.org
 todosnj4343.duckdns.org
@@ -24231,6 +24228,7 @@ tulicknewfavour.ddns.net
 tuluavalle3.duckdns.org
 tumamaesgay.ddns.net
 tuna91.duckdns.org
+tunel.oracle-panel.online
 tunisia-sat.no-ip.biz
 tunisia.ddns.net
 tunneddd.ydns.eu
@@ -25986,6 +25984,7 @@ www.creditsail.com
 www.criminalaffair.com
 www.crypticgamings.com
 www.csmakrjet.pw
+www.currencyandsecurity.com
 www.cy-security.de
 www.dakotapartyride.com
 www.dapsan.biz
@@ -26255,6 +26254,7 @@ www.ripplendt.com
 www.ritestowritemyword.org
 www.rmagent.biz
 www.rmagent.xyz
+www.rnofinancial.com.au
 www.rocher-notaires.fr
 www.rockhvn.com
 www.rxjh.online
