@@ -220,7 +220,6 @@
 153ishak.best
 154.125.231.35.bc.googleusercontent.com
 157-230-101-205.ipv4.staticdns2.io
-1574.hopto.org
 15766.mooo.com
 159-203-95-49.cprapid.com
 159-223-92-16.digitaloceandns.com
@@ -866,7 +865,6 @@
 2flowers-my.xyz
 2freshinxworm2.ddns.net
 2kiljiondo.cyou
-2ndprog.monster
 2ndspreading1.ddns.net
 2points.xyz
 2pop.ddns.net
@@ -2815,7 +2813,6 @@ apilsin.host.org
 apis.customerportalverify.store
 apis.stratosbody.com
 apiv1.duckdns.org
-apiv1.financialservicesnorthamerica.com
 apix.mircofots.online
 apk.theworkpc.com
 apkandro.duckdns.org
@@ -4090,7 +4087,6 @@ bolun.site
 bom1004.codns.com
 bombertublestylebanws.fun
 bombjc17.top
-bomes.ru
 bomi.duckdns.org
 bomj1337.hopto.org
 bomjgang228.hopto.org
@@ -4209,7 +4205,6 @@ bqq.clubreadbook.online
 bqq2.clubreadbook.online
 bqzer4hack.ddns.net
 br13fack.warzonedns.com
-branchesv.com
 branderhostx.bid
 brasil.con-ip.com
 brasil.ddns.com.br
@@ -4856,6 +4851,7 @@ cdnet-web.com
 cdnjscripts.com
 cdnjsdelivr.xyz
 cdnoss.sec.cm
+cdns.casacam.net
 cdq4n7w2vtc0000k5r0ggg51khryyyyyn.synalabs.xyz
 cdrd3484l7afjknansjgi5zd333rjp4gp.oast.pro
 cdream.duckdns.org
@@ -6360,6 +6356,7 @@ comes-reasoning.at.ply.gg
 cometidoh.no-ip.org
 cometome.no-ip.info
 cometz.chickenkiller.com
+comewithme.info
 comgate.getmygateway.com
 comhtorboubu.info
 comico.con-ip.com
@@ -6458,6 +6455,7 @@ contacto25.stafsolutions.com
 contahacker.ddns.net
 contato8.appsysten.com
 content.customerportalverify.store
+content.deenpel.com
 content.garretttrails.org
 contents-burn.at.playit.gg
 contifico.con-ip.com
@@ -6734,7 +6732,6 @@ cucumberz99.club
 cudaegua.ddns.net
 cuentasdesbaneadas.no-ip.biz
 culturalevenings.xyz
-cumumberpro.org
 cunnate.click
 cuorematto.no-ip.org
 cupidon.zapto.org
@@ -6832,7 +6829,6 @@ d02297e47fefcb8af4e517022b64ba0235369fc19f32b013d150666b9.jaytele0.site
 d0e.no-ip.biz
 d0fe709e41.windows-defender.services
 d1.morisniff.ir
-d1.ngobmc.com
 d11xzcebh7lvkz.cloudfront.net
 d12.no-ip.info
 d123.no-ip.org
@@ -6849,7 +6845,6 @@ d1x3x.selfip.biz
 d1x3x.selfip.com
 d1x3x.selfip.info
 d1x3x.selfip.net
-d2.ngobmc.com
 d2042y8vbs9p7p.cloudfront.net
 d20tk7ygz8ugsj.cloudfront.net
 d22h19icfueroa.cloudfront.net
@@ -7189,7 +7184,6 @@ deadzer0.servemp3.com
 deafqefwqeg.duckdns.org
 dealbaba.ddns.net
 deaphnote.ddns.net
-deapproved.ru
 dearrx.chickenkiller.com
 death1fax.home-webserver.de
 deb.faqserv.com
@@ -8280,6 +8274,7 @@ ec2-13-59-168-154.us-east-2.compute.amazonaws.com
 ec2-15-188-15-165.eu-west-3.compute.amazonaws.com
 ec2-15-205-128-169.us-gov-west-1.compute.amazonaws.com
 ec2-15-206-164-202.ap-south-1.compute.amazonaws.com
+ec2-15-206-174-2.ap-south-1.compute.amazonaws.com
 ec2-15-207-223-179.ap-south-1.compute.amazonaws.com
 ec2-15-207-223-7.ap-south-1.compute.amazonaws.com
 ec2-16-16-26-234.eu-north-1.compute.amazonaws.com
@@ -8312,6 +8307,7 @@ ec2-23-23-119-74.compute-1.amazonaws.com
 ec2-3-1-245-73.ap-southeast-1.compute.amazonaws.com
 ec2-3-12-113-100.us-east-2.compute.amazonaws.com
 ec2-3-129-208-252.us-east-2.compute.amazonaws.com
+ec2-3-140-197-75.us-east-2.compute.amazonaws.com
 ec2-3-141-98-21.us-east-2.compute.amazonaws.com
 ec2-3-143-51-7.us-east-2.compute.amazonaws.com
 ec2-3-144-104-21.us-east-2.compute.amazonaws.com
@@ -8404,6 +8400,7 @@ ec2-52-204-70-129.compute-1.amazonaws.com
 ec2-52-206-84-200.compute-1.amazonaws.com
 ec2-52-209-202-121.eu-west-1.compute.amazonaws.com
 ec2-52-23-33-245.compute-1.amazonaws.com
+ec2-52-3-173-99.compute-1.amazonaws.com
 ec2-52-4-12-90.compute-1.amazonaws.com
 ec2-52-41-141-193.us-west-2.compute.amazonaws.com
 ec2-52-44-101-45.compute-1.amazonaws.com
@@ -8449,6 +8446,7 @@ ec2-54-85-136-8.compute-1.amazonaws.com
 ec2-54-86-130-105.compute-1.amazonaws.com
 ec2-54-87-191-236.compute-1.amazonaws.com
 ec2-54-89-151-191.compute-1.amazonaws.com
+ec2-54-89-165-37.compute-1.amazonaws.com
 ec2-54-92-206-177.compute-1.amazonaws.com
 ec2-54-94-98-53.sa-east-1.compute.amazonaws.com
 eccoclean.hopto.org
@@ -8866,7 +8864,6 @@ erbaevbann3.ddns.net
 erc.dns05.com
 erc.fartit.com
 erci.banochotelgh.com
-ercuc.com
 erdavidesent.no-ip.org
 erdem34.no-ip.org
 erence.no-ip.biz
@@ -9075,7 +9072,6 @@ ewjll1.no-ip.org
 ewkekezmwzfevwvwvvmmmmmmwfwf.site
 ewmkjdfvkp7fnlx43r4oykku2fgmrrhcr6ulpmndnsnwck2hiyvazlad.onion
 ewoiutz9dt9bzo89tz.com
-ewsdocs.com
 ewtwet.duckdns.org
 ewunoip.ddns.net
 ewwe000.no-ip.biz
@@ -10275,7 +10271,6 @@ ghost123123.ddns.net
 ghost1234.zapto.org
 ghost28.ddns.net
 ghostaway.no-ip.biz
-ghostboy.gotdns.ch
 ghostcum.ddns.net
 ghostfreak.no-ip.biz
 ghostfrp6.ddns.net
@@ -11536,7 +11531,6 @@ hopiapa.ddns.net
 hoppanga.club
 horakulo100.no-ip.org
 horizon1122.3utilities.com
-horizongb.com
 horoshiyden.ru
 horoshiyden.su
 horse3400.no-ip.info
@@ -11682,7 +11676,6 @@ htmlbit.duckdns.org
 htmljys.morebit.top
 htmlorditimeoutsrc.com
 htn4231.zapto.org
-htname.info
 htnouk.no-ip.biz
 htoo112.ddns.net
 htr.ddd.amafo.cc
@@ -11791,7 +11784,6 @@ iam.myftp.org
 iam.redirectme.net
 iamfriendz.duckdns.org
 iamfriendz.linkpc.net
-iamgood.blogdns.net
 iammrjeff00.duckdns.org
 iammuhammed.noip.me
 iamsprey.ddns.net
@@ -11832,7 +11824,6 @@ icontrolyou.servepics.com
 id7oomz.ddns.net
 idai2babd1.xyz
 idcaboutallshit.zapto.org
-idcmht.com
 idde.ddns.net
 idealruinrewardesw.fun
 ideastradeai.com
@@ -12797,7 +12788,6 @@ jstreco.myftp.biz
 jswork.ddns.net
 jswork.duckdns.org
 jtexpress.life
-jtoolbox.org
 juanbouyant.ddns.net
 juancaf4000.duckdns.org
 juanconrradolora09.duckdns.org
@@ -12894,7 +12884,6 @@ k55nfjeasa.ad-center.marketing
 k597s.cn110bet.top
 kaaaqttob24.top
 kaaskop.no-ip.biz
-kaatsonlinesupport.com
 kaboos99hacker.linkpc.net
 kachi2020.hopto.org
 kachijosh19.hopto.org
@@ -13624,7 +13613,6 @@ lacycuratedhila.com
 laczin.duckdns.org
 ladl.isasecret.com
 ladrao.no-ip.biz
-ladvsa.club
 ladyrai.site
 lafeuilee.duckdns.org
 lafhacking65.duckdns.org
@@ -13845,7 +13833,6 @@ letsgoboom.no-ip.info
 levelgrounds.serveftp.com
 levellivingfield.org
 leven11ht.top
-leven11sr.top
 leven11vt.top
 levent0119.no-ip.org
 levieux.no-ip.biz
@@ -14575,7 +14562,6 @@ main.weatherplllatform.com
 main.young.wo.tc
 maine007.hopto.org
 maine009007.hopto.org
-mainsrv.top
 maintenanceservicefirefox.duckdns.org
 maintop.ddns.net
 maip01.noip.me
@@ -15030,7 +15016,6 @@ megaplaneta01.ddns.net
 megaskigoldmex.dvrcam.info
 megateraflopsperhour.org
 megaton1122334455.ddns.net
-megawoc.com
 megida123.ddns.net
 megx.no-ip.biz
 mehdi2012.no-ip.biz
@@ -15085,7 +15070,6 @@ menorte.ddns.net
 menrere.top
 mensmoment.xyz
 menstrachagex.com
-mentalhealth.cghospital.org
 menticolino1566.duckdns.org
 mentokiller.top
 menufreith.sytes.net
@@ -15175,7 +15159,6 @@ micros.zapto.org
 micros0fti.com
 microsing.duckdns.org
 microsofltupdate.duckdns.org
-microsoft-bank.com
 microsoft-ipv6.duckdns.org
 microsoft-s03.serveftp.net
 microsoft-team1.no-ip.biz
@@ -15220,7 +15203,6 @@ microsoftstolewindows.duckdns.org
 microsoftsupport10.ddns.net
 microsoftsyst3m.com
 microsofttask.zapto.org
-microsoftteams.con-ip.com
 microsoftteams.ddns.net
 microsoftupdate001.duckdns.org
 microsoftupdatehost.ddns.net
@@ -15439,7 +15421,6 @@ mk.gdssa.cloudns.ph
 mk.gtsdominicana.us
 mk35.no-ip.org
 mkawyhack.no-ip.biz
-mkbkygbgwcdc.buzz
 mkd12.ddns.net
 mkgf.ddns.net
 mking9898mm.no-ip.biz
@@ -16244,7 +16225,6 @@ mxrecordsipcordsss.ddns.net
 mxsiclienteventlog.com
 mxstat215dm.xyz
 mxstex725dm.xyz
-mxtms.com
 mxtopsz.duckdns.org
 mxvssb.duckdns.org
 mxzaa.duckdns.org
@@ -16365,6 +16345,7 @@ myvpsvps.ddns.net
 mywarswar.ddnsfree.com
 mywarswarw.ddns.net
 mywarswarw.ddnsfree.com
+mywestpac.com
 mywin7man.p-e.kr
 mywinnetwork.ddns.net
 myworldss.hopto.org
@@ -16822,7 +16803,6 @@ nfyuabel.com
 ngheonhungbuon24.ddns.net
 nginx-rev-prox-rj33nb72rsqni.westeurope.cloudapp.azure.com
 nginx-typhoon.westeurope.cloudapp.azure.com
-ngobmc.com
 ngray.duckdns.org
 ngvcfrttgyu512vgv.net
 nhasachlaocai.online
@@ -16836,6 +16816,8 @@ nicephoto.biquaurall.site
 nicepics.no-ip.biz
 nicholds.dyndns-web.com
 nickbaseev.fvds.ru
+nickbaseev1.fvds.ru
+nickbaseev4.fvds.ru
 nickbaseev5.fvds.ru
 nickddns90.duckdns.org
 nickdns19.duckdns.org
@@ -17091,7 +17073,6 @@ noor85.no-ip.biz
 nooraa.no-ip.biz
 noorsab.no-ip.biz
 noorslash99.ddns.net
-nopejohn.com
 nor.strangled.net
 norahbrookss.duckdns.org
 nordine1234.no-ip.org
@@ -17189,7 +17170,6 @@ ns.higogo.me
 ns.iloveflag.com
 ns.manager.moonlighter.space
 ns.matrika.cn
-ns.mydhx.top
 ns.n0reply.eu.org
 ns.tqrjfru.cn
 ns.voicechangeai.pro
@@ -17408,7 +17388,6 @@ ntcgo.com
 ntdc-govpk.viewdns.net
 ntdetect.ddns.net
 ntlplaast11.duckdns.org
-ntsclouds.com
 ntyart.no-ip.biz
 nu-confirmacaoemail.com
 nu.mmafan.biz
@@ -17623,6 +17602,7 @@ okkkk1.ddns.net
 oklad9932s.hopto.org
 oklahama.ydns.eu
 oklahamaa.ydns.eu
+okled.cc
 okme4koodj09291.ru
 okpoker009291.ru
 okta.outlook.nerdwriter.com
@@ -17638,7 +17618,6 @@ oldtwenty123123-21666.portmap.host
 oldtwenty123123-59308.portmap.host
 oleg321.ddns.net
 olegqg.no-ip.org
-olex.live
 olhgan3802.duckdns.org
 olhomagicocdt.duckdns.org
 olimpogods.at
@@ -17700,6 +17679,7 @@ omezzine.no-ip.biz
 omg100.ddns.net
 omglunie.hopto.org
 omgmek.myq-see.com
+omgs.asia
 omis.no-ip.biz
 omkarusdajvc.ac.ug
 ommmar1999.ddns.net
@@ -17718,7 +17698,6 @@ onboarding.expeida.net
 once-york.gl.at.ply.gg
 ondrlve.com
 one.dmi.cloudns.ph
-one.gxzf.site
 one1ht.top
 one1sr.top
 one1vt.top
@@ -17995,7 +17974,6 @@ p.webshare.io
 p0is0n.no-ip.org
 p133.hopto.org
 p2.is-by.us
-p2020.xyz
 p28u70webster.com
 p2x4y.xyz
 p4elauus.ru
@@ -18057,6 +18035,7 @@ panel.jinglin.zhonghaizhi.cn
 panel1.iran-pspcoi.info
 panel2.iran-pspcoi.info
 panel3.iran-pspcoi.info
+panelbar.ct8.pl
 panelss.name
 panelssmorrreqw.org
 panfsaafcxzelkfsha31523.xyz
@@ -18065,7 +18044,6 @@ panico171.no-ip.org
 panicwow.no-ip.biz
 panik0.no-ip.org
 panitor.xyz
-panjo.club
 panlinlin.com
 pannter1507.no-ip.org
 panteacristi.no-ip.org
@@ -18174,7 +18152,6 @@ pcpc64.ddns.net
 pctool.no-ip.org
 pctor.link
 pctprogram.com
-pdafact.com
 pdlmobility.com
 peace.rbear.ir
 peaceful-lewin.195-85-207-218.plesk.page
@@ -18420,7 +18397,6 @@ playsstore.mobi
 playsstore.net
 playstachon.duckdns.org
 playtime40098.ddns.net
-plazzasecretballeronline.onedumb.com
 please-visitnow-immediately.com
 please23.zapto.org
 pleasurefascoin.com
@@ -18749,7 +18725,6 @@ promotores14.duckdns.org
 promotrans54185.ddns.net
 promtrainmoping.com
 pronet.ddns.net
-pronews.icu
 pronfasket.com
 prontovibes.ddns.net
 propellerregis.top
@@ -19248,8 +19223,6 @@ r051.zapto.org
 r0c.ddns.net
 r0nj.ooguy.com
 r0z.duckdns.org
-r1.dread-it.online
-r1.panjo.club
 r26hzsxsgtf7uhxalcwrufskghyueq35juekcvt3zetfiip7uec476yd.onion
 r3.linuxtool.top
 r3mk05.duckdns.org
@@ -19439,7 +19412,6 @@ raymondong.no-ip.org
 rayrat.chickenkiller.com
 rayriager.duckdns.org
 rayrovelemanze.com
-raysdoor.com
 raz23-39752.portmap.io
 raz23-51034.portmap.host
 razbigboy.duckdns.org
@@ -19597,7 +19569,6 @@ rem3876.duckdns.org
 remaboki.duckdns.org
 remback.blair-reality.com
 remback1.blair-reality.com
-remcacount.co
 remcapi.duckdns.org
 remccoss2023.duckdns.org
 remco101.duckdns.org
@@ -20123,7 +20094,6 @@ s.u00.ca
 s0l1ng3n.myftp.org
 s0litude.no-ip.info
 s1.kekw.tk
-s1.megawoc.com
 s1.putinso.site
 s1.rsrc.eu.org
 s122231232fdnsjds.top
@@ -20909,6 +20879,7 @@ service-18c6z8nb-1303896379.sh.tencentapigw.cn
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com
 service-23oc1bm0-1322622051.gz.apigw.tencentcs.com
 service-2c8ubzu7-1257331363.sh.tencentapigw.com
+service-2kefhgzl-1316598603.bj.tencentapigw.com.cn
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com
 service-2qsqz5c6-1316687452.gz.apigw.tencentcs.com
 service-2rm5s5ep-1304892907.bj.apigw.tencentcs.com
@@ -20940,11 +20911,9 @@ service-azqy7lup-1303896379.sh.tencentapigw.com
 service-b3iwjlaj-1322248009.sh.tencentapigw.com
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com
 service-bauue492-1309306755.gz.tencentapigw.cn
-service-bil0xhur-1310508408.sh.apigw.tencentcs.com
 service-bvle58gz-1311190281.sh.apigw.tencentcs.com
 service-bvvdi136-1317500845.gz.tencentapigw.com
 service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com
-service-c3i28tfw-1259711277.gz.apigw.tencentcs.com
 service-c3p2vbb6-1313164119.gz.apigw.tencentcs.com
 service-cia1auek-1314775489.gz.apigw.tencentcs.com
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com
@@ -20961,9 +20930,9 @@ service-gnzojfcb-1302811215.sh.apigw.tencentcs.com
 service-gw6u6362-1318524606.gz.apigw.tencentcs.com
 service-hsyluctr-1252427727.bj.tencentapigw.com
 service-http.servehttp.com
-service-hzdzk12c-1318485841.gz.apigw.tencentcs.com
 service-i90zbgul-1300518372.bj.apigw.tencentcs.com
 service-iord9vog-1317136909.gz.apigw.tencentcs.com
+service-jnajkkdg-1318687485.gz.apigw.tencentcs.com
 service-jugev9vr-1310499068.bj.apigw.tencentcs.com
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com
 service-k797j4br-1318291330.bj.apigw.tencentcs.com
@@ -22245,7 +22214,6 @@ stx3000.no-ip.biz
 style-camps.craft.ply.gg
 style.etanetsys.com
 style.ptbagasps.co.id
-styleco.me
 stylesasif.serveftp.net
 su.urlz.ws
 su2d.nerdpol.ovh
@@ -22535,11 +22503,9 @@ t.freebs.ovh
 t.suicide-terrorism.com
 t.takaelot.com
 t.vchtzo.com
-t1.kzo1.top
 t1.misu.se
 t121212.ddns.net
 t1492261251.e1.luyouxia.net
-t2.kzo1.top
 t2wentyh2cker.ddns.net
 t3.irconnect.online
 t34m.one
@@ -22608,7 +22574,6 @@ tamidem.duckdns.org
 tammyberry.duckdns.org
 tamtojan.no-ip.org
 tan.kalnet.top
-tancredis.com
 tandem88.ru
 tandertx.ddns.net
 tangula.no-ip.org
@@ -22617,6 +22582,7 @@ tanksprunks.co
 tanmiah.life
 tanne0214.zapto.org
 tanyakurd.no-ip.biz
+taobao7737.com
 taochinashowwers.com
 tapmobezkoleksiyonez.net
 tapoq.top
@@ -22704,6 +22670,7 @@ techetreka.ru
 techetreka.su
 techgames.duckdns.org
 techhack.ddns.net
+technoblade.ddns.net
 technologgies.com
 technologie.duckdns.org
 technologyprosecutiw.pw
@@ -22795,7 +22762,6 @@ test.blueteam.asia
 test.firefox.wang
 test.gpt-use.com
 test.morisniff.cloudns.ph
-test.mydhx.top
 test.ns1.cms.axile.su
 test.radwp.com
 test.wiiooiij.tk
@@ -22956,7 +22922,6 @@ themillions.duckdns.org
 themiujoo.viewdns.net
 themixa22.ddns.net
 themonsters131.ddns.net
-thenewmusictunes.com
 theodonal.ddns.me
 theodonal.me
 theonecorp.live
@@ -23181,7 +23146,6 @@ tool404vip.ddns.net
 toolmachine404.ddns.net
 toolpres.duckdns.org
 tools.3utilities.com
-tools.internalupdate.net
 toolz.mywire.org
 toomuchego.ydns.eu
 toopdyno2.duckdns.org
@@ -23782,7 +23746,6 @@ updatesystemtool.ddns.net
 updateyahoo.duckdns.org
 updatingmsnmessengerw.redirectme.net
 updats.hopto.org
-updownloadrar.top
 upedat.sytes.net
 uphcrunchi.ddns.net
 upload.flash-update.info
@@ -23967,7 +23930,6 @@ vcv.mastercoa.co
 vdbto19wogzzu.info
 vdcasa.sytes.net
 vdorrisacleo.xyz
-vdscloud.net
 vector5.ddns.net
 vectorsandarrows.com
 vectorstealer.com
@@ -24024,7 +23986,6 @@ veprex.hopto.org
 verde2020.duckdns.org
 verde2021.duckdns.org
 verdemanzana.com.bo
-verem.remcacount.co
 verfolgen-sendung.net
 vergilliostar.top
 verifiedrisky.duckdns.org
@@ -24299,9 +24260,7 @@ vr-bank.com.de
 vreme.ddns.net
 vremenew.ddns.net
 vrezvrez.com
-vrunabo.su
 vs.redirectme.net
-vsimperial.com
 vslogtffgfgdwd.hopto.org
 vss128.yakoo.com.hk
 vst.fastestmaking.com
@@ -25157,6 +25116,7 @@ www.conferencecenters.org
 www.connecteds.online
 www.connexion-anytime.com
 www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com
+www.controlpanel29.com
 www.corporateupdates.info
 www.cpanel.cloud.localhost.axile.su
 www.cpanel.staging.axile.su
@@ -25379,6 +25339,7 @@ www.ns2.pay.axile.su
 www.nvidiaapp.cloud
 www.officeonline.ri-rqc.sk
 www.ok.adaklab.ir
+www.okled.cc
 www.old.axile.su
 www.old.ns2.cms.axile.su
 www.ommi-it.com
@@ -25388,6 +25349,7 @@ www.owa.kz
 www.oxfordlightworks.com
 www.pakchoob.me
 www.pakehoob.com
+www.panitor.xyz
 www.panlinlin.com
 www.paquerasfacilitadas.fun.g10corretora.com.br
 www.pay-3ds.ru
@@ -25528,7 +25490,6 @@ www.ubsgolds.com
 www.ufc1tv.com
 www.ufcmmatv.com
 www.ugodengerguard.xyz
-www.unbreakable.live
 www.undiny.ru
 www.unruffled-heyrovsky.68-183-220-248.plesk.page
 www.upadte-reviewer-online.live
@@ -25601,6 +25562,7 @@ www.zhaoyr.online
 www.zysnuy.com
 www1.allegiancefithealth.com
 www1.canadaeast.cloudapp.azure.com
+www2.deenpel.com
 www2.eastus.cloudapp.azure.com
 www2.nolog.no
 wwwcom.redirectme.net
