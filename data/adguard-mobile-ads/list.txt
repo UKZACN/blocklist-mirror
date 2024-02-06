@@ -8,7 +8,6 @@ a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 a.applvn.com
 a.cookpad-ads.com
 a2dfp.net
-a2pub.com
 aag.yahooapis.jp
 abbott.vo.llnwd.net
 abnad.net
@@ -58,7 +57,6 @@ ad6media.fr
 adadvisor.net
 adballoon.afreecatv.com
 adblade.com
-adbrau.com
 adcamp.ru
 adcel.co
 adcel.vrvm.com
@@ -69,7 +67,6 @@ adcs.rqmob.com
 addapptr.com
 addata.mediacategory.com
 adentifi.com
-adextent.com
 adfiles.auditude.com
 adflake.com
 adforgames.com
@@ -83,7 +80,6 @@ adhitzads.com
 adhood.com
 adinfo.tango.me
 adinfuse.com
-aditic.net
 adition.com
 adkernel.com
 adkmob.com
@@ -160,7 +156,6 @@ adserver.goforandroid.com
 adserver.kimia.es
 adserver.pandora.com
 adserver.shadow.snapads.com
-adserver.ubiyoo.com
 adservice.tohsoft.com
 adsfs.oppomobile.com
 adsgard.aprod.scopely.io
@@ -171,7 +166,6 @@ adsmo.ru
 adsmobila.com
 adsmogo.mobi
 adsmogo.net
-adsmogo.org
 adsmoloco.com
 adsmrapi.imbc.com
 adsniper.ru
@@ -180,7 +174,6 @@ adsrvmedia.net
 adsrvr.io
 adsrvr.org
 adstrategy.biz.weibo.com
-adsymptotic.com
 adtech.de
 adtheorent.com
 adtilt.com
@@ -200,7 +193,6 @@ advertising.com
 advertur.ru
 advil.waze.com
 advombat.ru
-adwhirl.com
 adwods.com
 adx-dre.op.hicloud.com
 adx-open-service.youku.com
@@ -248,7 +240,6 @@ app.adjust.net.in
 app.adjust.world
 app.ssp.yahoo.com
 appboy-images.com
-appclick.co
 appclick.net
 appgift.sinaapp.com
 appgiftwall.oss-us-west-1.aliyuncs.com
@@ -265,7 +256,6 @@ appserver-cp.com
 appshelf.ttpsdk.info
 apptornado.com
 appwall.tv2phone.cn
-apxadtracking.net
 aqi.wd.amberweather.com
 as.adfonic.net
 as.uncn.jp
@@ -312,7 +302,6 @@ bu1.duba.com
 bubblesmedia.ru
 burstnet.com
 buysellads.com
-buzzad.io
 buzzcity.net
 buzzonclick.com
 c.vrvm.com
@@ -323,10 +312,8 @@ c8.net.ua
 cad.youku.com
 cads.scalemonk.com
 cafe-latte.myshoplus.com
-campaigns.apps-connects.com
 cashprom.ru
 casino-ad-mediation.me2zengame.com
-castplatform.com
 cdn-adn.rayjump.com
 cdn-api.admost.com
 cdn-cf.postitial.com
@@ -336,7 +323,6 @@ cdn.appnext.com
 cdn.auditude.com
 cdn.batmobi.net
 cdn.jampp.com
-cdn.mobilefuse.com
 cdn2.auditude.com
 cdns.lodeo.io
 cdp.cloud.unity3d.com
@@ -382,13 +368,13 @@ d830x8j3o1b2k.cloudfront.net
 dad-api.dcard.tw
 data-optout-service.uca.cloud.unity3d.com
 data2.doodlemobile.com
-daxuetong.zone
 deapi.afreecatv.com
 debojuagug1sf.cloudfront.net
 delivery-cdn-cf.adswizz.com
 deliveryengine.adswizz.com
 deloton.com
 dev.appboy.com
+diopousg.com
 displayio.cloud
 disqusads.com
 dm.isnssdk.com
@@ -418,7 +404,6 @@ external-ad.bunjang.co.kr
 external-api.impression-neo.naver.com
 featured.perfectionholic.com
 fiksu.com
-fjrkn.com
 fluentmobile.com
 flurry.cachefly.net
 flurry.com
@@ -439,7 +424,6 @@ go.admost.com
 go.mobstitialtag.com
 go.vrvm.com
 googleadservices.com
-gop1.co
 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 goyetteconnelly.bid
 gts-ads.twistbox.com
@@ -452,9 +436,7 @@ hb.rayjump.com
 hellay.net
 heyzap.com
 hnl.ijgocb.cn
-hnr.wwxhba.xyz
 holder.com.ua
-hormebets.info
 hostgrater.com
 hotapi-va.isnssdk.com
 houseads-prod.elasticbeanstalk.com
@@ -478,7 +460,6 @@ iad.appboy.com
 iadsdk.apple.com
 iam.datasavannah.com
 ichannel.isnssdk.com
-id1.cn
 im.ov.yahoo.co.jp
 imapi-sg.isnssdk.com
 imasdk.googleapis.com
@@ -504,7 +485,6 @@ itdsmr.com
 iyes.youku.com
 javacript.gq
 jioads.akamaized.net
-jmp9.com
 jssdk.rayjump.com
 justad.mobi
 kaffnet.com
@@ -520,6 +500,7 @@ kskwai.com
 kusuriyasan.org
 l0-secure.videohub.tv
 l3op.info
+lacunads.com
 launcher.us.yeshen.com
 lb.usemaxserver.de
 leadboltads.net
@@ -546,7 +527,6 @@ matrix.dailyinnovation.biz
 mblapi.ssl2.duapps.com
 mbn.com.ua
 mcoreads.com
-mdotm.com
 med-api.admost.com
 medialand.ru
 meendocash.com
@@ -576,14 +556,13 @@ mobile333.com
 mobilebanner.ru
 mobilecore.com
 mobiledl.adboe.com
+mobilefuse.com
 mobimagic.com
-mobnatives.com
 mobon.com
 mobondhrd.appspot.com
 mobotoolpush.moboapps.io
 mobpowertech.com
 mofox.com
-mojiva.com
 monitor.adcaffe.com
 mopub-win-us-east.bksn.se
 msg.ettoday.net
@@ -593,7 +572,6 @@ mtburn.jp
 mtgglobals.com
 mtrcss.com
 mxaserver.mxplay.com
-mxttrf.com
 mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 mydas.mobi
@@ -618,7 +596,6 @@ newfeatureview.perfectionholic.com
 newsnet.in.ua
 nexac.com
 nickhel.com
-njs.manhuahome.com
 nkis.nikkei.com
 nomalleadzuaff.com
 novostimira.biz
@@ -646,7 +623,6 @@ p-behacdn.ksmobile.net
 p1-lm.adukwai.com
 p16-ad.byteoversea.com
 pagead46.l.doubleclick.net
-pagefair.net
 painsko.com
 pangle.io
 pangolin16.isnssdk.com
@@ -692,9 +668,7 @@ px.adhigh.net
 qist.me
 questionmarket.com
 r2d2.aotter.net
-recreativ.ru
 redtram.com
-rek.mobi
 reqde.afreecatv.com
 restartad.com
 revcontent.com
@@ -704,6 +678,8 @@ rotaban.ru
 rqmob.com
 rtapi.abbi.io
 rtb.appbid.com
+rtblab.net
+ruuaqkw.com
 s-adx.op-mobile.opera.com
 s.adx.opera.com
 s.hisp.in
@@ -714,12 +690,10 @@ scorecardresearch.com
 screen.buzzvil.com
 sdk-api-v1.singular.net
 sdk.adtiming.com
-sdk.native123.com
 sdk.starbolt.io
 sdkv2.imaginationunwired.com
 search.adcaffe.com
 sensors.larkplayerapp.com
-serve-sys.com
 servebom.com
 servedby.o2.co.uk
 sessionm.com
@@ -748,7 +722,6 @@ ssp-ad.momento.dev
 ssp.mediation.trnox.com
 ssp.otm-r.com
 sspapi-prd.samsungrs.com
-ssphwy.com
 startappservice.com
 startup-mobile.ap.yandex-net.ru
 startup.mobile.webvisor.com
@@ -830,7 +803,6 @@ ultraadserver.com
 umbel.com
 unicume.com
 unityads.unity3d.com
-upsight-api.com
 upsight.com
 usekahuna.com
 usp1.baidu.com
@@ -846,9 +818,7 @@ vrizead.com
 vserv.mobi
 vungle.com
 waiads.com
-wap-click.com
 wapstart.ru
-wbn.su
 wd.adcolony.xyz
 wdig.vo.llnwd.net
 west.bidtellect.com
@@ -864,7 +834,6 @@ xdrig.com
 ximad.com
 yandexadexchange.net
 yc-ads.s3.amazonaws.com
-yemonisoni.com
 yieldkit.com
 yieldmo.com
 ykad-data.youku.com
