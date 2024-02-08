@@ -772,6 +772,7 @@
 1deoct.ddns.net
 1dog.ddns.net
 1gstemos.duckdns.org
+1oneventos.com
 1oxcv1.duckdns.org
 1pop.ddns.net
 1zab4ever.duckdns.org
@@ -944,6 +945,7 @@
 3omdas.no-ip.biz
 3ps1l0n.life
 3psil0n.fr
+3psilonapi.com
 3r9-99.no-ip.org
 3radic8.dyndns.org
 3rdpart2.ru
@@ -961,7 +963,6 @@
 4.90.223.87.dynamic.jazztel.es
 4.cmananan.com
 4.tcp.us-cal-1.ngrok.io
-4.xianlaohu.com
 40028922123.no-ip.org
 40031.co
 400prettyboy.best
@@ -1195,6 +1196,7 @@
 965keji.com
 96r1yh643o.de
 9792c43e055ef0733bcda6cf8aba4af1b0d9af10e2254b7b54da28136de2.cryptic.ink
+98.lan-za2-1.static.rozabg.com
 98ygdjhdvuhj.com
 98z.no-ip.info
 99.177.67.34.bc.googleusercontent.com
@@ -2955,6 +2957,7 @@ arv.fartit.com
 as-fall.quarantine-pnap-vlan51.web-hosting.com
 as-tor1-sapimx.andes-system.com
 as.reg32.com
+as.regcssv.com
 as.regsvcast.com
 as.regsvrsvc.com
 as.svchostsreg.com
@@ -3239,6 +3242,7 @@ away.stratosbody.com
 awd.byfaithchurch.org
 awda.updatecode.xyz
 aweragiprooslk.cyou
+awesome-villani.142-11-199-59.plesk.page
 awesomedancer.no-ip.biz
 awfwafwaf.ddns.net
 awgaegsrgcs.duckdns.org
@@ -6597,6 +6601,7 @@ crakerneobot.no-ip.org
 cramsfs.ddns.net
 cramzkie2014.duckdns.org
 crankshit2.duckdns.org
+cranky-easley.142-11-199-59.plesk.page
 crax31.ddns.net
 craxsrat.ddns.com.br
 crazy-hugle.185-196-8-89.plesk.page
@@ -6823,6 +6828,7 @@ cyrus-test.ddns.net
 cystnovor.fun
 cz35-gr98tk.is-a-chef.net
 d-zk.zapto.org
+d.kfaaa.top
 d.wps.pics
 d.zv.lex.fo
 d02297e47fefcb8af4e517022b64ba0235369fc19f32b013d150666b9.jaytele0.site
@@ -7213,6 +7219,7 @@ dedicatedlambo9.ddns.net
 dedo.no-ip.org
 deejay140-37878.portmap.io
 deemon.no-ip.biz
+deenpel.com
 deepfred420.ddns.net
 deeppoetry.xyz
 deeptrickday.org
@@ -7439,6 +7446,7 @@ dialerrorbodyorig.org
 dialubuntudicom.biz
 diamond9x.getmyip.com
 diavellipromo-my.xyz
+dicatindustrial.com
 dichvuhp.online
 diciembrearbolitodebelen20222022.duckdns.org
 diciembrefeliz.duckdns.org
@@ -8025,6 +8033,7 @@ dthre3vt.top
 dtwelve12pn.top
 dtwelve12vt.top
 du4alr0ute.sendsmtp.com
+du7wh8bicca0t.cloudfront.net
 duartesantiagoji22.con-ip.com
 dubay.duckdns.org
 dubby2021.duckdns.org
@@ -8289,6 +8298,7 @@ ec2-3-144-99-148.us-east-2.compute.amazonaws.com
 ec2-3-16-110-73.us-east-2.compute.amazonaws.com
 ec2-3-208-95-157.compute-1.amazonaws.com
 ec2-3-209-5-89.compute-1.amazonaws.com
+ec2-3-210-242-78.compute-1.amazonaws.com
 ec2-3-212-79-175.compute-1.amazonaws.com
 ec2-3-213-17-252.compute-1.amazonaws.com
 ec2-3-214-25-23.compute-1.amazonaws.com
@@ -8412,6 +8422,7 @@ ec2-54-224-145-107.compute-1.amazonaws.com
 ec2-54-225-109-232.compute-1.amazonaws.com
 ec2-54-229-76-44.eu-west-1.compute.amazonaws.com
 ec2-54-236-216-39.compute-1.amazonaws.com
+ec2-54-237-138-159.compute-1.amazonaws.com
 ec2-54-237-14-58.compute-1.amazonaws.com
 ec2-54-238-196-57.ap-northeast-1.compute.amazonaws.com
 ec2-54-242-139-194.compute-1.amazonaws.com
@@ -8730,6 +8741,7 @@ empireboss.ydns.eu
 empirehosting.ddns.net
 employees-spa.at.ply.gg
 employees.carlsberg.site
+emprendi2.com
 emprendimientolaboral2.duckdns.org
 emre33800.no-ip.biz
 emulate.serveftp.com
@@ -10481,6 +10493,7 @@ goodu.ddns.net
 goodworkers.ddns.net
 goodyear21.duckdns.org
 goodygoody.duckdns.org
+goofy-satoshi.142-202-191-144.plesk.page
 goog.hopto.org
 googdns.ml
 googe.f3322.net
@@ -10611,6 +10624,7 @@ gravitation.pw
 graytoner.com
 greadeaoptimalle.com
 great-golick.45-141-215-173.plesk.page
+great-mcnulty.164-92-180-123.plesk.page
 great-merkle.68-183-220-248.plesk.page
 great.playerofsunshine.com
 great001noch.chickenkiller.com
@@ -11250,6 +11264,7 @@ hellowwwday.co
 hellwin.no-ip.org
 help-microsoft.dnslive.net
 helpdesktops.com
+helpforhypnotherapists.com
 helpfulcpa.com
 helpfulsteepyi.pw
 helpme20.duckdns.org
@@ -12802,6 +12817,7 @@ juanlunalora09.duckdns.org
 juano229.ru
 juansantana.no-ip.org
 juazeirops22.no-ip.org
+jubileemovement.org
 judas100.no-ip.org
 jude77.duckdns.org
 judge777.ddns.net
@@ -14492,6 +14508,7 @@ mail.199-101-135-49.cprapid.com
 mail.206-166-251-52.cprapid.com
 mail.207-32-217-248.cprapid.com
 mail.23-101-206-34.cprapid.com
+mail.23-26-55-9.cprapid.com
 mail.38-132-122-198.cprapid.com
 mail.45-61-136-22.cprapid.com
 mail.45-93-139-24.cprapid.com
@@ -16357,6 +16374,7 @@ mysubdomain873.duckdns.org
 mysystem2102account.dnsalias.com
 mytest12.no-ip.biz
 mytheblubtest.ddns.net
+mythic-slender.online
 mytodo-list.com
 mytrailinvest.net
 myvnc.myftp.biz
@@ -18124,6 +18142,7 @@ password0.no-ip.biz
 passwords.dordaa.at
 pastor1.con-ip.com
 pastorcc.duckdns.org
+pastratas.ac.ug
 pasub.kro.kr
 patatasyqueso.no-ip.org
 patentnyc.com
@@ -18654,6 +18673,7 @@ previous-page.mooo.com
 prfectr.xyz
 prhostings.duckdns.org
 priapunyaselera.no-ip.biz
+priceless-bose.104-168-102-175.plesk.page
 priceless-fermat.87-248-157-149.plesk.page
 priceless-lamport.91-215-85-177.plesk.page
 prikhapert.com
@@ -19208,6 +19228,7 @@ quitstrikesizeowo.pw
 quotamoney.xyz
 quwkve35.top
 qw.reg32.com
+qw.regcssv.com
 qw.regsvcast.com
 qw.regsvrsvc.com
 qw.svchostsreg.com
@@ -24488,6 +24509,7 @@ web-instamed.com
 web-intesapaolo.com
 web-kbcportal.com
 web-nbg.net
+web-panel.su
 web-pleo.com
 web-populaire.com
 web-postbank.group
@@ -25042,6 +25064,7 @@ www.activelifes.shop
 www.adblockext.ru
 www.admarseb.click
 www.admin.www.ns1.www.staging.axile.su
+www.admiring-pascal.142-11-199-59.plesk.page
 www.aerosets.com
 www.agdetails.com
 www.agitated-bhabha.192-153-57-73.plesk.page
@@ -27902,6 +27925,7 @@ zumanmelden.hopto.org
 zvezdahackerrssa.no-ip.biz
 zwlknt25w6fs6ffnkllvutcepgp7mz6dsndkbki4l2fr27rnk7o4b7yd.onion
 zx.reg32.com
+zx.regcssv.com
 zx.regsvcast.com
 zx.regsvrsvc.com
 zx.svchostsreg.com
