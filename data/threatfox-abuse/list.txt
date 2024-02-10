@@ -222,6 +222,7 @@
 154.125.231.35.bc.googleusercontent.com
 157-230-101-205.ipv4.staticdns2.io
 15766.mooo.com
+159-203-167-57.ipv4.staticdns2.io
 159-203-95-49.cprapid.com
 159-223-92-16.digitaloceandns.com
 159-65-168-135.cprapid.com
@@ -711,6 +712,7 @@
 172-104-207-197.ip.linodeusercontent.com
 172-104-228-8.ip.linodeusercontent.com
 172-104-67-4.ip.linodeusercontent.com
+172-105-14-104.ip.linodeusercontent.com
 172-105-234-48.ip.linodeusercontent.com
 172-105-66-217.ip.linodeusercontent.com
 172-232-123-21.ip.linodeusercontent.com
@@ -806,6 +808,7 @@
 20four7.no-ip.biz
 20junok.duckdns.org
 20million.ddns.net
+21.157.72.34.bc.googleusercontent.com
 211.ip.ply.gg
 212.224.88.253.sslip.io
 212.227.211.81.nip.io
@@ -1201,7 +1204,6 @@
 99.177.67.34.bc.googleusercontent.com
 994safeweb.store
 994super.site
-99avip.online
 99grams.hopto.org
 99light.ddns.net
 9alo-garo.no-ip.org
@@ -2263,7 +2265,6 @@ alex123123123141-56619.portmap.host
 alexalex.no-ip.info
 alexanderhk228.hopto.org
 alexbastie.no-ip.org
-alexbp.ddns.net
 alexdaprophet-48452.portmap.host
 alexfy76.top
 alexhack95.no-ip.org
@@ -2604,6 +2605,7 @@ andrew.techdrax.de
 andrew566-21312.portmap.io
 andriod-apk.bounceme.net
 android-update.servehttp.com
+android.l3harris.pro
 android321.no-ip.info
 androidapk.ovh
 androidmedallo.duckdns.org
@@ -3248,6 +3250,7 @@ awindakizend.com
 awjefewjfqwe.shop
 aworldmorebright.com
 awoware.ddns.net
+aws-apps.net
 awsglobalaccelerator.awsliveec.com
 awshosting.bit
 awsomehacks21.no-ip.org
@@ -4013,7 +4016,6 @@ bloxstrap.theworkpc.com
 blsops.com
 blue-fog-95386.pktriot.net
 blue.theinternetsupply.com
-bluegaslamp.org
 blueivy2004.no-ip.org
 bluejackover.com
 bluelightning.zapto.org
@@ -4818,6 +4820,7 @@ cdn-delivery.fortaxen.com
 cdn-ext.net
 cdn-hackersdobem.com
 cdn-img.io
+cdn-lnk-075.epsonupdate.uk
 cdn-new-dwnl.site
 cdn-prok.site
 cdn-uk.widgetsfordeploy.com
@@ -7263,9 +7266,6 @@ delightson.ddns.net
 delikral.mywire.org
 delikralll.dyndns.org
 delivernoteturnwjkl.fun
-deliverr02.top
-deliverr03.top
-deliverr04.top
 delooyp.com
 delta212.ddns.net
 deltafaisca.no-ip.biz
@@ -7397,8 +7397,6 @@ dfgfdsaghewedfg-36753.portmap.host
 dfghgfrdsdcvgtrdxcvplkopsdsdsz.con-ip.com
 dfghsfgsjsk.duckdns.org
 dfgy.shop
-dfive5pn.top
-dfive5vt.top
 dfjdgxm3753u744h.at
 dfjfglklihilughgf434wdfg.cfd
 dfjoiners.com
@@ -7580,8 +7578,6 @@ dl.info-163.com
 dl.shop-pro.cn
 dl.tehranuniversity.website
 dlersalm.no-ip.biz
-dleven11pn.top
-dleven11vt.top
 dlink.host
 dlink.no-ip.org
 dlitryuzoneu.sytes.net
@@ -7609,8 +7605,6 @@ dms.mrface.com
 dmx22.no-ip.biz
 dnc.faqserv.com
 dndzh457thdhjk.at
-dnein9pn.top
-dnein9vt.top
 dnets.ddns.net
 dnetspi.sh
 dng.dns05.com
@@ -7808,8 +7802,6 @@ donatelo783.duckdns.org
 donbo13.ddns.net
 dondebaloon.pro
 dondns.no-ip.org
-done1pn.top
-done1vt.top
 donelpacino.ddns.net
 dongreg202020.duckdns.org
 dongreg202020.kozow.com
@@ -7994,10 +7986,6 @@ dsadw33fdsfs.buzz
 dsb.mrbasic.com
 dsc.faqserv.com
 dsc001.crabdance.com
-dseit8pn.top
-dseit8vt.top
-dseven7pn.top
-dseven7vt.top
 dsf.baidusec.top
 dsf.faqserv.com
 dsfa.fartit.com
@@ -8010,8 +7998,6 @@ dsg.dns05.com
 dsgrrrgfgf.duckdns.org
 dsh.mg.qiluqhapp.vip
 dsijfiudsfiashvu7ds43.xyz
-dsix6pn.top
-dsix6vt.top
 dsl-135-108.bl26.telepac.pt
 dslam.net
 dsm-sea.softether.net
@@ -8025,12 +8011,6 @@ dsrgdsfgdf.duckdns.org
 dst.faqserv.com
 dstrbnc.com
 dtbvira.zapto.org
-dten10pn.top
-dten10vt.top
-dthre3pn.top
-dthre3vt.top
-dtwelve12pn.top
-dtwelve12vt.top
 du4alr0ute.sendsmtp.com
 du7wh8bicca0t.cloudfront.net
 duartesantiagoji22.con-ip.com
@@ -8266,6 +8246,7 @@ ec2-18-134-234-207.eu-west-2.compute.amazonaws.com
 ec2-18-135-210-230.eu-west-2.compute.amazonaws.com
 ec2-18-142-44-78.ap-southeast-1.compute.amazonaws.com
 ec2-18-143-202-5.ap-southeast-1.compute.amazonaws.com
+ec2-18-153-179-54.eu-central-1.compute.amazonaws.com
 ec2-18-162-116-128.ap-east-1.compute.amazonaws.com
 ec2-18-166-249-66.ap-east-1.compute.amazonaws.com
 ec2-18-167-68-219.ap-east-1.compute.amazonaws.com
@@ -8321,6 +8302,7 @@ ec2-3-66-49-194.eu-central-1.compute.amazonaws.com
 ec2-3-68-111-52.eu-central-1.compute.amazonaws.com
 ec2-3-70-75-167.eu-central-1.compute.amazonaws.com
 ec2-3-76-100-131.eu-central-1.compute.amazonaws.com
+ec2-3-79-194-172.eu-central-1.compute.amazonaws.com
 ec2-3-8-28-84.eu-west-2.compute.amazonaws.com
 ec2-3-86-72-244.compute-1.amazonaws.com
 ec2-3-94-121-196.compute-1.amazonaws.com
@@ -8378,6 +8360,7 @@ ec2-52-17-201-157.eu-west-1.compute.amazonaws.com
 ec2-52-17-224-71.eu-west-1.compute.amazonaws.com
 ec2-52-194-222-149.ap-northeast-1.compute.amazonaws.com
 ec2-52-200-215-250.compute-1.amazonaws.com
+ec2-52-200-22-116.compute-1.amazonaws.com
 ec2-52-202-108-119.compute-1.amazonaws.com
 ec2-52-202-179-126.compute-1.amazonaws.com
 ec2-52-202-66-46.compute-1.amazonaws.com
@@ -11226,6 +11209,7 @@ hdviet.tv-vn.com
 head-transit.at.ply.gg
 healdieplayeriw.fun
 healings.duckdns.org
+healthpips.com
 healthup.con-ip.com
 hearpoundesweety.pw
 heartbreaking.ru
@@ -12811,7 +12795,6 @@ jsqur.com
 jstreco.myftp.biz
 jswork.ddns.net
 jswork.duckdns.org
-jtexpress.life
 juanbouyant.ddns.net
 juancaf4000.duckdns.org
 juanconrradolora09.duckdns.org
@@ -14426,6 +14409,7 @@ macho.hopto.org
 mack2.3utilities.com
 macking.duckdns.org
 macmax13.dynalias.org
+maconlineoffice.com
 macrim.duckdns.org
 macsucc.ddns.net
 mad-spot.no-ip.info
@@ -14506,6 +14490,7 @@ mail.143-198-109-200.cprapid.com
 mail.159-203-95-49.cprapid.com
 mail.159-65-168-135.cprapid.com
 mail.159-89-8-28.cprapid.com
+mail.161-35-239-147.cprapid.com
 mail.193-149-185-196.cprapid.com
 mail.194-233-74-255.cprapid.com
 mail.195-85-207-218.cprapid.com
@@ -15114,6 +15099,7 @@ mercedes.con-ip.com
 mercenarywarzone.ddns.net
 mercerx.no-ip.org
 mercipotobibi.crabdance.com
+merckllc.top
 mercyandgrace.duckdns.org
 merosh.zapto.org
 mertc.no-ip.org
@@ -15181,6 +15167,7 @@ mickeyjones.ddns.net
 micomico.ddns.net
 micorrsoft.com
 micosto.no-ip.biz
+microbanafler.com
 microdotoffice.shop
 microflawersj.xyz
 microhost.hopto.org
@@ -15647,7 +15634,6 @@ moneybank.ddns.net
 moneybiz.sytes.net
 moneycaptain.duckdns.org
 moneyds.ddns.net
-moneymagnetjoe.duckdns.org
 moneymaker.con-ip.com
 moneymaker.dynuddns.net
 moneymaketime.duckdns.org
@@ -15680,6 +15666,7 @@ mony.no-ip.biz
 mooaminf.ddns.net
 moodanvoterowklam.fun
 moodelstore.tel
+moodle1.feja111.de
 moom99.ddns.net
 moon.oast.cyobs.com
 moon.spartabig.com
@@ -16684,8 +16671,6 @@ netcatclink.ddns.net
 netccwomo.duckdns.org
 netcos.mooo.com
 netdevstudio.com
-netdisk.780wow.com
-netdisk.ddnsgeek.com
 netfamily.windowshost.ru
 netflix32.duckdns.org
 nethalpop.sytes.net
@@ -17153,6 +17138,7 @@ nothinghack.no-ip.biz
 nothingissecurelol.chickenkiller.com
 nothinglike.ac.ug
 notifications-sec.com
+notifications.deenpel.com
 notifications.google.secureapp.tools
 notifications.wa-info.com
 notify.003random.com
@@ -18926,6 +18912,7 @@ q1w2e3r4.no-ip.org
 q22k.ddns.net
 q3472884397.e2.luyouxia.net
 q56.no-ip.biz
+qa-dhs.wavenet-solutions.com
 qaher123.ddns.net
 qak8s.vunet.io
 qanaslraq.ddns.net
@@ -20111,6 +20098,7 @@ ruwedolki.pw
 rv0day47.ddns.net
 rvc.fartit.com
 rvng.dyndns.org
+rw1.dbgblack.com
 rwan.no-ip.biz
 rwanda1010.duckdns.org
 rwoodrowyioay.com
@@ -20387,6 +20375,7 @@ saifozi.fun
 saifxdtree.no-ip.biz
 saikuzen-49289.portmap.io
 sailingbeneath.ddns.net
+saintelzearlava.com
 sair.my03.com
 sajaaliraqe.ddns.net
 sajad123455sajad.no-ip.biz
@@ -21019,6 +21008,7 @@ service32.sytes.net
 servicedesk-solutions.net
 servicefacebook.serveftp.com
 servicefr.no-ip.biz
+serviceicloud.com
 servicemicro.publicvm.com
 servicepub.no-ip.biz
 services-ptclnetpk.servehttp.com
@@ -22045,6 +22035,7 @@ static.113.214.202.116.clients.your-server.de
 static.114.176.21.65.clients.your-server.de
 static.117.166.109.65.clients.your-server.de
 static.123.87.21.65.clients.your-server.de
+static.129.149.13.49.clients.your-server.de
 static.131.152.90.157.clients.your-server.de
 static.136.152.108.65.clients.your-server.de
 static.146.243.217.95.clients.your-server.de
@@ -23331,6 +23322,7 @@ traincaster.net
 trainlove.monster
 tramikora.com
 trampudo.ddns.net
+trans1ategooglecom.com
 transautomanf.com
 transferhost.servehttp.com
 transitcapo.duckdns.org
@@ -23806,7 +23798,6 @@ urtyest29458iurtpes4est.duckdns.org
 urualla.duckdns.org
 urualla3.duckdns.org
 us-brave.com
-us-central1-fluted-helper-362414.cloudfunctions.net
 us-east-63815.packetriot.net
 us-east-65319.packetriot.net
 us-paymetech.com
@@ -23828,19 +23819,6 @@ usagers.antai.webgouv.fr.89-163-255-130.plesk.page
 usagers.antai.webgouv.info
 usb.p-e.kr
 usd7o88wemlutx5.xyz
-usdeliver06.top
-usdeliver08.top
-usdeliver1.top
-usdeliver11.top
-usdeliver16.top
-usdeliver166.top
-usdeliver168.top
-usdeliver18.top
-usdeliver19.top
-usdeliver2.top
-usdeliver3.top
-usdeliver68.top
-usdeliver69.top
 usdseancer.fun
 usdseancer.xyz
 use-courses.at.ply.gg
@@ -24266,6 +24244,7 @@ vpn-ptclnetpk.servehttp.com
 vpn-v2rynge-ir.tk
 vpn.cy-security.de
 vpn.manuelsterner.de
+vpn.nsfocus.cn.com
 vpn.www.wap.axile.su
 vpn145403011.softether.net
 vpn185481911.softether.net
@@ -24554,6 +24533,7 @@ webdisk.avenueconsulting.co
 webdisk.axile.su
 webdisk.biswapvoilet.com
 webdisk.cad-con-systemplanung.de
+webdisk.dnl-l.ooguy.com
 webdisk.psd2.info.87-121-52-23.cprapid.com
 webdisk.ripplendt.com
 webdisk.vrfonline247.com
@@ -25334,6 +25314,7 @@ www.kesaihk.com
 www.kesselfoodmarket.com
 www.kfsldieuwq.online
 www.kitehites.com
+www.kitrknis.com
 www.klaster.pp.ua
 www.kmickejbb9.de
 www.krypto.itwu.pl
@@ -25564,7 +25545,6 @@ www.ugodengerguard.xyz
 www.undiny.ru
 www.unruffled-heyrovsky.68-183-220-248.plesk.page
 www.upadte-reviewer-online.live
-www.upgrad3.cc
 www.upm8p8ooh1klfdfmgroup.top
 www.uriramenperu.com
 www.usagers.antai.webgouv.fr.89-163-255-130.plesk.page
@@ -25673,6 +25653,7 @@ x2d.no-ip.biz
 x2xmsf.no-ip.info
 x33.no-ip.biz
 x357x.no-ip.biz
+x3qc.com
 x3r0x3.dyndns.org
 x3r0x3.zapto.org
 x3u.pw
