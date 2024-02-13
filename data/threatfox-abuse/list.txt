@@ -114,7 +114,6 @@
 10minions.top
 11.ip-217-182-170.eu
 110.55.83.34.bc.googleusercontent.com
-1105181.com
 110xxx.zapto.org
 1110.hopto.org
 111220402011.no-ip.org
@@ -136,8 +135,6 @@
 121.58.209.35.bc.googleusercontent.com
 1213454.com
 1213455.com
-1213457.com
-1213458.com
 1215466.com
 121991dec.ddns.net
 123.ks1.in
@@ -150,7 +147,6 @@
 1234567bbbhasn.ddns.net
 123456z.ddns.net
 12345rizgar.ddns.net
-1239988.com
 123defsq.duckdns.org
 123eer.hopto.org
 123ght123.hopto.org
@@ -169,7 +165,6 @@
 12tainss1s.xyz
 1319510.com
 1319551.cc
-1319553.com
 1319554.com
 1319556.com
 1319557.com
@@ -763,6 +758,7 @@
 1988life.myq-see.com
 1989.ddns.net
 199-101-135-49.cprapid.com
+199.60.149.34.bc.googleusercontent.com
 1991.no-ip.org
 1997.bounceme.net
 19ap22.duckdns.org
@@ -830,6 +826,7 @@
 2280678.com
 229.ip.ply.gg
 23-101-206-34.cprapid.com
+23-26-55-9.cprapid.com
 23-29-115-179.static.hvvc.us
 23.105.197.219.16clouds.com
 23112020.ddns.net
@@ -989,6 +986,7 @@
 44u.no-ip.org
 45-11-181-30.cprapid.com
 45-56-105-235.ip.linodeusercontent.com
+45-79-196-203.ip.linodeusercontent.com
 45-93-139-24.cprapid.com
 45prinilop.xyz
 4610215325.redirectme.net
@@ -1069,6 +1067,7 @@
 62-210-207-211.rev.poneytelecom.eu
 62.204.140.34.bc.googleusercontent.com
 623start.site
+64-225-100-2.cprapid.com
 64.54.176.34.bc.googleusercontent.com
 65.15.168.34.bc.googleusercontent.com
 65.49.210.124.16clouds.com
@@ -1165,6 +1164,7 @@
 88-99-71-225.cprapid.com
 8816.hopto.org
 8830.sygcarpets.com
+883217.cc
 8888.icodework.com
 8888.tshacks.online
 88blakejames.ddns.net
@@ -2693,6 +2693,7 @@ anrfrm.msn.com
 anrnet.servegame.com
 anrun.kr
 anservusa.com
+ansible-tower-pocket-node1.validatorsheaven.network
 ansrt.duckdns.org
 ansynmoney.duckdns.org
 ant-ec.duckdns.org
@@ -3690,6 +3691,7 @@ benztel.hopto.org
 bequick58302.com
 berlin777.duckdns.org
 berlinqua.duckdns.org
+berlyndnero.duckdns.org
 berlynm98.duckdns.org
 bernardo10.no-ip.org
 berryttttiere.duckdns.org
@@ -7412,6 +7414,7 @@ dftyuj.duckdns.org
 dfvzfvd.help
 dfwfdsfsdasd.project-nightfall.com
 dfxczaqwvcutbnmewxvfqwercfgrwzxcdcdfvgws.ydns.eu
+dgaf.catboy.me
 dgdhsisj.ddns.net
 dgever.ddns.net
 dgfh.dns05.com
@@ -8418,6 +8421,7 @@ ec2-54-83-16-102.compute-1.amazonaws.com
 ec2-54-83-75-196.compute-1.amazonaws.com
 ec2-54-85-136-8.compute-1.amazonaws.com
 ec2-54-86-130-105.compute-1.amazonaws.com
+ec2-54-86-17-63.compute-1.amazonaws.com
 ec2-54-87-191-236.compute-1.amazonaws.com
 ec2-54-89-151-191.compute-1.amazonaws.com
 ec2-54-89-165-37.compute-1.amazonaws.com
@@ -9269,7 +9273,6 @@ fars00.zapto.org
 fartgul.duckdns.org
 fartmonkey9000.mooo.com
 fartyfun.fun
-farulig.us
 fasdas.link
 fashionhot.no-ip.biz
 fashoct.duckdns.org
@@ -9480,6 +9483,7 @@ fikilederes.club
 filandes72.duckdns.org
 filas0.zapto.org
 file.baidu-cdn.cloud
+file.fmwhat.download
 filersed.com
 files-gate.com
 files.axile.su
@@ -10661,6 +10665,7 @@ grifter.no-ip.org
 grilledwings.top
 grimbo151.no-ip.biz
 grimfuck.no-ip.org
+grinevitchnicolas.fvds.ru
 grivenop.duckdns.org
 groakdlaskdnaskd.xyz
 groannysoapblockedstiw.site
@@ -10990,6 +10995,7 @@ hadkhadma.hopto.org
 hadoop1.bizinso.com
 hadrqlo.ddns.net
 hadzija.duckdns.org
+haha.skyljne.click
 haha2424.zapto.org
 hahaha12.no-ip.org
 hahalol.ddns.net
@@ -12489,6 +12495,7 @@ janomo.duckdns.org
 januszpawlacz.mooo.com
 janvip.no-ip.org
 janwiggins-29366.portmap.io
+janxworm9090.duckdns.org
 japanese-valid.at.ply.gg
 japanese-youth.gl.at.ply.gg
 jaratali.no-ip.biz
@@ -13947,6 +13954,7 @@ linkappd.link
 linked-42.com
 linked-66.com
 linked-88.com
+linkerjeki.fun
 linkers-92.com
 linkhj764.com
 linkjshw-4.com
@@ -14940,6 +14948,7 @@ mazi.ddns.net
 mazotek.no-ip.biz
 mazsertoph.site
 mazuoon.zapto.org
+mb-testing.azureedge.net
 mb22mb.duckdns.org
 mba.sytes.net
 mbahuck.no-ip.biz
@@ -15364,7 +15373,6 @@ minharola.hopto.org
 minhkhanh62.no-ip.org
 minimike.quest
 minimum-certainly.at.ply.gg
-mining8.cc
 minipepitoo.no-ip.info
 minishtab.cyou
 minjihuws.kro.kr
@@ -19727,6 +19735,7 @@ report1.duckdns.org
 report59.duckdns.org
 reportbox0.duckdns.org
 reportss.duckdns.org
+reporttest.rubecon.co.za
 repuhlsive.no-ip.biz
 requiredhome.ru
 rere.e3.luyouxia.net
@@ -21616,6 +21625,7 @@ smss40.plantandobranco.com
 smsv4.ufcfan.org
 smt.faqserv.com
 smtc.qantas.aeromexico.foundation
+smtp.pioneerprinters.co.uk
 smtp.yassine-bolard.nl
 smtp12.smtplab.com
 smtp37-1.mailer.expandtrack.com
@@ -21736,7 +21746,6 @@ solex-feb.duckdns.org
 solid.lionhealthpharmacy.com
 solnft-api.freedmtools.com
 solo.chessregister.rss-search.anondns.net
-solopodvip-my.xyz
 solosavoia.no-ip.org
 solutionoutlineplaint.fun
 som2020.zapto.org
@@ -21934,6 +21943,7 @@ srv01.airdns.org
 srv59.resgatetitularidade.com
 srv82054434.ultasrv.net
 srvr2.callofdutyserver.pw
+srxy123.is-a-geek.com
 ss-pentest.xyz
 ss123.ddns.net
 ss1sda1231fsdf.ddns.net
@@ -22052,6 +22062,7 @@ static.113.214.202.116.clients.your-server.de
 static.114.176.21.65.clients.your-server.de
 static.117.166.109.65.clients.your-server.de
 static.123.87.21.65.clients.your-server.de
+static.127.103.78.5.clients.your-server.de
 static.129.149.13.49.clients.your-server.de
 static.131.152.90.157.clients.your-server.de
 static.136.152.108.65.clients.your-server.de
@@ -22068,6 +22079,7 @@ static.188.94.69.159.clients.your-server.de
 static.189.116.12.49.clients.your-server.de
 static.190.83.78.5.clients.your-server.de
 static.191.178.46.78.clients.your-server.de
+static.197.203.76.144.clients.your-server.de
 static.2.125.99.88.clients.your-server.de
 static.21.151.243.136.clients.your-server.de
 static.211.7.203.116.clients.your-server.de
@@ -27647,7 +27659,6 @@ ypothesisabo.top
 ypovrixios.no-ip.info
 yrnwhathapenn.ddns.net
 ys.jyys.live
-ys035.tv
 ysef1999norhan.ddns.net
 ysnirix.ddns.net
 ytka.duckdns.org
