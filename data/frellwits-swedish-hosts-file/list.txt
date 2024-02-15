@@ -256,6 +256,7 @@ cdn.shareaholic.net
 cdn.snigelweb.com
 cdn.speedcurve.com
 cdn.sprida.se
+cdn.stat-track.com
 cdn.subscribers.com
 cdn.taboola.com
 cdn.unblockia.com
