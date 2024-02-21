@@ -493,6 +493,7 @@ ad.cn.doubleclick.net
 ad.cooks.com
 ad.crwdcntrl.net
 ad.daum.net
+ad.dev.360.cn
 ad.digitallook.com
 ad.domainfactory.de
 ad.doubleclick.net
@@ -508,6 +509,7 @@ ad.fout.jp
 ad.foxitsoftware.com
 ad.foxnetworks.com
 ad.fr.doubleclick.net
+ad.gamebox.360.cn
 ad.garenanow.com
 ad.go.com
 ad.goo.ne.jp
@@ -4869,6 +4871,7 @@ c.pub.network
 c.quantserve.com
 c.r10.mopub.com
 c.riskified.com
+c.sayhi.360.cn
 c.scorecardresearch.com
 c.siteswithcontent.com
 c.srvpcn.com
@@ -5351,7 +5354,6 @@ cdn.onesignal.com
 cdn.onscroll.com
 cdn.onthe.io
 cdn.optad360.net
-cdn.optimizely.com
 cdn.orgxts.com
 cdn.otm-r.com
 cdn.otnolatrnup.com
@@ -5726,6 +5728,7 @@ ck.connatix.com
 ck.jads.co
 ck.juicyads.com
 ckm.iqiyi.com
+ckmap.mediav.com
 ckojwaarrruc.com
 cks.connatix.com
 cl-data-f.ads.heytapmobi.com
@@ -5986,6 +5989,7 @@ cm.gammadsp.com
 cm.gammaplatform.com
 cm.idealmedia.io
 cm.mgid.com
+cm.pos.baidu.com
 cm.rdr.creativecdn.com
 cm.send.microad.jp
 cm.send.microadinc.com
@@ -6011,6 +6015,7 @@ cms.galaxiemedia.fr
 cms.novaon.asia
 cms.quantserve.com
 cms.surfcountor.com
+cms.tanx.com
 cmsanalytics.admicro.vn
 cmuagflkeodx.com
 cmws.iad.apple.com
@@ -7088,6 +7093,7 @@ devjira-ext.conversantmedia.com
 dewierhagger.com
 dewiestsards.com
 dezf3o8j9jdt6.cloudfront.net
+df.tanx.com
 dfbanners.com
 dfeacdftidpu.com
 dfnb-ads.com
@@ -7646,6 +7652,7 @@ eeksoabo.com
 eemauroo.com
 eemmlhcuydso.com
 eensoans.com
+ef-dongfeng.tanx.com
 ef.alcmpn.com
 efetotjnrjbntto.com
 effacedefend.com
@@ -7826,6 +7833,7 @@ et-code.ru
 et-eus.w.inmobi.com
 et.nytimes.com
 et.outbrain.com
+et.tanx.com
 et.w.eastus.trafficmanager.inmobi.com
 et.w.inmobi.com
 et2.w.inmobi.cn
@@ -9574,6 +9582,7 @@ ifintbotches.life
 iframe.adxxx.com
 iframe2.adxxx.com
 ifrb.a8.net
+ifsk2.tanx.com
 igbiraintsv.com
 ignaik.tenmax.io
 ignite.adtima.vn
@@ -10463,6 +10472,7 @@ keywee.co
 keyword.ad.daum.net
 keywordblocks.com
 kfeawfjatxpi.com
+kgb-ifs.tanx.com
 kgdvs9ov3l2aasw4nuts.com
 kgfjrb711.com
 kh.suno.vn
@@ -15174,6 +15184,7 @@ s-static.innovid.com
 s-usweb.dotomi.com
 s-video.innovid.com
 s.1ts18.top
+s.360.cn
 s.aaxads.com
 s.adroll.com
 s.ads.152media.com
@@ -15244,6 +15255,7 @@ s.tribalfusion.com
 s.truepush.com
 s.trvdp.com
 s.tuoitre.vn
+s.union.360.cn
 s.update.3lift.com
 s.update.a-mo.net
 s.update.adsrvr.org
@@ -16474,6 +16486,7 @@ stas.outbrain.com
 stat-rock.com
 stat.cliche.se
 stat.dealtime.com
+stat.e.tf.360.cn
 stat.flashtalking.com
 stat.flygame.io
 stat.hackedonlinegames.com
@@ -16481,6 +16494,7 @@ stat.headlines.pw
 stat.i3.dmm.com
 stat.jscount.com
 stat.letv.com
+stat.m.360.cn
 stat.m.jd.com
 stat.media
 stat.meitudata.com
@@ -17933,6 +17947,7 @@ tracking.trafficjunky.net
 tracking.tv.zing.vn
 tracking.tvet-vietnam.org
 tracking.urekamedia.com
+tracking.v.tf.360.cn
 tracking.vegaid.vn
 tracking.vht.com.vn
 tracking.vietbao.vn
