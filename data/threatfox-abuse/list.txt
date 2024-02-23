@@ -186,6 +186,7 @@
 139-144-173-67.ip.linodeusercontent.com
 139-144-69-139.ip.linodeusercontent.com
 139-162-130-26.ip.linodeusercontent.com
+139-162-155-161.ip.linodeusercontent.com
 139-162-187-166.ip.linodeusercontent.com
 139-162-33-94.ip.linodeusercontent.com
 139-59-22-12.cprapid.com
@@ -1007,6 +1008,7 @@
 474ba67bdb289c6263b36dfd8.xyz
 482e6192z0.goho.co
 484848fg.twilightparadox.com
+49.183.246.35.bc.googleusercontent.com
 49.atk.im
 4949hamd.servegame.com
 498408.ddns.net
@@ -1139,6 +1141,7 @@
 78-157-163-36-static.silesnet.cz
 78.lan-so2-1.static.rozabg.com
 7896.sytes.net
+79-9-691.581-alps.qyhgroup.com
 79.137.194.188.sslip.io
 792c682w73.goho.co
 7980.duckdns.org
@@ -1488,7 +1491,6 @@ ad1.wensa.at
 ad2916985983.e2.luyouxia.net
 ad3s.no-ip.biz
 ad93.myq-see.com
-adaisreal.ddns.net
 adam1424.ddns.net
 adam150994.mooo.com
 adamkhattab.no-ip.biz
@@ -2511,7 +2513,6 @@ ameer.no-ip.org
 ameer1991.zapto.org
 ameerhacker2012.no-ip.biz
 ameerof.no-ip.org
-ameliachoi.autos
 amen03.no-ip.biz
 amendes.fr.webgouv.info
 amendes.webgouv.fr.89-163-255-130.plesk.page
@@ -2552,6 +2553,7 @@ amirmetarfi.ddns.net
 amjd.no-ip.info
 amlls.servegame.com
 amm.mine.nu
+amma.myftp.biz
 ammagedom.ddns.net
 amman.duckdns.org
 amnbec0.ddns.net
@@ -2750,7 +2752,6 @@ antonlmcmotor.ddns.net
 antonwright456.top
 antony2ok.duckdns.org
 antrasha.ddns.net
-antwanpittman.autos
 antyparkov.site
 anubisgod.duckdns.org
 anunankis10.duckdns.org
@@ -4690,7 +4691,6 @@ careeem.duckdns.org
 careers.dnkfinance.com
 carepassmedservices.com
 cargovan.top
-carindeza.com
 carizma.ddns.net
 carlaangaritape1.con-ip.com
 carlitosmoreno1793.duckdns.org
@@ -5686,7 +5686,6 @@ checkserversippool.xyz
 checkwise.ath.cx
 checkwise.zapto.org
 chedy83.no-ip.org
-cheenzocan.com
 chefboiisblack.com
 chefcafe.ddns.net
 chefdnshost.ddns.net
@@ -6266,7 +6265,6 @@ cloudeyes.duckdns.org
 cloudflairly.com
 cloudframehost.ddnsgeek.com
 cloudhoststatic.com
-cloudmetricsapp.com
 clouds.localhost-microsoft.com
 cloudsappert.best
 cloudserv.ddns.net
@@ -7108,6 +7106,7 @@ dashminimaltokens.xyz
 dashonlineclub.com
 dasreropolo.quest
 dastermordaster8.site
+data.iexcom.de
 data.shopvigil.com
 data22.no-ip.org
 data33.no-ip.org
@@ -7518,6 +7517,7 @@ difusao.no-ip.org
 dig.fuli-oa.cn
 digatjr.ddns.net
 digdag.sytes.net
+digital20.agriprotechx.com
 digitalcodecrafters.com
 digitalskillset1.com
 digor12.no-ip.biz
@@ -8484,6 +8484,7 @@ ec2-54-85-136-8.compute-1.amazonaws.com
 ec2-54-86-130-105.compute-1.amazonaws.com
 ec2-54-86-17-63.compute-1.amazonaws.com
 ec2-54-87-191-236.compute-1.amazonaws.com
+ec2-54-88-105-125.compute-1.amazonaws.com
 ec2-54-89-151-191.compute-1.amazonaws.com
 ec2-54-89-165-37.compute-1.amazonaws.com
 ec2-54-92-206-177.compute-1.amazonaws.com
@@ -8526,6 +8527,7 @@ ecs-80-158-62-19.reverse.open-telekom-cloud.com
 ecstatic-water-14400.pktriot.net
 ecuadorasyn.duckdns.org
 ecuadorcity.duckdns.org
+ecuaecua.duckdns.org
 ecutuning.ddns.net
 ed-cs.vizvaz.com
 ed-de.vizvaz.com
@@ -9639,7 +9641,6 @@ first1one.ddns.net
 firstblackphase.com
 firstcovo.pw
 fishboa.top
-fisheredwards.autos
 fisherman7.no-ip.biz
 fishmak.pw
 fisholl.xyz
@@ -10742,6 +10743,7 @@ greatness84.ddns.net
 greatnew.duckdns.org
 greatr.warzonedns.com
 greatzillart.ydns.eu
+grebiunti.top
 greedert56.cyou
 greedyclowns.org
 greedyfines.org
@@ -10771,6 +10773,7 @@ grilledwings.top
 grimbo151.no-ip.biz
 grimfuck.no-ip.org
 grinevitchnicolas.fvds.ru
+grinevitchnicolas4.fvds.ru
 grivenop.duckdns.org
 groakdlaskdnaskd.xyz
 groannysoapblockedstiw.site
@@ -11784,6 +11787,7 @@ hpnotiq.no-ip.biz
 hpwongrgbgames.ddns.net
 hpx360pavillon.ddns.net
 hqn.myvnc.com
+hr-helpdesk.org
 hr81ha8ah.ch
 hrauu3aga.ch
 hrefferlikol.cyou
@@ -11888,6 +11892,7 @@ hwarang.myddns.me
 hwsrv-1091010.hostwindsdns.com
 hwsrv-1100652.hostwindsdns.com
 hwsrv-1125909.hostwindsdns.com
+hwsrv-1126965.hostwindsdns.com
 hx9bemmexgold21.serveblog.net
 hxps15.no-ip.org
 hy-link.com
@@ -13309,7 +13314,6 @@ khalid.no-ip.info
 khalid123.sytes.net
 khalil-ca12.no-ip.biz
 khalil-soukahras.zapto.org
-khalilhunter.autos
 khangaii.ddns.net
 kharej.goldelya.tech
 khattab1987.ddns.net
@@ -13630,7 +13634,6 @@ krepkiystul.ru
 krepkiystul.su
 krieten.zapto.org
 krimo2015.noip.me
-krishalvarado.autos
 krkrme.no-ip.info
 kronosmagazine.com
 krugovayaporuka.ru
@@ -14083,6 +14086,7 @@ linkappd.link
 linked-42.com
 linked-66.com
 linked-88.com
+linkerfunyfile.store
 linkerjeki.fun
 linkers-92.com
 linkhj764.com
@@ -14569,6 +14573,7 @@ mafiaconnects.duckdns.org
 mafiadu48.no-ip.biz
 mafiadz.myq-see.com
 mafiaidol.myvnc.com
+mafiakorea.com
 mafianclub-41203.portmap.host
 mafija.no-ip.org
 mafolog.serveminecraft.net
@@ -15511,7 +15516,6 @@ minerchenzhi888.top
 minernumberone.org
 miners-gold.com
 minerz.duckdns.org
-minesotkarpid.com
 mingggu.kro.kr
 mingrelian.ddns.net
 mingrelian.duckdns.org
@@ -17020,6 +17024,7 @@ nhatminhvina.online
 nhopess.com
 nibiru33.duckdns.org
 nibiru333.duckdns.org
+nice-margulis.45-138-16-132.plesk.page
 nicedayforyou.ddns.net
 niceone20.cn
 nicephoto.biquaurall.site
@@ -18342,7 +18347,6 @@ pay.rockhvn.com
 pay1.duckdns.org
 pay1.ptsecurity.net
 payandhay.online
-payloads.one
 paymenthurb.duckdns.org
 paymentmaba.sinsincity.com
 paymentmonth.libfoobar.com
@@ -18601,7 +18605,6 @@ play.deenpel.com
 playboy.zapto.org
 player1.e3.luyouxia.net
 player23.no-ip.org
-playertinid.com
 playgo88.fun
 playgoogle.at
 playman0101.duckdns.org
@@ -19680,6 +19683,7 @@ realitygaming.us
 reallyweirdshowcase.duckdns.org
 realtekhoster.ddns.net
 realtopg-40301.portmap.io
+realusatruck.com
 reavctivationmeet.ru
 rebaz.no-ip.org
 rebazboy.ddns.net
@@ -19697,6 +19701,7 @@ recom-40698.portmap.io
 recommended-cia.at.ply.gg
 recomwest.duckdns.org
 reconphotocolor.xyz
+recruitis.josefbenjac.cz
 recruitment59.com
 recruitment60.com
 recruitment61.com
@@ -21127,7 +21132,6 @@ service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com
 service-9wkno0fh-1304892907.bj.apigw.tencentcs.com
 service-a83yg9pg-1307556005.gz.apigw.tencentcs.com
-service-a85mcmy2-1259015174.gz.apigw.tencentcs.com
 service-af2738sh-1259711277.sh.apigw.tencentcs.com
 service-aizhwq2o-1255155815.gz.apigw.tencentcs.com
 service-azqy7lup-1303896379.sh.tencentapigw.com
@@ -21146,7 +21150,6 @@ service-euf0eusq-1317136909.gz.apigw.tencentcs.com
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com
 service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
 service-fkkrrv8q-1307850644.gz.tencentapigw.com
-service-g1c0a353-1302650299.sh.apigw.tencentcs.com
 service-gw6u6362-1318524606.gz.apigw.tencentcs.com
 service-hsyluctr-1252427727.bj.tencentapigw.com
 service-http.servehttp.com
@@ -21187,7 +21190,6 @@ service-qsbfdyq7-1318430534.sh.apigw.tencentcs.com
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com
 service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com
-service-rsb9hux9-1258128533.cd.apigw.tencentcs.com
 service.net-freaks.com
 service.opposrv.top
 service.safaricom.workers.dev
@@ -21614,7 +21616,6 @@ sjokolade.duckdns.org
 sjsdfsddjhdjfadff.com
 skalleper.ddns.net
 skanfordiporka.com
-skansnekssky.com
 skatemax.sytes.net
 skcarriages.com
 ske9dhn.c1.biz
@@ -21791,7 +21792,6 @@ snf-893982.vm.okeanos.grnet.gr
 snhacker.ddns.net
 snick.myddns.rocks
 snick4059.ddns.net
-snipelhafer.com
 sniper-hack.no-ip.biz
 sniper-hacker.no-ip.biz
 sniper-speed.no-ip.org
@@ -21863,6 +21863,7 @@ softinstall.ug
 softonyxx.com
 softradar.net
 software.dth.wtf
+software.ftoffice.com
 softwarehost3.ddns.net
 softwareservice54.ddns.net
 softwaretrader.chickenkiller.com
@@ -22177,7 +22178,6 @@ starstar.duckdns.org
 start-up-plus.site
 startablekor.fun
 startedhere.ddns.net
-startinghpot.com
 startitit2-23969.portmap.host
 starton.no-ip.org
 startserver.no-ip.info
@@ -22250,6 +22250,7 @@ static.67.97.78.5.clients.your-server.de
 static.72.104.161.5.clients.your-server.de
 static.73.151.108.65.clients.your-server.de
 static.76.200.181.135.clients.your-server.de
+static.77.129.13.49.clients.your-server.de
 static.78.100.216.95.clients.your-server.de
 static.85.22.27.37.clients.your-server.de
 static.86.70.78.5.clients.your-server.de
@@ -22305,7 +22306,6 @@ steamuser1.no-ip.org
 steering.viewdns.net
 stefancar.no-ip.org
 stehulme.no-ip.org
-stelkaret.com
 stellacy.duckdns.org
 stellacy.tk
 step.descriptionscripts.com
@@ -22385,6 +22385,7 @@ strike44rus.ddns.net
 striker223.ddns.net
 stripchat15.com
 stripchat70.com
+striperouter.supelle.co
 strivemaxlogs.ddns.net
 stromox.hopto.org
 strongdomainsercgerhhost.com
@@ -23070,6 +23071,7 @@ the-maids.info
 the-mayhen.no-ip.org
 the-monible.no-ip.biz
 the-return.no-ip.org
+the.networkguru.com
 the.warnet.ignorelist.com
 theautocleanerext.com
 thebaste98.no-ip.org
@@ -23490,6 +23492,7 @@ traffic.hadaw.ml
 tragicdux.chickenkiller.com
 trailgroupl.net
 traincaster.net
+training-invasion.gl.at.ply.gg
 trainlog.de
 trainlove.monster
 tramikora.com
@@ -23525,7 +23528,6 @@ treintayunorem.duckdns.org
 trekwg110.top
 trelxh310.top
 tremdoamassa.duckdns.org
-tremethaj.com
 trenchesrelax.duckdns.org
 trend.stablelightway.com
 trendyfela.myftp.biz
@@ -23553,7 +23555,6 @@ tritonbody.fun
 trixhosting.ddnsgeek.com
 trizdriama.com
 trkkpxjzglxoqtrk.xyz
-troffyfrutlot.com
 trogen123.ddns.net
 troianteste.ddns.net
 trojan49.no-ip.org
@@ -23824,7 +23825,6 @@ ultimateplay.ddns.net
 ultimatuum.cyou
 ultrahack.no-ip.biz
 ultrascihictur.com
-ultrasnafpor.com
 ulvradar.no-ip.biz
 umang.chickenkiller.com
 umbrella2017.ddns.net
@@ -24703,7 +24703,6 @@ web.whatssapp.co
 web0-fnb.com
 web2014.ddns.net
 web3.hopto.org
-web365metrics.com
 webapi.hiplay777.cn
 webazssc.sytes.net
 webazsswebc.sytes.net
@@ -25027,7 +25026,6 @@ wirtzzemik.me
 wiskiriski15.duckdns.org
 wispy-hill-25808.pktriot.net
 wissamhd.ddns.net
-wisthardem.wiki
 withclier.com
 withdrawlecterns.fun
 witheveryregistration.click
@@ -27652,7 +27650,6 @@ yeet.3utilities.com
 yeetdskrt.ddns.net
 yeeternet.servehttp.com
 yekihackers.ddns.net
-yelkafeelind.com
 yellowcybergate.myftp.biz
 yellowpyrrol.com
 yellwells.com
