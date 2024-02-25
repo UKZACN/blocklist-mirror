@@ -1244,6 +1244,7 @@ a-y.website
 a.dbapps.top
 a.famsydev.top
 a.mynameisbasil.site
+a.oracleservice.top
 a.osslog.com
 a.servecounterstrike.com
 a.verbinding-voor-cobalt.nl
@@ -2369,7 +2370,6 @@ alinjrat8.no-ip.org
 aliosei.ddns.net
 alir3za.no-ip.info
 alirashad.ddns.net
-aliresulthostlogininc.duckdns.org
 alisala222.no-ip.biz
 alisalah777.no-ip.biz
 alisami.hopto.org
@@ -2810,7 +2810,6 @@ api.mcc-dspace.l2c2.co.in
 api.media.cpanel.staging.axile.su
 api.microsoft-service.workers.dev
 api.msservice.workers.dev
-api.nextgpt.fun
 api.niuwxt.haowusong.com
 api.nm.192-3-255-42.nip.io
 api.office-updates.org
@@ -2880,6 +2879,7 @@ apponfly.mywire.org
 appreciation-hub.azureedge.net
 apps.hongsheng6898.vip
 apps.myftp.org
+appserv.ddns.net
 appsoftwareupdate.com
 aprettopizza.world
 april-spec.at.ply.gg
@@ -3343,6 +3343,7 @@ azxsdc.duckdns.org
 azzimbuffy.com
 azzoodijdhgdr.com
 b.bd.gy
+b.oracleservice.top
 b.stats.paypal.secureapp.tools
 b.ta0ba0-com.com
 b.zdnsc.co
@@ -3627,9 +3628,7 @@ bdios8877.duckdns.org
 be09dd19.ddns.net
 beachterminaldiff.fun
 beacon.evilginx2.bio
-beacon.keremsarmis.com
 beacon.keremsarmis.xyz
-beacon2.keremsarmis.com
 beacon2.keremsarmis.xyz
 beaned.ddns.net
 bearkassad.no-ip.biz
@@ -4501,6 +4500,7 @@ c27.vslai.net
 c2cc.cf
 c3a37688828.ddns.net
 c4cerrah.dyndns.org
+c4k-ircd.pwndns.pw
 c4rme.com
 c55wccayla.info
 c6-v5.v2red.xyz
@@ -4875,7 +4875,6 @@ cdn.authenticateoffice.com
 cdn.clickandanalytics.com
 cdn.ctfmall.com
 cdn.dadadsadaccsoong.top
-cdn.google-cloudflare-static.store
 cdn.imango.ink
 cdn.jscriptstore.com
 cdn.kfsldieuwq.online
@@ -4899,6 +4898,7 @@ cdn3-adb2.online
 cdn3-adb2.ru
 cdn3-kit1.online
 cdn3.ru
+cdncloud.info
 cdnet-web.com
 cdnjscripts.com
 cdnjsdelivr.xyz
@@ -6260,6 +6260,7 @@ cloudeyes.duckdns.org
 cloudflairly.com
 cloudframehost.ddnsgeek.com
 cloudhoststatic.com
+cloudieapp.net
 clouds.localhost-microsoft.com
 cloudsappert.best
 cloudserv.ddns.net
@@ -6744,7 +6745,6 @@ cs1.accountsync.net
 cs1.dbgblack.com
 cs1.francy.world
 cs2.francy.world
-cs45up230823s.iqiyia.com
 cs45upb230906.iqiyid.com
 cs45upb230906a.iqiyid.com
 csa.itsaol.com
@@ -8123,6 +8123,8 @@ dv7lv4sds8ds5.hopto.org
 dvdymgb.no-ip.org
 dvrsoc.ddns.net
 dvsgfdda.duckdns.org
+dw.bpdeliver.ru
+dw.c4kdeliver.top
 dw.ohuyal.xyz
 dwdtte4wfjs0ds5.hopto.org
 dwdtte4wjfk8ds5.hopto.org
@@ -9414,6 +9416,7 @@ fbadearnings.com
 fbc.dns05.com
 fbdasfhdsfdshgiksd.shop
 fbdndfntr.duckdns.org
+fbi.su1001-2.top
 fbi101.ddns.net
 fbi177.no-ip.info
 fbkw.tk
@@ -10018,6 +10021,7 @@ fullppc.xyz
 fumeta.noip.me
 fun4.dynu.com
 fun420.no-ip.info
+funcallback.com
 functionalrejh.com
 funds-corp.no-ip.org
 funeralmaximumjsju.pw
@@ -12195,6 +12199,7 @@ insalahstar.no-ip.biz
 insanehh.no-ip.org
 insidelife1.ddns.net
 instac.duckdns.org
+instantchatapp.com
 instarobotics.club
 instarobotics.pw
 instruments-specials.at.ply.gg
@@ -12292,6 +12297,7 @@ ip2locate.ddns.net
 ip4.ip-149-56-203.net
 ip54.ip-162-19-175.eu
 ip96.ip-139-99-66.net
+ipadd.show
 ipaf3.sytes.net
 ipaf4.sytes.net
 ipaixincungduoc.hopto.org
@@ -12763,6 +12769,7 @@ jino57.fvds.ru
 jinodoplacecam.viewdns.net
 jinomoney.publicvm.com
 jinxzone.duckdns.org
+jira.letmaker.top
 jireh.con-ip.com
 jizagaws.online
 jj.byd66.cn
@@ -13450,6 +13457,7 @@ kirschbom.no-ip.org
 kirtasiye.myq-see.com
 kiryache.ddns.net
 kiscjxzsscvond.ddns.net
+kisel228.zapto.org
 kisliycorporait.hopto.org
 kissam.ddns.net
 kisslolo.shop
@@ -14784,6 +14792,7 @@ malam.ddns.net
 malamutealaska.duckdns.org
 malayska.ug
 malboro.servecounterstrike.com
+male-stephen.gl.at.ply.gg
 malekbb.no-ip.biz
 malhost.loca.lt
 mali.siegemachine.cn
@@ -14857,6 +14866,7 @@ manorpolora.com
 manos364.no-ip.org
 manouche.no-ip.org
 manss90.no-ip.biz
+manta.brasilia.me
 mantk123.no-ip.biz
 manuel3.publicvm.com
 many.praccountingandtax.com
@@ -15535,7 +15545,6 @@ minko.zz.am
 minnerbkajoy.com
 minokawa386-21101.portmap.host
 minoudz23.no-ip.biz
-mint-stl.ru
 mintaek.bounceme.net
 mintatrizza.com
 minutozhart.online
@@ -16721,6 +16730,7 @@ nationalteams11.publicvm.com
 natsudragneelsucksdick.chickenkiller.com
 nattyma.no-ip.biz
 natural-sugar.auto.playit.gg
+nature-dawn.gl.at.ply.gg
 naughty-elion.107-173-140-104.plesk.page
 nauhancs.duckdns.org
 nav232.no-ip.biz
@@ -18366,6 +18376,7 @@ pc.khenz-pc.com
 pcent4real.ddns.net
 pchacked.redirectme.net
 pcnewsesperanza.duckdns.org
+pcpanel.hackcrack.io
 pcpc64.ddns.net
 pctool.no-ip.org
 pctprogram.com
@@ -19074,6 +19085,7 @@ pvtrans.ydns.eu
 pw3922065test.ddns.net
 pwhfatal.ddns.net
 pwn.bar
+pwn.oracleservice.top
 pwn.safetygarden.ru
 pwndrop.aptiv-hr.com
 pwnx.pro
@@ -21145,7 +21157,6 @@ service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com
 service-c3p2vbb6-1313164119.gz.apigw.tencentcs.com
 service-cia1auek-1314775489.gz.apigw.tencentcs.com
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com
-service-dauzg94w-1258021343.gz.apigw.tencentcs.com
 service-dlsvfir0-1319620322.gz.tencentapigw.com
 service-e699j3k6-1259689902.gz.apigw.tencentcs.com
 service-euf0eusq-1317136909.gz.apigw.tencentcs.com
@@ -22082,6 +22093,7 @@ srpmx.ddns.net
 srryapi.store
 srsrytop52.no-ip.org
 srujana1.hopt.org
+srv.tamatri.co
 srv0.mbti.red
 srv0.offsec.mercedes-benz-techinnovation.com
 srv001e.feja111.de
@@ -22159,6 +22171,7 @@ staging.teg.london
 stainless0511.chickenkiller.com
 stainlessplc.ddns.net
 stairparliament.xyz
+stake.libertariancounterpoint.com
 stalker1.zapto.org
 stallkermonolit9.ddns.net
 stamprollabbeymemberw.site
@@ -22771,6 +22784,7 @@ talkmyown.kozow.com
 talkmyyown.kozow.com
 tallboy.zapto.org
 tamaliyoio.no-ip.biz
+tamatri.co
 tamer2003999.ddns.net
 tamera.ug
 tamidem.duckdns.org
@@ -23052,6 +23066,7 @@ th3pro2014.no-ip.biz
 th3w1zard1.no-ip.biz
 thala.zapto.org
 thamerr.no-ip.biz
+than-electoral.gl.at.ply.gg
 than.no-ip.biz
 thanh1590.no-ip.info
 thankforthisfdp.crabdance.com
@@ -25086,6 +25101,7 @@ words-cells.at.ply.gg
 wordst7512.net
 wordstt182.com
 wordz54.duckdns.org
+work.onlypirate.top
 work114.ddns.net
 workbox100.ignorelist.com
 workbox100.linkpc.net
@@ -25742,7 +25758,6 @@ www.ufcmmatv.com
 www.ugodengerguard.xyz
 www.undiny.ru
 www.unruffled-heyrovsky.68-183-220-248.plesk.page
-www.upadte-reviewer-online.live
 www.upm8p8ooh1klfdfmgroup.top
 www.uriramenperu.com
 www.usagers.antai.webgouv.fr.89-163-255-130.plesk.page
