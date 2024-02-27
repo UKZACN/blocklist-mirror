@@ -5481,6 +5481,7 @@ cdn.wiztube.xyz
 cdn.wootric.com
 cdn.wpm.neustar.biz
 cdn.xapads.com
+cdn.yodimedia.com
 cdn.yourwebbars.com
 cdn0.bnmla.com
 cdn01-creatives.showheroes.com
@@ -9741,6 +9742,7 @@ imgpromo.easyrencontre.com
 imgproxy.upsight.com
 imgs.jads.co
 imgs2.aanetwork.vn
+imgs2.yodimedia.com
 imgur.adsbynimbus.com
 imgx.jampp.com
 imhd.io
@@ -10378,6 +10380,7 @@ jsc.adskeeper.com
 jsc.idealmedia.io
 jsc.marketgid.com
 jsc.mgid.com
+jsc.yodimedia.com
 jscdn.appier.net
 jscdn.greeter.me
 jscount.com
@@ -20408,6 +20411,7 @@ yobiwhack.digital
 yoc-adserver.com
 yoc-performance.com
 yoc.mobi
+yodimedia.com
 yogar2ti8nf09.com
 yoggrt.com
 yomedia.vn

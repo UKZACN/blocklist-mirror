@@ -99,7 +99,6 @@ admixer.net
 admulti.com
 adn.insight.ucweb.com
 adonly.com
-adotsolution.com
 adpies.com
 adplatform.vrtcal.com
 adplex.co.kr
@@ -307,7 +306,6 @@ buzzonclick.com
 c.vrvm.com
 c2i.startappnetwork.com
 c2s.startappnetwork.com
-c3.myapkcdn.in
 c8.net.ua
 cad.youku.com
 cads.scalemonk.com
@@ -455,7 +453,6 @@ i.singular.net
 i.skimresources.com
 i16-tb.isnssdk.com
 i18n-pglstatp.com
-i2.myapkcdn.in
 i2ad.jp
 iad.appboy.com
 iads.unity3d.com
@@ -485,11 +482,9 @@ investingchannel.com
 iqzone.com
 itdsmr.com
 iyes.youku.com
-javacript.gq
 jioads.akamaized.net
 jssdk.rayjump.com
 justad.mobi
-kaffnet.com
 ketchapp.org
 keydot.net
 kiosked.com
@@ -559,7 +554,6 @@ mobilebanner.ru
 mobilecore.com
 mobiledl.adboe.com
 mobilefuse.com
-mobimagic.com
 mobon.com
 mobondhrd.appspot.com
 mobotoolpush.moboapps.io
