@@ -397,6 +397,7 @@ external.reseguiden.se
 ezodn.com
 f.convertkit.com
 fapp.pw
+faro-collector-prod-eu-west-0.grafana.net
 fastlane.rubiconproject.com
 feed.aservice.tools
 feedads.feedblitz.com
@@ -748,6 +749,7 @@ smtvn.112.2o7.net
 snap.licdn.com
 sneakersisverige.com
 source.advisible.com
+sp-eu.dev.polarbyte.com
 sp.tinymce.com
 spel.expressen.se
 sprinklecontent.com
