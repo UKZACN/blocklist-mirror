@@ -89,7 +89,6 @@
 1.libya-10.com.ly
 1.qy92v8t2ot.in
 1.remcosagent.com
-1.sybercodesilver.lol
 1.tcp.sa.ngrok.io
 1.ttss66.co
 1.txlu.top
@@ -706,6 +705,7 @@
 16547.org
 16570.cn
 167-172-234-147.ipv4.staticdns2.io
+167-71-186-178.ipv4.staticdns3.io
 16agostok.duckdns.org
 16deoctubre.duckdns.org
 17.cmananan.com
@@ -818,6 +818,7 @@
 20million.ddns.net
 21.157.72.34.bc.googleusercontent.com
 211.ip.ply.gg
+212-70-149-199.cprapid.com
 212.224.88.253.sslip.io
 212.227.211.81.nip.io
 212.ip.ply.gg
@@ -837,6 +838,7 @@
 2280678.com
 229.ip.ply.gg
 23-101-206-34.cprapid.com
+23-227-193-214.static.hvvc.us
 23-26-55-9.cprapid.com
 23-29-115-179.static.hvvc.us
 23.105.197.219.16clouds.com
@@ -2172,7 +2174,6 @@ aisviua77s.xyz
 aitcaid.com
 aivoicechanger.cc
 aivoicechanger.xyz
-aizedamanga.serveminecraft.net
 aje.ddns.net
 ajeeb.zapto.org
 ajohnston.duckdns.org
@@ -3104,6 +3105,7 @@ asser.sytes.net
 assessment-epinions.at.playit.gg
 assets.cnsinopecqh.vip
 assets.qiluqhapp.vip
+assets.samfund.co
 asshost.duckdns.eu
 asshost.duckdns.org
 asshost.ydns.eu
@@ -3138,6 +3140,7 @@ async2020.duckdns.org
 async2021.duckdns.org
 async95.duckdns.org
 asyncat.duckdns.org
+asyncfunctionapi.com
 asyncgeneration1.duckdns.org
 asyncman.duckdns.org
 asyncmoney.duckdns.org
@@ -3727,6 +3730,7 @@ benztel.hopto.org
 bequick58302.com
 berlin777.duckdns.org
 berlinqua.duckdns.org
+berlyndinero.duckdns.org
 berlyndnero.duckdns.org
 berlynm98.duckdns.org
 bernardo10.no-ip.org
@@ -3816,6 +3820,7 @@ bigissssss.zzux.com
 bigleaks3.ddns.net
 bigman2021.duckdns.org
 bigmoney.top
+bignas.shop
 bigpetsmall.ru
 bigscreenthrills.org
 bigshow2020.no-ip.biz
@@ -4260,6 +4265,7 @@ bpsta.no-ip.org
 bqzer4hack.ddns.net
 br13fack.warzonedns.com
 braidfadefriendklypk.site
+brainyworkslogos.com
 branderhostx.bid
 brasil.con-ip.com
 brasil.ddns.com.br
@@ -4691,6 +4697,7 @@ carapuce-2014.no-ip.biz
 carbonratv2.no-ip.biz
 card-conversation.at.playit.gg
 card.union-pay.vip
+cardiochallenge.at
 cardupdatation.in
 cardupdate.in
 care-strictly.at.ply.gg
@@ -6640,6 +6647,7 @@ cpcalendars.199-101-135-49.cprapid.com
 cpcalendars.23-101-206-34.cprapid.com
 cpcalendars.dnl-l.ooguy.com
 cpcalendars.fabsolution.net
+cpcalendars.inspirestudiosteam.com
 cpcontacts.199-101-135-49.cprapid.com
 cpcontacts.23-101-206-34.cprapid.com
 cpcontacts.94-156-66-187.cprapid.com
@@ -6736,6 +6744,7 @@ cryptersandtools.ddns.com.br
 cryptersandtools.hopto.org
 crypticgamings.com
 cryptoban.ddns.net
+cryptobetix.com
 cryptocrio.pw
 cryptocrio.top
 crypton0019.workers.dev
@@ -6836,7 +6845,6 @@ cx212x.ddns.net
 cx212xc.ddns.net
 cxww2.ddns.net
 cxxz.no-ip.biz
-cxzbn.com
 cxzcxz.zz.am
 cyber1.no-ip.biz
 cyber102.zapto.org
@@ -7604,6 +7612,7 @@ display.iha-medical.com
 displaymercials.com
 distance-deutsche.at.ply.gg
 distance-key.at.ply.gg
+distracted-cannon.104-168-102-175.plesk.page
 distracted-perlman.57-128-165-239.plesk.page
 distribucionesdiva.duckdns.org
 distributework.theworkpc.com
@@ -7721,6 +7730,7 @@ dns.stoneco.network
 dns.t0nger.com
 dns.thenewbees.org
 dns.trackgroup.net
+dns.trailcosolutions.com
 dns.tssrt.de
 dns.unitedromtech.com
 dns.ye0kr1n.top
@@ -8158,6 +8168,7 @@ dyarykarzan.no-ip.biz
 dyatnt.no-ip.biz
 dyia.myq-see.com
 dyloser.zapto.org
+dyn.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 dynamicinnovator.hopto.org
 dynasy12.ddnsking.com
 dynasy13.myddns.me
@@ -8387,7 +8398,9 @@ ec2-3-70-75-167.eu-central-1.compute.amazonaws.com
 ec2-3-76-100-131.eu-central-1.compute.amazonaws.com
 ec2-3-79-194-172.eu-central-1.compute.amazonaws.com
 ec2-3-8-28-84.eu-west-2.compute.amazonaws.com
+ec2-3-84-126-255.compute-1.amazonaws.com
 ec2-3-86-72-244.compute-1.amazonaws.com
+ec2-3-91-59-255.compute-1.amazonaws.com
 ec2-3-94-121-196.compute-1.amazonaws.com
 ec2-3-95-172-216.compute-1.amazonaws.com
 ec2-3-99-102-8.ca-central-1.compute.amazonaws.com
@@ -8404,6 +8417,7 @@ ec2-34-207-174-202.compute-1.amazonaws.com
 ec2-34-219-121-232.us-west-2.compute.amazonaws.com
 ec2-34-221-248-6.us-west-2.compute.amazonaws.com
 ec2-34-224-9-208.compute-1.amazonaws.com
+ec2-34-230-177-18.compute-1.amazonaws.com
 ec2-34-230-9-163.compute-1.amazonaws.com
 ec2-34-231-97-149.compute-1.amazonaws.com
 ec2-34-232-77-201.compute-1.amazonaws.com
@@ -9339,6 +9353,7 @@ fahzza.fun
 failover.ns.0692994.trip2health.com
 failsafe.zapto.org
 faircoupon.xyz
+fairyfoxgames.com
 faisal.zapto.org
 faisal0536.ddns.net
 faisal1337.ddns.net
@@ -9751,7 +9766,6 @@ fmsserver.dyndns.biz
 fmunity247.ddns.net
 fmw87907.no-ip.org
 fnansoft.dynu.com
-fnfactura.cfd
 fngmf4.ddns.net
 fnhost1.ddns.net
 fnns.sytes.net
@@ -10427,6 +10441,7 @@ getwiththelingo.com
 gewagg.hopto.org
 gezlibolibonserben.com
 gfbthemask.no-ip.biz
+gfdjlgkdjfgkdfjgkml.top
 gfeqqgeag.duckdns.org
 gfffhtdrtggdd654346.cfd
 gfhau1hacjj.com
@@ -14134,6 +14149,7 @@ leksey42.top
 lekyvu52.top
 leloprosto000.ddns.net
 lemaina.no-ip.biz
+lemon.haryadi.my.id
 lemonicecold.org
 lemonimonakio.com
 lemons.duckdns.org
@@ -14366,7 +14382,6 @@ lms.usaa.website
 lnein9pn.top
 lnein9sr.top
 lnein9vt.top
-loa.stamin.top
 load5th.casa
 loadatlantic.fit
 loadberlin.casa
@@ -15397,7 +15412,6 @@ meeti.ddns.net
 meeti.duckdns.org
 meeti.hopto.org
 meeti12.hopto.org
-meetlak.link
 mefumounpurito.no-ip.org
 mega378-fon.site
 megacomercialproservicesandnetworkingtelemarketing.online
@@ -15529,6 +15543,7 @@ mezla.site
 mezo1993.ddns.net
 mezomezo.ddns.net
 mfreshbnrem.ddns.net
+mg.inspirestudiosteam.com
 mgc001.hopto.org
 mghannam142142.ddns.net
 mgnoongmz.ddns.net
@@ -16674,7 +16689,6 @@ myaccount.google.secureapp.tools
 myafarisha.com
 myahadnan1.zapto.org
 myalectra.com
-myappforbqaxhtt.xyz
 myappsec.eu
 myb50.myddns.me
 mybaby.hopto.org
@@ -17813,7 +17827,6 @@ ntdc-govpk.viewdns.net
 ntdetect.ddns.net
 ntlplaast11.duckdns.org
 ntyart.no-ip.biz
-nu-confirmacaoemail.com
 nu.mmafan.biz
 nubiumbi.ru
 nucleardom.is-a-geek.com
@@ -19041,6 +19054,7 @@ pqahzam.ink
 pr00-x.no-ip.biz
 pr0fsn1p3r.myvnc.com
 pr0xy.cloud
+practical-black.104-168-102-175.plesk.page
 practical-goldwasser.2-58-113-220.plesk.page
 practical-hawking.159-89-8-28.plesk.page
 pradeepprabhu705.ddns.net
@@ -20124,7 +20138,6 @@ renatomandabemrs.no-ip.org
 rencos.ddns.net
 rencos121.duckdns.org
 rendinfo.shop
-rendnar.link
 rendomaname.duckdns.org
 reneesellers.autos
 renew-certificate.azureedge.net
@@ -20312,6 +20325,7 @@ rmonaasgysmankktxubastaezya.live
 rn72836.sytes.net
 rndaso.no-ip.info
 rnnfibi.hopto.org
+rns.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 road.peerscash.com
 roadswendy.top
 roasted-flag.auto.playit.gg
@@ -20380,6 +20394,7 @@ ronaldoxmbk.no-ip.biz
 ronappig.xyz
 ronreznick.com
 rony.ooguy.com
+ronymahmoud.casacam.net
 ronymahmoud.ddns.net
 ronymahmoud1993.webhop.me
 roof.spencerstuartllc.top
@@ -20916,7 +20931,6 @@ sandshoe.myfirewall.org
 sandyclark255.hopto.org
 sandyy.hopto.org
 sangredecristo.con-ip.com
-sanibroadbandcommunicton.duckdns.org
 sank99.pw
 sanmiguel2022.duckdns.org
 sanpedro1.duckdns.org
@@ -22345,6 +22359,8 @@ ssh.fartit.com
 ssh.urlcuts.com
 ssh.webmail.autodiscover.staging.axile.su
 ssj.fartit.com
+ssjcw.com.w.kunlunpi.com
+ssl.deenpel.com
 ssl.explorecell.com
 ssl.g-a.fun
 ssl.google.secureapp.tools
@@ -22724,7 +22740,6 @@ summerevent2023.com
 summersyz.duckdns.org
 summitegy2534.ddns.net
 sumo.hopto.org
-sundayjs7250.duckdns.org
 sungito.zklg.net
 sunkpapapay.me
 sunnysept.duckdns.org
@@ -22823,7 +22838,6 @@ svchost64.ddns.net
 svdjvhinvosdhfojsdfdffhdoflsnj.con-ip.com
 svetanakravenova248.ddns.net
 svhosts7.no-ip.org
-sviacloud.link
 svjhfviuerfvnojdsnvo.con-ip.com
 svoona8vdia88.ru
 svr.fspy.cf
@@ -22942,7 +22956,6 @@ t.flyfggfdbvcbvcbc.online
 t.freebs.ovh
 t.suicide-terrorism.com
 t.takaelot.com
-t.vchtzo.com
 t1.misu.se
 t121212.ddns.net
 t1492261251.e1.luyouxia.net
@@ -23839,6 +23852,7 @@ trust-flare.ru
 trust-flare.site
 trust-pepe.online
 trust.meldrez5x.xyz
+trustabletechsupport.com
 trustdwnl.site
 trustedhelp.chickenkiller.com
 trustednovusbanks.com
@@ -23914,7 +23928,6 @@ turquia111.duckdns.org
 tuskslacx.ug
 tustle.com
 tutoratderz.ddns.net
-tutorecd.ufcfan.org
 tuttotone.mooo.com
 tuxy.ddns.net
 tuytee01.top
@@ -24352,7 +24365,6 @@ vbatallafinal23.duckdns.org
 vbre231.no-ip.biz
 vbsecrett.mooo.com
 vccdata.duckdns.org
-vchtzo.com
 vcnnxfdf.duckdns.org
 vcrwtttywuuidqioppn1.com
 vcv.mastercoa.co
@@ -25701,6 +25713,7 @@ www.deltatradings-eg.com
 www.demo.pay.axile.su
 www.dev.axile.su
 www.dev.phpmyadmin.axile.su
+www.dirapushka.com
 www.dnl-l.ooguy.com
 www.domainsec.club
 www.doobiefly.com
@@ -25966,6 +25979,7 @@ www.porkchopsandwich.net
 www.postreq.net
 www.pr0xy.cloud
 www.practical-bardeen.89-163-255-130.plesk.page
+www.practical-black.104-168-102-175.plesk.page
 www.practical-hawking.159-89-8-28.plesk.page
 www.precisionrenovationri.com
 www.premier-stream.co.uk
