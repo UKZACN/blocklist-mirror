@@ -120,7 +120,6 @@ angry-golick-2a96e5.netlify.app
 annoncer.nichehuset.dk
 annons.svenskjakt.se
 annons.turist.se
-anonymousdemographics.com
 api.adfenix.com
 api.deep.bi
 api.fouanalytics.com
@@ -195,7 +194,6 @@ capi.connatix.com
 cargodisplayads.com
 carneoam.com
 casinotoplists.com
-caviera-sverige.shop
 ccjnhnqfnvsr3otokvf59ns52.litix.io
 cd.connatix.com
 cdn-0.d41.co
@@ -246,7 +244,6 @@ cdn.matomo.cloud
 cdn.maxetise.net
 cdn.myadmessenger.com
 cdn.onthe.io
-cdn.oribi.io
 cdn.permutive.com
 cdn.popt.in
 cdn.pushalert.co
@@ -396,7 +393,6 @@ extern.prisjakt.nu
 external.reseguiden.se
 ezodn.com
 f.convertkit.com
-fapp.pw
 faro-collector-prod-eu-west-0.grafana.net
 fastlane.rubiconproject.com
 feed.aservice.tools
