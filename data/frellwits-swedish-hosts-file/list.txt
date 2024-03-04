@@ -248,6 +248,7 @@ cdn.permutive.com
 cdn.popt.in
 cdn.pushalert.co
 cdn.pushcrew.com
+cdn.pushmaster-cdn.xyz
 cdn.qwtag.com
 cdn.reaktion.se
 cdn.relevant-digital.com
@@ -559,6 +560,7 @@ mega.vk.se
 meltwater.com
 metapic.se
 metrics.brightcove.com
+mgdk-cdn.relevant-digital.com
 micro.rubiconproject.com
 mindreskatt.se
 missaffiliate.com
@@ -981,6 +983,7 @@ tracking.vlt.se
 tracking.vn.se
 tracking.vxonews.se
 tracking.ystadsallehanda.se
+tradecore.tradehouse.media
 traffic.feedremedy.com
 trafficgateway.research-int.se
 trckr.nordiskemedier.dk
