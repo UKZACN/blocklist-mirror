@@ -147,6 +147,7 @@ ads.xlxtra.com
 ads.youtube.com
 adsapi.manhuaren.com
 adsapi.snapchat.com
+adsassets-ipv6.waze.com
 adsassets.waze.com
 adsbynimbus.com
 adsdk.vrvm.com
@@ -747,7 +748,6 @@ tappx.com
 tapsell.ir
 tapsense.com
 tapstat.ru
-tapulsads.ru
 targetspot.com
 tccbanner.com
 teachscape.vo.llnwd.net
