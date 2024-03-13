@@ -1062,6 +1062,7 @@
 7fxcmft-olcmjfjxdk.duckdns.org
 7noseqwa.no-ip.info
 7sh.no-ip.biz
+7t.nz
 7ud9qrg5spl8vjvc.online
 7zb.ddns.net
 7zn12sh.no-ip.org
@@ -1307,7 +1308,6 @@ acb.faqserv.com
 accept.ddns.net
 accept.gbdvs.shop
 access.londonpandl.com
-access.samp-loader.ru
 accessability042.ddns.net
 accored92.no-ip.org
 account-bendigo.com
@@ -2554,7 +2554,6 @@ api.officeserviced.com
 api.qantas.aeromexico.foundation
 api.qstories.today
 api.s1.maitianshanglv.cn
-api.samp-loader.ru
 api.speech-microsoft.com
 api.startservicefounds.com
 api.statisticsong.com
@@ -2567,6 +2566,7 @@ api.vidadworld.com
 api.www.staging.axile.su
 api10.laptok.at
 apiedoe.servebeer.com
+apifunctioncall.com
 apilsin.host.org
 apis.customerportalverify.store
 apis.deenpel.com
@@ -2814,6 +2814,7 @@ asweee.jumpingcrab.com
 aswwqexc.no-ip.biz
 asy.anondns.net
 asymmetricpartnership.com
+asyncawaitapi.com
 asyncfunctionapi.com
 aszx.ddns.net
 atacknet.no-ip.biz
@@ -3088,7 +3089,6 @@ baladarin3.no-ip.biz
 balagyan.no-ip.biz
 balayinkudi.duckdns.org
 balckhack.zapto.org
-baldu.wiki
 balkimraklire.cyou
 ballya99.ru
 baltlifeapp.com
@@ -3223,6 +3223,7 @@ bbbbbbbdss.no-ip.info
 bbc12345.no-ip.biz
 bbenson.ddns.net
 bblh.ddns.net
+bbo.microsoft360.xyz
 bbountydomain.com
 bbp2012.no-ip.biz
 bbshp.giize.com
@@ -3692,7 +3693,6 @@ bot.elite-likes.de
 bot.gsmgit.com
 bot.hamsterrace.space
 bot.pvp-rivals.com
-bot.samp-loader.ru
 bot.shop4youv2.de
 bot.wakeandbakealldaylong.com
 botbot.no-ip.info
@@ -4161,6 +4161,7 @@ catdp01ssprdu0000010uxyd8e9q6coyf.oast.fun
 catdp01ssprdu0000010yycapkey7xaey.oast.fun
 catdp01ssprdu0000010ztx3g6ap9heu4.oast.fun
 catfoodbio.xyz
+catgirls.network
 catsndogz.org
 cattzzz.no-ip.org
 catxxx.no-ip.org
@@ -4260,7 +4261,6 @@ cdn.ctfmall.com
 cdn.dadadsadaccsoong.top
 cdn.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 cdn.imango.ink
-cdn.jscriptstore.com
 cdn.kfsldieuwq.online
 cdn.lightsteper.com
 cdn.microsolt.top
@@ -5560,7 +5560,6 @@ cloudeyes.duckdns.org
 cloudflairly.com
 cloudhoststatic.com
 cloudieapp.net
-clouds.localhost-microsoft.com
 cloudsappert.best
 cloudservices.duckdns.org
 cloudsnike-my.xyz
@@ -5650,7 +5649,6 @@ collect.getmygateway.com
 collection.aixpirts.com
 collector.logins.services
 collins.ironoreprod.top
-collins.solariseng.icu
 cololo.myq-see.com
 colombiahack.sytes.net
 colombosuede.club
@@ -5888,11 +5886,9 @@ creepaownz.no-ip.biz
 creepybadger.com
 cresie.ddns.net
 cricket-live.net
-criminalaffair.com
 crinnack2.no-ip.biz
 cripts.dofollowgreenline.com
 crisisestimatehealtwh.site
-cristinaamaro.com
 cristinastanciu.com
 crlnegolamx.ddns.net
 crlslost.ddns.net
@@ -6499,7 +6495,6 @@ destroypc.no-ip.org
 detail.misecure.com
 detallado.no-ip.org
 detectiveman.com
-detectportalupdate.ru
 deteresposito.club
 dethracemalkawi.no-ip.biz
 dethracer.ddns.net
@@ -6522,7 +6517,6 @@ devil222.duckdns.org
 devil6669.ddns.net
 devilfromrs.no-ip.biz
 devopspdx.com
-devopszone.org
 devpoint.no-ip.info
 devqeury.org
 devyg72.top
@@ -6748,6 +6742,7 @@ dns.startservicefounds.com
 dns.startupmartec.net
 dns.stoneco.network
 dns.t0nger.com
+dns.tecbanis.com
 dns.thenewbees.org
 dns.trackgroup.net
 dns.trailcocompany.com
@@ -8310,7 +8305,6 @@ finance-govpk.serveftp.com
 finance.my-homeip.com
 financegovpk.servehttp.com
 financeptcl-govpk.servehttp.com
-financialservicesunion.com
 find.bestresulttostart.com
 findajobforme.linkedin.loginfor.me
 finders.hopto.org
@@ -12268,7 +12262,6 @@ linkqksi-3.com
 links-transition.gl.at.ply.gg
 links5675.ddns.net
 links5675q.ddns.net
-lintingdaun.com
 linuxbugs.online
 linuxhosts.ddns.net
 linvorodana.cyou
@@ -14006,7 +13999,6 @@ mowuqn.ga
 mowuqn.ml
 moy.tapoq.top
 mozilla309.no-ip.org
-mozk.top
 mozmoz911.no-ip.org
 mphnewconn.ddns.net
 mpr23-421-c2.westus2.cloudapp.azure.com
@@ -14522,7 +14514,9 @@ neighborhoodfeelsa.fun
 nekguh29.top
 nekisamja.no-ip.biz
 nekkfv311.top
+neko.ltd
 neko10.tplinkdns.com
+nekololis.ovh
 nekoqb212.top
 nekpmk211.top
 nekxiz312.top
@@ -14552,7 +14546,6 @@ nestpatchfillfavo.fun
 nestssow.ddns.net
 net-killer.online
 net-killer.servehttp.com
-net.mozk.top
 net.sells-it.net
 net7.dns9free.ru
 netbios.serveftp.com
@@ -15469,6 +15462,7 @@ oob-server.online
 oob.a.lex.fo
 oob.buzz
 oob.ciphron.net
+oob.microsoft360.xyz
 oob.recheck.ambionics.io
 oob.schellman.info
 oob.vrev.ninja
@@ -17270,6 +17264,7 @@ rverde.duckdns.org
 rw1.dbgblack.com
 rwan.no-ip.biz
 rwoodrowyioay.com
+rx.neko.ltd
 rxalp.direct.quickconnect.to
 rxgmo.no-ip.org
 rxjh.online
@@ -17968,7 +17963,6 @@ service-8rv78e5d-1319481525.sh.apigw.tencentcs.com
 service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com
 service-9wkno0fh-1304892907.bj.apigw.tencentcs.com
-service-a83yg9pg-1307556005.gz.apigw.tencentcs.com
 service-af2738sh-1259711277.sh.apigw.tencentcs.com
 service-aizhwq2o-1255155815.gz.apigw.tencentcs.com
 service-azqy7lup-1303896379.sh.tencentapigw.com
@@ -18331,7 +18325,6 @@ sion.con-ip.com
 siptestasets.com
 sipudye.mywire.org
 sirbanty.ddnsgeek.com
-sirr.tiscali.buzz
 sirr2.pearlgroup.icu
 sirsmith74.ddns.net
 sirt.linkpc.net
@@ -19264,7 +19257,6 @@ t.customerportalverify.store
 t.flyfggfdbvcbvcbc.online
 t.freebs.ovh
 t.suicide-terrorism.com
-t.takaelot.com
 t1.misu.se
 t121212.ddns.net
 t1492261251.e1.luyouxia.net
@@ -21538,7 +21530,6 @@ www.cpcalendars.ww1.img.cms.axile.su
 www.cranky-easley.142-11-199-59.plesk.page
 www.crash-it.it
 www.creditsail.com
-www.criminalaffair.com
 www.crypticgamings.com
 www.csmakrjet.pw
 www.currencyandsecurity.com
