@@ -963,7 +963,6 @@
 5.42.73.150.sslip.io
 50-255-107-171-static.hfc.comcastbusiness.net
 504e165d.host.njalla.net
-505406lm.nyashkoon.top
 5057koma.no-ip.biz
 511s.no-ip.biz
 53.85.92.34.bc.googleusercontent.com
@@ -2493,8 +2492,6 @@ antivirus-helper.publicvm.com
 antivirus.myftp.org
 antivirus1scan.no-ip.org
 antivirus3scan.linkpc.net
-antmanspshopsman.com
-antmanspshopsman.life
 antoniocometa.ddns.net
 antonlmcmotor.ddns.net
 antonwright456.top
@@ -2922,7 +2919,6 @@ awjefewjfqwe.shop
 aworldmorebright.com
 awoware.ddns.net
 aws-apps.net
-awsglobalaccelerator.awsliveec.com
 awsomehacks21.no-ip.org
 awuam.com
 ax4.duckdns.org
@@ -4241,6 +4237,7 @@ cdf.faqserv.com
 cdjdo7t9d4lglulrrmhgcae3hy4efmo9c.oast.live
 cdm.faqserv.com
 cdn-014.epsonupdate.uk
+cdn-1488.winstate.cc
 cdn-analytic.com
 cdn-delivery.fortaxen.com
 cdn-ext.net
@@ -4264,7 +4261,6 @@ cdn.lightsteper.com
 cdn.microsolt.top
 cdn.mlcrosoft.fyi
 cdn.morisniff.ir
-cdn.ms-endpoint.com
 cdn.mww2.com
 cdn.n1gger.ru
 cdn.ndgnetlabs.com
@@ -4290,7 +4286,6 @@ cdns.casacam.net
 cdq4n7w2vtc0000k5r0ggg51khryyyyyn.synalabs.xyz
 cdrd3484l7afjknansjgi5zd333rjp4gp.oast.pro
 cdream.duckdns.org
-cdromcsc.com
 cds.fartit.com
 cdsjdsufjudksin00a105xtkjtait9qqj.oast.fun
 cdsjdsufjudksin00a10m5gy7kej9ksne.oast.fun
@@ -5773,7 +5768,6 @@ contrariancapital.backstopsolution.net
 contratos2020.duckdns.org
 controlmycomputer2.ddns.net
 convhandvideo.info
-coocooncookiedpo.com
 cookie.dichvuhp.online
 cookies3.ddns.net
 cool-fire.no-ip.org
@@ -5938,7 +5932,6 @@ cs1.dbgblack.com
 cs1.francy.world
 cs2.francy.world
 cs45upb230906.iqiyid.com
-cs45upb230906a.iqiyid.com
 csa.itsaol.com
 cscs.luxiaofei.online
 cse.fartit.com
@@ -6728,6 +6721,8 @@ dns.ncats.link
 dns.nightmare.su
 dns.ninja.ovh
 dns.noranekoheart.top
+dns.otxcarecosmetics.com
+dns.otxcosmeticscare.com
 dns.outbound.watchtowr.com
 dns.pwd-reset.net
 dns.recentbeelive.com
@@ -6787,6 +6782,7 @@ docccutime.xyz
 docdoc.zapto.org
 docfilepdf.ddns.net
 docloakc.online
+docloudstorage.com
 docpoc.online
 docs.axile.su
 docti.linkpc.net
@@ -6879,10 +6875,8 @@ doobiefly.com
 dool.ddns.net
 doomstreeyubun.com
 doonwload.fun
-doorbackup.sbs
 doorres02.top
 doorres03.top
-doorspa.shop
 doppl9r.ddns.net
 dora21.duckdns.org
 doradp.gleeze.com
@@ -6965,7 +6959,6 @@ driver-computational.at.ply.gg
 driverwii.ddns.net
 drivevvyze.com
 drk.duckdns.org
-drkgatevservicceoffice.net
 drmido.no-ip.biz
 drnaif.no-ip.biz
 drnull.ngrok.dev
@@ -7132,7 +7125,6 @@ e2e-98-201.ssdcloudindia.net
 e2e-99-251.ssdcloudindia.net
 e2e-dbaas-mongodb-xsc6d-be1f65a1.mongo.ondigitalocean.com
 e7b7793232.ddns.net
-e9f0dkd.c1.biz
 ea.dns04.com
 ea.gettrials.com
 eagle-eye.cable-modem.org
@@ -7148,7 +7140,6 @@ eastzrada.club
 easycard-t.sumikuma.tw
 easyloanbazzar.com
 easyvideoconverters.com
-easywinscp.xyz
 eazeeflo.warzonedns.com
 eazy94.myvnc.com
 eb.dns05.com
@@ -8812,7 +8803,6 @@ gbotowaya.duckdns.org
 gbup.no-ip.biz
 gcdnbabl3png.erikskite.fun
 gchacker.no-ip.org
-gctatick.com
 gdfjkghndfjkghdfjkghdf.com
 gdglebsoincaluiprada8.ru
 gdhfj.ddns.net
@@ -11180,6 +11170,7 @@ js.rxjh.online
 jsbcdns.warzonedns.com
 jscdn.cf
 jsouywoq.tk
+jspassport.ssl.qhimg.com.dsa.dnsv1.com
 jsquery.cloud
 jsqur.com
 jstreco.myftp.biz
@@ -11847,6 +11838,7 @@ kukgubben05.ddns.net
 kuki1997.no-ip.biz
 kuklovod.no-ip.biz
 kulasid.com
+kumbaraan.com
 kumohhic.viewdns.net
 kunaguero.no-ip.info
 kurasha111.ddns.net
@@ -13409,7 +13401,6 @@ minnerbkajoy.com
 minoudz23.no-ip.biz
 mintaek.bounceme.net
 mintatrizza.com
-minutozhart.online
 miop.ddns.net
 mipapz710.top
 mipbkr32.top
@@ -14051,7 +14042,6 @@ mrwan.hopto.org
 mrwolf.3utilities.com
 mryasso.no-ip.biz
 ms-api-cs1.azureedge.net
-ms-endpoint.com
 ms-punisher.no.-ip.org
 ms-slovakia.at.ply.gg
 ms1000.myq-see.com
@@ -14096,7 +14086,6 @@ msspools.https443.com
 mstafa-king1.ddns.net
 mstafamahmood94.no-ip.biz
 mstbkyeni2.no-ip.org
-msteamseyeappstore.com
 msteel.ddns.net
 msteel1759.ddns.net
 msteelwar.ddns.net
@@ -14403,7 +14392,6 @@ nas231.duckdns.org
 nasaprodu.fun
 nasas.dnsupdate.info
 nasatweb.duckdns.org
-naserviceebaysmman.shop
 nasim1.duckdns.org
 nasr23200.fe100.net
 nass1144.ddns.net
@@ -15899,7 +15887,6 @@ pia.australiasoutheast.cloudapp.azure.com
 piac-compk.servehttp.com
 piazinho123.no-ip.org
 pibirat.ddns.net
-pic.micros0ft-security.org
 pichadex.ddns.net
 picim.no-ip.biz
 picka.linkpc.net
@@ -17800,7 +17787,6 @@ secret92.ddns.net
 secretionsuitcasenioise.shop
 section8solar.com
 secure-cama.com
-secure-online.site
 secure.biiclick.com
 secure.cloudproxyserv.com
 secure.cms.pay.axile.su
@@ -18339,7 +18325,6 @@ sjsdfsddjhdjfadff.com
 skanfordiporka.com
 skatemax.sytes.net
 skcarriages.com
-ske9dhn.c1.biz
 sketch321.serveftp.com
 sketchftp.ddns.net
 sketchvip.ddns.net
@@ -18403,7 +18388,6 @@ slowburn.linkpc.net
 slowmo.no-ip.biz
 slprofessional.no-ip.biz
 slqypioqnivnxmyl.xyz
-slucasanderson.ddns.net
 sluitionsbad.tech
 slurpslimes.org
 sluter.top
@@ -18621,7 +18605,6 @@ spamerdz9161.hopto.org
 spamfighter.serveblog.net
 spamhaus.cornrnscope.com
 spamworzon.duckdns.org
-sparaback.com
 spark1929.no-ip.info
 sparkmanthomas.hopto.org
 sparks123543.ddns.net
@@ -19038,7 +19021,6 @@ sucamilla.no-ip.org
 success.165gov.cyou
 success.165gov.icu
 sucepd.no-ip.org
-suchitanandanmahavidyalaya.org
 suchthefool.no-ip.info
 suchwoni13.ddns.net
 suckit.hopto.org
@@ -19568,7 +19550,6 @@ thec0de-22249.portmap.io
 thecaosmaster.no-ip.biz
 thecevoo.duckdns.org
 thecomputerjacka.servegame.com
-thecookieisthere.duckdns.org
 thedangerous619.no-ip.biz
 thedark1988.no-ip.biz
 thedonaldman77.warzonedns.com
@@ -20201,7 +20182,6 @@ up.union-pay.vip
 up.xopolllo.today
 up18gr.ddns.net
 upbeat-water-13533.pktriot.net
-upbetanetworks.org
 upcloudser.online
 upcls.online
 upd.cndlogstics.com
@@ -21200,7 +21180,6 @@ wins2109ok.duckdns.org
 wins23octok.duckdns.org
 wins29dicok.duckdns.org
 wins8003ok.duckdns.org
-winscphub.com
 winserver103.dyndns-server.com
 winserver103.hopto.org
 winsrv.ddns.net
@@ -21251,7 +21230,6 @@ wlyksd.gotdns.ch
 wm.yideng.co
 wm649.duckdns.org
 wmazen.no-ip.biz
-wmnwserviceadsmark.com
 wmpupdate.com
 wncry.duckdns.org
 wnimodmoiejn.site
@@ -21450,7 +21428,6 @@ www.axile.su
 www.babyeona.cc
 www.babyeonb.cc
 www.baidu12366.xyz
-www.baidusec.top
 www.besttrademarklawyers.com
 www.beylikotomasyon.com
 www.bhnwithpercy.com
