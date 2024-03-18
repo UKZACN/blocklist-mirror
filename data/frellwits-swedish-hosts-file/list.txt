@@ -122,6 +122,7 @@ analytics.smhi.se
 analytics.sunet.se
 analytics.svenskdam.se
 analytics.svt.se
+analytics.teknikveckan.se
 analytics.undeco.se
 analytics.vackertvader.se
 angry-golick-2a96e5.netlify.app
@@ -629,6 +630,7 @@ platform-api.sharethis.com
 platform.bidgear.com
 platform.iteratehq.com
 plus.sharedcount.com
+pm.azerioncircle.com
 popitunder.com
 portalhc.com
 pp.lp4.io
