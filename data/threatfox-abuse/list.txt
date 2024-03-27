@@ -814,7 +814,6 @@
 24-199-107-91.ipv4.staticdns3.io
 24.117.66.34.bc.googleusercontent.com
 240.49.225.35.bc.googleusercontent.com
-2478dotfarm.site
 247krypto.ddns.net
 249.247.131.34.bc.googleusercontent.com
 24thmatch2020.duckdns.org
@@ -1019,7 +1018,6 @@
 613dd1395d4110c46c877ef5.keenetic.io
 62-210-207-211.rev.poneytelecom.eu
 62.204.140.34.bc.googleusercontent.com
-623start.site
 64-225-100-2.cprapid.com
 64.54.176.34.bc.googleusercontent.com
 65.15.168.34.bc.googleusercontent.com
@@ -1037,7 +1035,6 @@
 68-183-124-131.ipv4.staticdns2.io
 68-183-124-131.ipv4.staticdns3.io
 68.183.220.248.sslip.io
-682start.store
 69-164-204-203.ip.linodeusercontent.com
 69uiu06es5.execute-api.us-east-1.amazonaws.com
 6coinc.zapto.org
@@ -1145,8 +1142,6 @@
 98ygdjhdvuhj.com
 98z.no-ip.info
 99.177.67.34.bc.googleusercontent.com
-994safeweb.store
-994super.site
 999triana999.1cooldns.com
 99grams.hopto.org
 99light.ddns.net
@@ -1155,7 +1150,6 @@
 9mjunw.easypanel.host
 9project.duckdns.org
 9seeallcars.best
-9sta9rt4.store
 9zzz6.zapto.org
 a-azon.com
 a-dld.vizvaz.com
@@ -1535,7 +1529,6 @@ adl-mf.mrface.com
 adl-mm.fartit.com
 adl-mn.jkub.com
 adl-mn.my03.com
-adl-nig.faqserv.com
 adl-nl.isasecret.com
 adl-nm.faqserv.com
 adl-nw.itsaol.com
@@ -1699,7 +1692,6 @@ adres35.sytes.net
 adri14gay.no-ip.biz
 adrian15.ddns.net
 adrian20031424.hopto.org
-ads-info.ru
 ads.customerportalverify.store
 ads.fartit.com
 ads.telegramvip.shop
@@ -2520,9 +2512,13 @@ api.tcprestt.top
 api.texvn.group
 api.tokenpocket.wiki
 api.vidadworld.com
+api.virtue.ltd
 api.www.staging.axile.su
 api10.laptok.at
+apiasyncpromise.com
 apiedoe.servebeer.com
+apieventemitter.com
+apifetchmethod.com
 apiframeworknode.com
 apifunctioncall.com
 apilsin.host.org
@@ -2625,7 +2621,6 @@ arme5.hopto.org
 arminarmin.no-ip.biz
 armyguerro.top
 arnoldimperial13.hopto.org
-aro-ir.faqserv.com
 aronzika.no-ip.org
 around-lite.gl.at.ply.gg
 arpa.giodnews.com
@@ -2883,6 +2878,7 @@ axax120.zapto.org
 axeroldcapitalx9x.onthewifi.com
 axile.su
 axweb.zapto.org
+axz.lionos.xyz
 ay0b.no-ip.org
 ayarbaban.no-ip.biz
 ayatollahdada1.ddns.net
@@ -3646,10 +3642,9 @@ bossback.camdvr.org
 bosshacker.no-ip.biz
 bossmandj.duckdns.org
 bossy.no-ip.org
-bot.douosadgaadonline.org
 bot.elite-likes.de
 bot.gsmgit.com
-bot.hamsterrace.space
+bot.layer4.bf
 bot.nhankimcuong.vn
 bot.pvp-rivals.com
 bot.shop4youv2.de
@@ -3862,7 +3857,6 @@ buybuy.ddns.net
 buyfejn.com
 buygamingnfts.com
 buygreenstudio.com
-buyredblog.com
 buzareqam.shop
 buzornn.ddns.net
 buzzbozzy.no-ip.biz
@@ -3903,7 +3897,6 @@ c0r1ng4.no-ip.biz
 c1.ericleexx.com
 c1.tqrjfru.cn
 c2.cache.ubernet.info
-c2.marfei.zone
 c2.yihuan.cc
 c27.vslai.net
 c3a37688828.ddns.net
@@ -4196,7 +4189,6 @@ cdn-ext.net
 cdn-hackersdobem.com
 cdn-img.io
 cdn-lnk-075.epsonupdate.uk
-cdn-prok.site
 cdn-uk.widgetsfordeploy.com
 cdn.3qweraa.beauty
 cdn.aa.aeromexico.foundation
@@ -5480,10 +5472,6 @@ clinton.hopto.org
 clippico.zapto.org
 clist.thruhere.net
 clix.usaa.website
-clk-brom.site
-clk-brood.top
-clk-info.ru
-clk-info.site
 clodycats.com
 clogsme.link
 closhop.duckdns.org
@@ -5729,7 +5717,6 @@ copyrightspareddcitwew.site
 coquetelmoltof.no-ip.org
 corenavered.site
 coringalouco.no-ip.org
-cornbascet.site
 cornerload.dynu.net
 corposted.com
 corregedoria.no-ip.org
@@ -6139,7 +6126,6 @@ darkman2010.dyndns.org
 darkmansion.org
 darkmarc.no-ip.org
 darkmulder.dyndns-ip.com
-darkn.fartit.com
 darknighthacker.no-ip.biz
 darknode87.duckdns.org
 darkpro1.ddns.net
@@ -7826,7 +7812,6 @@ evgenytchurakin6.fvds.ru
 evi0.no-ip.biz
 evil-pinky.com
 evil1.no-ip.biz
-evil22.aerostarmodel.buzz
 evil22.dhabigroup.top
 evilrspsha1.duckdns.org
 evilsideofme.no-ip.biz
@@ -8417,8 +8402,6 @@ freiheit.co.kr
 freiheitstern.no-ip.biz
 frenchpies.org
 freodr.kitdesocorrosobjeto.za.com
-fresh-prok.ru
-fresh-prok.site
 fresh1.ironoreprod.top
 freshfire.no-ip.info
 fresnoviews.top
@@ -8433,6 +8416,7 @@ frighteninflatejuwi.pw
 frightysever.org
 friomo.duckdns.org
 fritz123.mooo.com
+froggysnow.org
 froidthefucker.ddns.net
 from.whitelinetosplit.com
 fromfirsttolast.no-ip.biz
@@ -8607,6 +8591,7 @@ fygxtj33.top
 fygyus23.top
 fyib.no-ip.org
 fzmovies.space
+g.fyss888.com
 g3ntle.ddns.net
 g4ng.duckdns.org
 g6666lrd10424346129.ddns.net
@@ -9006,6 +8991,7 @@ gog.shopapi.top
 gogj.hopto.org
 goheg99417-59409.portmap.host
 gohoemmuzlimanz.best
+goingupdate.com
 goku007.no-ip.org
 gokusdog.no-ip.biz
 golang.feel500.at
@@ -9103,6 +9089,7 @@ government-pak.workers.dev
 government-program.gl.at.ply.gg
 governmentservice.servebeer.com
 govno123.hopto.org
+goweqmcsa.xyz
 gowno.ddns.net
 goy.zapto.org
 goz.ydns.eu
@@ -9898,6 +9885,7 @@ hitsturbo.com
 hiui7e.kitdesocorrosobjeto.za.com
 hiutuko.theworkpc.com
 hive01.duckdns.org
+hiyl7.hilariocolche.com
 hiz80.no-ip.biz
 hjcnbr12.ddns.net
 hjfhwefhuuuuf8383992.cfd
@@ -10388,6 +10376,7 @@ imw4rlock.zapto.org
 in-look.no-ip.org
 inbash.cc
 inc.sshadowso.ru
+incachespace.com
 inchostlucost.duckdns.org
 incmanapp.rest
 inconnu.no-ip.biz
@@ -10568,7 +10557,6 @@ ir-an.faqserv.com
 ir-az.fartit.com
 ir-bn.mrface.com
 ir-bn.mynetav.org
-ir-c.fartit.com
 ir-edalat.my03.com
 ir-ir.faqserv.com
 ir-irn.vizvaz.com
@@ -10582,16 +10570,12 @@ ir-sham.otzo.com
 ir-sn.my03.com
 ir.adf-za.fartit.com
 ir.authorizeddns.net
-ir.fartit.com
 ir.isasecret.com
 ir.mrface.com
 ir0kz.zapto.org
 iraese.servegame.com
 iral-as.mrface.com
 iran-as.fartit.com
-iran-ba.otzo.com
-iran-cb.otzo.com
-iran-da.otzo.com
 iran-ed.otzo.com
 iran-gz.vizvaz.com
 iran-ha.isasecret.com
@@ -10601,7 +10585,6 @@ iran-hhs.fartit.com
 iran-hj.fartit.com
 iran-hk.mrface.com
 iran-hz.mrface.com
-iran-ib.otzo.com
 iran-ird.otzo.com
 iran-lah.mrface.com
 iran-qa.faqserv.com
@@ -10610,7 +10593,6 @@ iran-sa.fartit.com
 iran-sahm.otzo.com
 iran-sh.fartit.com
 iran-st.vizvaz.com
-iran-tk.otzo.com
 iran-vb.fartit.com
 iran-vz.dns05.com
 iran.isasecret.com
@@ -12073,6 +12055,7 @@ linuxbugs.online
 linuxhosts.ddns.net
 linvorodana.cyou
 liokinch.com
+lionos.xyz
 lioualioualioua.ddns.net
 lipstructorymusclewow.fun
 liquiditv.com
@@ -12293,7 +12276,6 @@ lov3nj0y.zapto.org
 love1.loseyourip.com
 love100.no-ip.org
 love2014.ddns.net
-lovebaongoc.ddns.net
 loveeeeee.ddns.net
 loveerrorrr.no-ip.biz
 loveisthegreatest.ddnsfree.com
@@ -12359,6 +12341,7 @@ lwovlomlipse.com
 lwovmietypse.biz
 lxszgs.icu
 ly17a1z2e3z4.no-ip.org
+lyddemper.com
 lydownload.net
 lyfoon.ddns.net
 lyh111.e3.luyouxia.net
@@ -12945,7 +12928,6 @@ meeti.duckdns.org
 meeti.hopto.org
 meeti12.hopto.org
 mefumounpurito.no-ip.org
-mega378-fon.site
 megafundz.duckdns.org
 megahac.sytes.net
 megahack.no-ip.biz
@@ -13262,6 +13244,7 @@ mkgf.ddns.net
 mking9898mm.no-ip.biz
 mko.tinh73.shop
 mkys.duckdns.org
+ml.lionos.xyz
 ml.warzonedns.com
 mlk12.no-ip.biz
 mlodkf.online
@@ -14062,6 +14045,7 @@ mytest12.no-ip.biz
 mytestdns123.mooo.com
 mytheblubtest.ddns.net
 mythic-slender.online
+mythictherapy.org
 mytodo-list.com
 mytrailinvest.net
 myvnc.myftp.biz
@@ -14350,6 +14334,7 @@ netwirelucas.chickenkiller.com
 netwomo.duckdns.org
 network-checkin.info
 network923.no-ip.biz
+networkbn.com
 networkbotbet.top
 networkspacer.com
 netwroksolutionse.ooguy.com
@@ -14358,7 +14343,6 @@ never.hitsturbo.com
 nevermind74.3utilities.com
 nevermind874.ddns.net
 new-hacker.no-ip.org
-new-prok.ru
 new-run.cc
 new-run.pk
 new.axile.su
@@ -14417,7 +14401,6 @@ newsfeed.msoftupdate.me
 newssssssssssssss.duckdns.org
 newstroczvmonmy3ne1w.su
 newvic.myvnc.com
-newvision682.store
 newwarr.ddns.net
 newwind.linkpc.net
 newworks.sinsincity.com
@@ -14430,7 +14413,6 @@ newzebi.myq-see.com
 newzone.from-ne.com
 nexaustin.ddns.net
 nexou7.no-ip.org
-next-traf623.site
 nextroundst.com
 nezo123-21027.portmap.host
 nf1.jasa-installl.xyz
@@ -14663,6 +14645,7 @@ noname38.no-ip.info
 noname381.no-ip.info
 none0468.ddns.net
 nonelove.dnsalias.com
+nonlinearcomms.info
 nonny55.ddns.net
 nono-irrash.no-ip.biz
 nono111.no-ip.biz
@@ -14802,7 +14785,6 @@ ns1.investmentlineup.com
 ns1.jd-vip.cn
 ns1.jieinchangan.cn
 ns1.jocelynhealth.com
-ns1.jquerys.cf
 ns1.kogyoung.com
 ns1.kp1nm8ao.xyz
 ns1.mb-testing.de
@@ -14814,7 +14796,6 @@ ns1.mikrokredit.shop
 ns1.msn-microsoft.co
 ns1.myinternationalsolutions.com
 ns1.mylcyz.top
-ns1.mysqlnet.org
 ns1.netiapp.org
 ns1.networkspacer.com
 ns1.obenkyou.site
@@ -14939,7 +14920,6 @@ nsff.aallianz.com.tw
 nsish.com
 nsns1.container911.site
 nso1.nsolau.net
-nsss.chtcom.tw
 nsx.ddns.net
 nt1.227api.com
 nt2.227api.com
@@ -15428,7 +15408,6 @@ ozoon.linkpc.net
 ozoon2.linkpc.net
 ozowara.duckdns.org
 ozpz.ddns.net
-p.aipanelnew.ru
 p.f2pool.info
 p.kcchann.com
 p.tlab.live
@@ -15579,6 +15558,7 @@ pcpanel.hackcrack.io
 pcpc64.ddns.net
 pctool.no-ip.org
 pctprogram.com
+pda.lionos.xyz
 pdlmobility.com
 peace.rbear.ir
 peacecheese.com
@@ -15964,8 +15944,6 @@ privatexpo.duckdns.org
 privetvzlom.hopto.org
 privgold20x10.servegame.com
 prixe.zapto.org
-prkl-ads.ru
-prkl-ads.site
 prnt.dedyn.io
 pro-ethiopia.at.ply.gg
 pro.gamorastudio.com
@@ -17154,11 +17132,7 @@ saghmn.faqserv.com
 sagro.b0t.me
 sagsblog.telinduslab.lu
 sagsns1.telindustelecom.lu
-sah-art.fartit.com
-sah-get.fartit.com
-sah-ir.faqserv.com
 sah-ir.vizvaz.com
-sah-iran.otzo.com
 sah.faqserv.com
 sah.fartit.com
 sah.vizvaz.com
@@ -18454,6 +18428,7 @@ srophuchung.com
 sror001.no-ip.biz
 srpmx.ddns.net
 srryapi.store
+srryontop.fr
 srryontop.xyz
 srsrytop52.no-ip.org
 srujana1.hopt.org
@@ -18540,7 +18515,6 @@ starmimo7.ddns.net
 staroo.ddns.net
 starorienta.uno
 starstar.duckdns.org
-start-up-plus.site
 start.apistatexperience.com
 startablekor.fun
 startedhere.ddns.net
@@ -18798,7 +18772,6 @@ sup3rd3ad.duckdns.org
 super-toxica.no-ip.biz
 super.zapto.org
 super1x1.hopto.org
-super56fall.online
 supercraft123.serveminecraft.net
 superficial.ru
 superherocan.mywire.org
@@ -18979,7 +18952,6 @@ t5f.no-ip.biz
 t612.no-ip.biz
 t6logs.sytes.net
 t6m.pics
-ta-iran.otzo.com
 taaymhost.ddns.net
 tablesockartfinewa.pw
 taco00.no-ip.info
@@ -19513,7 +19485,6 @@ toot122.no-ip.biz
 toothless.myq-see.com
 top.toppe.top
 top511.no-ip.biz
-top789market.online
 topbatha2.noip.me
 topendpower.top
 topgamecheats.dev
@@ -19615,7 +19586,6 @@ trewisdert.com
 triangleseasonbenchwj.shop
 triathlethe.ug
 trictomm.duckdns.org
-trill-gone123.site
 trinity.serveftp.com
 trinityasos.com
 trip998877.hopto.org
@@ -19656,8 +19626,6 @@ trung0979774557.homeip.net
 truocphan.com
 trusliviyzayac.ru
 trusliviyzayac.su
-trust-flare.ru
-trust-flare.site
 trust-pepe.online
 trustabletechsupport.com
 trustedhelp.chickenkiller.com
@@ -21039,6 +21007,7 @@ ww12.ecorp.asia
 ww3.ryl2history.net
 wwc.ddns.net
 wwcn.ssl443.org
+wwea.goweqmcsa.xyz
 wwee222.zapto.org
 wweee2345.no-ip.biz
 wwv.bmjz.vip
@@ -21550,6 +21519,7 @@ www.southernlandmortgage.cloud
 www.spacestar.su
 www.spoofed.chpq9756jms6h0o9jv9gpnarc6n3f75um.oast.live
 www.sqmj99.com
+www.srryontop.fr
 www.srryontop.xyz
 www.ssh.webmail.autodiscover.staging.axile.su
 www.staging.artsavingsclub.co.za
@@ -21791,6 +21761,7 @@ xipxesip.digital
 xipxesip.online
 xipxesip.services
 xipxesip.xyz
+xjp.xinjiangworker.shop
 xjuhie25.top
 xjuhuf15.top
 xjulqa12.top
@@ -21916,6 +21887,7 @@ xy1.youjucan.com
 xyz.videomarket.eu
 xyz2.ddns.net
 xyzcollab.com
+xza.goweqmcsa.xyz
 xzblackman.ddns.net
 xziro.zapto.org
 xzx2010.no-ip.org
@@ -22399,7 +22371,6 @@ zzaaxx.no-ip.biz
 zzaz10dz.no-ip.biz
 zzdczzrdasxcd.no-ip.biz
 zzeroirt.duckdns.org
-zzerxc.com
 zzeuss.ddns.net
 zzwibxun.jimmychunglin.com
 zzxcascse333wqwe2.no-ip.biz

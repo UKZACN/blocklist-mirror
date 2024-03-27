@@ -456,7 +456,6 @@ i.isnssdk.com
 i.singular.net
 i.skimresources.com
 i16-tb.isnssdk.com
-i18n-pglstatp.com
 i2ad.jp
 iad.appboy.com
 iads.unity3d.com
@@ -849,5 +848,6 @@ zfkjrm.xyz
 zflfoy.buzz
 zflfoy.xyz
 zflylg.buzz
+zgzxs.weathercn.com
 ziffdavis.com
 zzhengre.com
