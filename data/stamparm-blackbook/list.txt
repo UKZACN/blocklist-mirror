@@ -2357,6 +2357,7 @@ bnbrokenhead.cf
 bnc24.in
 bncoporations.tk
 bncv334d.ru
+bnd-servers.komakhazine.com
 bnicl.net
 bnkstore.com
 bnpparis.co
@@ -12293,6 +12294,7 @@ planetefaune.com
 planetlancer.com
 planetofaccessories.eu
 planktondavid.000webhostapp.com
+plano-safra.online
 plantationslidingdoorrepair.net
 planthire24.com
 plasdo.com
@@ -14465,6 +14467,7 @@ sofizay.com
 sofrehgard.com
 sofsuite.com
 softecangola.net
+softkey.app
 softonicpc.com
 softsale.ie
 softupdate1.me
