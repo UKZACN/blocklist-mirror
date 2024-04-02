@@ -64,7 +64,6 @@ ads.stickyadstv.com
 ads.themoneytizer.com
 ads.ungdomar.se
 ads.varldenidag.se
-ads.veterinaren.nu
 ads.vidoomy.com
 ads.viralize.tv
 adsby.bidtheatre.com
@@ -191,7 +190,6 @@ browser-http-intake.logs.datadoghq.eu
 browser.covatic.io
 bs.serving-sys.com
 btloader.com
-bulletproof-analytics.com
 buzzador.com
 c.aaxads.com
 c.adsco.re
@@ -340,7 +338,6 @@ d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d9v72urx9pbbc.cloudfront.net
 dackpartner-web.s3.amazonaws.com
 dagenstv.112.2o7.net
-dakine.com.se
 darwin.affiliatewindow.com
 data.adnuntius.com
 data.gblcdn.com
@@ -390,13 +387,11 @@ embed.bannerflow.com
 embi-media.com
 emea.hhkld.com
 emea.viadata.store
-engine.widespace.com
 etc-cdn-staging.ams3.digitaloceanspaces.com
 eum.instana.io
 europe-west1-bonnier-big-data.cloudfunctions.net
 eus.rubiconproject.com
 events-collector.spot.im
-evtr.nordiskemedier.dk
 exitintel.com
 expo.ads.ramsalt.com
 ext.track.tappx.com
@@ -491,6 +486,7 @@ js-agent.newrelic.com
 js-sec.indexww.com
 js.appboycdn.com
 js.datadome.co
+js.evtr.nordiskemedier.dk
 js.getlasso.co
 js.glitnoraffiliates.com
 js.hs-analytics.net
@@ -509,7 +505,6 @@ keenstockholm.com.se
 kiosked.com
 ksdarprt.reseguiden.se
 kyrkoskatten.se
-kyrkskatt.se
 l.betrad.com
 l.sharethis.com
 lanapengar.expressen.se
@@ -538,7 +533,6 @@ longchampstockholm.com.se
 look.ufinkln.com
 low1sneakerssverige.com
 lwadm.com
-m.burt.io
 m.extellio.com
 m1.analytics.sitevision-cloud.se
 macro.adnami.io
@@ -673,7 +667,6 @@ richaudience.com
 richmediastudio.com
 richmetrics.com
 ridsport.adhost.se
-rockeringformsweden.com
 rockportskorsverige.com
 rotarb.bid
 rotator.riedta.com
@@ -753,10 +746,8 @@ sibautomation.com
 skattamindre.se
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
-smetrics.aftonbladet.se
 smtvn.112.2o7.net
 snap.licdn.com
-sneakersisverige.com
 source.advisible.com
 sp-eu.dev.polarbyte.com
 sp.tinymce.com
@@ -841,7 +832,6 @@ tags.expo9.exponential.com
 tags.refinery89.com
 tags.smilewanted.com
 tapet.bonniernews.se
-target.digitalaudience.io
 tb.de17a.com
 tcd.tourn.se
 telemetric.dk
