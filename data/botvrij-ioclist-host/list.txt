@@ -49,6 +49,8 @@ cua3e.mariosolutions.biz.id
 customercareservice.azurewebsites.net
 customercareserviceapi.azurewebsites.net
 dls-gov.firstcloudit.com
+doc-0s-44-docstext.googleusercontent.com
+doc-10-44-docstext.googleusercontent.com
 e-gov-am.firstcloudit.com
 e-gov.firstcloudit.com
 e-military.firstcloudit.com
