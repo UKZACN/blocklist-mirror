@@ -1092,7 +1092,6 @@ acm.dns05.com
 acm.faqserv.com
 acm.fartit.com
 acopfvy.store
-acornservices.org
 acotechgh.com
 acrob.shop
 acs-group.net
@@ -1222,7 +1221,6 @@ adl-shm.faqserv.com
 adl-ue.faqserv.com
 adl-ur.itsaol.com
 adl-vb.mrbasic.com
-adl-vq.vizvaz.com
 adl-vv.mrface.com
 adl-wh.faqserv.com
 adl-xxc.vizvaz.com
@@ -1613,6 +1611,7 @@ alrma.lat
 als.mrbasic.com
 alsfa7-joordan.no-ip.biz
 alshareeftwtw-28524.portmap.host
+altaskifer.sbs
 alteregohdv.no-ip.biz
 altyyarabdoo.no-ip.biz
 alucardcybergate.no-ip.org
@@ -1904,6 +1903,7 @@ asdz.faqserv.com
 asdz.fartit.com
 aseer30512.no-ip.biz
 asegurar100.4cloud.click
+asegurar1s.duckdns.org
 asegurarasyncrat.4cloud.click
 asf.mrbasic.com
 asfyvisoeogtca3.fun
@@ -2680,7 +2680,6 @@ caboshed-rations.000webhostapp.com
 cabrakan.zapto.org
 cac361h38g9q5lg00010zuuybnnpteho4.oast.online
 cac45ph38g9q77g00010jyzak4c4z89mq.oast.fun
-cache.thorjane.com
 cachetransferjs.com
 cachewebspace.com
 cachuera.no-ip.biz
@@ -4377,8 +4376,6 @@ d1lrw1z9ssp44c.cloudfront.net
 d1railx6y20syj.cloudfront.net
 d20tk7ygz8ugsj.cloudfront.net
 d22h19icfueroa.cloudfront.net
-d2cpd93ebiah9g.cloudfront.net
-d2d756ulnohqjs.cloudfront.net
 d2kb8sccbn3wgs.cloudfront.net
 d2ll6bzzm7brny.cloudfront.net
 d2m9vnw3tqtaju.cloudfront.net
@@ -5665,6 +5662,7 @@ extreme.enove-dental.com
 eye.huyanbao.xyz
 eyedr.art
 ezelraed.no-ip.org
+ezz.ust.cx
 f.zapto.org
 f0867029.xsph.ru
 f0r3v3r21.no-ip.biz
@@ -5808,7 +5806,6 @@ ffff99fff.no-ip.biz
 fffsddhddd3.cfd
 ffvpn.vip
 fgfdsnvisdnvijnsdvdssdsd.con-ip.com
-fgudhiiugiufgifufgihdhuidfxgd.duckdns.org
 fh-oode.no-ip.biz
 fhfgjghkgh.ddns.net
 fhfhreeruu334345432.cfd
@@ -6444,7 +6441,6 @@ gservicese.com
 gspiceyl.com
 gsstar.net
 gt500r32.no-ip.biz
-gta-fportal.com
 gtek700.no-ip.biz
 gtitryuzoneorji.zapto.org
 gtldgtld.store
@@ -6792,7 +6788,6 @@ hel.syscare.sk
 helixsohum-59977.portmap.io
 hell010.selfip.com
 hello-response.com
-helloone.accountants.monster
 helloproinc.com
 hellowin.shop
 hellwin.no-ip.org
@@ -7042,6 +7037,7 @@ i.moltog.us.to
 i.qw.lc
 i.ratato.sk
 i.wanna.see.20242525.xyz
+i.xlei.cc
 i.ywh.at
 ialomita.sytes.net
 iam.myftp.org
@@ -9074,7 +9070,6 @@ mynameisbasil.site
 mynameislusi.site
 mynameisnavid.site
 mynameisne0.no-ip.biz
-mynameisnull.site
 mynameiszeus.site
 mynd5.com
 mynewbee.net
@@ -9336,7 +9331,6 @@ nkg.no-ip.biz
 nkmzizbest4.no-ip.org
 nl1.nextpg.cfd
 nlive.no-ip.biz
-nmbvcxzasedrt.com
 nmslcnmsb1.e2.luyouxia.net
 nndmb-42891.portmap.host
 nnpservices.com
@@ -9351,6 +9345,7 @@ node1.abcd2.monster
 node103.5-systems.ru
 node115.5-systems.ru
 nodef2.ragzstore.biz.id
+nodejsmysql.com
 nodetecton.ddns.net
 nodio.homeip.net
 noescorrecto2023.kozow.com
@@ -9935,7 +9930,6 @@ pay.rockhvn.com
 pay1.ptsecurity.net
 payandhay.online
 payments.breached.cx
-pbfenergy.azurewebsites.net
 pboc.online
 pchacked.redirectme.net
 pcpanel.hackcrack.io
@@ -10051,7 +10045,6 @@ plataplatamygold9x9.bounceme.net
 platform.awards2go.org
 platformforcreateinterest.com
 platteryippejkomaf.pw
-plawers.com
 play.customerportalverify.store
 play.deenpel.com
 playboy.zapto.org
@@ -10995,7 +10988,6 @@ saham-w.itsaol.com
 saham.fartit.com
 sahama.faqserv.com
 sahame.fartit.com
-sahame.symen.ir
 sahamedalati.fartit.com
 sahamedalatir.fartit.com
 sahamedalatirr.fartit.com
@@ -11367,7 +11359,6 @@ service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com
 service-m2easdvn-1303971391.bj.apigw.tencentcs.com
 service-mlanbdgq-1301500665.gz.tencentapigw.com.cn
 service-mx77zdhn-1303081427.sh.tencentapigw.com
-service-n0tf95ic-1305872204.gz.apigw.tencentcs.com
 service-n14rot1h-1303081427.sh.tencentapigw.com
 service-ndozu6av-1308639534.sh.apigw.tencentcs.com
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com
@@ -12104,7 +12095,6 @@ sxtrm.myftp.biz
 sxvcddhcbdjcbixg.con-ip.com
 sydneyrmartinez.geek
 symantke.com
-symen.ir
 symeon3melrich.no-ip.org
 syn.02maill.com
 syn.xsvi.cc
@@ -12660,7 +12650,6 @@ uomoombra.no-ip.biz
 up.union-pay.vip
 up.xopolllo.today
 upbeat-water-13533.pktriot.net
-upcls.online
 updacon.hopto.org
 updalo-1942638394.cos.ap-hongkong.tencent.lat
 updataus.com
@@ -13145,6 +13134,7 @@ wasou.no-ip.biz
 wassgoodmane-45751.portmap.host
 wassgoodmane-46736.portmap.host
 wasted9sss1-51443.portmap.host
+wasted9sss1-57718.portmap.host
 waswift.ddns.net
 watchdogsrox.ddns.net
 waterlinesheet.org
@@ -13409,7 +13399,6 @@ wr6h.no-ip.org
 wrdx321.no-ip.biz
 wrzone-srvr-connector-port.windows-updates.co
 wsam1987.no-ip.biz
-wsexdrcftgyy191.com
 wsrasta.no-ip.org
 wss.guoyashuai.top
 wss.payloads.online
