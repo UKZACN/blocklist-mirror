@@ -67,11 +67,13 @@ emiratescheckapijson.azurewebsites.net
 emod.firstcloudit.com
 engineeringrssfeed.azurewebsites.net
 engineeringssfeed.azurewebsites.net
+eopgupgdpopopfuupi.ddns.net
 epibvgvoszemkwjnplyc.supabase.co
 estiloplus.tur.ar
 exchtestcheckingapi.azurewebsites.net
 exchtestcheckingapihealth.azurewebsites.net
 factalia-ofh2cutija-uc.a.run.app
+febvenom8.duckdns.org
 files-presidencia.firstcloudit.com
 flighthelicopterahtest.azurewebsites.net
 forward.boord.info
@@ -83,8 +85,11 @@ helicopterahtest.azurewebsites.net
 helicopterahtests.azurewebsites.net
 helicoptersahtests.azurewebsites.net
 hiringarabicregion.azurewebsites.net
+hjkdnd.duckdns.org
 homefurniture.azurewebsites.net
+homoney177.duckdns.org
 hrapplicationtest.azurewebsites.net
+hudukpgdgfytpddswq.ddns.net
 humanresourcesapi.azurewebsites.net
 humanresourcesapijson.azurewebsites.net
 humanresourcesapiquiz.azurewebsites.net
@@ -114,6 +119,7 @@ jupyternotebookcollection.azurewebsites.net
 jupyternotebookcollections.azurewebsites.net
 jupyternotebookscollection.azurewebsites.net
 jx-krrdbo6imq-uc.a.run.app
+kiftpuseridsfryiri.ddns.net
 kka5c.marioanalytics.my.id
 kwhfibejjyxregxmnpcs.supabase.co
 kzgw-wody.firstcloudit.com
@@ -126,7 +132,10 @@ lwafa.actiongroup.my.id
 manpowerfeedapi.azurewebsites.net
 manpowerfeedapijson.azurewebsites.net
 marineblogapi.azurewebsites.net
+markjohnhvncpure.duckdns.org
+mdytreudsgurifedei.ddns.net
 militarysupport.firstcloudit.com
+mup830634.duckdns.org
 nas-files.firstcloudit.com
 ndrrftqrlblfecpupppp.supabase.co
 news.comsnews.com
@@ -163,6 +172,7 @@ questionsdatabases.azurewebsites.net
 questionsurveyapp.azurewebsites.net
 questionsurveyappserver.azurewebsites.net
 quiztestapplication.azurewebsites.net
+rachesxwdavid.duckdns.org
 rada-zakon.firstcloudit.com
 refaeldevrssfeed.centralus.cloudapp.azure.com
 regionuaequestions.azurewebsites.net
@@ -206,3 +216,4 @@ www.joshan.pro
 www.markplay.net
 xwago.creativeplus.my.id
 yaiinr.actiongroup.my.id
+ykderpgdgopopfuvgt.ddns.net
