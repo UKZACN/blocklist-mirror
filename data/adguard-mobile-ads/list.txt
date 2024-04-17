@@ -315,7 +315,6 @@ cafe-latte.myshoplus.com
 cashprom.ru
 casino-ad-mediation.me2zengame.com
 cdn-adn.rayjump.com
-cdn-ads.tmap.co.kr
 cdn-api.admost.com
 cdn-cf.postitial.com
 cdn-image.com
@@ -660,6 +659,7 @@ promoted.soundcloud.com
 promotion.polarisoffice.com
 promotionad.nvcam.net
 pssvc.iqzone.com
+psvpromo.psvgamestudio.com
 pub1.co
 pubmatic.com
 pubnative.info
@@ -818,6 +818,7 @@ vidout.net
 vm5apis.com
 vmap.v.ad-generation.jp
 vrizead.com
+vs-api.voodoo-tech.io
 vserv.mobi
 vungle.com
 waiads.com
