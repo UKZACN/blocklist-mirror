@@ -24,6 +24,7 @@ ad.linksynergy.com
 ad.lkqd.net
 ad.mox.tv
 ad.sxp.smartclip.net
+ad.vidverto.io
 ad.yieldlab.net
 ad.zanox.com
 adcell.io
@@ -815,6 +816,7 @@ t.atmng.io
 t.contentinsights.com
 t.elasticsuite.io
 t.fml.rip
+t.gatorleads.co.uk
 t.myvisitors.se
 t.raptorsmartadvisor.com
 t0.extreme-dm.com
