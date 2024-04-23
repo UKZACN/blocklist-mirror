@@ -20,6 +20,7 @@ ad-brix.com
 ad-channel.wikawika.xyz
 ad-creatives-public.commondatastorage.googleapis.com
 ad-ettoday.cdn.hinet.net
+ad-files.classting.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
 ad-stir.com
@@ -716,6 +717,7 @@ socdm.com
 sonobi.com
 soundcloud-pax.pandora.com
 speee-ad.akamaized.net
+splash-ad.classting.com
 splash.appsgeyser.com
 splicky.com
 springserve.com
@@ -809,6 +811,7 @@ unityads.unity3d.com
 upsight.com
 usekahuna.com
 usp1.baidu.com
+v16-ad.byteoversea.com
 valshara.com
 velti.com
 veta.naver.com
