@@ -626,7 +626,6 @@
 172-104-228-8.ip.linodeusercontent.com
 172-104-67-4.ip.linodeusercontent.com
 172-105-14-104.ip.linodeusercontent.com
-172-105-234-48.ip.linodeusercontent.com
 172-232-123-21.ip.linodeusercontent.com
 172-232-134-145.ip.linodeusercontent.com
 172-86-75-66.cprapid.com
@@ -920,7 +919,6 @@
 8videoabc.top
 90011.sytes.net
 91-215-85-145.cprapid.com
-914095669.box.freepro.com
 93-33-203-219.ip46.fastwebnet.it
 95-165-99-74.static.spd-mgts.ru
 965keji.cn
@@ -1317,6 +1315,7 @@ akites.site
 akooos-hakr.zapto.org
 akrab48.no-ip.org
 akri3333.no-ip.biz
+aktayho.top
 akv007.no-ip.org
 al-tomihy.no-ip.biz
 al.no-ip.biz
@@ -1374,7 +1373,6 @@ alexanderalbie.xyz
 alexanderarthur.xyz
 alexbastie.no-ip.org
 alexfy76.top
-alexis-dasilva.pro
 alexs404.fvds.ru
 alexsoftpro.zapto.org
 alextrucking.com
@@ -1422,6 +1420,7 @@ allsmt.cam
 alltorq-net.oncallservices.ca
 alm3a8p.no-ip.biz
 alma27.duckdns.org
+almatac.top
 almm.no-ip.biz
 almodamir.no-ip.org
 almoomia10.no-ip.biz
@@ -1448,7 +1447,6 @@ aluces.site
 alureza.nl
 alwasn2.no-ip.biz
 alwaysnumba2.no-ip.biz
-ama23.amlbot.ug
 amacamhensem.no-ip.org
 amadouw21.no-ip.biz
 amanai.net-freaks.com
@@ -1598,6 +1596,7 @@ api.nm.192-3-255-42.nip.io
 api.officeserviced.com
 api.przsc.cn
 api.qantas.aeromexico.foundation
+api.rayob2.shop
 api.speech-microsoft.com
 api.startservicefounds.com
 api.statisticsong.com
@@ -1700,6 +1699,7 @@ as-tor1-sapimx.andes-system.com
 as.reg32.com
 as.regcssv.com
 as.regsvcast.com
+as.scsvcreg.com
 as2622.zapto.org
 asa.no-ip.biz
 asade.no-ip.org
@@ -1950,7 +1950,6 @@ bartsimpson.ignorelist.com
 bas2532.no-ip.biz
 baseballherdowf.fun
 baseballleadrwio.pw
-basechromium.space
 basenetgear.world
 basgoingbrewca.serveirc.com
 basha19992015.no-ip.org
@@ -2107,6 +2106,7 @@ bilel0770.no-ip.biz
 billions.ooguy.com
 billyekent.icu
 bilou04.no-ip.org
+bimbro.xyz
 binavers.site
 bind.bestresulttostart.com
 bindeo.tech
@@ -2132,7 +2132,6 @@ bitratfanboy2-45086.portmap.io
 bitrix.avtokuba.ru
 bitrtdollars.itsaol.com
 bitscoinc.com
-bitwarden-server.payloads.online
 bivkaniva.duckdns.org
 bixby.lat
 bixo33.no-ip.biz
@@ -2212,6 +2211,7 @@ bocio.sytes.net
 bodom-kid.no-ip.biz
 boezgrt.com
 bofa.su
+bohot.xyz
 bojnas.no-ip.biz
 bolacharada.no-ip.org
 bolb.wingsofmine.uk
@@ -2653,7 +2653,6 @@ cdn-uk.widgetsfordeploy.com
 cdn.3qweraa.beauty
 cdn.aa.aeromexico.foundation
 cdn.albumcallgirl.top
-cdn.amazon-shopping.nl
 cdn.authenticateoffice.com
 cdn.ctfmall.com
 cdn.dadadsadaccsoong.top
@@ -2721,7 +2720,6 @@ centurygift.myq-see.com
 ceo-reputation.ru
 ceptolezcominezcoydez.com
 ceq4msp8tlcshg8000105h3ytfcd8u9hd.oast.pro
-cert.casacam.net
 certifacto.com
 ceshi897.cn
 cevapveremezdolemereszoes2.net
@@ -3426,7 +3424,6 @@ chrome-online.site
 chrome.servemp3.com
 chromewebkit.com
 chromium.akriga.co.uk
-chromiumengine.space
 chryatech.com
 chrysler.vip
 chryslernetwork.online
@@ -3828,6 +3825,7 @@ cnc.nekololis.ovh
 cnc.ohuyal.xyz
 cnc.pr333.ggm.kr
 cnc.shakeit.biz
+cnc.voidnet.click
 cnc7.cremeonu.online
 cncboatnetonlvu.apimomo.pro
 cnf.faqserv.com
@@ -4618,7 +4616,6 @@ doonwload.fun
 dopeonlineforwarding.xyz
 doradp.gleeze.com
 doris112.no-ip.biz
-dot.healthtricks101.com
 dotking.no-ip.biz
 dotnet-outlawz.xyz
 douzi.my-wan.de
@@ -4636,6 +4633,7 @@ doyou.pwnwith.me
 dpruttech.com
 dqspduqsfjksdfhgjks.com
 dr-camex98348.no-ip.org
+dr-hoefler.de
 dr-mesho.ddns.net
 dracula00.no-ip.biz
 dracumi.com
@@ -5016,12 +5014,10 @@ ecorp.asia
 ecox.pt
 ecs-110-41-11-72.compute.hwclouds-dns.com
 ecs-110-41-134-233.compute.hwclouds-dns.com
-ecs-114-115-210-125.compute.hwclouds-dns.com
 ecs-116-204-122-201.compute.hwclouds-dns.com
 ecs-116-204-77-75.compute.hwclouds-dns.com
 ecs-116-205-161-207.compute.hwclouds-dns.com
 ecs-116-205-190-164.compute.hwclouds-dns.com
-ecs-119-3-253-250.compute.hwclouds-dns.com
 ecs-121-37-210-39.compute.hwclouds-dns.com
 ecs-121-37-214-255.compute.hwclouds-dns.com
 ecs-123-249-101-92.compute.hwclouds-dns.com
@@ -5089,6 +5085,7 @@ eksevents.org
 ekuroak.hopto.org
 el-punisher.no-ip.biz
 elastic-haslett.91-215-85-153.plesk.page
+elastsolek21.duckdns.org
 elated-black.45-141-215-173.plesk.page
 elbutanero2009.no-ip.org
 elbutanero2012.no-ip.org
@@ -5189,6 +5186,7 @@ epsilonyouknow.party
 eqonix123.no-ip.biz
 equi-hosting.fr
 er.aledlsa.sbs
+eralaunch.xyz
 erc.dns05.com
 erc.fartit.com
 erdavidesent.no-ip.org
@@ -5364,6 +5362,7 @@ faceb00k.servebeer.com
 facebook-sports.publicvm.com
 facebook-visitors.no-ip.org
 facebookchibai.no-ip.biz
+facelove.life
 facepook.no-ip.biz
 factorxharasswe.pw
 fade-2e7.no-ip.biz
@@ -6769,6 +6768,7 @@ imed19.no-ip.org
 imen.ddns.net
 img.cdn.jsdblog.com
 img.cms.axile.su
+img.creativemedia.top
 img.daquexing.com
 img.en.autodiscover.staging.axile.su
 img.www.dashboard.www.staging.axile.su
@@ -6906,6 +6906,7 @@ ipolastationplasma8pla.com
 iportal-ntdcgovpk.myvnc.com
 ippoo.no-ip.org
 iprogrammer.no-ip.biz
+ipscanadvsf.com
 ipsx.no-ip.org
 ipthailand1.no-ip.org
 ipv6.beijing-qax.top
@@ -7224,10 +7225,12 @@ karimgouss.ug
 karitano.no-ip.biz
 karkarkar.no-ip.biz
 karkouba535.no-ip.biz
+karl3on.xyz
 karmaandfate.com
 karmafisker.com
 karoanpa.ru
 karrar44.myq-see.com
+kartogra.top
 karuna.no-ip.org
 kashmirworldwide.com
 kashrteletts.giize.com
@@ -7300,6 +7303,7 @@ keng.servecounterstrike.com
 kennahammond.autos
 kennozara.com
 kennynanobelintourismedleonline.dumb1.com
+keolisgroup.azureedge.net
 kev12.dyndns.tv
 kevin09.no-ip.biz
 kevinmitnick121.dushengsistema.duckdns.org
@@ -8789,6 +8793,7 @@ nblcc.co
 nc.redirectme.net
 nctitds.top
 ndbplus.rs
+ndearn.xyz
 ndichinnenanna0110.ddns.net
 ndunlop.no-ip.biz
 nebraska-lawyers.com
@@ -8802,6 +8807,7 @@ needhelp.bounceme.net
 needs-unlike.at.playit.gg
 needs.hitsturbo.com
 neelixtop.no-ip.org
+neger.icu
 negliganceassumeruew.site
 nego564.no-ip.org
 neighborhoodfeelsa.fun
@@ -8845,6 +8851,7 @@ network923.no-ip.biz
 networkbn.com
 networkbotbet.top
 networkspacer.com
+neuengi.top
 neutralpastureop.pw
 never.hitsturbo.com
 nevujo.org
@@ -8995,6 +9002,7 @@ nothinghack.no-ip.biz
 notifications.deenpel.com
 notifications.google.secureapp.tools
 notify.003random.com
+notionso.online
 notti.no-ip.biz
 nou.no-ip.org
 novatto.no-ip.org
@@ -9011,7 +9019,6 @@ noxytng.no-ip.org
 npcodaas.xyz
 npgsql.liveonlin.com
 nris-d.mqpslop.com
-ns.365ub.cn
 ns.chrome-crash.com
 ns.controlcavi.com
 ns.emaratalyoum.me
@@ -9021,7 +9028,6 @@ ns.manager.moonlighter.space
 ns.n0reply.eu.org
 ns.tqrjfru.cn
 ns.voicechangeai.pro
-ns0.luccycatch.tech
 ns0248.euskinc.com
 ns1.163microsoft.com
 ns1.aliyunn.com.cn
@@ -9052,7 +9058,6 @@ ns1.gac-oa.com
 ns1.globalusa.net
 ns1.googletagmauager.com
 ns1.h1ck0r.com
-ns1.h1ll0.cs.in
 ns1.inpex589.info
 ns1.jd-vip.cn
 ns1.jocelynhealth.com
@@ -9111,7 +9116,6 @@ ns2.electric-coop.com
 ns2.fwmtest.cn
 ns2.gac-oa.com
 ns2.googletagmauager.com
-ns2.h1ll0.cs.in
 ns2.jd-vip.cn
 ns2.kogyoung.com
 ns2.kp1nm8ao.xyz
@@ -9144,8 +9148,6 @@ ns3109813.ip-54-36-127.eu
 ns3112463.ip-54-38-193.eu
 ns3229713.ip-57-128-141.eu
 ns4.data.microsoftdata.site
-ns4.luccycatch.tech
-ns5.luccycatch.tech
 ns5006633.ip-51-79-230.net
 ns543320.ip-144-217-252.net
 ns8.bpibank.org
@@ -9197,6 +9199,7 @@ o.cirt.pro
 o.oobtest.org
 o000l.zapto.org
 o511.zapto.org
+oa.dahuatec.xyz
 oak-d5fmc3bzezh2dwhk.z01.azurefd.net
 oaoaoaoa.no-ip.biz
 oast.cloud
@@ -9231,6 +9234,7 @@ offers-ptclnetpk.serveftp.com
 offers-ptclnetpk.serveirc.com
 office-2023.com
 office-smoke.gl.at.ply.gg
+office365.homes
 office365.huenumilla.cl
 office365.press
 offsetundressdriveryjow.site
@@ -9511,6 +9515,7 @@ pcpanel.hackcrack.io
 pctool.no-ip.org
 pctprogram.com
 pda.lionos.xyz
+pdftoconvert.online
 pdlmobility.com
 peace.rbear.ir
 peacecheese.com
@@ -9610,7 +9615,6 @@ pkloldie.no-ip.org
 pkmqazreza.workers.dev
 pkrguide.no-ip.org
 pl.mamutert.com
-placengine.site
 places.creeksidehuntingpreserve.com
 planetstherapy.org
 plano-safra.online
@@ -10125,6 +10129,7 @@ quotes-nl.gl.at.ply.gg
 qw.reg32.com
 qw.regcssv.com
 qw.regsvcast.com
+qw.scsvcreg.com
 qwaszx.zapto.org
 qwe.no-ip.info
 qwe123.no-ip.biz
@@ -10266,6 +10271,7 @@ recruitment61.com
 red-devil.no-ip.biz
 red-hacks.com
 redactweb.com
+redddog.xyz
 rede.tphost.com.br
 redeflv.no-ip.org
 redentor.con-ip.com
@@ -10535,7 +10541,6 @@ safcb.no-ip.com
 safe.fogreir.fun
 safe242-28278.portmap.host
 saffronmontybrisk.pw
-sagro.b0t.me
 sagsblog.telinduslab.lu
 sah.faqserv.com
 sah.fartit.com
@@ -10861,7 +10866,9 @@ service-jnajkkdg-1318687485.gz.apigw.tencentcs.com
 service-k046gp6x-1252319062.bj.apigw.tencentcs.com
 service-kboespoo-1317138495.gz.apigw.tencentcs.com
 service-kjjaddjc-1309114380.gz.tencentapigw.com.cn
+service-ku7vp6lj-1253504731.sh.tencentapigw.com
 service-l3k4wvla-1322622051.gz.apigw.tencentcs.com
+service-ldzftvcf-1252123187.sh.tencentapigw.com
 service-lew09ujr-1307700818.sh.apigw.tencentcs.com
 service-lhtzt3wh-1319979259.sh.tencentapigw.com
 service-lidgmacv-1317471912.cd.tencentapigw.com
@@ -10880,6 +10887,7 @@ service-pgxnje5g-1307231181.gz.tencentapigw.com
 service-ps16whvt-1304800271.sh.tencentapigw.com
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn
+service-r3og53uv-1303913364.sh.tencentapigw.com
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com
 service.safaricom.workers.dev
 service.specialcraftbox.com
@@ -11190,6 +11198,7 @@ software.dth.wtf
 software.ftoffice.com
 sogoodfr.no-ip.org
 sohiljia.no-ip.biz
+soka101.xyz
 solarianass.no-ip.biz
 solep.online
 solnft-api.freedmtools.com
@@ -11587,6 +11596,7 @@ sxvcddhcbdjcbixg.con-ip.com
 sydneyrmartinez.geek
 symantke.com
 symeon3melrich.no-ip.org
+symposiumos.com
 syn.02maill.com
 syn.xsvi.cc
 synalabs.xyz
@@ -11738,6 +11748,7 @@ telergraml.org
 telligenc.rest
 tencentweb.online
 tende.dvrdns.org
+tenens.xyz
 tequilacofradiamx.com
 ter.chokolak.mom
 terefahunsortdetent.sbs
@@ -11935,6 +11946,7 @@ topic-jacksonville.at.ply.gg
 topics-junior.at.ply.gg
 toplin.ecorp.asia
 topmath.no-ip.biz
+toppdfconverter.org
 topportas.ddns.net
 topsayed223.no-ip.biz
 torbrowser-39837.portmap.host
@@ -12008,7 +12020,6 @@ trustpilots.cam
 trx3000.dyndns.biz
 trx4000.no-ip.biz
 trying-shirts.gl.at.ply.gg
-ts.appliedrc.com
 ts.bagelswap.site
 tsa.faqserv.com
 tsaojzhn885.com
@@ -12145,7 +12156,6 @@ update.twittermisc.com
 update.westus.cloudapp.azure.com
 update.westus3.cloudapp.azure.com
 update.windows-beta.info
-update.windows-push.com
 update.windows.server-microsoft.com
 update.winget-east.us
 update.winservers-network.com
@@ -12404,7 +12414,6 @@ vincilounge.net
 vinijr27.duckdns.org
 viopde.fun
 vip-h5.aa51688.com
-vip.cesig8.online
 vip.z886888.top
 vipb2a.no-ip.biz
 vipc2.no-ip.org
@@ -12514,7 +12523,6 @@ vpn.nsgocus.cn.com
 vpn.www.wap.axile.su
 vpn145403011.softether.net
 vpn185481911.softether.net
-vpn500541278.softether.net
 vpn637782190.softether.net
 vpn752656009.softether.net
 vpn977472420.softether.net
@@ -12849,6 +12857,7 @@ wr6h.no-ip.org
 wrdx321.no-ip.biz
 wrzone-srvr-connector-port.windows-updates.co
 wsam1987.no-ip.biz
+wscript.ddns.net
 wsrasta.no-ip.org
 wss.guoyashuai.top
 wstxx.no-ip.biz
@@ -12877,7 +12886,6 @@ www.1319559.cc
 www.137-184-80-125.cprapid.com
 www.139-84-137-249.cprapid.com
 www.143-198-109-200.cprapid.com
-www.159-203-95-49.cprapid.com
 www.159-65-168-135.cprapid.com
 www.159-89-8-28.cprapid.com
 www.161-35-239-147.cprapid.com
@@ -12900,6 +12908,7 @@ www.4280678.com
 www.45-61-136-22.cprapid.com
 www.5cce1d35e.com
 www.5starfreelancer.com
+www.614110.xyz
 www.64-225-100-2.cprapid.com
 www.6innovations.com
 www.736626.com
@@ -13384,7 +13393,6 @@ www.ucaresupport.com
 www.ufc1tv.com
 www.ufcmmatv.com
 www.undiny.ru
-www.unruffled-heyrovsky.68-183-220-248.plesk.page
 www.upm8p8ooh1klfdfmgroup.top
 www.uriramenperu.com
 www.usagers.antai.webgouv.fr.89-163-255-130.plesk.page
@@ -13435,6 +13443,7 @@ www.www.www.dev.axile.su
 www.www.www.staging.axile.su
 www.www.www.webdisk.axile.su
 www.x3qc.com
+www.xahoithongtins.com
 www.xenodochial-burnell.195-85-207-218.plesk.page
 www.xiongge.space
 www.yaaascreative.com
@@ -13841,6 +13850,7 @@ zonewar.ddnsking.com
 zonz.no-ip.biz
 zoomadvertisingofferr.com
 zoomadvertisingooffer.com
+zoomis.pro
 zopto.zapto.org
 zopz-api.com
 zoroo.myftp.org
@@ -13853,6 +13863,7 @@ zunbot.awuam.com
 zx.reg32.com
 zx.regcssv.com
 zx.regsvcast.com
+zx.scsvcreg.com
 zx6n.no-ip.biz
 zxvbcrt.ug
 zxxz122.no-ip.biz

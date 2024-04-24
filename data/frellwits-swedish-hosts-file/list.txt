@@ -249,6 +249,7 @@ cdn.hubvisor.io
 cdn.insurads.com
 cdn.izooto.com
 cdn.jst.ai
+cdn.logsnag.com
 cdn.matomo.cloud
 cdn.maxetise.net
 cdn.myadmessenger.com
