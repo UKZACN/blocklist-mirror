@@ -1,6 +1,7 @@
 0tuiwp.mariomanagement.biz.id
 1.tcp.sa.ngrok.io
 22.imohub.workers.dev
+23-95-209-148-host.colocrossing.com
 2joafm.marioanalytics.my.id
 4hawb.produtoeletro.my.id
 airconnectionapi.azurewebsites.net
@@ -20,6 +21,7 @@ audiomanagerapi.azurewebsites.net
 audioservicetestapi.azurewebsites.net
 avfa-wd3463btrq-uc.a.run.app
 birngthemhomenow.co.il
+bjsdg0.pintaexoticfashion.co.in
 blognewsalphaapijson.azurewebsites.net
 blogvolleyballstatus.azurewebsites.net
 blogvolleyballstatusapi.azurewebsites.net
@@ -80,6 +82,7 @@ forward.boord.info
 gasgas-wd3463btrq-uc.a.run.app
 gcsd.firstcloudit.com
 h4aowa.mariostrategy.my.id
+ha.bbmouseme.com
 haergsd-wd3463btrq-uc.a.run.app
 helicopterahtest.azurewebsites.net
 helicopterahtests.azurewebsites.net
@@ -123,6 +126,7 @@ kiftpuseridsfryiri.ddns.net
 kka5c.marioanalytics.my.id
 kwhfibejjyxregxmnpcs.supabase.co
 kzgw-wody.firstcloudit.com
+l1-03.winupdate.us.to
 lo0.systemctl.network
 logsapimanagement.azurewebsites.net
 logsapimanagements.azurewebsites.net
@@ -181,7 +185,6 @@ roadmapselector.azurewebsites.net
 roadmapselectorapi.azurewebsites.net
 sgg-files.firstcloudit.com
 sgg-gov.firstcloudit.com
-solitary-dawn-61af.mfeagents.workers.dev
 sportblogs.azurewebsites.net
 surveyappquery.azurewebsites.net
 surveyonlinetest.azurewebsites.net
@@ -211,7 +214,6 @@ wody-info-files.firstcloudit.com
 workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
-www.githubdd.workers.dev
 www.joshan.pro
 www.markplay.net
 xwago.creativeplus.my.id
