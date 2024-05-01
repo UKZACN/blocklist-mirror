@@ -3468,6 +3468,7 @@ apoll.m.taobao.com
 apollo.showheroes.com
 apolloprogram.io
 app-adforce.jp
+app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
 app-c.net
@@ -5991,6 +5992,7 @@ cloudfront.mclick.mobi
 cloudfront.yieldlove-ad-serving.net
 cloudmobi.net
 cloueewinkles.com
+cloveswamptearing.com
 clrstm.com
 cls.vrvm.com
 clumsyrock.com
@@ -18960,7 +18962,6 @@ videocdn.adspeed.net
 videoegg.com
 videoevents.outbrain.com
 videology-partners.tremorhub.com
-videoplayerhub.com
 videoplaza.com
 videoplaza.tv
 videosprofitnetwork.com
