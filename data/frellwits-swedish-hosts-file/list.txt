@@ -21,7 +21,6 @@ ad.doubleclick.net
 ad.impactify.io
 ad.iplayer.org
 ad.linksynergy.com
-ad.lkqd.net
 ad.mox.tv
 ad.sxp.smartclip.net
 ad.vidverto.io
@@ -670,7 +669,6 @@ richaudience.com
 richmediastudio.com
 richmetrics.com
 ridsport.adhost.se
-rockportskorsverige.com
 rotarb.bid
 rotator.riedta.com
 route.carambo.la
@@ -747,7 +745,6 @@ services.bilsyndication.com
 services.vlitag.com
 sgtm.inet.se
 sibautomation.com
-skattamindre.se
 sleeknote.com
 sleeknotecustomerscripts.sleeknote.com
 smtvn.112.2o7.net
@@ -939,7 +936,6 @@ tracking.hd.se
 tracking.ht.se
 tracking.illvet.se
 tracking.inboxads.com
-tracking.jnytt.se
 tracking.jp.se
 tracking.kalmarposten.se
 tracking.klt.nu
@@ -1004,7 +1000,6 @@ ubembed.com
 umami.nordiskehandel.cloud
 upsales.com
 utt.impactcdn.com
-v.lkqd.net
 valentinosverige.com
 vg02.met.vgwort.de
 viagogo.se
@@ -1058,7 +1053,6 @@ www.dwin2.com
 www.effectivecreativeformat.com
 www.fakturino.se
 www.guesssverige.com.se
-www.gym-sharksweden.com
 www.gymshark-sweden.com.se
 www.kundvisaren.se
 www.mymediaindex.com
@@ -1066,7 +1060,6 @@ www.nichehuset.dk
 www.npttech.com
 www.onclickalgo.com
 www.resultify.com
-www.runningshoessverige.com
 www.stadiumstage.com
 www.statcounter.com
 www.tamgrt.com
