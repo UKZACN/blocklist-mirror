@@ -101,7 +101,6 @@
 137-184-80-125.cprapid.com
 138-197-178-187.ipv4.staticdns2.io
 138.124.183.79.sslip.io
-139-144-113-139.ip.linodeusercontent.com
 139-162-155-161.ip.linodeusercontent.com
 139-162-187-166.ip.linodeusercontent.com
 139-162-33-94.ip.linodeusercontent.com
@@ -917,7 +916,6 @@ aawwssdd2.no-ip.biz
 abade2009.no-ip.info
 abady07.no-ip.biz
 abasrab16.no-ip.biz
-abb-bank.wiki
 abc.anti-ddos.io.vn
 abcserver.no-ip.info
 abdalahhaker.no-ip.biz
@@ -1015,22 +1013,9 @@ adhufdauifadhj13.com
 adibh.azureedge.net
 adilhacker.no-ip.org
 adilrana.no-ip.biz
-adirir.itsaol.com
 adjuntodocumento3224.from-mt.com
-adlddf.dns05.com
 adlgg.itsaol.com
-adlggs.fartit.com
-adlihh.itsaol.com
-adliir.vizvaz.com
-adlio.vizvaz.com
-adliris.faqserv.com
 adlks.fartit.com
-adllsg.mrface.com
-adlrs.dns05.com
-adlsgh.mrbonus.com
-adlsh.vizvaz.com
-adlsjd.faqserv.com
-adlwh.itsaol.com
 admadm.no-ip.biz
 admbruno.no-ip.biz
 admin.pay.axile.su
@@ -1063,7 +1048,6 @@ ads.thebestonline24.com
 adse.fartit.com
 adsmanager-graph.eyardimgov.org
 adsmanager.eyardimgov.org
-adsqe.fartit.com
 adsvancd-lp-scanner.net
 adsvanced-ip-scanner.com
 adt.faqserv.com
@@ -1344,7 +1328,6 @@ alteregohdv.no-ip.biz
 altyyarabdoo.no-ip.biz
 alucardcybergate.no-ip.org
 aluces.site
-alureza.nl
 alwasn2.no-ip.biz
 alwaysnumba2.no-ip.biz
 amacamhensem.no-ip.org
@@ -1470,7 +1453,6 @@ api.axile.su
 api.baitianshiyou.fun
 api.bestresulttostart.com
 api.broler.shop
-api.clubpro.space
 api.d-n-s.name
 api.data.nextb.top
 api.dynabot.top
@@ -1512,7 +1494,6 @@ apijsonparserkit.com
 apis.customerportalverify.store
 apis.deenpel.com
 apistoragecache.com
-apkyrm.pro
 aploz.preetycoin.work
 apolon.no-ip.biz
 apolovapers.com
@@ -2598,7 +2579,6 @@ clients.cloud-onedrive.net
 clients.dnsportal.org
 clients.edge-akadns.net
 clients.edge-akamai.net
-clients.loadbalance-akamai.net
 clients5.g-a.fun
 clientzip.no-ip.org
 climbavantgardefe.fun
@@ -2870,6 +2850,7 @@ cupidon.zapto.org
 currencyandsecurity.com
 currentname.no-ip.org
 curtsom.no-ip.info
+custom-packaging-products.com
 cut-britney.gl.at.ply.gg
 cutagor.store
 cuteboy22.no-ip.biz
@@ -2881,7 +2862,6 @@ cuveehackedurpc.ddns.net
 cuxu.org
 cvc.ptechconsult.com
 cve.02maill.com
-cvtuiox.cloud
 cwaraxis.no-ip.org
 cyber1.no-ip.biz
 cyber102.zapto.org
@@ -3297,7 +3277,6 @@ dmx22.no-ip.biz
 dng.dns05.com
 dng05vpn.v4.softether.net
 dnl-l.ooguy.com
-dnm.n0reply.eu.org
 dns.artstrailman.com
 dns.artstrailreviews.com
 dns.atchesonprint.com
@@ -3445,7 +3424,6 @@ driver-computational.at.ply.gg
 drivevvyze.com
 drmido.no-ip.biz
 drnaif.no-ip.biz
-drnull.ngrok.dev
 drnull.pkmqazreza.workers.dev
 drxhousecall.com
 drzlzal.no-ip.org
@@ -3553,7 +3531,6 @@ eazy94.myvnc.com
 eb.dns05.com
 ebd.dns05.com
 ebgostahdferee.site
-eblaghs.fartit.com
 ebnsina.top
 ebookza.com
 ebrahem100.no-ip.biz
@@ -3592,7 +3569,6 @@ ec2-18-166-249-66.ap-east-1.compute.amazonaws.com
 ec2-18-184-2-38.eu-central-1.compute.amazonaws.com
 ec2-18-191-149-233.us-east-2.compute.amazonaws.com
 ec2-18-191-246-30.us-east-2.compute.amazonaws.com
-ec2-18-192-20-216.eu-central-1.compute.amazonaws.com
 ec2-18-198-246-147.eu-central-1.compute.amazonaws.com
 ec2-18-206-73-190.compute-1.amazonaws.com
 ec2-18-211-111-68.compute-1.amazonaws.com
@@ -3762,7 +3738,6 @@ eewe.ddns.net
 efa.dns05.com
 efccvoopeer.sytes.net
 effluxcoltural.pw
-efmdwkmwk.xyz
 efmdwkmwke.xyz
 efmdwkmwkq.xyz
 efs.dns05.com
@@ -3959,6 +3934,7 @@ evair.no-ip.org
 evan-evo.no-ip.biz
 evanov-evo.no-ip.biz
 evanov-evoo.no-ip.biz
+eve.now-dns.net
 even-house.at.ply.gg
 event.coachgreb.com
 everydaypcrepair.no-ip.org
@@ -4019,7 +3995,6 @@ expst.no-ip.org
 exrobotos.duckdns.org
 extra-hack.ddns.net
 extralol.no-ip.biz
-extreme.enove-dental.com
 eye.huyanbao.xyz
 eyedr.art
 ezelraed.no-ip.org
@@ -4706,7 +4681,6 @@ gp.miaoys.cc
 gp1990.no-ip.org
 gpoxpkoiy.life
 gqx21mcou.com
-gr1.apkyrm.pro
 grace.adds-only.xyz
 gracealloverme.ddns.net
 gracecassettecretw.pw
@@ -5312,7 +5286,6 @@ hypocrisync.org
 hysoka.zapto.org
 hzp02itt0a.com
 i-br.noip.me
-i-iran.itsaol.com
 i-wallet.net
 i.wanna.see.20242525.xyz
 i.xlei.cc
@@ -5440,7 +5413,6 @@ inspirestudiosteam.com
 insproscp.com
 instantchatapp.com
 int.hatsune.network
-intclientpage.co
 intel2.no-ip.biz
 intellipowerinc.com
 interactivetreadrel.fun
@@ -5507,10 +5479,6 @@ ir-irn.vizvaz.com
 ir-sahq.fartit.com
 ir0kz.zapto.org
 iraese.servegame.com
-iran-hh.dns05.com
-iran-hhs.fartit.com
-iran-hk.mrface.com
-iranda.mrbasic.com
 iranme.nitrocp.xyz
 iraq1234.no-ip.org
 iraqa6536.no-ip.org
@@ -5724,6 +5692,7 @@ julienbb.zapto.org
 juliet543.myvnc.com
 julijan13.zapto.org
 juliosouza.no-ip.org
+july-pty.at.ply.gg
 jumpy-advice.auto.playit.gg
 junaid114.no-ip.biz
 juninhocaoiohacker.no-ip.org
@@ -6250,6 +6219,7 @@ linki.one
 links-annually.gl.at.ply.gg
 links-transition.gl.at.ply.gg
 linnisgood.site
+linux-treatment.gl.at.ply.gg
 liokinch.com
 lionos.xyz
 lipstructorymusclewow.fun
@@ -7556,7 +7526,6 @@ ns1.anonymouskids.uk
 ns1.asurances.lu
 ns1.az-gateway.com
 ns1.baidusec.top
-ns1.beta-microsoft.com
 ns1.blueseaedu.com
 ns1.bwork.online
 ns1.c1oudflare.com
@@ -7620,7 +7589,6 @@ ns2.163microsoft.com
 ns2.aliyunn.com.cn
 ns2.az-gateway.com
 ns2.baidusec.top
-ns2.beta-microsoft.com
 ns2.blueseaedu.com
 ns2.c1oudflare.com
 ns2.cms.axile.su
@@ -8217,7 +8185,6 @@ proizza.com
 prokeen.com
 promakerboi.com
 promesasalvaro1.duckdns.org
-prometheus.clubpro.space
 prometheus.felicity-services.com
 promo.voiceaichanger.pro
 pronet.ddns.net
@@ -8276,7 +8243,6 @@ pvpgothic.no-ip.org
 pvstub.ddns.net
 pwfkwiup6.life
 pwn.oracleservice.top
-pwn.safetygarden.ru
 pwndrop.aptiv-hr.com
 pwordgenerator.com
 pwshrepo.com
@@ -8552,7 +8518,6 @@ qpnein9sr.top
 qptvelv12ht.top
 qptvelv12sr.top
 qptwo2sr.top
-qq.monolthicpower.com
 qq.qqweixinzhuce.top
 qqpjqdylr.life
 qrchq.vrhoeas.com
@@ -8758,7 +8723,6 @@ remontisto.com
 remote.img.cms.axile.su
 remote.no-ip.biz
 remotekimhyunnck.site
-remotiss.online
 renanss22.ddns.net
 renatomandabemrs.no-ip.org
 reneesellers.autos
@@ -8844,7 +8808,6 @@ rockpython.xyz
 roexec.org
 rofi571.no-ip.biz
 rogerboy12.no-ip.biz
-rogers-returndata.com
 rogrscadretrn.net
 rojoloco47.no-ip.biz
 roko84.no-ip.org
@@ -8962,7 +8925,6 @@ saffronmontybrisk.pw
 sagsblog.telinduslab.lu
 sah.fartit.com
 saha.fartit.com
-sahadl.fartit.com
 sahamedalati.fartit.com
 sahamedalatir.fartit.com
 sahamedalatirr.fartit.com
@@ -9101,7 +9063,6 @@ sdl.fartit.com
 sdlsd.com
 sdmx-financegovpk.servehttp.com
 sdn.fartit.com
-sdt.faqserv.com
 sdt.fartit.com
 sdvsiudhvisdhvodshv.con-ip.com
 se-5.ironhide.su
@@ -9316,7 +9277,6 @@ sezar19900.no-ip.biz
 sezohac.no-ip.biz
 sf-hkr.no-ip.biz
 sf3.zapto.org
-sfc.faqserv.com
 sfclog.ddns.net
 sfdopospdofpsdo.dyn
 sfxn.ddns.net
@@ -10324,7 +10284,6 @@ trustpilots.cam
 trx3000.dyndns.biz
 trx4000.no-ip.biz
 trying-shirts.gl.at.ply.gg
-ts.bagelswap.site
 tsaojzhn885.com
 tsaojzuv225.com
 tsaojzuv455.com
@@ -10817,7 +10776,6 @@ vpn145403011.softether.net
 vpn185481911.softether.net
 vpn637782190.softether.net
 vpn752656009.softether.net
-vpn977472420.softether.net
 vpnu.top
 vps-07e00eb8.vps.ovh.ca
 vps-228ceefa.vps.ovh.net
@@ -11290,7 +11248,6 @@ www.clarenssbodiker.ru
 www.classicstandupcomedy.com
 www.classicstandupcomedylive.com
 www.cloudflarecache.top
-www.clubpro.space
 www.cms.axile.su
 www.cms.img.cms.axile.su
 www.collegeclubapparel.com
@@ -11634,7 +11591,6 @@ www.stripchat70.com
 www.strongsteelhomes.com
 www.stupefied-banach.91-215-85-177.plesk.page
 www.stylejason.com
-www.sunwu.world
 www.support.ns2.cms.axile.su
 www.system.xnesa.in
 www.tc-canada.com
@@ -11722,7 +11678,6 @@ www.yksdemg.top
 www.ynpuning.cn
 www.yop918kiss.com
 www.yudsasd.xyz
-www.zhaoyr.online
 www1.allegiancefithealth.com
 www1.canadaeast.cloudapp.azure.com
 www2.deenpel.com
@@ -11769,7 +11724,6 @@ xav.no-ip.org
 xavi-bales.ddns.net
 xavi6.no-ip.biz
 xbbu.myq-see.com
-xbhdabss.org
 xboxfreak.no-ip.org
 xc091221.e2.luyouxia.net
 xcheater.589.no-ip.biz
