@@ -1,6 +1,5 @@
 adproxy.ndmdhs.com
 at.atwola.com
-discovery.olv.nintendo.net
 mercury.dl.playstation.net
 nsx-e.np.dl.playstation.net
 nsx.np.dl.playstation.net
