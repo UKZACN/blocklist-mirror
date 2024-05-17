@@ -117,7 +117,6 @@
 159-203-167-57.ipv4.staticdns2.io
 159-223-204-229.ipv4.staticdns2.io
 159-223-92-16.digitaloceandns.com
-159-65-168-135.cprapid.com
 159-89-8-28.cprapid.com
 159.89.8.28.sslip.io
 160120120732.no-ip.org
@@ -696,6 +695,7 @@
 343.no-ip.biz
 356142.fun
 35k.no-ip.biz
+360.wangli.cyou
 360sec.online
 37-72-168-178.static.hvvc.us
 38.6.188.39.shuyingbaofu.com
@@ -849,7 +849,6 @@
 8nrjr6hc4.life
 8s4.no-ip.info
 8s75cl4j9.life
-8sjimonstersboonkonline.com
 8t8g8jquy.life
 8videoabc.top
 90011.sytes.net
@@ -879,6 +878,7 @@ a.refusal.biz
 a.servecounterstrike.com
 a0880508.xsph.ru
 a0979283148.ddns.net
+a0979777.xsph.ru
 a1b2c3.site
 a1photoprinting.com
 a2ef406e2c2351e0b9e80029c909242d.melonhack.top
@@ -1051,6 +1051,7 @@ advanced-lp-scanned.net
 advanced-lp-scanner.com
 advanced-lp-scanners.com
 advanced-port-scanner.net
+advancedapiintegrations.com
 advancede-ip-scanner.com
 advancedes-ip-scan.com
 advancedes-ip-scan.net
@@ -1664,6 +1665,7 @@ awoware.ddns.net
 aws-apps.net
 awsomehacks21.no-ip.org
 awuam.com
+axe.ydns.eu
 axile.su
 axqje16l4.life
 axweb.zapto.org
@@ -1895,7 +1897,6 @@ bgesmart.com
 bh8bwt.link
 bhnwithpercy.com
 biaozhu.baidusec.top
-bibogajan.network
 bichler.no-ip.org
 bif.myftp.biz
 bif5.no-ip.info
@@ -2258,7 +2259,6 @@ camfrog-2r9.zapto.org
 camfrog-iq.no-ip.info
 camfrog-ir.zapto.org
 camfrog.linkpc.net
-campaign.dchalegal.com
 camps.topgunnbaseball.com
 can.comewithme.info
 canarapay-f5agf9ccgteqbpg2.z03.azurefd.net
@@ -2549,7 +2549,6 @@ clickcom.click
 clicko.click
 cliconfg.no-ip.biz
 clients.edge-akadns.net
-clients.edge-akamai.net
 clients5.g-a.fun
 clientzip.no-ip.org
 climbavantgardefe.fun
@@ -2896,6 +2895,7 @@ d1dg7ete2wkysb.cloudfront.net
 d1lrw1z9ssp44c.cloudfront.net
 d1railx6y20syj.cloudfront.net
 d1v4b6pbk0kwvw.cloudfront.net
+d1x9q8w2e4.xyz
 d20tk7ygz8ugsj.cloudfront.net
 d2ewlfde9nvzf.cloudfront.net
 d2kb8sccbn3wgs.cloudfront.net
@@ -3276,7 +3276,6 @@ dns.ionoslaba.com
 dns.modernbeem.net
 dns.nateeka.com
 dns.nightmare.su
-dns.noranekoheart.top
 dns.ontexcare.com
 dns.otxcarecosmetics.com
 dns.otxcosmeticscare.com
@@ -3590,10 +3589,8 @@ ec2-43-204-230-44.ap-south-1.compute.amazonaws.com
 ec2-44-196-101-127.compute-1.amazonaws.com
 ec2-44-198-148-77.compute-1.amazonaws.com
 ec2-44-204-120-159.compute-1.amazonaws.com
-ec2-44-217-89-101.compute-1.amazonaws.com
 ec2-44-219-227-178.compute-1.amazonaws.com
 ec2-51-20-113-6.eu-north-1.compute.amazonaws.com
-ec2-52-0-63-134.compute-1.amazonaws.com
 ec2-52-20-229-84.compute-1.amazonaws.com
 ec2-52-200-22-116.compute-1.amazonaws.com
 ec2-52-202-179-126.compute-1.amazonaws.com
@@ -3623,7 +3620,6 @@ ec2-54-224-145-107.compute-1.amazonaws.com
 ec2-54-234-189-192.compute-1.amazonaws.com
 ec2-54-237-138-159.compute-1.amazonaws.com
 ec2-54-238-196-57.ap-northeast-1.compute.amazonaws.com
-ec2-54-249-85-13.ap-northeast-1.compute.amazonaws.com
 ec2-54-83-75-196.compute-1.amazonaws.com
 ec2-54-85-136-8.compute-1.amazonaws.com
 ec2-54-86-130-105.compute-1.amazonaws.com
@@ -3995,7 +3991,6 @@ fashionhot.no-ip.biz
 fasil.no-ip.biz
 fastestfreecdn.com
 fastis.xyz
-faststroygo.com
 fat7ola0077.ddns.net
 fat7ola07.ddns.net
 fathack.no-ip.org
@@ -4201,11 +4196,13 @@ freodr.kitdesocorrosobjeto.za.com
 fresh1.ironoreprod.top
 freshfire.no-ip.info
 frfk.xyz
+frgk.xyz
 fridakahio.no-ip.org
 friendly-dirac.104-168-102-175.plesk.page
 frifra.myq-see.com
 frighteninflatejuwi.pw
 fritz123.mooo.com
+frjk.xyz
 froggysnow.org
 from.whitelinetosplit.com
 fromfirsttolast.no-ip.biz
@@ -4217,6 +4214,8 @@ frostyrats.no-ip.org
 frostziniss.ddns.net
 frozenk.fr
 frp.deitie.asia
+frpk.xyz
+frsk.xyz
 fsdjkhfkjsdhfkjdhfgg.cfd
 fsociety.myq-see.com
 fthbhd.no-ip.biz
@@ -4989,6 +4988,7 @@ hel.syscare.sk
 helixsohum-59977.portmap.io
 hell.hydracenter.xyz
 hell010.selfip.com
+helloboy.shop
 helloproinc.com
 hellowin.shop
 hellwin.no-ip.org
@@ -5471,6 +5471,7 @@ javaupdate.ddns.net
 jayden1213.zapto.org
 jayelectrons.com
 jayhax.no-ip.biz
+jayp.eu
 jaztc.duckdns.org
 jazyrippo.com
 jazzcity.top
@@ -5805,6 +5806,7 @@ kingjoker420.ddnsking.com
 kingmalkawe8.no-ip.biz
 kingspy.duckdns.org
 kingtonyamerica.com
+kingu.xyz
 kinkiboy.no-ip.biz
 kir.odaire.top
 kirkukihama.no-ip.biz
@@ -6055,6 +6057,7 @@ leanc2.xyz
 leathermasterpro.com
 lebano.zapto.org
 lebondogicoin.com
+leckeier.ydidiya.store
 leeosz.no-ip.org
 legendsworld.cloud
 legendsworld.in
@@ -6310,6 +6313,7 @@ m.1co.net
 m.customerportalverify.store
 m.molang007.com
 m.old.gxjczx.gov.cn
+m.taobao.com
 m00dl3ss.myftp.org
 m0ney7.ddns.net
 m10688.com
@@ -6521,7 +6525,6 @@ manouche.no-ip.org
 manss90.no-ip.biz
 manta.brasilia.me
 mantk123.no-ip.biz
-many.praccountingandtax.com
 maom23.no-ip.info
 mapec.no-ip.biz
 maps.attuneiot.com
@@ -6620,6 +6623,7 @@ media-talk.ru
 media.cpanel.staging.axile.su
 media.www.en.autodiscover.staging.axile.su
 mediafire.chickenkiller.com
+mediagift.vn
 mediaim.expeida.net
 mediaskollsoft.com
 mediawindows.redirectme.net
@@ -6840,6 +6844,7 @@ modest-joliot.172-86-75-163.plesk.page
 modestessayevenmilwek.shop
 modgamingpro.no-ip.biz
 modpk.asia
+modularfunctiondev.com
 modyforeditor.loseyourip.com
 mof-govnp.servehttp.com
 mofa-gov-bd.fia-gov.net
@@ -7986,6 +7991,7 @@ pola.no-ip.biz
 police-circular-gov-bd.fia-gov.net
 police-gov-bd.fia-gov.net
 police69.no-ip.biz
+polikarbonad.xyz
 polina.to-kgb.ru
 pommier85.no-ip.org
 pontocomminas.no-ip.info
@@ -8898,6 +8904,7 @@ satzbeiber.no-ip.info
 saurondark75.ddns.net
 saveclinetsforme68465454711991.publicvm.com
 savioanon.no-ip.biz
+savoystocks.com
 savvxcs.no-ip.org
 saydornolicezdome.net
 sayfedkolyegelme.net
@@ -9062,9 +9069,11 @@ service-2kefhgzl-1316598603.bj.tencentapigw.com.cn
 service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com
 service-2saemj0p-1319375115.bj.apigw.tencentcs.com
 service-33y2vp0r-1303081427.sh.tencentapigw.com
+service-3c8gl60w-1320366142.gz.tencentapigw.com.cn
 service-3rca94g4-1319979259.hk.tencentapigw.cn
 service-3vkzoky0-1312172028.gz.tencentapigw.com.cn
 service-43eyvs26-1312185610.gz.tencentapigw.com.cn
+service-5hq806dl-1305010017.sh.tencentapigw.com
 service-5xpqvjqk-1320366142.gz.tencentapigw.com.cn
 service-6qlmfr7s-1312562872.gz.tencentapigw.com.cn
 service-75oa09db-1317471892.cd.tencentapigw.com
@@ -9581,7 +9590,6 @@ static.136.152.108.65.clients.your-server.de
 static.148.119.12.49.clients.your-server.de
 static.153.94.13.49.clients.your-server.de
 static.156.235.21.65.clients.your-server.de
-static.181.182.76.144.clients.your-server.de
 static.181.200.107.91.clients.your-server.de
 static.197.203.76.144.clients.your-server.de
 static.21.151.243.136.clients.your-server.de
@@ -9589,7 +9597,6 @@ static.211.7.203.116.clients.your-server.de
 static.231.204.132.142.clients.your-server.de
 static.239.70.140.128.clients.your-server.de
 static.36.11.181.135.clients.your-server.de
-static.41.189.202.116.clients.your-server.de
 static.44.244.217.95.clients.your-server.de
 static.49.37.216.95.clients.your-server.de
 static.5.96.119.168.clients.your-server.de
@@ -10086,6 +10093,7 @@ toninho157.no-ip.org
 tony157.no-ip.org
 tony20051.no-ip.biz
 tonypeter96.myq-see.com
+tool-seven.gl.at.ply.gg
 tools.3utilities.com
 tools.trtyr.top
 toothless.myq-see.com
@@ -10567,7 +10575,9 @@ viko89.no-ip.biz
 vincilounge.net
 vinijr27.duckdns.org
 viopde.fun
+vip.manhquyen.xyz
 vip.z886888.top
+vip8806.mom
 vipb2a.no-ip.biz
 vipc2.no-ip.org
 viperr.no-ip.org
@@ -11499,6 +11509,7 @@ www.telefonemusk.ru
 www.teleradiologist.com
 www.temt.top
 www.test.nolog.no
+www.testabcdtest.xyz
 www.testtttt.com
 www.thebestonline24.com
 www.theertyuiergthjk.homes
