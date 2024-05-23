@@ -214,7 +214,6 @@ wody-info-files.firstcloudit.com
 workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
-www.joshan.pro
 www.markplay.net
 xwago.creativeplus.my.id
 yaiinr.actiongroup.my.id
