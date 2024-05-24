@@ -656,8 +656,6 @@ report.23video.com
 research-int.se
 resor-external.barnsemester.se
 resources.infolinks.com
-resultify.com
-resultify.se
 retargettracker.com
 revive.99mac.se
 revive.edgeflyfishing.com
@@ -1061,7 +1059,6 @@ www.mymediaindex.com
 www.nichehuset.dk
 www.npttech.com
 www.onclickalgo.com
-www.resultify.com
 www.stadiumstage.com
 www.statcounter.com
 www.tamgrt.com
