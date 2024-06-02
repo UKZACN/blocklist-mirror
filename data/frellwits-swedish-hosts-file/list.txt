@@ -26,7 +26,6 @@ ad.sxp.smartclip.net
 ad.vidverto.io
 ad.yieldlab.net
 ad.zanox.com
-adcell.io
 addrevenue.io
 addy.expressen.se
 adeprimo.se
@@ -180,7 +179,6 @@ bid.g.doubleclick.net
 bilpolicydi.bytelab.dk
 biowebb-data.s3.amazonaws.com
 bitstarz.com
-bn-01d.adtomafusion.com
 boost-cdn.manatee.dk
 boot.pbstck.com
 borsvarlden-banners.azurewebsites.net
@@ -366,7 +364,6 @@ drift.com
 driftt.com
 ds-aksb-a.akamaihd.net
 dspk.kindredplc.com
-dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
 e.viously.com
 eas.mediekompaniet.com
 eas1.emediate.eu
@@ -525,7 +522,6 @@ live.demand.supply
 load.sumome.com
 loader.wisepops.com
 loadr.exelator.com
-loewe.com.se
 log-api.newrelic.com
 log.cookieyes.com
 log.medietall.no
@@ -533,7 +529,6 @@ logs.spilgames.com
 logx.optimizely.com
 longchampstockholm.com.se
 look.ufinkln.com
-low1sneakerssverige.com
 lwadm.com
 m.extellio.com
 m1.analytics.sitevision-cloud.se
@@ -568,7 +563,6 @@ metapic.se
 metrics.brightcove.com
 mgdk-cdn.relevant-digital.com
 micro.rubiconproject.com
-mindreskatt.se
 missaffiliate.com
 mmetrix.mobi
 mraffiliate.com
@@ -712,7 +706,6 @@ scripts.makeinfluence.com
 scripts.mediavine.com
 scripts.opti-digital.com
 sdk.pulse.schibsted.com
-se-02.adtomafusion.com
 se-ads-microservice.ads.allermedia.io
 se.ads.justpremium.com
 se1.siteimprove.com
@@ -771,7 +764,6 @@ static.digidip.net
 static.getclicky.com
 static.hotjar.com
 static.matchads.net
-static.stat.truthlyanalytics.com
 static.step.dk
 static.ws.apsis.one
 static.zotabox.com
