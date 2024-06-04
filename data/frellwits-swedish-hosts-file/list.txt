@@ -208,6 +208,7 @@ cdn-3.convertexperiments.com
 cdn-a.yieldlove.com
 cdn-eu.clickdimensions.com
 cdn-gl.imrworldwide.com
+cdn-header-bidding.snack-media.com
 cdn-magiclinks.trackonomics.net
 cdn-scripts.signifyd.com
 cdn.adapex.io
