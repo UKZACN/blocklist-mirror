@@ -890,6 +890,7 @@ adflight.com
 adflow.ru
 adfly.vn
 adfog.ru
+adfoglxfelak.com
 adfonic.net
 adforcast.com
 adforce.com
@@ -1321,9 +1322,11 @@ ads.ayads.co
 ads.baoangiang.com.vn
 ads.baobinhduong.vn
 ads.baobinhthuan.com.vn
+ads.baocamau.vn
 ads.baocantho.com.vn
 ads.baodatviet.vn
 ads.baohaiduong.vn
+ads.baolongan.vn
 ads.baotainguyenmoitruong.vn
 ads.betfair.com
 ads.betweendigital.com
@@ -1567,6 +1570,7 @@ ads.newsquest.co.uk
 ads.nexage.com
 ads.nfbusty.com
 ads.nghenhinvietnam.vn
+ads.nguoiduatin.vn
 ads.nhadatmoi.net
 ads.nicovideo.jp
 ads.nj.com
@@ -2103,6 +2107,7 @@ adtrack.adleadevent.com
 adtrack.king.com
 adtrack.ucweb.com
 adtrack1.midasplayer.com
+adtracker.site
 adtrackers.net
 adtrackingflow.pro
 adtrade.net
@@ -2699,6 +2704,7 @@ ak.hetapus.com
 ak.hetartwg.com
 ak.hetaruvg.com
 ak.hetaruwg.com
+ak.oneegrou.net
 ak.ongastlya.com
 ak.sail-horizon.com
 ak.sascdn.com
@@ -2963,6 +2969,7 @@ analytics.clickdimensions.com
 analytics.cloud.unity3d.com
 analytics.cloudron.io
 analytics.convertlanguage.com
+analytics.data.visenze.com
 analytics.digi8.vn
 analytics.donglogs.com
 analytics.eclick.vn
@@ -5605,6 +5612,7 @@ cdn1.mediaforge.com
 cdn1.mobfox.com
 cdn1.smartadserver.com
 cdn1.tpmedia.online
+cdn1.vda.viettel.vn
 cdn1.vntsm.com
 cdn10236888.ahacdn.me
 cdn11763314.ahacdn.me
@@ -7103,6 +7111,7 @@ delivery.switchadhub.com
 delivery.taroads.com
 delivery.trafficforce.com
 delivery.trafficjunky.net
+delivery.vda.viettel.vn
 delivery.vtc.vn
 delivery.vtcnew.com.vn
 delivery.vtcnews.vn
@@ -8343,6 +8352,7 @@ felonlosel.com
 fencerscoelho.com
 fer2oxheou4nd.com
 ferritediener.tech
+feuageepitoke.com
 fev.fyber.com
 fezacoox.net
 ff.imacdn.com
@@ -8805,6 +8815,7 @@ gfp.veta.naver.com
 gfw-eu.tapdb.net
 gfw-hk.tapdb.net
 gfw-sg.tapdb.net
+gg-ads.b-cdn.net
 gg.meitu.com
 ggimg.ssl3.duapps.com
 ggimg.tapas.net
@@ -9318,6 +9329,7 @@ healthsmd.com
 healthyoffers.com
 heap.com
 heapanalytics.com
+heardaccumulatebeans.com
 heardsoppy.com
 heatmap.it
 heavynotability.com
@@ -10676,6 +10688,7 @@ kinkadservercdn.com
 kinkledunendly.com
 kinrwiomvguf.com
 kiosked.com
+kirteexe.tv
 kissmetrics.com
 kitbit.net
 kitchen.consumable.com
@@ -11244,6 +11257,7 @@ log.uniconsent.com
 log.union.ucweb.com
 log.urekamedia.com
 log.vads.net.vn
+log.vda.viettel.vn
 log.vietnamnetad.vn
 log.vietnamplus.vn
 log.viettimes.vn
@@ -14514,6 +14528,7 @@ qajftiarwp.com
 qajwizsifaj.com
 qalscihrolwu.com
 qamwm5o8dlgijte.com
+qarhrytwyqp.com
 qawqmoancsi.com
 qayepfgsn.com
 qc-static.coccoc.com
@@ -15057,6 +15072,7 @@ revetothummin.website
 review.studio.inmobicdn.net
 revincenizam.com
 revive-adserver.com
+revive-adserver.net
 revive.lavanetwork.net
 revmasters.com
 revmob.com
@@ -15142,6 +15158,7 @@ rmedia.boston.com
 rmp.1rx.io
 rmtag.com
 rnd.novanet.vn
+rndnoibattor.com
 rndskittytor.com
 rnmd.net
 roar.com
@@ -16256,6 +16273,7 @@ slipheirphysician.com
 slipperysack.com
 slm.dantri.com.vn
 slopeaota.com
+slopingunrein.com
 slot.union.ucweb.com
 sltvhyjthx.com
 slushhelmetmirth.com
@@ -16401,6 +16419,7 @@ sombersurprise.com
 somplo.com
 son-in-lawmorbid.com
 sonar.adswizz.com
+songbagoozes.com
 songdew.pushengage.com
 sonnetkeltics.com
 sonobi.com
@@ -16413,6 +16432,7 @@ sorelyafric.com
 sortable-match.dotomi.com
 sortable.com
 sotchoum.com
+soumehoo.net
 soundwave.bnmla.com
 soundwave.mobile.yahoo.com
 source.bidgear.com
@@ -17834,6 +17854,7 @@ throngsarseno.com
 thrtle.com
 thruport.com
 thterras.com
+thubanoa.com
 thumb.dable.io
 thumbnails.infolinks.com
 thunder.adnxs.com
@@ -18111,6 +18132,7 @@ track.vtcnews.vn
 track.wattpad.com
 track.webgains.com
 track.wg-aff.com
+track.winigroup.vn
 track.xapads.com
 track1.aniview.com
 track1.avplayer.com
@@ -19011,6 +19033,9 @@ vcdn.subiz-cdn.com
 vcdn.tsyndicate.com
 vcm-match.dotomi.com
 vcuobpfisalm.com
+vda.viettel.vn
+vdacdn1.viettel.vn
+vdacdn2.viettel.vn
 vdapp.nend.net
 vdna.exelator.com
 vdo.ai
