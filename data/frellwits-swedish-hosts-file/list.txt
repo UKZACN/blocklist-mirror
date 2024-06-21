@@ -45,6 +45,7 @@ ads.annonsbladet.com
 ads.aralego.com
 ads.compro.se
 ads.docunordic.net
+ads.exakt24.se
 ads.expekt.se
 ads.fotosidan.se
 ads.holid.io
@@ -198,6 +199,7 @@ c.cintnetworks.com
 c.eacla.com
 c.flx1.com
 c1.adform.net
+canariajournalen.ads.ramsalt.com
 capi.connatix.com
 cargodisplayads.com
 carneoam.com
