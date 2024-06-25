@@ -682,6 +682,7 @@ rum-static.pingdom.net
 rumcdn.geoedge.be
 runtnc.net
 s-eu-1.pushpushgo.com
+s.cartbooster.io
 s.go-mpulse.net
 s.moatads.com
 s.ntv.io
