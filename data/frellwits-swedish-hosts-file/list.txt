@@ -75,7 +75,6 @@ adserver.so-rummet.se
 adservice.google.se
 adservicemedia.dk
 adsettings.com
-adtomafusion.com
 adtr.io
 adtraction.com
 advert.livesportmedia.eu
@@ -508,7 +507,6 @@ jtp.expressen.se
 keenstockholm.com.se
 kiosked.com
 ksdarprt.reseguiden.se
-kyrkoskatten.se
 l.betrad.com
 l.sharethis.com
 lanapengar.expressen.se
@@ -831,7 +829,6 @@ tags.crwdcntrl.net
 tags.expo9.exponential.com
 tags.refinery89.com
 tags.smilewanted.com
-tapet.bonniernews.se
 tb.de17a.com
 tcd.tourn.se
 telemetric.dk
