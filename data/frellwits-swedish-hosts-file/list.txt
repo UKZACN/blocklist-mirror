@@ -438,6 +438,7 @@ go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
 gtm.allabolag.se
+gtm.ekonomifakta.se
 gtm.findroommate.dk
 gtm.proff.se
 gtm.stampenmedia.se
@@ -563,6 +564,7 @@ mega.folkbladet.nu
 mega.vk.se
 meltwater.com
 metapic.se
+metrics-fe-na1.hubspot.com
 metrics.brightcove.com
 mgdk-cdn.relevant-digital.com
 micro.rubiconproject.com
