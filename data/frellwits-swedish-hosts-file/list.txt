@@ -488,6 +488,7 @@ ipmeta.io
 izooto.com
 js-agent.newrelic.com
 js-sec.indexww.com
+js.adsaga.se
 js.appboycdn.com
 js.datadome.co
 js.evtr.nordiskemedier.dk
@@ -977,6 +978,7 @@ tracking.ut.se
 tracking.vastgotabladet.se
 tracking.vaxjobladet.se
 tracking.vetlandaposten.se
+tracking.viivilla.se
 tracking.visitorsvoice.com
 tracking.vlt.se
 tracking.vn.se
