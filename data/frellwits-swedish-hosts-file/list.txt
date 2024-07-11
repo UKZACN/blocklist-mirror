@@ -419,6 +419,7 @@ freegeoip.app
 freespee.com
 freewheel-mtgx-tv.akamaized.net
 frugalrushcap.com
+functions.adnami.io
 funnelytics.io
 funtomic-d.openx.net
 fusion.bonniertidskrifter.se
