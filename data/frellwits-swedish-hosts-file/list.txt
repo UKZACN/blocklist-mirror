@@ -81,6 +81,7 @@ advert.livesportmedia.eu
 advert.rabaldermedia.se
 advertiser.adtraction.com
 adx.adform.net
+aeonmedia.matomo.cloud
 af.analytics.elx.cloud
 aff.bstatic.com
 affiliatemedia.speedybet.com
@@ -284,6 +285,7 @@ cdn.yieldwrapper.com
 cdn.zx-adnet.com
 cdn001.milotree.com
 cdn1.profitmetrics.io
+cdp-eu.customer.io
 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 ced.sascdn.com
 cintnetworks.com
@@ -702,6 +704,7 @@ sb.scorecardresearch.com
 sbs.deliveryengine.adswizz.com
 sc.lfeeder.com
 scdn.cxense.com
+sch-map.norstatsurveys.com
 schibsted-cdn.relevant-digital.com
 script.crazyegg.com
 script.e-space.se
@@ -833,6 +836,7 @@ tags.crwdcntrl.net
 tags.expo9.exponential.com
 tags.refinery89.com
 tags.smilewanted.com
+target.digitalaudience.io
 tb.de17a.com
 tcd.tourn.se
 telemetric.dk
