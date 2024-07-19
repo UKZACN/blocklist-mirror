@@ -68,7 +68,6 @@
 159-223-204-229.ipv4.staticdns2.io
 159.89.8.28.sslip.io
 161-35-239-147.cprapid.com
-164-90-169-184.cprapid.com
 167-172-234-147.ipv4.staticdns2.io
 167-71-186-178.ipv4.staticdns2.io
 167-71-186-178.ipv4.staticdns3.io
@@ -109,7 +108,6 @@
 21slg.xyz
 226037cm.n9shteam2.top
 227.lan-vg1-1.static.rozabg.com
-2280678.com
 23-227-193-214.static.hvvc.us
 23-26-55-9.cprapid.com
 23.105.197.219.16clouds.com
@@ -205,7 +203,6 @@
 445443cm.n9shteam2.top
 44uegsxdd.life
 44uu.no-ip.info
-45-56-105-235.ip.linodeusercontent.com
 45-79-196-203.ip.linodeusercontent.com
 45.138.74.228.sslip.io
 452132cm.n9shteam2.top
@@ -285,7 +282,6 @@
 777.ultihost.net
 778981.com
 77mh.icu
-78.lan-so2-1.static.rozabg.com
 780.no-ip.info
 783247237256214.com
 784334cm.n9shteam2.top
@@ -415,8 +411,6 @@ action-winds.cfd
 activecode.work
 ad-ed.xyz
 ad-es.xyz
-ad.ttss66.co
-ad.urlz.ws
 ad2916985983.e2.luyouxia.net
 ad4teg.com
 adad3.casacam.net
@@ -654,7 +648,6 @@ aph.no-ip.biz
 api-talks.cedoras.store
 api.atlasapi.co
 api.bestresulttostart.com
-api.broler.shop
 api.chinacec.top
 api.chinaunion.info
 api.d-n-s.name
@@ -698,7 +691,6 @@ app-login.top
 app.chainlirst.com
 app.getmess.io
 app.kaspersky-scan.com
-app.ttss66.co
 app.wiurezende.site
 appdiscordgg.duckdns.org
 appetitesallooonsj.shop
@@ -741,7 +733,6 @@ arritswpoewroso.shop
 arriveoxpzxo.shop
 artist-composed.gl.at.ply.gg
 artist-shared.gl.at.ply.gg
-artre3.fvds.ru
 artspathgroup.net
 artspathgroupe.net
 artstrailman.com
@@ -1155,7 +1146,6 @@ brickabsorptiondullyi.site
 brigadafraternidade.com
 brithcaymo.com
 brodbeckconsulting.com
-broler.shop
 brookselectrics.com
 brotm.no-ip.org
 brow-ser-update.top
@@ -1637,7 +1627,6 @@ d2kw3fh12wz47k.cloudfront.net
 d2n3frqp29q6z9.cloudfront.net
 d2zp39t2eezbsc.cloudfront.net
 d34d60x.no-ip.info
-d3l4l87i1ykapf.cloudfront.net
 d4ffs.no-ip.biz
 d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
 d9msk9dy9tbnk.cloudfront.net
@@ -1867,7 +1856,6 @@ dns.recentbeelive.com
 dns.sstr.com.br
 dns.startservicefounds.com
 dns.startupmartec.net
-dns.stoneco.network
 dns.t0nger.com
 dns.tecbanis.com
 dns.thenewbees.org
@@ -1898,7 +1886,6 @@ domazy.ga
 donkvamcz.life
 donorwifeconfusionstronko.site
 dontreachme2.ddns.net
-doobiefly.com
 doonwload.fun
 doortseropa.com
 dopeonlineforwarding.xyz
@@ -1985,7 +1972,6 @@ ec2-13-36-225-33.eu-west-3.compute.amazonaws.com
 ec2-15-206-164-202.ap-south-1.compute.amazonaws.com
 ec2-15-206-174-2.ap-south-1.compute.amazonaws.com
 ec2-15-207-223-179.ap-south-1.compute.amazonaws.com
-ec2-15-207-223-7.ap-south-1.compute.amazonaws.com
 ec2-16-62-149-189.eu-central-2.compute.amazonaws.com
 ec2-175-41-143-87.ap-southeast-1.compute.amazonaws.com
 ec2-18-116-36-101.us-east-2.compute.amazonaws.com
@@ -1996,7 +1982,6 @@ ec2-3-140-197-75.us-east-2.compute.amazonaws.com
 ec2-3-208-95-157.compute-1.amazonaws.com
 ec2-3-210-242-78.compute-1.amazonaws.com
 ec2-3-22-66-152.us-east-2.compute.amazonaws.com
-ec2-3-26-24-38.ap-southeast-2.compute.amazonaws.com
 ec2-3-75-210-134.eu-central-1.compute.amazonaws.com
 ec2-3-79-194-172.eu-central-1.compute.amazonaws.com
 ec2-3-84-126-255.compute-1.amazonaws.com
@@ -2012,7 +1997,6 @@ ec2-52-20-229-84.compute-1.amazonaws.com
 ec2-52-200-22-116.compute-1.amazonaws.com
 ec2-52-22-239-204.compute-1.amazonaws.com
 ec2-52-23-117-205.compute-1.amazonaws.com
-ec2-52-23-33-245.compute-1.amazonaws.com
 ec2-52-3-173-99.compute-1.amazonaws.com
 ec2-52-70-254-144.compute-1.amazonaws.com
 ec2-52-76-234-184.ap-southeast-1.compute.amazonaws.com
@@ -2048,7 +2032,6 @@ edgeupdate.office365update.cn
 edgewell.cam
 edkark.xyz
 eduardalinn.lol
-education.mccoe.org
 edulinkr.com
 eeatgoodx.com
 eesss.online
@@ -3082,7 +3065,6 @@ ipadd.show
 ipc-nena.net
 ipconfig3.no-ip.org
 iplanforamerica.com
-ipmotinov.fvds.ru
 ipnoip.zapto.org
 ipolastationplasma1bmx.net
 ipolastationplasma2ford.com
@@ -4090,6 +4072,7 @@ mowilderness.com
 moxiroo.org
 mrace.zapto.org
 mrado.kozow.com
+mrat23009.dyndns.org
 mrbassm.no-ip.biz
 mrelectrox.no-ip.biz
 mrgrayhat.duckdns.org
@@ -4098,7 +4081,6 @@ mrrichie.ddnsfree.com
 mrrxr.duckdns.org
 mrtrojanm.no-ip.org
 mrtrojann.no-ip.biz
-ms-api-cs1.azureedge.net
 ms-update-cs1.azureedge.net
 msconfig.sytes.net
 msdd.x24hr.com
@@ -4165,7 +4147,6 @@ nagerproxysinintercavi8464perringuta.duckdns.org
 naightdecipientc.com
 nakit-yok.org
 namex-na.com
-nanasuuakiaa.host
 nandos.hopto.org
 nanfung.servehttp.com
 nano.anygreaterways.tech
@@ -4613,7 +4594,6 @@ ns.go2tr.ir
 ns.jakithebest.ru
 ns.supermirco.us
 ns1.anonymouskids.uk
-ns1.baidusec.top
 ns1.bimnall.com
 ns1.bwork.online
 ns1.collegel.top
@@ -4648,7 +4628,6 @@ ns1.waltonfoods.com
 ns1.waltontechnical.com
 ns1.ylzinfo.xyz
 ns2.0-2.pw
-ns2.baidusec.top
 ns2.collegel.top
 ns2.crnbchina.buzz
 ns2.crowdstrikebit.com
@@ -4665,7 +4644,6 @@ ns2.norincogroup.site
 ns2.tencentupdate.buzz
 ns2.triumphp.com
 ns2.ylzinfo.xyz
-ns3.baidusec.top
 ns3.collegel.top
 ns3.ematome.com
 ns3.gac-oa.com
@@ -4982,7 +4960,6 @@ points-detect.gl.at.ply.gg
 poivyzeaa.top
 poky.no-ip.info
 polikarbonad.xyz
-polina.to-kgb.ru
 politics-installing.gl.at.ply.gg
 poliyhedira.network
 polohacker.no-ip.org
@@ -5031,7 +5008,6 @@ pretorian.ug
 priceless-bose.104-168-102-175.plesk.page
 prideconstituiiosjk.shop
 priiohack.zapto.org
-primalbrainhacks.com
 primaq.no-ip.biz
 princejide.no-ip.biz
 princeofperkia.ddns.net
@@ -5554,14 +5530,12 @@ service-8gtq0019-1257331363.sh.tencentapigw.com
 service-8lop3tot-1321953982.sh.tencentapigw.com
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com
 service-9cjgv9d1-1327547884.bj.tencentapigw.com.cn
-service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn
 service-a7h4x98o-1257783886.gz.tencentapigw.com.cn
 service-ac5ca85o-1314199502.gz.tencentapigw.com.cn
 service-akqr4y12-1300243308.hk.tencentapigw.cn
 service-b0kt7bkd-1307485220.cd.tencentapigw.com
 service-b7okr3qc-1300276284.nj.tencentapigw.com
 service-b8dmmmy2-1318428097.gz.tencentapigw.com.cn
-service-bauue492-1309306755.gz.tencentapigw.cn
 service-bjb5aex0-1318428097.gz.tencentapigw.com.cn
 service-bvvdi136-1317500845.gz.tencentapigw.com
 service-c394iukq-1327454768.gz.tencentapigw.com.cn
@@ -5632,7 +5606,6 @@ servicehelper.oss
 serviceicloud.com
 serviceop091.ddns.net
 servidor.no-ip.info
-set.urlz.ws
 sex.secure-cyber-security-rebirthltd.su
 sexionzone.no-ip.org
 sexyina.no-ip.biz
@@ -5923,7 +5896,6 @@ stviw.xyz
 stx-team.no-ip.org
 stylejason.com
 stylesheet.webstaticcdn.com
-su.urlz.ws
 su8z3r0.myvnc.com
 subal7.duckdns.org
 subdominiodesub.duckdns.org
@@ -6040,7 +6012,6 @@ teachabletutorials.com
 teaching-wireless.gl.at.ply.gg
 teaigame.com
 team-mediabox.no-ip.org
-team-speak.r2283.com
 teamsupd.azurewebsites.net
 teamxrat.no-ip.biz
 techhooks.info
@@ -6418,7 +6389,6 @@ vibe-ptclnetpk.viewdns.net
 vibedroom.org
 vibrant-fermat.104-168-102-175.plesk.page
 vibrant-frost-53467.pktriot.net
-vibrant-proskuriakova.185-228-234-171.plesk.page
 victacking.ddns.net
 victimas2012.no-ip.info
 videoaula.no-ip.org
@@ -6537,7 +6507,6 @@ vlbmqpm.org
 vmi1357229.contaboserver.net
 vmi1502970.contaboserver.net
 vmi1528797.contaboserver.net
-vmi1561484.contaboserver.net
 vmvares.com
 vmvere.com
 vmveres.com
@@ -6898,7 +6867,6 @@ www.loginmicrosoftadmin.shop
 www.louangelwolf.com
 www.luvb.n-b.kr
 www.madisonbartlett.autos
-www.maixunkeji.com
 www.majzolimka.com
 www.maksonsab.ru
 www.maribelgould.autos
@@ -7002,7 +6970,6 @@ www.wishunter1.top
 www.worldxw.xyz
 www.wsj.re
 www.wsj.wf
-www.wuxiaoyun.com
 www.x3qc.com
 www.xahoithongtins.com
 www.xincyun.com
@@ -7088,7 +7055,6 @@ y0ue7nc4v.life
 y32.no-ip.biz
 y7mmp6opv.life
 y9f6z0q1w2.xyz
-yadongrec.com
 yahweh.con-ip.com
 yamaxun.blog
 yan0212.com

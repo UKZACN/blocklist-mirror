@@ -14,7 +14,6 @@ altay-news.net
 amur-news.net
 apple-analyser.com
 apple-health.org
-aracaravan.com
 arkhangelsk-news.net
 artificius.com
 astrakhan-news.net
@@ -23,13 +22,11 @@ baikal-news.net
 bandi-cam.cc
 barnaul-news.net
 bc-news.ru
-beatricewarner.com
 belgorod-news.net
 berdyansk-news.ru
 birobidzhan-news.net
 blcnder.org
 breavas.app
-bruce-ess.com
 bryansk-news.net
 bugiplaysec.com
 cancelle.net
@@ -44,16 +41,13 @@ chernigov-news.ru
 chernovcy-news.ru
 chita-news.net
 chukotka-news.net
-claire-conway.com
 cloud.keepasses.com
 cloudflareaddons.com
 crimea-news.com
 dagestan-news.net
 danteshpk.com
-delooyp.com
 dev-clientservice.com
 diadaacaodegraca.com
-digitalcodecrafters.com
 dmsz.org
 dnepr-news.ru
 dneprnews.com.ua
@@ -62,7 +56,6 @@ donetsk-news.ru
 dowfinanceiro.com
 electrictulsa.com
 epicgames-store.org
-escanor.live
 experttrafficmonitor.com
 featuresscanner.com
 fxbulls.ru
@@ -87,8 +80,6 @@ irkutsk-news.net
 ivanovo-news.net
 ivibers.com
 izhevsk-news.net
-izocraft.com
-jane-chapman.com
 jpadsnow.com
 jupyternotebookcollections.com
 kaliningrad-news.net
@@ -120,7 +111,6 @@ lenta.if.ua
 lenta.kharkiv.ua
 lenta.lviv.ua
 lenta.te.ua
-lindamullins.info
 lipetsk-news.net
 lnr-news.ru
 lugansk-news.ru
@@ -130,7 +120,6 @@ mailchimp-addons.com
 maramaravilha.com
 mariel-news.net
 mariupol-news.ru
-matclick.com
 meetviberapi.com
 melitopol-news.ru
 message.ooguy.com
@@ -151,7 +140,6 @@ news-makeevka.ru
 news-odessa.ru
 news-surgut.ru
 news.ru
-nicoledotson.icu
 niknews.com.ua
 nikolaev-news.ru
 nikolaevnews.com.ua
@@ -174,7 +162,6 @@ onenote-download.com
 open-project.org
 orel-news.net
 orenburg-news.net
-overingtonray.info
 p2oaviwt39ui.com
 passatempobasico.com.br
 pavlograd-news.ru
@@ -183,7 +170,6 @@ perm-news.net
 piter-news.net
 plinqok.com
 poltava-news.ru
-porthopeminorhockey.net
 pravda-de.com
 pravda-en.com
 pravda-es.com
@@ -212,19 +198,14 @@ slavyansk-news.ru
 smolensk-news.net
 sochi-news.net
 sokingscrosshotel.com
-spgbotup.club
 stavropol-news.net
-stgeorgebankers.com
 stratimasesstr.com
 sumy-news.ru
-swsan-lina-soso.info
-symantke.com
 tagil-news.ru
 tambov-news.net
 ternopol-news.ru
 test1.zhangliyong.cn
 textsmsonline.com
-theconomics.net
 thisistestc2.com
 tiraspol-news.ru
 titnovacrion.top
@@ -295,8 +276,6 @@ volyn-news.ru
 volzhskiy-news.ru
 voronezh-news.net
 vsliveagent.com
-wanda-bell.website
-wayne-lashley.com
 winarkamaps.com
 wireoneinternet.info
 xalticainvest.com
@@ -305,6 +284,5 @@ yakutsk-news.net
 yamal-news.net
 yaroslavl-news.net
 z5jixbfejdu5wtxd2baliu6hwzgcitlspnttr7c2eopl5ccfcjrhkqid.onion
-zakaria-chotzen.info
 zhitomir-news.ru
 zp-news.ru
