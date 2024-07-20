@@ -378,7 +378,6 @@ abdodo.no-ip.org
 abecopiers.com
 aberzing.com
 abixmaly.duckdns.org
-abode-dashboard-media.s3.ap-south-1.amazonaws.com
 abode80.linkpc.net
 abodeeg.no-ip.org
 aboft7e.ddns.net
@@ -714,7 +713,6 @@ arbiankroos.com
 arcade.shinjiku.xyz
 arcf-sj.org
 architrata.com
-archivevalley-media.s3.amazonaws.com
 archosk.xyz
 ardoelur.com
 areaseguras.con-ip.com
@@ -1057,7 +1055,6 @@ blmdiscount.com
 bloadypupper.best
 blockworks.one
 blogger.deenpel.com
-blooming.s3.amazonaws.com
 blueberry-breeze.com
 blyndz.icu
 bmld.shop
@@ -1415,7 +1412,6 @@ clk-info.ru
 clk-info.site
 cloud-dnssync.com
 cloud.edgerapidcdn.com
-cloud.huawel.top
 cloud.kaspersky-scan.com
 cloud.microsoftsservice.com
 cloud.palloaltonetworks.com
@@ -1965,7 +1961,6 @@ ec2-107-23-38-171.compute-1.amazonaws.com
 ec2-13-214-29-253.ap-southeast-1.compute.amazonaws.com
 ec2-13-214-93-225.ap-southeast-1.compute.amazonaws.com
 ec2-13-233-144-170.ap-south-1.compute.amazonaws.com
-ec2-13-235-247-85.ap-south-1.compute.amazonaws.com
 ec2-13-235-248-157.ap-south-1.compute.amazonaws.com
 ec2-13-235-8-98.ap-south-1.compute.amazonaws.com
 ec2-13-36-225-33.eu-west-3.compute.amazonaws.com
@@ -2022,7 +2017,6 @@ ecs-110-41-134-233.compute.hwclouds-dns.com
 ecs-116-205-190-164.compute.hwclouds-dns.com
 ecs-123-60-57-13.compute.hwclouds-dns.com
 ecs-124-71-158-221.compute.hwclouds-dns.com
-ecs-139-9-196-215.compute.hwclouds-dns.com
 ecuaecua.duckdns.org
 ecurs.ro
 edden.con-ip.com
@@ -2239,7 +2233,6 @@ fenerli1907.no-ip.biz
 fervent-gates.104-168-102-175.plesk.page
 few-madrid.gl.at.ply.gg
 fewjfhwefhwegfgwey344.cfd
-ff.africankido.design
 fffsddhddd3.cfd
 fhfhreeruu334345432.cfd
 fhoo111.no-ip.biz
@@ -2497,6 +2490,7 @@ gemsbundle.com
 general5555-46584.portmap.host
 gentradings007.duckdns.org
 geotechprotect.com
+geotravelsgi.xyz
 geriguna.shop
 gerlia.shop
 germanclics.com
@@ -3234,7 +3228,6 @@ kabillo.linkpc.net
 kabuntuhacker.no-ip.org
 kafooooo.no-ip.biz
 kakaoaccouts.store
-kalnet.top
 kalopvard.com
 kami.magication.us
 kami.shopkami.site
@@ -3695,6 +3688,7 @@ madeyourbackup.com
 madisonbartlett.autos
 maduroma.com
 mafiakorea.com
+magaanthem.com
 magarodriajhsdbajifuqwe12341safqdv.duckdns.org
 magentoengineers.com
 magic09.no-ip.org
@@ -4181,10 +4175,15 @@ ndas8m92.shop
 ndbplus.rs
 ndearn.xyz
 ndichinnenanna0110.ddns.net
+ndm2398asdlw.homes
+ndm2398asdlw.lol
+ndm2398asdlw.mom
+ndm2398asdlw.shop
 ndy.cloudbot.top
 ndy.derg.tech
 nebraska-lawyers.com
 nebula-cdn.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+necessary-sick.gl.at.ply.gg
 necxo.tech
 nedu1994.xyz
 neger.icu
@@ -4600,7 +4599,6 @@ ns1.collegel.top
 ns1.crnbchina.buzz
 ns1.crowdstrikebit.com
 ns1.dice1018.top
-ns1.dnsdnsdns.online
 ns1.fdsagwagfdsba.xyz
 ns1.ftoffice.com
 ns1.fwmtest.cn
@@ -4632,7 +4630,6 @@ ns2.collegel.top
 ns2.crnbchina.buzz
 ns2.crowdstrikebit.com
 ns2.dice1018.top
-ns2.dnsdnsdns.online
 ns2.fwmtest.cn
 ns2.gac-oa.com
 ns2.googletagmauager.com
@@ -4691,7 +4688,6 @@ obmonspc.online
 obqdy2u226qjiavs42z4z6zgcf6tefsoxaqzjvohmoy7kafdwgqgjkqd.onion
 obsceneclassyjuwks.shop
 obsec.info
-obsidia.fun
 oct5e.top
 oct5m.top
 octopanel.cc
@@ -5622,7 +5618,6 @@ shaffatta.com
 shailputrimt1.publicvm.com
 shamoo.no-ip.biz
 shangri3.com
-shapefiles.fews.net.s3.amazonaws.com
 share-introduced.gl.at.ply.gg
 shared-celestial.com
 sharepakistan-mofa.viewdns.net
@@ -5901,7 +5896,6 @@ subal7.duckdns.org
 subdominiodesub.duckdns.org
 subertje.no-ip.biz
 subjects-handbook.gl.at.ply.gg
-subns.oss-ttech.com
 subphattai.online
 success.165gov.icu
 sudarshanadisk.com
@@ -5992,7 +5986,6 @@ talapain.ddns.net
 talesfromthedoghouse.com
 tamatri.co
 tampabayllc.top
-tan.kalnet.top
 tanta.theworkpc.com
 taobao7737.com
 taojszxz.com
@@ -6645,6 +6638,7 @@ wickeddick.no-ip.org
 widur.xyz
 wifeplasterbakewis.shop
 wikistarhmania.com
+wilderglamour.com
 willpoweragreebokkskiew.site
 win0090.theworkpc.com
 win32.duckdns.org
@@ -6973,7 +6967,6 @@ www.wsj.wf
 www.x3qc.com
 www.xahoithongtins.com
 www.xincyun.com
-www.xiongge.space
 www.yah00.o-r.kr
 www.yamaxun.blog
 www.ynpuning.cn
