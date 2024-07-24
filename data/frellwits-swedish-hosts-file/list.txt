@@ -873,6 +873,7 @@ tracking.bblat.se
 tracking.blt.se
 tracking.bonnier.news
 tracking.borlangetidning.se
+tracking.borssnack.di.se
 tracking.bt.se
 tracking.byggindustrin.se
 tracking.dagensmedia.se
