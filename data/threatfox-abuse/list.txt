@@ -2,14 +2,17 @@
 0.tcp.us-cal-1.ngrok.io
 0.tpc.eu.ngrok.io
 000111.org
+01ravenousabyss.buzz
 0212top.online
 0212top.site
 0212top.top
 0212top.xyz
 024460cm.n9shteam2.top
 02maill.com
+02radiantquagmire.buzz
 030420112218.no-ip.org
 034928cm.n9shteam2.top
+03rhapsodyeclipse.buzz
 040943cm.n9shteam2.top
 041018cm.n9shteam2.top
 042506cm.n9shteam2.top
@@ -18,18 +21,27 @@
 050420122037.no-ip.org
 055442cm.n9shteam2.top
 056hg568786.f4r5t5y8hh8.click
+05renaissancecryptic.buzz
+06resilientlabyrinth.buzz
+07reverberatezenith.buzz
 080864cm.n9shteam2.top
 0909kses.top
 096241cm.n9shteam2.top
+09ritualobfuscate.buzz
 0b1.duckdns.org
 0buue2.padelixoobjeto.sa.com
 0o0o.no-ip.info
 0x16host.no-ip.biz
 1000keder.no-ip.org
+102responsible.buzz
 103.54.57.251.sslip.io
 104-168-102-175.plesk.page
+106recession.buzz
+107rehabilitation.buzz
+108repetition.buzz
 109.107.181.83.sslip.io
 109.179.76.34.bc.googleusercontent.com
+10rapturousenigma.buzz
 10xshares.com
 11234jkhfkujhs.online
 11234jkhfkujhs.site
@@ -179,7 +191,6 @@
 3dtuts.by
 3g.ali213.net
 3gjanc04hk.execute-api.us-east-2.amazonaws.com
-3psil0n.fr
 3psilonapi.com
 3r9-hak.no-ip.org
 3rldogkrx.life
@@ -315,12 +326,14 @@
 8s75cl4j9.life
 8t8g8jquy.life
 901329cm.n9shteam2.top
+90equinox.buzz
 913987cm.n9shteam2.top
 918938cm.n9shteam2.top
 92g938uextmgvb7rllv8wcad.biz
 93-33-203-219.ip46.fastwebnet.it
 931740cm.n9shteam2.top
 946663cm.n9shteam2.top
+94eliminate.buzz
 9507c272a51ce8cefc8761591b2c50e6.fit
 956330cm.n9shteam2.top
 98.lan-za2-1.static.rozabg.com
@@ -546,7 +559,6 @@ allbou.com
 alliancebbs.com
 allows-hindu.gl.at.ply.gg
 allpikoloserdzwe.cyou
-allsmt.cam
 alltorq-net.oncallservices.ca
 alma27.duckdns.org
 almatac.top
@@ -740,7 +752,6 @@ asil.no-ip.biz
 asiporata.com
 asjidoaiosdjo.e3.luyouxia.net
 asloyganza.com
-asp.keyshape.net
 asqrecruitment.com
 asra1.ddns.net
 assasintroy.no-ip.org
@@ -982,7 +993,6 @@ biofuelsevent.com
 bipto.org
 biss01.info
 bistoxcrypto.com
-bit-number.gl.at.ply.gg
 bitdefenderupdate.org
 bithacker.dyndns.biz
 bitonecore.com
@@ -1005,6 +1015,7 @@ blackhackv4.no-ip.org
 blackid-51579.portmap.host
 blackrock.re
 blackrock.wf
+blacksaltys.com
 blackshades.dyndns.org
 blackstar001.no-ip.org
 blacksys.deltadefenses.com
@@ -1027,6 +1038,7 @@ bloadypupper.best
 blockworks.one
 blogger.deenpel.com
 blueberry-breeze.com
+bluetreewater.com
 blyndz.icu
 bmld.shop
 bmw320ci.no-ip.biz
@@ -1067,6 +1079,7 @@ bot.secure-network-rebirthltd.ru
 bot.shop4youv2.de
 bot.vptmedia.click
 botce.heihuo8.top
+botconnect.lmanber.xyz
 botnet.4gnekoland.top
 botnet.91av.live
 botnet.awuam.com
@@ -1109,6 +1122,7 @@ breakingnews.kumbaraan.biz.id
 breeman1.no-ip.org
 brianystafford.geek
 brickabsorptiondullyi.site
+brickedpack.com
 brigadafraternidade.com
 brithcaymo.com
 brodbeckconsulting.com
@@ -1145,6 +1159,7 @@ buygreenstudio.com
 buyinginfo.org
 by77.no-ip.biz
 byatmaca.no-ip.biz
+bymett.com
 byorn.us
 bzwl888.sbs
 c.bywe.xyz
@@ -1154,7 +1169,6 @@ c.hxhk.cc
 c.qqwhoami.org
 c0mmit.top
 c1.redteam.club
-c1.tqrjfru.cn
 c2.redteam.club
 c2.sns-labs.net
 c2.yuyake.top
@@ -1471,7 +1485,6 @@ cornbascet.ru
 cornbascet.site
 correos.pa-ock.click
 corysy.xyz
-count.spartabig.com
 countdownx.info
 country.zapto.org
 courtneysdv.ac.ug
@@ -1764,7 +1777,6 @@ dns-inform.top
 dns.163microsoft.com
 dns.artstrailman.com
 dns.artstrailreviews.com
-dns.atchesonprint.com
 dns.beenewsdream.net
 dns.byresolved.com
 dns.freshstartupusa.org
@@ -1778,7 +1790,6 @@ dns.recentbeelive.com
 dns.sstr.com.br
 dns.startservicefounds.com
 dns.startupmartec.net
-dns.t0nger.com
 dns.tecbanis.com
 dns.thenewbees.org
 dns.topinvestmentusa.net
@@ -1946,7 +1957,6 @@ eewr.dyndns-ip.com
 eganet.linkpc.net
 egirls.tech
 ehangmun.com
-ekfb.site
 ekuroak.hopto.org
 elamoto.com
 elastsolek1.duckdns.org
@@ -2036,7 +2046,6 @@ event.coachgreb.com
 eventgrids.online
 every-unnecessary.gl.at.ply.gg
 everything1lol.no-ip.biz
-evgenytchurakin.fvds.ru
 evgenytchurakin1.fvds.ru
 evgenytchurakin2.fvds.ru
 evgenytchurakin3.fvds.ru
@@ -2896,6 +2905,7 @@ img.vdtuconsole.online
 imperiummalczyc.pl
 impressionzone.info
 imthegod.no-ip.org
+imtokcn.org
 inabove.com
 inc.sshadowso.ru
 incachespace.com
@@ -3236,7 +3246,6 @@ klnein9ht.top
 klnein9pn.top
 klnein9sr.top
 klone1vt.top
-klosherskymoneyd.com
 klseven7ht.top
 klseven7vs.top
 klten10pn.top
@@ -3495,7 +3504,7 @@ looloo.no-ip.org
 loolsena.shop
 lordnikon2012.zapto.org
 loskawist.pics
-louangelwolf.com
+losttwister.com
 loucoservegame.no-ip.org
 louiseanderson.top
 love.myftp.biz
@@ -3599,6 +3608,17 @@ mail-sco-gov-pk.crypton0019.workers.dev
 mail-sco-gov-pk.ntc-telecomcorporation.workers.dev
 mail-scogovpk.servehalflife.com
 mail-scogovpk.servehttp.com
+mail.01ravenousabyss.buzz
+mail.02radiantquagmire.buzz
+mail.03rhapsodyeclipse.buzz
+mail.04razorbladenebula.buzz
+mail.05renaissancecryptic.buzz
+mail.06resilientlabyrinth.buzz
+mail.07reverberatezenith.buzz
+mail.08rococoephemeral.buzz
+mail.09ritualobfuscate.buzz
+mail.106recession.buzz
+mail.10rapturousenigma.buzz
 mail.161-35-239-147.cprapid.com
 mail.194-233-74-255.cprapid.com
 mail.23-26-55-9.cprapid.com
@@ -3726,6 +3746,7 @@ meet-go.click
 meet-go.day
 meet-go.link
 meet-go.org
+megabahis664.com
 megabet303.lol
 megacitta190004.duckdns.org
 megadaddy.no-ip.org
@@ -3765,7 +3786,6 @@ mezcallero.info
 meziane10.zapto.org
 mezla.site
 mfocuz.com
-mfreshbnrem.ddns.net
 mfvfmava.duckdns.org
 mg.inspirestudiosteam.com
 mhacks.no-ip.org
@@ -3866,7 +3886,6 @@ mono2024.kozow.com
 month-luxembourg.gl.at.ply.gg
 moodle1.feja111.de
 moof1.no-ip.org
-moon.spartabig.com
 moon2009us.linkpc.net
 moonapi.site
 moprewaldon.com
@@ -3978,7 +3997,6 @@ mzagy-mncy.zapto.org
 mzile.com
 mznhr.ddns.net
 n9shteam2.top
-nab.blueyonderllc.top
 nabeellasdfasdf-52048.portmap.host
 nabihxp2.no-ip.biz
 nadia.ac.ug
@@ -4009,7 +4027,6 @@ nazi.igboat.com
 nblcc.co
 ndas8m92.lol
 ndas8m92.shop
-ndbplus.rs
 ndearn.xyz
 ndichinnenanna0110.ddns.net
 ndm2398asdlw.homes
@@ -4370,8 +4387,8 @@ no.no-ip1414.tk
 no1geekfun.com
 nocapsrt.site
 nocrynetworking.duckdns.org
+noddos.buzz
 node1.abcd2.monster
-node115.5-systems.ru
 nodejsmysql.com
 nohya6.no-ip.org
 noiphabibi.ddns.net
@@ -4418,7 +4435,6 @@ ns1.dice1018.top
 ns1.fdsagwagfdsba.xyz
 ns1.ftoffice.com
 ns1.fwmtest.cn
-ns1.gac-oa.com
 ns1.globalusa.net
 ns1.googletagmauager.com
 ns1.jd-vip.cn
@@ -4428,6 +4444,7 @@ ns1.msn-microsoft.co
 ns1.myinternationalsolutions.com
 ns1.netiapp.org
 ns1.networkspacer.com
+ns1.noddos.buzz
 ns1.norincogroup.site
 ns1.oneblackwood.com
 ns1.securecloudmanage.com
@@ -4444,18 +4461,17 @@ ns2.crnbchina.buzz
 ns2.crowdstrikebit.com
 ns2.dice1018.top
 ns2.fwmtest.cn
-ns2.gac-oa.com
 ns2.googletagmauager.com
 ns2.jd-vip.cn
 ns2.kogyoung.com
 ns2.msn-microsoft.co
 ns2.netiapp.org
+ns2.noddos.buzz
 ns2.norincogroup.site
 ns2.tencentupdate.buzz
 ns2.ylzinfo.xyz
 ns3.collegel.top
 ns3.ematome.com
-ns3.gac-oa.com
 ns3.norincogroup.site
 ns3.tencentupdate.buzz
 ns4.tencentupdate.buzz
@@ -4525,7 +4541,6 @@ ogs.deenpel.com
 oilproduce.xyz
 ok-ok.no-ip.biz
 ok.chicecon.com
-ok.spartabig.com
 ok.system-samsung.com
 ok.system111.top
 okaa0-60956.portmap.host
@@ -4691,7 +4706,6 @@ pensive-brattain.104-168-102-175.plesk.page
 pensive-cerf.104-168-102-175.plesk.page
 pensive-shamir.45-134-26-33.plesk.page
 pentefaith.com
-people-primarily.gl.at.ply.gg
 pepebotella.no-ip.org
 pepo201000.no-ip.biz
 perfect-hacker.no-ip.biz
@@ -4778,6 +4792,7 @@ popo.office-on-the.net
 porsherses.com
 port.deenpel.com
 portal-ptclnetpk.servehttp.com
+portal.sharjahconnect.online
 portals-swisslife.com
 poseidon.cool
 post.f2pool.info
@@ -4869,6 +4884,7 @@ pumcarcheto.red
 pumpkinz.no-ip.biz
 puppybloder.pw
 pure4pro.zapto.org
+purinex.co.id
 purpleflowers.org
 pushjellysingeywus.shop
 pushkinorigin.ydns.eu
@@ -4973,7 +4989,6 @@ radicalleafletmissfoxw.pw
 ragebo.no-ip.biz
 raipd.carregadorobjeto.za.com
 rampy.no-ip.info
-ramzanlee.fvds.ru
 ranconimports.com
 ranoosh.no-ip.biz
 ransomproducts.top
@@ -5257,7 +5272,6 @@ seetoo.ossadmin.site
 seized.icu
 sekubar.com
 selec-only.hopto.org
-sell.spartabig.com
 selldrugs.duckdns.org
 sellitbuy.no-ip.org
 selltix.org
@@ -5531,7 +5545,6 @@ spagetti.openproxylist.info
 spain-se-lab.eastus.cloudapp.azure.com
 spamcxcs.com
 sparrowmanique.no-ip.org
-spartabig.com
 spawn007.no-ip.biz
 specialdrilling38.ru
 specialdrills.com
@@ -5571,7 +5584,6 @@ spyzer4.dyndns.org
 sro3ga.net
 srophuchung.com
 srothanhlong.vn
-srryapi.store
 srryontop.fr
 srryontop.xyz
 srsoor.no-ip.biz
@@ -6130,6 +6142,7 @@ veea5y.gpsdecarroobjeto.sa.com
 vegas1e.xyz
 vegas2e.xyz
 vegetachcnc.com
+velellablue.com
 vendjksld.duckdns.org
 venomm.ddns.net
 ventafones.com
@@ -6287,7 +6300,6 @@ vpn.icbcbc.com.cn
 vpn.nsfocus.cn.com
 vpn.nsgocus.cn.com
 vpn340948845.softether.net
-vpn752656009.softether.net
 vpnu.top
 vps-zap1030125-1.zap-srv.com
 vps-zap1065782-2.zap-srv.com
@@ -6392,7 +6404,6 @@ whoevenareyou.equi-hosting.fr
 whois-server.no-ip.org
 whoiswho100.no-ip.org
 whole-girl-gw.aws-usw2.cloud-ara.tyk.io
-whyzup.com
 whyzzz.no-ip.biz
 wickeddick.no-ip.org
 widur.xyz
@@ -6478,8 +6489,21 @@ wwea.goweqmcsa.xyz
 wwv.bmjz.vip
 www-12.eekal.com
 www-deer.deerllt.store
+www.01ravenousabyss.buzz
+www.02radiantquagmire.buzz
+www.03rhapsodyeclipse.buzz
 www.040.red
+www.04razorbladenebula.buzz
+www.05renaissancecryptic.buzz
+www.06resilientlabyrinth.buzz
+www.07reverberatezenith.buzz
+www.08rococoephemeral.buzz
+www.09ritualobfuscate.buzz
 www.10086cn.xyz
+www.103royalty.buzz
+www.108radical.buzz
+www.108repetition.buzz
+www.10rapturousenigma.buzz
 www.1234wu.com
 www.163microsoft.com
 www.164-90-169-184.cprapid.com
@@ -6491,6 +6515,7 @@ www.64-225-100-2.cprapid.com
 www.778981.com
 www.87-119-220-245.cprapid.com
 www.8996djnv.top
+www.91exploit.buzz
 www.996m2m2.top
 www.admiring-pascal.142-11-199-59.plesk.page
 www.adoring-hellman.104-168-102-175.plesk.page
@@ -6522,8 +6547,6 @@ www.checktimes.top
 www.chiante1ecom.com
 www.chinamobile.live
 www.clainsrimauto.com
-www.classicstandupcomedy.com
-www.classicstandupcomedylive.com
 www.cloudflarecache.top
 www.collegeclubapparel.com
 www.concur.pm
@@ -6597,7 +6620,6 @@ www.lfgu.n-e.kr
 www.liceback.online
 www.lieamwalls.com
 www.loginmicrosoftadmin.shop
-www.louangelwolf.com
 www.luvb.n-b.kr
 www.madisonbartlett.autos
 www.majzolimka.com
