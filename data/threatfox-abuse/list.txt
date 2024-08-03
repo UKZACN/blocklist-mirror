@@ -1282,7 +1282,6 @@ cdncloud.info
 cdnet-web.com
 cdnforbusiness.com
 cdnforfiles.xyz
-cdns.casacam.net
 cdrawhi.art
 cecilio.network
 cecilio.one
@@ -1438,7 +1437,6 @@ com.nightciows.com
 comarmo.com
 comas.sells-it.net
 comblinez.ignorelist.com
-comewithme.info
 comfortel.cloud
 comigoninguempodes.shop
 comm.sells-it.net
@@ -1474,7 +1472,6 @@ consulheartinc.com
 consultantinsurance.net
 contemplateodszsv.shop
 content-royal.gl.at.ply.gg
-content.deenpel.com
 content.g-a.fun
 contextsuffreintymore.fun
 contintnetksows.shop
@@ -1603,6 +1600,9 @@ d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
 d9msk9dy9tbnk.cloudfront.net
 dadadsadaccsoong.top
 daffigallery.com
+dais7nsa.lol
+dais7nsa.pics
+dais7nsa.shop
 dallassutherland.com
 damousese.xyz
 damsjeli.no-ip.biz
@@ -1910,14 +1910,12 @@ ec2-13-233-144-170.ap-south-1.compute.amazonaws.com
 ec2-13-235-248-157.ap-south-1.compute.amazonaws.com
 ec2-13-235-8-98.ap-south-1.compute.amazonaws.com
 ec2-13-36-225-33.eu-west-3.compute.amazonaws.com
-ec2-15-206-174-2.ap-south-1.compute.amazonaws.com
 ec2-16-62-149-189.eu-central-2.compute.amazonaws.com
 ec2-175-41-143-87.ap-southeast-1.compute.amazonaws.com
 ec2-18-116-36-101.us-east-2.compute.amazonaws.com
 ec2-18-134-234-207.eu-west-2.compute.amazonaws.com
 ec2-18-153-179-54.eu-central-1.compute.amazonaws.com
 ec2-18-206-73-190.compute-1.amazonaws.com
-ec2-3-140-197-75.us-east-2.compute.amazonaws.com
 ec2-3-208-95-157.compute-1.amazonaws.com
 ec2-3-210-242-78.compute-1.amazonaws.com
 ec2-3-22-66-152.us-east-2.compute.amazonaws.com
@@ -1936,7 +1934,6 @@ ec2-52-20-229-84.compute-1.amazonaws.com
 ec2-52-200-22-116.compute-1.amazonaws.com
 ec2-52-22-239-204.compute-1.amazonaws.com
 ec2-52-23-117-205.compute-1.amazonaws.com
-ec2-52-3-173-99.compute-1.amazonaws.com
 ec2-52-76-234-184.ap-southeast-1.compute.amazonaws.com
 ec2-54-152-184-1.compute-1.amazonaws.com
 ec2-54-169-174-23.ap-southeast-1.compute.amazonaws.com
@@ -1946,7 +1943,6 @@ ec2-54-234-189-192.compute-1.amazonaws.com
 ec2-54-237-138-159.compute-1.amazonaws.com
 ec2-54-86-17-63.compute-1.amazonaws.com
 ec2-54-88-105-125.compute-1.amazonaws.com
-ec2-54-89-165-37.compute-1.amazonaws.com
 ec2-65-2-129-159.ap-south-1.compute.amazonaws.com
 ech0.theworkpc.com
 echelon.myftp.biz
@@ -1990,6 +1986,7 @@ elgigante.con-ip.com
 elgrande.con-ip.com
 elianisgalidon3020.duckdns.org
 ellaboratepwsz.xyz
+elmauz.freemyip.com
 eloquent-germain.45-138-16-132.plesk.page
 elsantos.co
 eltahan.no-ip.biz
@@ -2802,6 +2799,7 @@ hdvideoplayersistemleri965.xyz
 headraisepresidensu.shop
 healitytherapy.pro
 healitytherapy.xyz
+health-wants.gl.at.ply.gg
 healthpips.com
 healthsurveysolutions.com
 heart-direct.online
@@ -2924,6 +2922,7 @@ iboothostz.no-ip.biz
 ibroot.com
 icant.theworkpc.com
 icarusairlines.com
+ichiupdate.lat
 icpanel.hackcrack.io
 id-diesel.gl.at.ply.gg
 id2.microsoftsservice.com
@@ -3254,6 +3253,7 @@ keywordslive.com
 kgj112233.codns.com
 kh1.userjoy.com
 khan041.freeddns.org
+khongphaibotnet.servehttp.com
 kibagendi.org
 killerblademaster.no-ip.biz
 killy1.no-ip.biz
@@ -4005,6 +4005,7 @@ mta4.sharenscookbook.com
 mta4.theaerie.ca
 mtgimports.com
 mtuogioanis.com
+muchodinerohoy.con-ip.com
 muffin.no-ip.biz
 multi-bidding.gl.at.ply.gg
 multipleonlinegahiddenzonline.organiccrap.com
@@ -4042,7 +4043,6 @@ mytestdns123.mooo.com
 mythic-slender.online
 mythictherapy.org
 myvictims2012.no-ip.org
-mywestpac.com
 mzagy-mncy.zapto.org
 mzile.com
 mznhr.ddns.net
@@ -4399,8 +4399,6 @@ nic-ns3-153548.net
 nice-margulis.45-138-16-132.plesk.page
 nice-torvalds.104-168-102-175.plesk.page
 niceburlat.me
-nickbaseev1.fvds.ru
-nickbaseev4.fvds.ru
 nickbaseev6.fvds.ru
 nicolas69.no-ip.biz
 nife04.info
@@ -4588,7 +4586,6 @@ ok.system-samsung.com
 ok.system111.top
 okaa0-60956.portmap.host
 okilometros.duckdns.org
-okled.cc
 oktes.xyz
 okulto.no-ip.biz
 oluaskaz.pw
@@ -4596,7 +4593,6 @@ omarkam24.no-ip.org
 omeno.duckdns.org
 omfghellobrosjda38.org
 omg0nlyh3ks.no-ip.biz
-omgs.asia
 oneblackwood.com
 onecapitalresidences.com
 onedogsclub.com
@@ -4699,7 +4695,6 @@ panel.dalkson.com
 panel.niggas.icu
 panel.statisticsong.com
 panel.swain.ir
-panelbar.ct8.pl
 panelweb.equi-hosting.fr
 paolio.shop
 parabmasale.com
@@ -5380,7 +5375,6 @@ service-1bsjckga-1252578700.gz.tencentapigw.com.cn
 service-1w88bdif-1300276284.cd.tencentapigw.com
 service-20ww8i3o-1300612713.gz.tencentapigw.com.cn
 service-2kd9w0iu-1302672236.gz.tencentapigw.com.cn
-service-2kefhgzl-1316598603.bj.tencentapigw.com.cn
 service-2rawgstq-1306320113.gz.apigw.tencentcs.com
 service-2saemj0p-1319375115.bj.apigw.tencentcs.com
 service-33y2vp0r-1303081427.sh.tencentapigw.com
@@ -5442,7 +5436,6 @@ service-j78tszan-1319584009.sh.apigw.tencentcs.com
 service-jby1ivts-1324864909.hk.tencentapigw.cn
 service-jj4sc5n0-1325804472.gz.tencentapigw.com.cn
 service-jjtluhvu-1308426789.gz.tencentapigw.com.cn
-service-jnajkkdg-1318687485.gz.apigw.tencentcs.com
 service-k2snyjb7-1326503875.bj.tencentapigw.com.cn
 service-kj4ef32e-1252578700.gz.tencentapigw.com.cn
 service-kjjaddjc-1309114380.gz.tencentapigw.com.cn
@@ -5865,7 +5858,6 @@ talk-saturn.gl.at.ply.gg
 tamatri.co
 tampabayllc.top
 tanta.theworkpc.com
-taobao7737.com
 taojszxz.com
 tapyjya.org
 tax-sri.gl.at.ply.gg
@@ -5886,7 +5878,6 @@ team-mediabox.no-ip.org
 teamsupd.azurewebsites.net
 teamxrat.no-ip.biz
 techhooks.info
-technoblade.ddns.net
 tecnomedica.com.py
 teddypause.no-ip.org
 tej-hamdi.no-ip.org
@@ -6657,7 +6648,6 @@ www.collegeclubapparel.com
 www.concur.pm
 www.concur.re
 www.confident-bouman.104-168-102-175.plesk.page
-www.controlpanel29.com
 www.cranky-easley.142-11-199-59.plesk.page
 www.dahuatec.xyz
 www.deenpel.com
@@ -6751,13 +6741,11 @@ www.nickelviper.com
 www.nkbiky.cn
 www.nocapsrt.site
 www.notepadplugin.top
-www.okled.cc
 www.onceuponatimeiwent.online
 www.optimistic-almeida.104-168-102-175.plesk.page
 www.optimistic-rubin.104-168-102-175.plesk.page
 www.oyoing.com
 www.paamsa.duckdns.org
-www.panitor.xyz
 www.planetstherapy.org
 www.practical-black.104-168-102-175.plesk.page
 www.premier-stream.co.uk
@@ -6820,7 +6808,6 @@ www.yah00.o-r.kr
 www.yamaxun.blog
 www.ynpuning.cn
 www.zestyahhdog.com
-www2.deenpel.com
 www2.itaberabanoticias.com
 www2.laboratoriodiagnosticoescobar.com
 www2.servicebio.com
