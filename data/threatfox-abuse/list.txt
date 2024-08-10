@@ -72,13 +72,11 @@
 156.248.54.11.webcamcn.xyz
 157.32.125.34.bc.googleusercontent.com
 15731.org
-159-203-167-57.ipv4.staticdns2.io
 159-223-204-229.ipv4.staticdns2.io
 161-35-239-147.cprapid.com
 167-71-186-178.ipv4.staticdns2.io
 167-71-186-178.ipv4.staticdns3.io
 17.ip.gl.ply.gg
-172-105-14-104.ip.linodeusercontent.com
 173920cm.n9shteam2.top
 19.ip.gl.ply.gg
 19008198.ddns.net
@@ -99,7 +97,6 @@
 2024remcmon.duckdns.org
 203-124351878443.hopto.org
 206481cm.n9shteam2.top
-21.157.72.34.bc.googleusercontent.com
 21.ip.gl.ply.gg
 211.20.97.83.ro.ovo.sc
 212-70-149-199.cprapid.com
@@ -578,6 +575,7 @@ ams-k-node1.vleo.ru
 amydlesk.com
 an-take.gl.at.ply.gg
 an-taxi.gl.at.ply.gg
+anachyyyyy.duckdns.org
 analista2014.no-ip.org
 analysis-minolta.gl.at.ply.gg
 analytics.deenpel.com
@@ -587,7 +585,6 @@ anbu.bond
 anchondrica.info
 ancy2024.kozow.com
 andrebadi.top
-android.l3harris.pro
 anexchange.xyz
 angela-kindly.with.playit.plus
 angkung.dyndns.info
@@ -631,6 +628,7 @@ api.chinaunion.info
 api.data.nextb.top
 api.frameeservicere.live
 api.fwfy.club
+api.garageserviceoperation.com
 api.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 api.ilovecats.life
 api.kdkz1213.icu
@@ -782,7 +780,6 @@ awards-piacaero.servehttp.com
 away-displays.gl.at.ply.gg
 awjjbslep.life
 awmv2d35g.life
-aws-apps.net
 awuam.com
 ax0.no-ip.biz
 axe.ydns.eu
@@ -844,6 +841,7 @@ bannngwko.shop
 baqebei1.online
 bar-fri.gl.at.ply.gg
 barbar3131.zapto.org
+barelytherejewels.com
 bargainnygroandjwk.shop
 bargainnykwo.shop
 barulay1.zapto.org
@@ -1215,9 +1213,7 @@ cdn-dev.helpkaspersky.top
 cdn-dwnld.ru
 cdn-dwnld.site
 cdn-inform.com
-cdn-lnk-075.epsonupdate.uk
 cdn-new-dwnl.ru
-cdn-uk.widgetsfordeploy.com
 cdn.3qweraa.beauty
 cdn.biliblli.team
 cdn.dadadsadaccsoong.top
@@ -1830,6 +1826,7 @@ drive-east-us-fahybddhebhxejbb.z02.azurefd.net
 dromongoncol.gestaoadministrativadating.io
 dromonrol.coordenacaodeprojetos.io
 drosar.coordenacaodeprojetos.io
+drvenomjh.duckdns.org
 dsbr.cam
 dsfkdsvnlsnvklvdsnvodv.con-ip.com
 dsfser1337.no-ip.org
@@ -1872,10 +1869,8 @@ ec2-13-214-93-225.ap-southeast-1.compute.amazonaws.com
 ec2-13-233-144-170.ap-south-1.compute.amazonaws.com
 ec2-16-62-149-189.eu-central-2.compute.amazonaws.com
 ec2-18-116-36-101.us-east-2.compute.amazonaws.com
-ec2-18-153-179-54.eu-central-1.compute.amazonaws.com
 ec2-18-206-73-190.compute-1.amazonaws.com
 ec2-3-75-210-134.eu-central-1.compute.amazonaws.com
-ec2-3-79-194-172.eu-central-1.compute.amazonaws.com
 ec2-3-84-126-255.compute-1.amazonaws.com
 ec2-3-91-59-255.compute-1.amazonaws.com
 ec2-3-99-102-8.ca-central-1.compute.amazonaws.com
@@ -1885,7 +1880,6 @@ ec2-34-230-177-18.compute-1.amazonaws.com
 ec2-34-244-129-215.eu-west-1.compute.amazonaws.com
 ec2-43-204-230-44.ap-south-1.compute.amazonaws.com
 ec2-52-20-229-84.compute-1.amazonaws.com
-ec2-52-200-22-116.compute-1.amazonaws.com
 ec2-52-22-239-204.compute-1.amazonaws.com
 ec2-52-23-117-205.compute-1.amazonaws.com
 ec2-54-152-184-1.compute-1.amazonaws.com
@@ -2387,6 +2381,7 @@ ggrastyal.live
 ggsix6vs.top
 ggtyyu.pw
 ghaith.zapto.org
+ghdsasync.duckdns.org
 ghostghostcom.000webhostapp.com
 ghostman1.no-ip.org
 ghostsquads.no-ip.biz
@@ -2726,7 +2721,6 @@ headraisepresidensu.shop
 healitytherapy.pro
 healitytherapy.xyz
 health-wants.gl.at.ply.gg
-healthpips.com
 healthsurveysolutions.com
 heart-direct.online
 hebreo.con-ip.com
@@ -3514,7 +3508,6 @@ m3toh.dyndns.org
 m460p6w8i.life
 m7mad.no-ip.biz
 machines123.no-ip.biz
-maconlineoffice.com
 mad.chakrashaman.com
 mad.jabils.com
 mad.unicornsupplychains.com
@@ -3579,7 +3572,6 @@ mail.08rococoephemeral.buzz
 mail.09ritualobfuscate.buzz
 mail.106recession.buzz
 mail.10rapturousenigma.buzz
-mail.161-35-239-147.cprapid.com
 mail.3-84-126-255.cprapid.com
 mail.87-119-220-245.cprapid.com
 mail.cliniquecomputer.com
@@ -3747,7 +3739,6 @@ mhacks.no-ip.org
 mi3a.hopto.org
 mianoffice221.kozow.com
 michaelcaneconsultants.com
-microbanafler.com
 microf.servegame.com
 microsi.zapto.org
 microsoft-fonts.net
@@ -3834,7 +3825,6 @@ monitor.kdkz1213.icu
 monkeyishere.no-ip.biz
 mono2024.kozow.com
 month-luxembourg.gl.at.ply.gg
-moodle1.feja111.de
 moof1.no-ip.org
 moon2009us.linkpc.net
 moonapi.site
@@ -3964,6 +3954,7 @@ naucosi.cfd
 navy-govbd.servehttp.com
 nazi.igboat.com
 nblcc.co
+ncmomenthv.duckdns.org
 ndas8m92.lol
 ndas8m92.shop
 ndearn.xyz
@@ -4340,7 +4331,6 @@ notebookmen.no-ip.org
 notedemo.axfree.com
 notedemo.com.tr.ht
 notedrives.tr.ht
-notifications.deenpel.com
 notilon.co
 notion.findreaders.com
 notion.ilusofficial.com
@@ -4839,7 +4829,6 @@ pzhihpnt2.life
 pzlkxadvert475.xyz
 q596110.3322.org
 q65fpfr2wpjugu7y3ldvjjdgz8uzqak2.nl
-qa-dhs.wavenet-solutions.com
 qa06.no-ip.biz
 qaliharsit.tech
 qax.gsldedie.sbs
@@ -5081,7 +5070,6 @@ rustyslaves.zapto.org
 rvandccc.com
 rverde.duckdns.org
 rw1-api-update.afd.azureedge.net
-rw1.dbgblack.com
 rx.neko.ltd
 ryruhuu3.xyz
 s.sushiking.world
@@ -5101,7 +5089,6 @@ safetheworld.duckdns.org
 sagemfat.zapto.org
 saicetyapy.space
 sailent.xyz
-saintelzearlava.com
 sajbergejt.myftp.org
 salaamt.top
 saldaolegal.shop
@@ -5222,6 +5209,7 @@ senkiv.ru
 senpaiontop.nl
 senpalia.org
 sentidos.no-ip.org
+sentry-cxso.onrender.com
 seondesk.dyndns.org
 seowebguy.com
 sept06.ddns.net
@@ -5336,7 +5324,6 @@ service-r3og53uv-1303913364.sh.tencentapigw.com
 service-rfgb6jer-1257331363.sh.tencentapigw.com
 service-rkcvh0tf-1252325407.cd.tencentapigw.com
 servicehelper.oss
-serviceicloud.com
 serviceop091.ddns.net
 servidor.no-ip.info
 sex.secure-cyber-security-rebirthltd.su
@@ -5562,7 +5549,6 @@ startupbuss.com
 startupmartec.net
 stat.counter247.live
 static.127.103.78.5.clients.your-server.de
-static.129.149.13.49.clients.your-server.de
 static.156.235.21.65.clients.your-server.de
 static.181.200.107.91.clients.your-server.de
 static.196.82.27.37.clients.your-server.de
@@ -5886,7 +5872,6 @@ trailcosolutions.com
 trailshop.net
 training-invasion.gl.at.ply.gg
 trainlog.de
-trans1ategooglecom.com
 transystem.info
 trasenanoyr.best
 travisway-41408.portmap.host
@@ -6246,7 +6231,6 @@ voshu.art
 voyagedprivillywk.xyz
 vpdpkli.org
 vpn.icbcbc.com.cn
-vpn.nsfocus.cn.com
 vpn.nsgocus.cn.com
 vpn340948845.softether.net
 vpnu.top
@@ -6267,6 +6251,7 @@ vu.zzux.com
 vviill.com
 vvz01.pro
 vx2sw7soh8ds5.hopto.org
+vxsrwrm.duckdns.org
 w.sanfor.club
 w122.no-ip.biz
 w3.navver.o-r.kr
@@ -6310,7 +6295,6 @@ web24host.com
 webapidevelopment.com
 webaxt.com
 webcamcn.xyz
-webdisk.dnl-l.ooguy.com
 webdisk.inspirestudiosteam.com
 webjava.mywire.org
 weblink.microsoftsservice.com
@@ -6535,7 +6519,6 @@ www.kendraesparza.autos
 www.kepir.p-e.kr
 www.kevinbrawiewu.com
 www.kind-villani.104-168-102-175.plesk.page
-www.kitrknis.com
 www.kuromipg.im
 www.lazor.kro.kr
 www.lergochatep.com
@@ -6643,7 +6626,6 @@ wz-patient001.duckdns.org
 x.hxhk.cc
 x0xhackx0x.no-ip.biz
 x1222.zapto.org
-x3qc.com
 x52op6gt0i.xyz
 x555hd.ddns.net
 x5zxvz2yn.life
@@ -6676,6 +6658,7 @@ xmgpsmi.org
 xmr.2miners.com
 xneonkingx.no-ip.biz
 xokecn54.top
+xoowill56.duckdns.org
 xortoproject.duckdns.org
 xortoproject.online
 xortoproject1.duckdns.org
