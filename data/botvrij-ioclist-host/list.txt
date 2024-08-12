@@ -95,6 +95,7 @@ iaidevrssfeed.centralus.cloudapp.azure.com
 iaidevrssfeed.centrualus.cloudapp.azure.com
 iaidevrssfeed.cloudapp.azure.com
 iaidevrssfeedp.cloudapp.azure.com
+icy-bar-c375.microsoft-updates.workers.dev
 identifycheckapplication.azurewebsites.net
 identifycheckapplications.azurewebsites.net
 identifycheckingapplications.azurewebsites.net
@@ -177,6 +178,7 @@ roadmapselector.azurewebsites.net
 roadmapselectorapi.azurewebsites.net
 sgg-files.firstcloudit.com
 sgg-gov.firstcloudit.com
+shrill-tooth-b557.vgfjuic.workers.dev
 sportblogs.azurewebsites.net
 surveyappquery.azurewebsites.net
 surveyonlinetest.azurewebsites.net
@@ -191,10 +193,12 @@ testtesttes.azurewebsites.net
 tiappschecktest.azurewebsites.net
 tnlsowki.westus3.cloudapp.azure.com
 tnlsowkis.westus3.cloudapp.azure.com
+track.cdn78544.ru
 turkairline.azurewebsites.net
 ua-calendar.firstcloudit.com
 uaeaircheckon.azurewebsites.net
 uaeairchecks.azurewebsites.net
+update-chrome.realgodad.workers.dev
 vscodeupdater.azurewebsites.net
 w8oaa0.mariosolutions.biz.id
 wae4w.mariomanagement.biz.id
@@ -206,7 +210,10 @@ wody-info-files.firstcloudit.com
 workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
+www.cdn7854.workers.dev
 www.markplay.net
+www.mircoupdate.https443.net
+www.sitennews.com
 xwago.creativeplus.my.id
 yaiinr.actiongroup.my.id
 ykderpgdgopopfuvgt.ddns.net
