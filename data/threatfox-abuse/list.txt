@@ -28,6 +28,7 @@
 0b1.duckdns.org
 0buue2.padelixoobjeto.sa.com
 0o0o.no-ip.info
+0spsop51li.com
 0x16host.no-ip.biz
 1000keder.no-ip.org
 102responsible.buzz
@@ -63,6 +64,7 @@
 136.169.29.34.bc.googleusercontent.com
 138.124.183.79.sslip.io
 139-162-155-161.ip.linodeusercontent.com
+13ym.cn.dsa.dnsv1.com
 142-11-199-59.plesk.page
 143fadwa.no-ip.biz
 147.45.42.25.sslip.io
@@ -72,25 +74,32 @@
 157.32.125.34.bc.googleusercontent.com
 15731.org
 159-223-204-229.ipv4.staticdns2.io
-161-35-239-147.cprapid.com
 167-71-186-178.ipv4.staticdns2.io
 167-71-186-178.ipv4.staticdns3.io
+167.88.164.166.sslip.io
 17.ip.gl.ply.gg
+172-245-184-70.nip.io
+172-86-114-26.chi.priv.octovpn.net
+173.44.141.7.sslip.io
 173920cm.n9shteam2.top
+185.31.200.215.sslip.io
 19.ip.gl.ply.gg
 19008198.ddns.net
 192.lan-vg2-1.static.rozabg.com
 195.no-ip.biz
+197.182.238.35.bc.googleusercontent.com
 199.no-ip.info
 1b.cx
 1c-marketing.top
 1c-viewer.info
 1d98d2w0k.life
 1hitler.accesscam.org
+1sgame.cn
 1tapfinn.ddns.net
 1v.nz
 1wrap3lnr.life
 20.ip.gl.ply.gg
+2015wuyun.cc
 2023endofyear.duckdns.org
 2024remcmon.duckdns.org
 203-124351878443.hopto.org
@@ -115,6 +124,7 @@
 238.200.202.35.bc.googleusercontent.com
 23b3imkqh.life
 23preguntas.duckdns.org
+24-119.rt-domain.com
 24-199-107-91.ipv4.staticdns3.io
 240620111500.no-ip.org
 24365426.e3.luyouxia.net
@@ -166,6 +176,7 @@
 3654.ddns.net
 365officemail.com
 367191cm.n9shteam2.top
+37-221-67-64.cprapid.com
 373430cm.n9shteam2.top
 378418cm.n9shteam2.top
 382119cm.n9shteam2.top
@@ -191,6 +202,7 @@
 445443cm.n9shteam2.top
 44uegsxdd.life
 44uu.no-ip.info
+45-148-120-161.cprapid.com
 45.138.74.228.sslip.io
 452132cm.n9shteam2.top
 462708cm.n9shteam2.top
@@ -282,6 +294,7 @@
 7r0.no-ip.info
 7sbl4dpbubwjjghdquwg47fyq7rookd4bgm2ypm2kjzkivd7tomvczqd.onion
 7t.nz
+8.155.44.34.bc.googleusercontent.com
 8.crabdance.com
 800453cm.n9shteam2.top
 810755cm.n9shteam2.top
@@ -331,6 +344,7 @@
 9qf9v3tgq.life
 a-bc.xyz
 a-bcd.xyz
+a.digitalmsdownloadsdirecthh.com
 a.hxhk.cc
 a.iruko.top
 a.oracleservice.top
@@ -371,16 +385,22 @@ aboliki.xyz
 aboodybgd.no-ip.biz
 about.swemei.com
 abovegodz.no-ip.biz
+abs-0.pknews.site
+abs-0.twitter.pknews.site
+abs.pknews.site
 abscete.info
 absentconvicsjawun.shop
 absolut-spynet.zapto.org
 absolutecache.com
 abu-hssn.no-ip.biz
 abundancia777.con-ip.com
+academy.example.pknews.site
 acbstyler.no-ip.biz
+acc.pknews.site
 accdemo.axwebsite.com
 accept.gbdvs.shop
 acceptabledcooeprs.shop
+account.gooogleasia.com
 accountasifkwosov.shop
 accountcapabilities-pa.accguide.com
 accounts.deenpel.com
@@ -411,6 +431,8 @@ ads-analyze.online
 ads-analyze.site
 ads-analyze.top
 ads-analyze.xyz
+ads-api.pknews.site
+ads-api.twitter.pknews.site
 ads-change.online
 ads-change.site
 ads-change.top
@@ -736,6 +758,7 @@ asil.no-ip.biz
 asiporata.com
 asjidoaiosdjo.e3.luyouxia.net
 asloyganza.com
+asp1.demos.schoolofsoftware.com
 asqrecruitment.com
 asra1.ddns.net
 assasintroy.no-ip.org
@@ -757,6 +780,7 @@ atdf.ddns.net
 atende-br.chat
 atlanticshoresresort.com
 atlasanimationstudios.com
+aton.b0t.me
 attachmentartikidw.fun
 auctiongutollyjkui.shop
 audiolabelectronics.com
@@ -839,6 +863,7 @@ balm.4rt.eu
 baloch123.no-ip.info
 balonmd.no-ip.org
 bambuvn.webhop.info
+bameboohr.com
 bandarsport.net
 bangalows.zapto.org
 bangnightclub.com
@@ -947,6 +972,7 @@ bflow-musico.fun
 bg1.heztak.pro
 bh8bwt.link
 bhd9999.online
+bhdadhire.pknews.site
 bheuiyo.com
 bidness.no-ip.biz
 bienupdate.xyz
@@ -954,8 +980,9 @@ bifrost-2011.no-ip.biz
 bifrost.dyndns.tv
 big-walls.com
 bigballinthemix.no-ip.biz
-bigballz.bounceme.net
 bigdogfoundation.com
+bigdownload.lol
+bigdownload.xyz
 bigmouthudiop.shop
 bignas.shop
 bigpimpinsjm09.hopto.org
@@ -1046,6 +1073,7 @@ bofa.su
 bogote.xyz
 bohot.xyz
 bola.kumbaraan.biz.id
+bold-hamilton.207-246-119-197.plesk.page
 boldwold.home.kg
 bolundu2.no-ip.org
 bonet.networkbn.com
@@ -1056,6 +1084,7 @@ bordersoarmanusjuw.shop
 boredimperissvieos.shop
 boriz400.com
 born-administrative.gl.at.ply.gg
+born-brandon.gl.at.ply.gg
 bornwild321.no-ip.biz
 bossnacarpet.com
 bossnew.ddns.net
@@ -1094,6 +1123,7 @@ botusesr472.duckdns.org
 boty.theworkpc.com
 boubou39.no-ip.org
 bouncedgowp.shop
+boxme.cloudns.be
 bp-training.com
 bqrg123.com
 br.suicide2024.xyz
@@ -1191,10 +1221,13 @@ carding.axfree.com
 cardiochallenge.at
 care-somewhere.gl.at.ply.gg
 carecureco.com
+careertransformation.us
 carflotyup.com
 cargillrewards.com
 carlitosmoreno1794.duckdns.org
+carmatch.dev.tokeroed.io
 cars-fraction.gl.at.ply.gg
+carsten.dev.tokeroed.io
 carte-vitale-assurance.org
 cartel.theworkpc.com
 carvewomanflavourwop.site
@@ -1280,6 +1313,7 @@ centre-shaped.gl.at.ply.gg
 certifacto.com
 certificatecenter.info
 cf-protected-l7.com
+cf.kasperskye.com
 cf1549064127.f3322.net
 cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com
 cgibin.online
@@ -1298,10 +1332,10 @@ charfy.no-ip.org
 charming-wright.142-11-199-59.plesk.page
 chat.icbcbc.com.cn
 chat.wiurezende.site
+chat04.com
 chatgpt-app.cloud
 cheaterboy519.no-ip.info
 cheaterpro.live
-cheatlab.live
 cheats-brasil.no-ip.org
 check-ftp.ru
 checkupgpt.net
@@ -1368,10 +1402,12 @@ clk-brood.top
 clk-info.ru
 clk-info.site
 cloud.edgerapidcdn.com
+cloud.google-inc.ltd
 cloud.kaspersky-scan.com
 cloud.microsoftsservice.com
 cloud.palloaltonetworks.com
 cloud.tnewstraffic.com
+cloudfiles-secure-g0v.su
 cloudieapp.net
 cloudsafeuae.com
 clp.businesshub.pics
@@ -1411,7 +1447,9 @@ cncboatnetonlvu.apimomo.pro
 co.kr.nightciows.com
 cococuy8.xyz
 cocomelondc.duckdns.org
+cocorummy.com
 cocox.no-ip.biz
+cocrea.dev.tokeroed.io
 codecub.no-ip.org
 coffeecrumbs.com
 coinbasenftapp.com
@@ -1486,6 +1524,7 @@ cpanel.garciaprints.com
 cpanel.inspirestudiosteam.com
 cpanel.itechnetworkbd.com
 cpcalendars.inspirestudiosteam.com
+cpcalendars.reviews-sec.com
 cpcontacts.inspirestudiosteam.com
 cpcontacts.maasssa.duckdns.org
 cpritn.city
@@ -1787,6 +1826,7 @@ dns.ontexcare.com
 dns.otxcarecosmetics.com
 dns.otxcosmeticscare.com
 dns.recentbeelive.com
+dns.skypeinc.com
 dns.startservicefounds.com
 dns.tecbanis.com
 dns.topinvestmentusa.net
@@ -1842,6 +1882,7 @@ drive-east-us-fahybddhebhxejbb.z02.azurefd.net
 dromongoncol.gestaoadministrativadating.io
 dromonrol.coordenacaodeprojetos.io
 drosar.coordenacaodeprojetos.io
+drsmarinegroup.com
 drvenomjh.duckdns.org
 dsbr.cam
 dsfkdsvnlsnvklvdsnvodv.con-ip.com
@@ -1881,12 +1922,16 @@ ebatsosatpizdec.com
 ebnsina.top
 ebookza.com
 ec-web.staticec.com
-ec2-13-214-29-253.ap-southeast-1.compute.amazonaws.com
 ec2-13-214-93-225.ap-southeast-1.compute.amazonaws.com
 ec2-13-233-144-170.ap-south-1.compute.amazonaws.com
 ec2-16-62-149-189.eu-central-2.compute.amazonaws.com
+ec2-175-41-154-10.ap-southeast-1.compute.amazonaws.com
 ec2-18-116-36-101.us-east-2.compute.amazonaws.com
+ec2-18-191-219-171.us-east-2.compute.amazonaws.com
 ec2-18-206-73-190.compute-1.amazonaws.com
+ec2-3-110-47-33.ap-south-1.compute.amazonaws.com
+ec2-3-15-154-27.us-east-2.compute.amazonaws.com
+ec2-3-31-238-78.us-gov-west-1.compute.amazonaws.com
 ec2-3-75-210-134.eu-central-1.compute.amazonaws.com
 ec2-3-84-126-255.compute-1.amazonaws.com
 ec2-3-91-59-255.compute-1.amazonaws.com
@@ -1894,15 +1939,25 @@ ec2-3-99-102-8.ca-central-1.compute.amazonaws.com
 ec2-34-197-122-235.compute-1.amazonaws.com
 ec2-34-200-37-176.compute-1.amazonaws.com
 ec2-34-230-177-18.compute-1.amazonaws.com
+ec2-35-87-126-68.us-west-2.compute.amazonaws.com
+ec2-43-198-87-72.ap-east-1.compute.amazonaws.com
 ec2-43-204-230-44.ap-south-1.compute.amazonaws.com
+ec2-43-204-33-90.ap-south-1.compute.amazonaws.com
+ec2-43-207-204-175.ap-northeast-1.compute.amazonaws.com
+ec2-44-217-219-58.compute-1.amazonaws.com
+ec2-50-19-158-142.compute-1.amazonaws.com
 ec2-52-20-229-84.compute-1.amazonaws.com
 ec2-52-22-239-204.compute-1.amazonaws.com
 ec2-52-23-117-205.compute-1.amazonaws.com
 ec2-54-152-184-1.compute-1.amazonaws.com
+ec2-54-161-191-72.compute-1.amazonaws.com
 ec2-54-169-174-23.ap-southeast-1.compute.amazonaws.com
+ec2-54-169-98-188.ap-southeast-1.compute.amazonaws.com
 ec2-54-234-189-192.compute-1.amazonaws.com
+ec2-54-249-35-233.ap-northeast-1.compute.amazonaws.com
 ec2-54-88-105-125.compute-1.amazonaws.com
 ec2-65-2-129-159.ap-south-1.compute.amazonaws.com
+ecdn-o4qlpt3n.ov.cloudcdnv1.cn
 ech0.theworkpc.com
 echelon.myftp.biz
 eclipseofmasters.com
@@ -1911,8 +1966,13 @@ ecomexplosion.com
 economicscreateojsu.shop
 ecoplantssales.uk
 ecs-110-41-134-233.compute.hwclouds-dns.com
+ecs-116-204-42-20.compute.hwclouds-dns.com
 ecs-123-60-57-13.compute.hwclouds-dns.com
+ecs-124-70-31-186.compute.hwclouds-dns.com
+ecs-124-70-77-173.compute.hwclouds-dns.com
 ecs-124-71-158-221.compute.hwclouds-dns.com
+ecs-124-71-78-211.compute.hwclouds-dns.com
+ecs-60-204-134-21.compute.hwclouds-dns.com
 ecuaecua.duckdns.org
 ecurs.ro
 edden.con-ip.com
@@ -1928,6 +1988,7 @@ eesss.online
 eeu6r.etiquetaadesivaobjeto.ru.com
 eewe.ddns.net
 eewr.dyndns-ip.com
+egaim.com
 eganet.linkpc.net
 egirls.tech
 ekuroak.hopto.org
@@ -2019,6 +2080,7 @@ evilos.cc
 evokenumberpottruckere.fun
 evokvm.eu.org
 evolved-fashion.azurewebsites.net
+evu-ny.dev.tokeroed.io
 ewabpl55.top
 ewadgz11.top
 ewadmw53.top
@@ -2102,6 +2164,8 @@ femininiespywageg.shop
 fenerli1907.no-ip.biz
 few-madrid.gl.at.ply.gg
 fewjfhwefhwegfgwey344.cfd
+ffffffffcku.xyz
+ffuf.top
 fhfhreeruu334345432.cfd
 fhoo111.no-ip.biz
 fi119-files.canceltap.online
@@ -2144,6 +2208,7 @@ fiseriy.nut.cc
 fish24.no-ip.biz
 five-sequences.gl.at.ply.gg
 fix.sougou87.top
+fjafcd.xyz
 fl-survivor.gl.at.ply.gg
 flameshamer.shop
 flashl.tw
@@ -2179,6 +2244,7 @@ foodypannyjsud.shop
 foolhardy.no-ip.biz
 football-emily.gl.at.ply.gg
 forgreatestgoal.site
+forlost.dev.tokeroed.io
 fortindo-fsm.com
 fortnite.cryptoinvest.black
 fortunate-homonym-gw.aws-euc1.cloud-ara.tyk.io
@@ -2201,6 +2267,7 @@ frck.xyz
 frdk.xyz
 freakfile.myftp.biz
 fredarlessonmark.com
+fredfom.ddnsfree.com
 free.idcfengye.com
 free.iwaf.cn
 free2.iwaf.cn
@@ -2319,13 +2386,13 @@ fullvehdvideopleyerkurulumu78.xyz
 fullvehdvideopleyerkurulumu783.xyz
 fullvehdvideopleyerkurulumu8570.xyz
 funcallback.com
-funny-kirch.62-210-130-233.plesk.page
 funny-sam.online
 fuwer.org
 fuzzyproxy.cc
 fw.anti-ddos.io.vn
 fw1.anti-ddos.io.vn
 fwq.kuai-go.com
+fy.dzkjqd.com
 fyn001.ddns.net
 fzmovies.space
 g.fyss888.com
@@ -2475,7 +2542,6 @@ gloomcutter.shop
 gloomopiniosnforuw.xyz
 glotreobmoenry.sytes.net
 glowchamps.info
-glptestasets.com
 glulinsom.coordenacaodeprojetos.io
 gluminsom.consultoriaderecursos.dating
 gluqual.controledeinfraestrutura.services
@@ -2504,10 +2570,13 @@ good.bois.sh
 goodone.loseyourip.com
 goodrapp.com
 google-analytics.3utilities.com
+google-inc.ltd
 google-logs.top
 google-logs.top.cdn.dnsv1.com
 googledocs.duckdns.org
+googlesharepoint.com
 googlesupportacc.top
+googlewired.com
 gordonhk.ac.ug
 gorillaproxy.cloud
 gorillaproxy.su
@@ -2550,7 +2619,6 @@ grasping.oss-me-east-1.aliyuncs.com
 gratanfar.controledeinfraestrutura.services
 gratanvir.auditoriaadministrativa.agency
 grazafnulp.com
-great-burnell.62-210-130-233.plesk.page
 great-golick.45-141-215-173.plesk.page
 greatnessappreviews.com
 grebiunti.top
@@ -2583,8 +2651,8 @@ gunitx55.zapto.org
 gwadarport-gov-pk.gwadarportt.workers.dev
 gwadarportt.workers.dev
 gx121.e1.luyouxia.net
+gxsicmj3l.top
 gyjyhyo8.org
-gymlog.de
 h-c-v.ru
 h2cker.ddns.net
 h2mhost123ontop.ddns.net
@@ -2745,6 +2813,7 @@ hell0updat3.no-ip.info
 helloboy.shop
 helloehoes.com
 hellothere123234.zapto.org
+helpdesk-id.me
 helpinfo.hopto.org
 helprxr.duckdns.org
 henualdofus.no-ip.org
@@ -2774,6 +2843,7 @@ hippieblissprovising.com
 hirochimasdu45.no-ip.org
 hishamreda.no-ip.biz
 hismokes.shop
+hisubkyhrh.com
 hitler.su
 hitler55.dvrdns.org
 hitler55.dyndns.org
@@ -2821,6 +2891,7 @@ hr-helpdesk.org
 hrmis-financegovpk.serveftp.com
 hsagoi.ac.ug
 hsm.theworkpc.com
+htlfpacc.pknews.site
 htyfdsdghfr65443.cfd
 huboftest.ir
 hubspot.pm
@@ -2866,6 +2937,7 @@ iheartredteams.com
 ihpe.xyz
 iicc.fun
 ikea0.com
+ikpwz.online
 ikramonayparibuda.com
 illitluckygirl.com
 illitmagnetic.site
@@ -2883,6 +2955,7 @@ img.creativemedia.top
 img.shaduruanjian8.com
 img.vdtuconsole.online
 imperiummalczyc.pl
+import.dev.tokeroed.io
 impressionzone.info
 imthegod.no-ip.org
 imtokcn.org
@@ -2921,6 +2994,9 @@ int.hatsune.network
 intellipowerinc.com
 intensedefense300.com
 interactiveuidevelopment.com
+internalideas.dev.tokeroed.io
+internalideas.jamesbutler.dev.tokeroed.io
+internalideas.rosta.dev.tokeroed.io
 internetstores.co.vu
 interrupt.no-ip.biz
 interstellar.onthewifi.com
@@ -2961,7 +3037,6 @@ ironsoilder.hopto.org
 irprofiles.com
 irreceiver.com
 irune.zapto.org
-is5jg.3zweuj.com
 iseberkis.com
 islandbooking.info
 isomicrotich.com
@@ -3066,6 +3141,7 @@ js.ddcc.bf
 js.mitigize.com
 js.opttracker.online
 js.schema-forms.org
+js.t00ls.top
 jscodecss.com
 jsincloud.com
 jspassport.ssl.qhimg.com.dsa.dnsv1.com
@@ -3112,6 +3188,7 @@ karimsol.no-ip.org
 karl3on.xyz
 karmaandfate.com
 kartogra.top
+kasperskye.com
 kauzalvip.com
 kavalye2.no-ip.org
 kaylen.xyz
@@ -3163,6 +3240,7 @@ kendraesparza.autos
 kennyremcosbelintourismedleonline.gleeze.com
 keolisgroup.azureedge.net
 kernel32.zapto.org
+kerrerf.com
 kettaval.zapto.org
 key1925hacks.no-ip.biz
 keygoal.no-ip.info
@@ -3237,6 +3315,7 @@ kokcheez.website
 kokmausrest.online
 kolaw.duckdns.org
 kompis.no-ip.info
+konggaard.dev.tokeroed.io
 kongrem.zapto.org
 kongtuke.com
 kooktaripa.com
@@ -3281,6 +3360,7 @@ kvthre3pt.top
 kvthre3s.top
 kvthre3sr.top
 kvtwo2sr.top
+kworker.net
 kwqislxk.xyz
 kx5555.e3.luyouxia.net
 kyniemsro.com
@@ -3427,6 +3507,7 @@ liviste8888.softether.net
 lizzard.ac.ug
 lkasjdfhsdag.servebeer.com
 lkk.collection.aixpirts.com
+ll10010.com
 llal.xyz
 llcbc.org
 llcl.xyz
@@ -3441,6 +3522,7 @@ lmfaololxdlmfaolmfao.xyz
 lmfpbpm.org
 lmmqgd.website
 lnoz4exs6.life
+lnqtje68g6.com
 load.365analytics.xyz
 load.memoryloader.com
 loadkanoe.casa
@@ -3450,6 +3532,7 @@ local-quote.gl.at.ply.gg
 lofirenqveg.com
 logao500.no-ip.org
 login-auth-office.com
+login.tenable.cloud
 loginsystem.zapto.org
 loginzug.com
 logist.cct-logistics.com
@@ -3514,7 +3597,9 @@ m.old.gxjczx.gov.cn
 m.taobao.com
 m0ftares1.no-ip.biz
 m11m.no-ip.biz
+m19762.contaboserver.net
 m1ster.no-ip.biz
+m20042.contaboserver.net
 m3toh.dyndns.org
 m460p6w8i.life
 m7mad.no-ip.biz
@@ -3584,6 +3669,7 @@ mail.09ritualobfuscate.buzz
 mail.106recession.buzz
 mail.10rapturousenigma.buzz
 mail.3-84-126-255.cprapid.com
+mail.37-221-67-64.cprapid.com
 mail.87-119-220-245.cprapid.com
 mail.cliniquecomputer.com
 mail.deenpel.com
@@ -3591,6 +3677,7 @@ mail.garciaprints.com
 mail.inspirestudiosteam.com
 mail.lieamwalls.com
 mail.metadate.services
+mail.reviews-sec.com
 mailgate.servicebio.com
 mailhit-govpk.hopto.org
 mailpsab-modgovpk.hopto.org
@@ -3665,6 +3752,7 @@ masteryodax.hopto.org
 mastgonzo.com
 mastralakkot.live
 mathewrat.no-ip.biz
+mathmatica.org
 matrex0-0hacker.no-ip.biz
 matrix-hacker.no-ip.biz
 matrixxcloud.duckdns.org
@@ -3773,7 +3861,6 @@ mikrox.servegame.com
 milan.giize.com
 milsom.ug
 mimerou.org
-miner.bitron-mining.online
 miniaturefinerninewjs.shop
 minjuthecutest.com
 minndarespo.icu
@@ -3913,6 +4000,7 @@ musarno.app
 muse.krazzykriss.com
 museumtespaceorsp.shop
 mussolini1995.no-ip.biz
+muyijun.top
 mvncentral.zapto.org
 mxintra.no-ip.biz
 my.attuneiot.com
@@ -4287,6 +4375,7 @@ newtorpan.site
 newyk5.e3.luyouxia.net
 nextoneup.shop
 nextroundst.com
+nexus.repo.update.0o0.foo
 nezo123-21027.portmap.host
 nhnh21.no-ip.biz
 nic-ns3-153548.net
@@ -4423,6 +4512,7 @@ nuevos2024.duckdns.org
 nuljjjnuli.org
 null.no-ip.biz
 nurunia.org
+nutrasupplier.com
 nv567.net
 nw.awuam.com
 nwgj3ux4huyfgbrwj5i2uwbxdu2ddd33eqrpq44dwooaoqo4ntmpc6qd.onion
@@ -4449,6 +4539,7 @@ octopanel.cc
 odminponel.com
 odnnrrhrh.no-ip.biz
 odoo.tendadaalma.com
+odv.dev.tokeroed.io
 oepz3iov3ycdiu7lnsrnpe9i2yxdl1ng6760527951839536392332869280909.one
 ofav9exew.life
 offer-ptclnetpk.servehttp.com
@@ -4466,10 +4557,12 @@ ogi.ip-ip.biz
 ogs.deenpel.com
 oilproduce.xyz
 ok-ok.no-ip.biz
+ok.pknews.site
 ok.system-samsung.com
 ok.system111.top
 okaa0-60956.portmap.host
 okilometros.duckdns.org
+okta.pknews.site
 oktes.xyz
 okulto.no-ip.biz
 oluaskaz.pw
@@ -4477,6 +4570,8 @@ omarkam24.no-ip.org
 omeno.duckdns.org
 omfghellobrosjda38.org
 omg0nlyh3ks.no-ip.biz
+omicera.dev.tokeroed.io
+one-page-template.dev.tokeroed.io
 oneblackwood.com
 onecapitalresidences.com
 onedogsclub.com
@@ -4526,6 +4621,7 @@ otxcarecosmetics.com
 otxcosmeticscare.com
 ouedzami2011.no-ip.biz
 ourfirm.com
+outlook.pknews.site
 overclockingmachines.info
 overstockads.com
 ovh.atproxy.xyz
@@ -4576,6 +4672,7 @@ panel.blsasco.com
 panel.niggas.icu
 panel.swain.ir
 panelweb.equi-hosting.fr
+panying.jingmengbo.com
 paolio.shop
 parabmasale.com
 paradoxsum.no-ip.biz
@@ -4595,6 +4692,7 @@ pay.sjys6.top
 payddes.axfree.com
 pbdbj.xyz
 pboc.online
+pbs.pknews.site
 pcapi-server.com
 pcfaker-g.no-ip.org
 pcpanel.hackcrack.io
@@ -4633,6 +4731,7 @@ pewwhranet.com
 pf7.prsv.ch
 pgfabrics.com
 pgsb.no.ip-org
+pharmera.b0t.me
 phentermine-partial.gl.at.ply.gg
 photos-money.gl.at.ply.gg
 photoshop-adobe.shop
@@ -4657,6 +4756,7 @@ pirkomagar.com
 pisliick.zapto.org
 pisuxy.org
 pixgraphie.com
+pj.120ym.com
 pkurls.myftp.org
 plador666.consultoriaadministrativa.delivery
 plagem.consultoriaadministrativa.delivery
@@ -4671,6 +4771,7 @@ platum618.consultoriadeequipes.io
 plaugereborn.no-ip.biz
 plaunsito.sytes.net
 play.deenpel.com
+play.pknews.site
 playfulyogi.org
 plecintum.gestaoadministrativadating.io
 plepal.estrategiaadministrativa.wine
@@ -4720,13 +4821,23 @@ popo.office-on-the.net
 porsherses.com
 port.deenpel.com
 portal-ptclnetpk.servehttp.com
+portal.avprotect.net
+portal.cloud-onedrive.net
+portal.dns-response.net
+portal.dnsportal.org
+portal.doubleclickad.net
+portal.edge-akamai.net
+portal.idnslookup.net
+portal.loadbalance-akamai.net
 portal.sharjahconnect.online
+portal.trafficmannager.net
 portals-swisslife.com
 poseidon.cool
 post.f2pool.info
 postal-23.ioomoo.xyz
 postalresolve.com
 postolwepok.tech
+posttest.dev.tokeroed.io
 potterryisiw.shop
 powellfrank.ddns.net
 powerbi3-dffqb3gfbudugyas.z03.azurefd.net
@@ -4763,7 +4874,6 @@ prl7fpdgq.life
 prod-ireland.arkoselabs.com
 prodetanoes.com
 prodfindfeatures.com
-prodomainnameeforappru.com
 production-reservation.gl.at.ply.gg
 productivelookewr.shop
 proffyrobharborye.xyz
@@ -4841,10 +4951,12 @@ pzhihpnt2.life
 pzlkxadvert475.xyz
 q596110.3322.org
 q65fpfr2wpjugu7y3ldvjjdgz8uzqak2.nl
+q6rqcvgsab.com
 qa06.no-ip.biz
 qaliharsit.tech
 qax.gsldedie.sbs
 qax1.top
+qazanova-alm-mmkr.com
 qazoryy.org
 qeqady.org
 qeqei.xyz
@@ -4907,7 +5019,6 @@ quotes-nl.gl.at.ply.gg
 qw.scsvcreg.com
 qw7.no-ip.org
 qwerty.awuam.com
-qxjjj.j7ute.com
 r3b8-1415.no-ip.biz
 r3x3rbot.no-ip.biz
 r6oacr.papelhigienicoobjeto.ru.com
@@ -4922,6 +5033,7 @@ ragebo.no-ip.biz
 raipd.carregadorobjeto.za.com
 rampy.no-ip.info
 ranconimports.com
+randzalo.com
 ranoosh.no-ip.biz
 ransomproducts.top
 ransomware.kittycatmeow.xyz
@@ -5012,6 +5124,7 @@ reoer.canecaobjeto.ru.com
 replacedoxcjzp.shop
 report-dust.gl.at.ply.gg
 report.refusal.biz
+reporting.pknews.site
 require-spa.gl.at.ply.gg
 resourcehub.mom
 responsiveuikit.com
@@ -5052,6 +5165,7 @@ rm43ln1wn.life
 rns.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 robbmaterials.xyz
 robertmlewis.dyn
+robotics.dev.tokeroed.io
 robsheraldry.com
 roexec.org
 ronreznick.com
@@ -5064,6 +5178,7 @@ rooty.shop
 roscript.ddns.net
 rosenbaum.no-ip.org
 rotca.zapto.org
+rothaky.com
 rourtmanjsdadhfakja.com
 route.qyhgroup.com
 roxfox2.zapto.org
@@ -5411,11 +5526,13 @@ sketchcolor.shop
 skinnyjeanso.com
 skinnytrini.no-ip.org
 skinsmonkey.complete.homsiknet.com
+skorstensfejer.dev.tokeroed.io
 sky-beta.com
 sky92130.no-ip.biz
 skyblog.no-ip.org
 skyline1.serveftp.com
 skype-api.co.uk
+skypeinc.com
 sl9xa73g7u3eo07wt42n7f4vin5fzh.biz
 slammyslideplanntywks.xyz
 slashxxx.no-ip.biz
@@ -5429,6 +5546,7 @@ sluitionsbad.tech
 smadyi56.top
 smainz71.top
 smajug75.top
+small.ddnsfree.com
 smallelementyjdui.shop
 smarteyecare.in
 smaz145.no-ip.biz
@@ -5442,6 +5560,7 @@ sms-atc.com
 smtp2.servicebio.com
 smtracking.suparamining.swp23.com
 smtracking.web_hassinezarrat.swp23.com
+smusxath.reviews-sec.com
 snackfunp.com
 snofex.no-ip.info
 so-taxi.gl.at.ply.gg
@@ -5539,6 +5658,7 @@ ssh-client.co
 ssigs.zapto.org
 ssjcw.com.w.kunlunpi.com
 ssl.deenpel.com
+ssl.pknews.site
 sso-geneveid.com
 sss2.podzone.org
 sssssssdhhdiodhuhdisdisgi.con-ip.com
@@ -5560,7 +5680,6 @@ startupbusiness24.net
 startupbuss.com
 startupmartec.net
 stat.counter247.live
-static.156.235.21.65.clients.your-server.de
 static.181.200.107.91.clients.your-server.de
 static.196.82.27.37.clients.your-server.de
 static.55.253.216.95.clients.your-server.de
@@ -5569,6 +5688,7 @@ static.86.70.78.5.clients.your-server.de
 static.cdn40.click
 static.chat5188.top
 static.nvidiadrives.com
+static.pknews.site
 stationacutwo.shop
 statistic.cdn47.space
 stayherefata4l.org
@@ -5683,8 +5803,13 @@ sydnc.net
 sydneyrmartinez.geek
 symposiumos.com
 syn.02maill.com
+syn.hiddenvnc.com
 syn.xsvi.cc
 synaptics.no-ip.biz
+sync.anonvnc.com
+sync.hiddenvnc.com
+sync.smart-vnc.com
+sync.smartcloudflare.com
 synd.edgecdnc.com
 synflntues.com
 synfntueis.com
@@ -5752,6 +5877,7 @@ telsec.no-ip.org
 temp.sftech.shop
 tempesolarcompany.com
 temporary.fail
+tenable.cloud
 tencentweb.online
 tendencyportionjsuk.shop
 tenens.xyz
@@ -5838,6 +5964,7 @@ tl-group.org
 tnoodlezy.com
 tobacos.ddns.net
 tokenworks.io
+tokeroedkapital.dev.tokeroed.io
 tolerateilusidjukl.shop
 tom69.no-ip.biz
 tomasisa.ug
@@ -5950,6 +6077,7 @@ tvscreen.co.vu
 twiceoohah.uk
 twinks234.duckdns.org
 twinsoul.co.za
+twitter.pknews.site
 twm-master.com
 tyaer.com
 tycoonelite.com
@@ -5980,6 +6108,7 @@ underdos.no-ip.biz
 undernet-hacker.no-ip.info
 undjsj.duckdns.org
 unflamedlogz3.no-ip.biz
+ung.dev.tokeroed.io
 unifrieghtmovers.com
 unikorea.go.ci
 unio.bumbleshrimp.com
@@ -5990,6 +6119,8 @@ unotree.ru
 update.360safety.xyz
 update.api.qianxin.xyz
 update.centos-yum.com
+update.googlewired.com
+update.kasperskye.com
 update.micro.gay
 update.micromain.cfd
 update.microsoft-setting.com
@@ -6063,6 +6194,7 @@ vauxhall.top
 vbd3hiruwgcquiwrhpvaxann2ieo3tw3iznqlrp2z6mqyaonh4rswjqd.onion
 vbdsg.duckdns.org
 vchaonlyone.com
+vcs.tokeroed.io
 vdeight8ht.top
 vdeight8sr.top
 vdeight8vt.top
@@ -6111,6 +6243,7 @@ vibe-ptclnetpk.servehttp.com
 vibe-ptclnetpk.viewdns.net
 vibrant-frost-53467.pktriot.net
 victimas2012.no-ip.info
+video.pknews.site
 videoaula.no-ip.org
 videofullizlesite14325.site
 videofullizlesite2432.site
@@ -6218,6 +6351,7 @@ visitor-service-eu-central-1.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
 vistoriaveicular.chat
 visualstudio.microsoft.com.volcgslb-mlt.com
 visualstudiomacupdate.com
+vitaminer.com
 vittimareturn11.no-ip.org
 vivki.epiddserica.com
 vizewye.org
@@ -6226,6 +6360,7 @@ vkontakte.in
 vlbmqpm.org
 vmi1502970.contaboserver.net
 vmi1528797.contaboserver.net
+vmregoqghekdxdbsearch.fy.dzkjqd.com
 vmvares.com
 vmvere.com
 vmveres.com
@@ -6246,7 +6381,6 @@ vpn.icbcbc.com.cn
 vpn340948845.softether.net
 vpnu.top
 vps-zap1030125-1.zap-srv.com
-vps-zap477067-1.zap-srv.com
 vps-zap859144-11.zap-srv.com
 vps.rebirth-network.su
 vpsthree.xyz
@@ -6307,6 +6441,7 @@ webapidevelopment.com
 webaxt.com
 webcamcn.xyz
 webdisk.inspirestudiosteam.com
+webdisk.reviews-sec.com
 webjava.mywire.org
 weblink.microsoftsservice.com
 webmail-gda-gov-pk.gwadarportt.workers.dev
@@ -6443,6 +6578,7 @@ www.103royalty.buzz
 www.108radical.buzz
 www.108repetition.buzz
 www.10rapturousenigma.buzz
+www.120ym.com
 www.1234wu.com
 www.163microsoft.com
 www.614110.xyz
@@ -6451,6 +6587,7 @@ www.87-119-220-245.cprapid.com
 www.8996djnv.top
 www.91exploit.buzz
 www.996m2m2.top
+www.adkko.love
 www.adoring-hellman.104-168-102-175.plesk.page
 www.agov-access.com
 www.agov-access.net
@@ -6477,11 +6614,11 @@ www.chiante1ecom.com
 www.chinamobile.live
 www.clainsrimauto.com
 www.cloudflarecache.top
+www.cocorummy.com
 www.collegeclubapparel.com
 www.concur.pm
 www.concur.re
 www.confident-bouman.104-168-102-175.plesk.page
-www.cranky-easley.142-11-199-59.plesk.page
 www.dahuatec.xyz
 www.deerllt.store
 www.devf.n-e.kr
@@ -6496,11 +6633,14 @@ www.ebookza.com
 www.edgarmcneil.autos
 www.elated-black.45-141-215-173.plesk.page
 www.emailonlinechase.com
+www.evil.gooogleasia.com
 www.extraiptv.giize.com
 www.fbmarket-place.info
 www.feekstokandy.com
+www.feelinglikebuying.com
 www.festive-euclid.104-168-102-175.plesk.page
 www.fiash.info
+www.fjafcd.xyz
 www.flash-update.info
 www.fleekbusiness.com
 www.fresocialcasinogames.com
@@ -6512,7 +6652,6 @@ www.garciaprints.com
 www.gbdvs.shop
 www.gfyl.fun
 www.glamourstorepa.com.br
-www.glptestasets.com
 www.guerrilladefense.com
 www.gulfcoastcoffeeroasters.com
 www.hathawaya.xyz
@@ -6537,6 +6676,7 @@ www.lergochatep.com
 www.lfgu.n-e.kr
 www.liceback.online
 www.lieamwalls.com
+www.ll10010.com
 www.loginmicrosoftadmin.shop
 www.luvb.n-b.kr
 www.majzolimka.com
@@ -6548,7 +6688,6 @@ www.micorosoft-ai.com
 www.microsoftonline.info
 www.microsoftsendtime.shop
 www.micshcnds.top
-www.miner.bitron-mining.online
 www.minesotkarpid.com
 www.mzile.com
 www.navver.o-r.kr
@@ -6564,13 +6703,13 @@ www.notepadplugin.top
 www.onceuponatimeiwent.online
 www.oyoing.com
 www.paamsa.duckdns.org
+www.pknews.site
 www.planetstherapy.org
 www.practical-black.104-168-102-175.plesk.page
 www.premiumsystemshk.com
 www.prsix.xyz
 www.qianxinnbplus.xyz
 www.qianxinniubi.live
-www.qichen.fun
 www.qq00.cc
 www.qtargumanikar.com
 www.qtvnews.com
@@ -6587,6 +6726,7 @@ www.sjys6.sbs
 www.skansnekssky.com
 www.skazifrant.com
 www.slationo.com
+www.songge-ai.com
 www.sonystore.xyz
 www.southernlandmortgage.cloud
 www.spakernakurs.com
@@ -6613,6 +6753,7 @@ www.ucaresupport.com
 www.unionpaying.top
 www.vigilant-kare.104-168-102-175.plesk.page
 www.vip8806.mom
+www.vitaminer.com
 www.weather.pm
 www.windowsuserapi.com
 www.worldxw.xyz
@@ -6623,6 +6764,7 @@ www.xincyun.com
 www.yah00.o-r.kr
 www.yamaxun.blog
 www.ynpuning.cn
+www.ynxa520.com
 www.zestyahhdog.com
 www2.itaberabanoticias.com
 www2.laboratoriodiagnosticoescobar.com
@@ -6756,6 +6898,7 @@ zelenskyj.ru
 zenginler.online
 zerut.zapto.org
 zestyahhdog.com
+zghgseitu.cloudns.be
 zhangkedong.u1.luyouxia.net
 zhudaji.com
 zimbralet.x24hr.com
