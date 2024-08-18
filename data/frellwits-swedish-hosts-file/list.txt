@@ -270,6 +270,7 @@ cdn.reaktion.se
 cdn.relevant-digital.com
 cdn.rollbar.com
 cdn.routy.app
+cdn.rudderlabs.com
 cdn.shareaholic.net
 cdn.snigelweb.com
 cdn.speedcurve.com
@@ -530,6 +531,7 @@ lifeofsvea.mainroll.com
 litix.io
 live.demand.supply
 load.sumome.com
+loadbalancer.visitor-analytics.io
 loader.wisepops.com
 loadr.exelator.com
 log-api.newrelic.com
@@ -767,6 +769,7 @@ stat.modette.se
 stat.nyheter24.se
 stat.torgen.se
 stat03.stat.cliche.se
+statcounter.va-endpoint.com
 static.addtoany.com
 static.ads-twitter.com
 static.chartbeat.com

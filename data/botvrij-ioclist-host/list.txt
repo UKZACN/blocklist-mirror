@@ -1,6 +1,5 @@
 0tuiwp.mariomanagement.biz.id
 1.tcp.sa.ngrok.io
-22.imohub.workers.dev
 23-95-209-148-host.colocrossing.com
 2joafm.marioanalytics.my.id
 4hawb.produtoeletro.my.id
