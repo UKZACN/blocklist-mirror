@@ -6,7 +6,6 @@
 0212top.top
 0212top.xyz
 024460cm.n9shteam2.top
-02maill.com
 02radiantquagmire.buzz
 030420112218.no-ip.org
 034928cm.n9shteam2.top
@@ -37,7 +36,6 @@
 107rehabilitation.buzz
 108repetition.buzz
 109.107.181.83.sslip.io
-109.179.76.34.bc.googleusercontent.com
 10rapturousenigma.buzz
 10xshares.com
 11234jkhfkujhs.online
@@ -66,13 +64,10 @@
 139-162-155-161.ip.linodeusercontent.com
 13ym.cn.dsa.dnsv1.com
 143fadwa.no-ip.biz
-147.45.42.25.sslip.io
 1488.winstate.cc
-155.39.168.34.bc.googleusercontent.com
 156.248.54.11.webcamcn.xyz
 157.32.125.34.bc.googleusercontent.com
 15731.org
-159-223-204-229.ipv4.staticdns2.io
 167-71-186-178.ipv4.staticdns2.io
 167-71-186-178.ipv4.staticdns3.io
 167.88.164.166.sslip.io
@@ -123,7 +118,6 @@
 23b3imkqh.life
 23preguntas.duckdns.org
 24-119.rt-domain.com
-24-199-107-91.ipv4.staticdns3.io
 240620111500.no-ip.org
 24365426.e3.luyouxia.net
 24f1989.com
@@ -613,7 +607,6 @@ anachyyyyy.duckdns.org
 analista2014.no-ip.org
 analysis-minolta.gl.at.ply.gg
 analysisswellenterw.fun
-analytics.deenpel.com
 anambrabasiceducation.com
 anas12.zapto.org
 anbu.bond
@@ -1059,7 +1052,6 @@ blendy-game.com
 blesblochem.com
 blftrade.com
 bliblyuvblfds.work.gd
-blissful-jackson.216-238-76-219.plesk.page
 blm-wiki.com
 blmdiscount.com
 blockbeerman.fun
@@ -1123,7 +1115,6 @@ botnet.4gnekoland.top
 botnet.91av.live
 botnet.freetube.me
 botnet.goelites.cc
-botnet.layer4.bf
 botnet.loadbalance.click
 botnet.manhquyen.xyz
 botnet.paintmc.net
@@ -1363,7 +1354,6 @@ chapterrysopz.shop
 character-acquisitions.gl.at.ply.gg
 charecteristicdxp.shop
 charfy.no-ip.org
-charming-wright.142-11-199-59.plesk.page
 charmingtranskw.xyz
 chat.icbcbc.com.cn
 chat.wiurezende.site
@@ -1414,7 +1404,6 @@ cingapore.com
 circular-financegov.servehalflife.com
 circullateiosn.shop
 cisadhsgov.org
-ciscointernship.com
 ciston.nut.cc
 citadelsecurityservices.com
 citizencenturygoodwk.shop
@@ -1735,7 +1724,6 @@ daveinihost.no-ip.biz
 davidricardodom.con-ip.com
 davltp.xyz
 dawizman.no-ip.biz
-day.50adayplan.com
 db.microsoftsservice.com
 db2017417b23.zapto.org
 db9oyi6b2.life
@@ -2019,25 +2007,21 @@ ebatsosatpizdec.com
 ebookza.com
 ec-web.staticec.com
 ec2-13-214-93-225.ap-southeast-1.compute.amazonaws.com
-ec2-13-233-144-170.ap-south-1.compute.amazonaws.com
 ec2-16-62-149-189.eu-central-2.compute.amazonaws.com
 ec2-175-41-154-10.ap-southeast-1.compute.amazonaws.com
 ec2-18-116-36-101.us-east-2.compute.amazonaws.com
 ec2-18-191-219-171.us-east-2.compute.amazonaws.com
-ec2-18-206-73-190.compute-1.amazonaws.com
 ec2-3-110-47-33.ap-south-1.compute.amazonaws.com
 ec2-3-15-154-27.us-east-2.compute.amazonaws.com
 ec2-3-31-238-78.us-gov-west-1.compute.amazonaws.com
 ec2-3-75-210-134.eu-central-1.compute.amazonaws.com
 ec2-3-84-126-255.compute-1.amazonaws.com
 ec2-3-91-59-255.compute-1.amazonaws.com
-ec2-3-99-102-8.ca-central-1.compute.amazonaws.com
 ec2-34-197-122-235.compute-1.amazonaws.com
 ec2-34-200-37-176.compute-1.amazonaws.com
 ec2-34-230-177-18.compute-1.amazonaws.com
 ec2-35-87-126-68.us-west-2.compute.amazonaws.com
 ec2-43-198-87-72.ap-east-1.compute.amazonaws.com
-ec2-43-204-230-44.ap-south-1.compute.amazonaws.com
 ec2-43-204-33-90.ap-south-1.compute.amazonaws.com
 ec2-43-207-204-175.ap-northeast-1.compute.amazonaws.com
 ec2-44-217-219-58.compute-1.amazonaws.com
@@ -2064,7 +2048,6 @@ economicscreateojsu.shop
 ecoplantssales.uk
 ecs-110-41-134-233.compute.hwclouds-dns.com
 ecs-116-204-42-20.compute.hwclouds-dns.com
-ecs-123-60-57-13.compute.hwclouds-dns.com
 ecs-124-70-31-186.compute.hwclouds-dns.com
 ecs-124-70-77-173.compute.hwclouds-dns.com
 ecs-124-71-78-211.compute.hwclouds-dns.com
@@ -2183,7 +2166,6 @@ eventgrids.online
 every-unnecessary.gl.at.ply.gg
 everything1lol.no-ip.biz
 evgenytchurakin1.fvds.ru
-evgenytchurakin3.fvds.ru
 evilos.cc
 evokeoutlooklits.shop
 evokvm.eu.org
@@ -2346,11 +2328,9 @@ fml.no-ip.biz
 fmprc-gov-cn.dowmload.co
 fokeqi.org
 follow.bestresulttostart.com
-followcache.com
 following-s.gl.at.ply.gg
 fontdrvhost.xyz
 foodcircus.ro
-foodmattkent.live
 foodypannyjsud.shop
 foolhardy.no-ip.biz
 football-emily.gl.at.ply.gg
@@ -2767,7 +2747,6 @@ gulfesolutions.com
 gunigunde.shop
 gunitx55.zapto.org
 gwadarport-gov-pk.gwadarportt.workers.dev
-gwadarportt.workers.dev
 gxsicmj3l.top
 gyjyhyo8.org
 h-c-v.ru
@@ -2995,6 +2974,7 @@ horsedwollfedrwos.shop
 hospitalstorage.azureedge.net
 host-89-110-74-77.hosted-by-vdsina.com
 host-file-host6.com
+host-knight.gl.at.ply.gg
 host.cloudsonicwave.com
 hostel99.com
 hosting123.no-ip.biz
@@ -3054,7 +3034,6 @@ ieee-ecce.info
 iefijweijfiwefiue9877.cfd
 ignorelist.dhis.org
 igotbots.zapto.org
-ihateciroparisi.serveminecraft.net
 ihaxyocomputernga.no-ip.biz
 iheartredteams.com
 ihpe.xyz
@@ -3410,7 +3389,6 @@ kisel228.zapto.org
 kissmyasshole.myddns.me
 kita2011.zapto.org
 kitchenreviewbewrwsa.shop
-kitrknis.com
 kittycatmeow.xyz
 kiwipl.com
 kjrub.no-ip.org
@@ -3463,7 +3441,6 @@ kooparat.no-ip.biz
 koradon.giize.com
 kotawa.top
 kovey.mezo-api.xyz
-kozak.timur.fvds.ru
 kr.nightciows.com
 krallarcarding.duckdns.org
 krampus-executor.org
@@ -3631,7 +3608,6 @@ lindi001.zapto.org
 lineagelasserytailsd.shop
 linelink-linesn.com
 linkerfunyfile.store
-linki.one
 links-annually.gl.at.ply.gg
 linm.thetxt.xyz
 linnisgood.site
@@ -3656,7 +3632,6 @@ liverpool777.duckdns.org
 livinglearning.info
 liviste8888.softether.net
 lizzard.ac.ug
-lkasjdfhsdag.servebeer.com
 lkk.collection.aixpirts.com
 ll10010.com
 llal.xyz
@@ -3678,6 +3653,7 @@ load.memoryloader.com
 loadwe4.casa
 loan-mode.gl.at.ply.gg
 local-quote.gl.at.ply.gg
+localdominationsystems.com
 lofirenqveg.com
 logao500.no-ip.org
 login-auth-office.com
@@ -3819,7 +3795,6 @@ mail.3-84-126-255.cprapid.com
 mail.37-221-67-64.cprapid.com
 mail.87-119-220-245.cprapid.com
 mail.cliniquecomputer.com
-mail.deenpel.com
 mail.garciaprints.com
 mail.inspirestudiosteam.com
 mail.lieamwalls.com
@@ -3873,7 +3848,6 @@ marchsensedjurkey.shop
 marda.shop
 marianne.ac.ug
 mariarizazapata09.duckdns.org
-maribelgould.autos
 marinion.online
 mariyel-therapy.com
 mariyeltherapy.xyz
@@ -3994,7 +3968,6 @@ mianoffice221.kozow.com
 michaelcaneconsultants.com
 microf.servegame.com
 microsi.zapto.org
-microsoft-fonts.net
 microsoft-net.com
 microsoft.kaspersky.xyz
 microsoft.kasperzky.xyz
@@ -4536,7 +4509,6 @@ nikt0x.duckdns.org
 nimappche.buzz
 nimkishraddedrew.shop
 ninhgiangbs.no-ip.org
-ninhobaby.com.br
 ninja-cnc.xyz
 nitio.com
 nitraderasolo.com
@@ -4654,7 +4626,6 @@ nuljjjnuli.org
 null.no-ip.biz
 nurunia.org
 nutrasupplier.com
-nv567.net
 nwgj3ux4huyfgbrwj5i2uwbxdu2ddd33eqrpq44dwooaoqo4ntmpc6qd.onion
 nxsisgod.com
 nymsportsmen.com
@@ -5314,7 +5285,6 @@ rem-new-2.duckdns.org
 remasterprodelherskjs.com
 remcoss2024feb.duckdns.org
 remember-sail.gl.at.ply.gg
-reneesellers.autos
 reoer.canecaobjeto.ru.com
 replacedoxcjzp.shop
 report-dust.gl.at.ply.gg
@@ -5784,7 +5754,6 @@ smoney.duckdns.org
 smr2.no-ip.biz
 sms-atc.com
 smtp2.servicebio.com
-smtracking.suparamining.swp23.com
 smtracking.web_hassinezarrat.swp23.com
 smusxath.reviews-sec.com
 snaillymarriaggew.shop
@@ -5913,9 +5882,9 @@ startupbusiness24.net
 startupbuss.com
 stat.counter247.live
 static.196.82.27.37.clients.your-server.de
+static.248.242.109.65.clients.your-server.de
 static.55.253.216.95.clients.your-server.de
 static.77.129.13.49.clients.your-server.de
-static.86.70.78.5.clients.your-server.de
 static.cdn40.click
 static.chat5188.top
 static.nvidiadrives.com
@@ -6055,9 +6024,7 @@ sybreed.no-ip.biz
 sydnc.net
 sydneyrmartinez.geek
 symposiumos.com
-syn.02maill.com
 syn.hiddenvnc.com
-syn.xsvi.cc
 synaptics.no-ip.biz
 sync.anonvnc.com
 sync.hiddenvnc.com
@@ -6284,7 +6251,6 @@ trailcocompany.com
 trailcosolutions.com
 trailshop.net
 training-invasion.gl.at.ply.gg
-trainlog.de
 transformatiwosp.shop
 transparenteunlawfullyp.site
 transystem.info
@@ -6654,8 +6620,6 @@ vizewye.org
 vjgmo889e.life
 vkontakte.in
 vlbmqpm.org
-vmi1502970.contaboserver.net
-vmi1528797.contaboserver.net
 vmregoqghekdxdbsearch.fy.dzkjqd.com
 vmvares.com
 vmvere.com
@@ -6682,8 +6646,6 @@ vpdpkli.org
 vpn.icbcbc.com.cn
 vpn340948845.softether.net
 vpnu.top
-vps-zap1030125-1.zap-srv.com
-vps-zap859144-11.zap-srv.com
 vps.rebirth-network.su
 vpsthree.xyz
 vrnmmondays.duckdns.org
@@ -6806,7 +6768,6 @@ windowsserverfebarch.duckdns.org
 windowsupdate2024.duckdns.org
 winsmith.zapto.org
 wintwint.zapto.org
-winvipbonus.life
 wipresolutions.com
 wireoneinternet.info
 wisemassiveharmonious.shop
@@ -7024,10 +6985,8 @@ www.qianxinniubi.live
 www.qtargumanikar.com
 www.qtvnews.com
 www.register-agov.com
-www.reneesellers.autos
 www.ritcophysiotherapy.com.au
 www.rollupdate.com
-www.sanctamsolutions.com
 www.sarele.com
 www.security-microsoft.net
 www.shaduruanjian8.com
@@ -7076,7 +7035,6 @@ www.yamaxun.blog
 www.ynpuning.cn
 www.ynxa520.com
 www.zestyahhdog.com
-www2.laboratoriodiagnosticoescobar.com
 www2.servicebio.com
 www3.deenpel.com
 wwwgoogl.zapto.org

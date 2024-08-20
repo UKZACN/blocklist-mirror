@@ -1551,6 +1551,7 @@ ads.livetv788.me
 ads.livetv790.me
 ads.livetv791.me
 ads.livetv794.me
+ads.livetv806.me
 ads.localytics.com
 ads.lordlucky.com
 ads.mainadv.com
@@ -1572,6 +1573,7 @@ ads.mopub.com
 ads.mp.mydas.mobi
 ads.msn.com
 ads.mxhnkn.pro
+ads.mythad.com
 ads.ndtv1.com
 ads.networksolutions.com
 ads.newgrounds.com
@@ -3783,6 +3785,7 @@ arangoyaffing.com
 arc.io
 arcadebanners.com
 archswimming.com
+arcobsarrod.com
 arcodpcmoa.com
 arcspire.io
 arcualstymie.com
@@ -8599,6 +8602,7 @@ fp.measure.office.com
 fp.metricswpsh.com
 fp.studio.inmobicdn.net
 fpcdn.io
+fpjscdn.net
 fpmleqdb.com
 fpnpmcdn.net
 fpujadwzowa.com
@@ -8669,7 +8673,6 @@ fumrafdwaapp.com
 functionalclam.com
 functionalcrown.com
 functionssubqueries.com
-fundingchoicesmessages.google.com
 funklicks.com
 funkspecialityalienate.com
 funnedbespeak.tech
@@ -11434,6 +11437,7 @@ logs.viadata.store
 logs.vlitag.com
 logsbin.dantri.com.vn
 logscafef.channelvn.net
+logsdk.kwai-pro.com
 logsdk.qq.com
 logserver.insight.ucweb.com
 logservice-dra.platform.hicloud.com
@@ -14256,6 +14260,7 @@ pro.marinsm.com
 proadscdn.com
 proaunbulky.guru
 probe.yieldlab.net
+processsky.com
 prod-a.applovin.com
 prod-adload.skyadsmart.com
 prod-bid.applovin.com
