@@ -1259,7 +1259,6 @@ ads-trk.vidible.tv
 ads-twitter.com
 ads-us.adtarget.me
 ads-v-darwin.hulu.com
-ads-verify.yap.yahoo.com
 ads.152media.com
 ads.1thegioi.vn
 ads.2mdnsys.com
@@ -2816,7 +2815,6 @@ alipromo.com
 alitui.weibo.com
 alkaxmogso.com
 all.dspmulti.com
-all.fc.yahoo.com
 all4spy.com
 alladvantage.com
 alldcs.outbrain.com
@@ -8409,7 +8407,6 @@ fbapi.sd.duapps.com
 fbcdn2.com
 fbuser.ovp.vn
 fc.itmedia.co.jp
-fc.yahoo.com
 fcaijpwzvj.com
 fcanr.tracking.miui.com
 fcd.autoads.asia
@@ -17388,6 +17385,7 @@ subsequentstew.com
 succeedscene.com
 success.marketo.com
 suddensidewalk.com
+suddenvampire.com
 sueivypeg.com
 suffixlabores.com
 sugarcurtain.com
@@ -18968,7 +18966,6 @@ us-west1.ads.playground.xyz
 us-wf.taboola.com
 us.adadvisor.net
 us.ads.justpremium.com
-us.ads.yap.yahoo.com
 us.adserver.yahoo.com
 us.adsloads.com
 us.claroadsxml.com
