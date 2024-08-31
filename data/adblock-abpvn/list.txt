@@ -2998,6 +2998,11 @@ analytics-track.machbird.com
 analytics.163.com
 analytics.365scores.com
 analytics.ad.daum.net
+analytics.adjust.cn
+analytics.adjust.com
+analytics.adjust.io
+analytics.adjust.net.in
+analytics.adjust.world
 analytics.adkernel.com
 analytics.admob.com
 analytics.admon.com.vn
