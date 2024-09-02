@@ -39,7 +39,6 @@ adonstudio.com
 adpeepshosted.com
 adrecord.com
 adroll.com
-ads.affiliate.legolas.bet
 ads.aland.com
 ads.annonsbladet.com
 ads.aralego.com
@@ -122,7 +121,6 @@ analytics.nikkasystems.com
 analytics.residencemagazine.se
 analytics.sitewit.com
 analytics.smhi.se
-analytics.sunet.se
 analytics.svenskdam.se
 analytics.svt.se
 analytics.teknikveckan.se
@@ -300,7 +298,6 @@ cl-eu4.k5a.io
 cl.k5a.io
 classic.avantlink.com
 clevernt.com
-click.vgnett.no
 clickdimensions.com
 clientcdn.pushengage.com
 cm.g.doubleclick.net
@@ -613,7 +610,6 @@ otc-cdn.relevant-digital.com
 owa.agriprim.se
 p.lp4.io
 pa.rxthdr.com
-palmangelssverige.com.se
 partner.googleadservices.com
 partners.mcontigo.com
 pcf.tdscd.com
@@ -724,7 +720,6 @@ se-ads-microservice.ads.allermedia.io
 se.ads.justpremium.com
 se1.siteimprove.com
 se5.pliing.com
-search.spotxchange.com
 secserv.adtech.de
 secure-ds.serving-sys.com
 secure.adnxs.com
