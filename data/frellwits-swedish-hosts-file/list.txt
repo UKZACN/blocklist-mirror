@@ -348,6 +348,7 @@ dagenstv.112.2o7.net
 darwin.affiliatewindow.com
 data.adnuntius.com
 data.gblcdn.com
+dc.schibsted.io
 deals.innocode.no
 delivered-by-madington.com
 delivery.adnuntius.com
@@ -717,6 +718,7 @@ scripts.makeinfluence.com
 scripts.mediavine.com
 scripts.opti-digital.com
 sdk.pulse.schibsted.com
+sdkconfig.pulse.schibsted.io
 se-ads-microservice.ads.allermedia.io
 se.ads.justpremium.com
 se1.siteimprove.com
