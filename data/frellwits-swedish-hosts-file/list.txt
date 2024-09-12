@@ -105,6 +105,7 @@ analytics.ciseway.se
 analytics.clickdimensions.com
 analytics.codigo.se
 analytics.elle.se
+analytics.equmeniakyrkan.se
 analytics.femina.se
 analytics.freespee.com
 analytics.gen.shield.monitoringservice.co
@@ -120,6 +121,7 @@ analytics.motherhood.se
 analytics.nikkasystems.com
 analytics.residencemagazine.se
 analytics.sitewit.com
+analytics.sjf.se
 analytics.smhi.se
 analytics.svenskdam.se
 analytics.svt.se
