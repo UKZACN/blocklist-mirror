@@ -5330,6 +5330,7 @@ cdn-qc.coccoc.com
 cdn-raw.nxtck.com
 cdn-s2s.buysellads.net
 cdn-server.top
+cdn-settings.appsflyersdk.com
 cdn-settings.segment.com
 cdn-sic.33across.com
 cdn-source.spotxchange.com
@@ -6493,6 +6494,7 @@ conversantmedia.com
 conversion-pixel.invitemedia.com
 conversionruler.com
 conversions.appsflyer.com
+conversions.appsflyersdk.com
 convertedhorace.com
 convertexperiments.com
 convertful.com
@@ -7481,6 +7483,7 @@ dl.logging.admicro.vn
 dl1d2m8ri9v3j.cloudfront.net
 dlog.hiido.com
 dlrioxg1637dk.cloudfront.net
+dlsdk.appsflyersdk.com
 dlswbr.baidu.com
 dlv.itmedia.co.jp
 dlx.specificclick.net
@@ -8843,6 +8846,7 @@ gbqofs.com
 gc.ds.duapps.com
 gcd.mmstat.com
 gcdsdk.appsflyer.com
+gcdsdk.appsflyersdk.com
 gcjs.genmonet.com
 gcm.ctnsnet.com
 gcospibuxd.com
@@ -10141,6 +10145,7 @@ inapi.flygame.io
 inapp.nixozz.com
 inapp.themoneytizer.com
 inapps.appsflyer.com
+inapps.appsflyersdk.com
 inbound.tenmax.io
 inboxdollars.com
 inc.adblade.com
@@ -11000,6 +11005,7 @@ laughedbegnaw.com
 launch.adserver.yahoo.com
 launchbit.com
 launches.appsflyer.com
+launches.appsflyersdk.com
 launchpoint.marketo.com
 lavamedia.vn
 lavanetwork.net
@@ -15107,6 +15113,7 @@ region1.analytics.google.com
 region1.app-measurement.com
 region1.google-analytics.com
 register.appsflyer.com
+register.appsflyersdk.com
 register.powerlinks.com
 registry.connatix.com
 reglowgleyde.com
@@ -15897,6 +15904,7 @@ sbs-ad.com
 sbx.pagesjaunes.fr
 sc-static.net
 sc.adelement.com
+sc.lfeeder.com
 sc.omtrdc.net
 sc.pages03.net
 sc.tynt.com
@@ -18242,6 +18250,7 @@ tr.alphonso.tv
 tr.blismedia.com
 tr.brand-display.com
 tr.iadsdk.apple.com
+tr.lfeeder.com
 tr.line.me
 tr.outbrain.com
 tr.pubnative.net
