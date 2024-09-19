@@ -2476,6 +2476,7 @@ agent.aralego.com
 agentanalytics.com
 agffrusilj.com
 aggestose.com
+agghriwaz.com
 aghastmardy.website
 agitated-potential.pro
 agkn.com
@@ -3075,6 +3076,7 @@ analytics.livestream.com
 analytics.localytics.com
 analytics.logsss.com
 analytics.m2.ai
+analytics.m7g.twitch.tv
 analytics.mailmunch.co
 analytics.map.qq.com
 analytics.mintegral.net
@@ -15173,6 +15175,7 @@ reporting-stvde.adsafety.net
 reporting.aatkit.com
 reporting.bidtellect.com
 reporting.bnmla.com
+reporting.cdndex.io
 reporting.ligatus.com
 reporting.linkshare.com
 reporting.specificmedia.com
