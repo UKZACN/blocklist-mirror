@@ -3396,6 +3396,7 @@ api.cityads.com
 api.clevertap.com
 api.clickaine.com
 api.cloudmobi.net
+api.cmp.inmobi.com
 api.collect.data.intl.miui.com
 api.content-ad.net
 api.content.ad
@@ -4870,6 +4871,7 @@ bright-sdk.com
 brightadnetwork.com
 brightcombid.marphezis.com
 brightdata.com
+brightdata.de
 brightgluttony.com
 brightinfo.com
 brightonclick.com
@@ -5139,6 +5141,7 @@ cache.specificmedia.com
 caclick.baidu.com
 cad.youku.com
 cadetrigourlegitimate.com
+cadmus.script.ac
 cads.scalemonk.com
 cafepharma.adblade.com
 cagamvnuqhuh.com
@@ -6237,6 +6240,7 @@ cml.sad.ukrd.com
 cmp-dev.advertising.com
 cmp.advertising.com
 cmp.dmgmediaprivacy.co.uk
+cmp.inmobi.com
 cmp.optad360.io
 cmp.uniconsent.com
 cms-preprod.galaxiemedia.fr
@@ -6398,6 +6402,7 @@ config-ltvp.inmobi.com
 config.a-mo.net
 config.ad-brix.com
 config.adview.cn
+config.aps.amazon-adsystem.com
 config.eastus-ssp.appgwv2.inmobi.com
 config.hiido.com
 config.inmobi.cn
@@ -9231,6 +9236,7 @@ grewquartersupporting.com
 grey.erne.co
 greyinstrument.com
 greystripe.com
+grid-bidder.criteo.com
 grid.bidswitch.net
 grirtouy.com
 gristleupanaya.com
@@ -9432,6 +9438,7 @@ hb.unoadsrv.com
 hb.vntsm.com
 hb.vntsm.io
 hb.yahoo.net
+hb.yellowblue.io
 hbbtv.skyadsmart.com
 hbevents.1rx.io
 hbint.emxdgt.com
@@ -9852,6 +9859,7 @@ iconcardinal.com
 iconpeak.com
 icptrack.com
 icyattestation.com
+id.a-mx.com
 id.adsplay.net
 id.analytics.glance.inmobi.com
 id.anthill.vn
@@ -15799,6 +15807,7 @@ s3.buysellads.com
 s3.cheqzone.com
 s3.cnnx.io
 s3.mellowads.com
+s3.vlitag.com
 s3.xtremepush.com
 s334284386.hs.eloqua.com
 s385.mxcdn.net
@@ -20922,6 +20931,7 @@ yeas.yahoo.co.jp
 yeesshh.xml.ak-is2.net
 yellerscarrom.website
 yellow-record.pro
+yellowblue.io
 yen.appsfire.net
 yepdigital.adk2x.com
 yepteaswont.com
