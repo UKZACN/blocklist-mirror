@@ -186,6 +186,7 @@ bid.g.doubleclick.net
 bilpolicydi.bytelab.dk
 biowebb-data.s3.amazonaws.com
 bitstarz.com
+bongeo.bonad.io
 boost-cdn.manatee.dk
 boot.pbstck.com
 borsvarlden-banners.azurewebsites.net
@@ -720,6 +721,7 @@ scripts.makeinfluence.com
 scripts.mediavine.com
 scripts.opti-digital.com
 sdk.pulse.schibsted.com
+sdkconfig.pulse.m10s.io
 sdkconfig.pulse.schibsted.io
 se-ads-microservice.ads.allermedia.io
 se.ads.justpremium.com
