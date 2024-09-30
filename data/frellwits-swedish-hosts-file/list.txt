@@ -767,6 +767,7 @@ ssl.webserviceaward.com
 ssp-nj.webtradehub.com
 ssp.api.tappx.com
 st-n.ads1-adnow.com
+stat.devote.se
 stat.modette.se
 stat.nyheter24.se
 stat.torgen.se
