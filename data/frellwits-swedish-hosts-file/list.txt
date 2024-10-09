@@ -764,9 +764,14 @@ ssl.webserviceaward.com
 ssp-nj.webtradehub.com
 ssp.api.tappx.com
 st-n.ads1-adnow.com
+stat.alltforforaldrar.se
+stat.blogg.se
+stat.brollopstorget.se
 stat.devote.se
+stat.familjeliv.se
 stat.modette.se
 stat.nyheter24.se
+stat.rodeo.net
 stat.torgen.se
 stat03.stat.cliche.se
 statcounter.va-endpoint.com
