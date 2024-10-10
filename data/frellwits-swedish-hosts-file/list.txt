@@ -717,6 +717,7 @@ scripts.kiosked.com
 scripts.makeinfluence.com
 scripts.mediavine.com
 scripts.opti-digital.com
+scripts.simpleanalyticscdn.com
 sdk.pulse.schibsted.com
 sdkconfig.pulse.m10s.io
 sdkconfig.pulse.schibsted.io
