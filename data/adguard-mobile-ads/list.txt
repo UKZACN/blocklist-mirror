@@ -4,7 +4,9 @@
 360yield.com
 883.engine.mobileapptracking.com
 92by17snes4.cc
+a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.applvn.com
 a.cookpad-ads.com
 a2dfp.net
@@ -60,7 +62,7 @@ ad.youku.com
 ad.zijieapi.com
 ad6media.fr
 adadvisor.net
-adballoon.afreecatv.com
+adballoon.sooplive.co.kr
 adblade.com
 adcamp.ru
 adcel.co
@@ -378,7 +380,7 @@ d830x8j3o1b2k.cloudfront.net
 dad-api.dcard.tw
 data-optout-service.uca.cloud.unity3d.com
 data2.doodlemobile.com
-deapi.afreecatv.com
+deapi.sooplive.co.kr
 debojuagug1sf.cloudfront.net
 delivery-cdn-cf.adswizz.com
 deliveryengine.adswizz.com
@@ -679,7 +681,7 @@ qist.me
 questionmarket.com
 r2d2.aotter.net
 redtram.com
-reqde.afreecatv.com
+reqde.sooplive.co.kr
 restartad.com
 revcontent.com
 richpays.com
@@ -829,6 +831,7 @@ videoplus.vo.llnwd.net
 vidout.net
 vm5apis.com
 vmap.v.ad-generation.jp
+vod-mplayer.sooplive.co.kr
 vrizead.com
 vs-api.voodoo-tech.io
 vserv.mobi
