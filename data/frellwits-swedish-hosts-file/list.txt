@@ -122,6 +122,7 @@ analytics.nikkasystems.com
 analytics.residencemagazine.se
 analytics.sitewit.com
 analytics.sjf.se
+analytics.sleeknote.com
 analytics.smhi.se
 analytics.svenskdam.se
 analytics.svt.se
@@ -751,8 +752,6 @@ services.bilsyndication.com
 services.vlitag.com
 sgtm.inet.se
 sibautomation.com
-sleeknote.com
-sleeknotecustomerscripts.sleeknote.com
 smtvn.112.2o7.net
 snap.licdn.com
 source.advisible.com
