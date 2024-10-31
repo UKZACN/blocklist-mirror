@@ -206,6 +206,7 @@ advombat.ru
 adx-dre.op.hicloud.com
 adx-open-service.youku.com
 adx-tk.rayjump.com
+adx.mossru.com
 adxcorp.kr
 adz.mobi
 adzerk.net
@@ -391,6 +392,7 @@ displayio.cloud
 disqusads.com
 dm.isnssdk.com
 dm.toutiao.com
+dollphoin.site
 dotomi.com
 downloadshi.b-cdn.net
 dspunion.com
@@ -482,6 +484,7 @@ imrworldwide.com
 inclk.com
 infolinks.com
 ingamesads.gameloft.com
+inmense.site
 inmobi.cn
 inmobi.com
 inmobi.net
@@ -498,6 +501,7 @@ iqzone.com
 itdsmr.com
 iyes.youku.com
 jioads.akamaized.net
+jjpp.lmtjapi.com
 jssdk.rayjump.com
 justad.mobi
 ketchapp.org
@@ -604,6 +608,7 @@ networksdk.ssacdn.com
 networld.hk
 newad.ifeng.com
 newfeatureview.perfectionholic.com
+news-cdn.site
 newsnet.in.ua
 nexac.com
 nickhel.com
