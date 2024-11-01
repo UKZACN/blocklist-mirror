@@ -42,6 +42,7 @@ adroll.com
 ads.aland.com
 ads.annonsbladet.com
 ads.aralego.com
+ads.bethard.com
 ads.compro.se
 ads.docunordic.net
 ads.exakt24.se
@@ -95,6 +96,7 @@ ambassador.referralhero.com
 amd.sellingsimplified.net
 ana.headerlift.com
 analys.landskrona.se
+analytics-ingress-global.bitmovin.com
 analytics-sdk.yle.fi
 analytics-smhise.smhi.se
 analytics.allas.se
