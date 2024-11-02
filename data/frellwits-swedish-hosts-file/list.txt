@@ -402,6 +402,7 @@ embi-media.com
 emea.hhkld.com
 emea.viadata.store
 etc-cdn-staging.ams3.digitaloceanspaces.com
+eu.npario-inc.net
 eum.instana.io
 europe-west1-bonnier-big-data.cloudfunctions.net
 eus.rubiconproject.com
@@ -514,7 +515,6 @@ jsc.adskeeper.co.uk
 jsc.adskeeper.com
 jsc.mgid.com
 jscdn.yieldbird.com
-jssdk.pulse.schibsted.com
 jssdkcdns.mparticle.com
 jtp.expressen.se
 kiosked.com
@@ -1080,7 +1080,6 @@ www.tamgrt.com
 www.topdisplaynetwork.com
 www.tourn.se
 www.vejaskor.com.se
-www.vejasskor.com
 www.vizzit.se
 www8.smartadserver.com
 x.bidswitch.net
