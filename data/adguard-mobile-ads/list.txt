@@ -30,12 +30,15 @@ ad-x.co.uk
 ad.apps.fm
 ad.apsalar.com
 ad.auditude.com
+ad.bandlab.io
 ad.buzzvil.com
 ad.cauly.co.kr
 ad.daum.net
+ad.deepthought.industries
 ad.doubleclick.net
 ad.duapps.com
 ad.flipboard.com
+ad.inston.ltd
 ad.iwhop.cn
 ad.jorte.com
 ad.leadboltapps.net
@@ -117,11 +120,14 @@ adpublisher.s3.amazonaws.com
 adpush.goforandroid.com
 adquota.com
 adrouter-charter-vod.cadenttech.tv
+ads-ap-venues.yinzcam.com
 ads-api.kidsnote.com
 ads-bidder-api.twitter.com
 ads-chunks.prod.ihrhls.com
 ads-cloud.rovio.com
+ads-config-engine-noneu.truecaller.com
 ads-d.viber.com
+ads-delivery.gunosy.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-gdl.imovideo.ru
 ads-interfaces.sc-cdn.net
@@ -137,6 +143,7 @@ ads.aerserv.com
 ads.aitype.net
 ads.appsgeyser.com
 ads.bulldogcpi.com
+ads.cocomobi.com
 ads.edadeal.ru
 ads.feelingtouch.com
 ads.imbc.com
@@ -206,7 +213,6 @@ advombat.ru
 adx-dre.op.hicloud.com
 adx-open-service.youku.com
 adx-tk.rayjump.com
-adx.mossru.com
 adxcorp.kr
 adz.mobi
 adzerk.net
@@ -580,6 +586,7 @@ mobpowertech.com
 mofox.com
 monitor.adcaffe.com
 mopub-win-us-east.bksn.se
+mossru.com
 msg.ettoday.net
 mtag.mman.kr
 mtburn.com
