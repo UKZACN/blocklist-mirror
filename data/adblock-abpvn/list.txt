@@ -1238,6 +1238,7 @@ ads-api.ft.com
 ads-api.playfun.vn
 ads-api.tiktok.com
 ads-api.twitter.com
+ads-api.videy.co
 ads-bi.zenkube.com
 ads-bid.l.doubleclick.net
 ads-bidder-api.twitter.com
@@ -3540,6 +3541,7 @@ api.rudderlabs.com
 api.runative.com
 api.sail-personalize.com
 api.sail-track.com
+api.scorchads.com
 api.scorecardresearch.com
 api.screenshot.triplelift.com
 api.sdk.zadn.vn
@@ -3648,6 +3650,7 @@ apoll.m.taobao.com
 apollo.showheroes.com
 apolloprogram.io
 app-adforce.jp
+app-ads-services.com
 app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
@@ -3975,6 +3978,7 @@ assets.pubpowerplatform.io
 assets.purch.com
 assets.revcontent.com
 assets.rubiconproject.com
+assets.scorchads.com
 assets.servedby-buysellads.com
 assets.sharethrough.com
 assets.siftscience.com
@@ -6481,6 +6485,7 @@ config.inmobi.cn
 config.inmobi.com
 config.ioam.de
 config.jpush.cn
+config.mobilegamestats.com
 config.mobisage.cn
 config.parsely.com
 config.safedk.com
@@ -12287,6 +12292,7 @@ metric.nimo.tv
 metric.picodi.com
 metric.picodi.net
 metricfast.com
+metricreceiver.cellrebel.com
 metrics-collector.onscroll.com
 metrics-collector.s-onetag.com
 metrics-dra.dt.hicloud.com
@@ -13246,6 +13252,7 @@ ogs.ants.vn
 ogtollhazv.com
 ohchat.net
 ohfapzvhun.com
+ohgorbqcegig.com
 ohibal.com
 ohkojloxdtw.com
 ohqbutogkn.com
@@ -16217,6 +16224,7 @@ scomcluster.cxense.com
 sconvtrk.com
 scoota.co
 scopelight.com
+scorchads.com
 score.im-apps.net
 scorecardresearch.com
 scourpapless.live
@@ -16463,6 +16471,7 @@ serve.mondiad.net
 serve.nrich.ai
 serve.popads.net
 serve.revcontent.com
+serve.scorchads.com
 serve.somplo.com
 serve.williamhill.com
 serve2.cheqzone.com
@@ -17528,6 +17537,7 @@ stats.clevernt.com
 stats.dev.zaloapp.com
 stats.dongphim.net
 stats.eskimi.com
+stats.etix.vn
 stats.fidelity-media.com
 stats.fifthstarlabs.io
 stats.g.doubleclick.net
@@ -18633,6 +18643,7 @@ track.pricespider.com
 track.pubmatic.com
 track.saigon.pro
 track.saygames.io
+track.scorchads.com
 track.securedvisit.com
 track.sendo.vn
 track.sohu.com
@@ -18885,6 +18896,7 @@ trcakingapp.trnox.com
 trck-v4.a8.net
 trck.a8.net
 trck.bebi.com
+trck.pocketmoon.me
 tredir.go.com
 trekblue.com
 trekdata.com
@@ -20480,6 +20492,7 @@ www.antiadblocksystems.com
 www.ants.vn
 www.anymad.com
 www.anymedia.lv
+www.app-ads-services.com
 www.appadhoc.com
 www.appads.in
 www.appbaqend.com
