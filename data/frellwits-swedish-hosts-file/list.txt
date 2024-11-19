@@ -754,6 +754,7 @@ services.bilsyndication.com
 services.vlitag.com
 sgtm.inet.se
 sibautomation.com
+smetrics.avanza.se
 smtvn.112.2o7.net
 snap.licdn.com
 source.advisible.com
