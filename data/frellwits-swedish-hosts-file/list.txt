@@ -235,6 +235,7 @@ cdn.adt356.com
 cdn.adt357.net
 cdn.adt361.com
 cdn.adt511.net
+cdn.adt512.com
 cdn.adt523.net
 cdn.adt532.com
 cdn.adt545.net
