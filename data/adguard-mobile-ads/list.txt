@@ -139,6 +139,7 @@ ads-sdk.nianticlabs.com
 ads-server.mxplay.com
 ads.ad2iction.com
 ads.adadapted.com
+ads.adinmotech.com
 ads.aerserv.com
 ads.aitype.net
 ads.appsgeyser.com
@@ -387,6 +388,7 @@ d830x8j3o1b2k.cloudfront.net
 dad-api.dcard.tw
 data-optout-service.uca.cloud.unity3d.com
 data2.doodlemobile.com
+dataflow.biliapi.com
 deapi.sooplive.co.kr
 debojuagug1sf.cloudfront.net
 delivery-cdn-cf.adswizz.com
@@ -448,6 +450,7 @@ go.mobstitialtag.com
 go.vrvm.com
 googleadservices.com
 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
+grpc.biliapi.net
 gts-ads.twistbox.com
 gumgum.com
 gwrtdp-tn690bfadt.tclclouds.com
@@ -463,6 +466,7 @@ hostgrater.com
 hotapi-va.isnssdk.com
 houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
+httpdns.bilivideo.com
 httpool.com
 https-filtering-check.adtidy.org
 huntmad.com
@@ -520,6 +524,7 @@ komoona.com
 krt.asycxtz.cn
 krutilka.net
 kusuriyasan.org
+kvaedit.site
 l0-secure.videohub.tv
 l3op.info
 lacunads.com
