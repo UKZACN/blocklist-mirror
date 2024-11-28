@@ -3317,6 +3317,7 @@ apfxpuatkla.com
 aphidsclee.com
 aphycolourses.info
 api-2-0.spot.im
+api-ad-adapter.wps.com
 api-ad-data.kajicam.com
 api-ad.kajicam.com
 api-adro.xtremepush.com
@@ -3367,7 +3368,6 @@ api.adfly.vn
 api.adform.com
 api.adgem.com
 api.adhaven.com
-api.adnet.mob.com
 api.adnz.co
 api.adomik.com
 api.adpopcorn.com
@@ -7170,6 +7170,7 @@ data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 data.mixpanel.com
+data.mob.com
 data.optad360.com
 data.queryly.com
 data.sec.intl.miui.com
@@ -11480,10 +11481,12 @@ log-upload-eur.mihoyo.com
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
 log-upload.mihoyo.com
+log-verify.mob.com
 log-video.baotintuc.vn
 log-vietnamdaily.zadn.vn
 log-vietnamplus-vn.cdn.ampproject.org
 log-vovworld.zadn.vn
+log.1vn.app
 log.247post.vn
 log.ad.xiaomi.com
 log.adap.tv
@@ -16807,6 +16810,7 @@ smartlink.adpia.vn
 smartlook.com
 smartmad.com
 smartnews-ads.com
+smartop-sdkapi.jiguang.cn
 smartplugin.youbora.com
 smartreports.youbora.com
 smartswitch.youbora.com
