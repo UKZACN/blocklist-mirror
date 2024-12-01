@@ -949,6 +949,7 @@ tracking.falkopingstidning.se
 tracking.falukuriren.se
 tracking.fasab6f.se
 tracking.fastighetsnytt.se
+tracking.folkracepuls.se
 tracking.gd.se
 tracking.hd.se
 tracking.ht.se
@@ -957,6 +958,7 @@ tracking.inboxads.com
 tracking.jp.se
 tracking.kalmarposten.se
 tracking.klt.nu
+tracking.kpwebben.se
 tracking.kristianstadsbladet.se
 tracking.ljusdalsposten.se
 tracking.ljusnan.se
@@ -966,11 +968,14 @@ tracking.market.se
 tracking.meraosterlen.se
 tracking.missaffiliate.com
 tracking.moratidning.se
+tracking.morgonexpressen.se
 tracking.na.se
 tracking.norrteljetidning.se
 tracking.nsk.se
 tracking.nvp.se
 tracking.nyaludvikatidning.se
+tracking.nyhetstjansterna.dagensmedicin.se
+tracking.nyhetstjansterna.di.se
 tracking.nynashamnsposten.se
 tracking.olandsbladet.se
 tracking.omniture.nt.se
