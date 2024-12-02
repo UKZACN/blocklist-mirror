@@ -403,7 +403,6 @@ embi-media.com
 emea.hhkld.com
 emea.viadata.store
 etc-cdn-staging.ams3.digitaloceanspaces.com
-eu.npario-inc.net
 eum.instana.io
 europe-west1-bonnier-big-data.cloudfunctions.net
 eus.rubiconproject.com
@@ -793,7 +792,6 @@ static.ws.apsis.one
 static.zotabox.com
 statistics.heltenkelt.se
 statistik.blogg1.se
-statistik.mxo.se
 statistik.svenskaakademien.se
 stats.agrar.nu
 stats.blogg.se
@@ -1007,7 +1005,6 @@ tracking.viivilla.se
 tracking.visitorsvoice.com
 tracking.vlt.se
 tracking.vn.se
-tracking.vxonews.se
 tracking.ystadsallehanda.se
 tradecore.tradehouse.media
 traffic.feedremedy.com
