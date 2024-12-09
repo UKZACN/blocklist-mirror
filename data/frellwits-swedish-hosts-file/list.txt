@@ -100,6 +100,7 @@ analys.landskrona.se
 analytics-ingress-global.bitmovin.com
 analytics-sdk.yle.fi
 analytics-smhise.smhi.se
+analytics.ahrefs.com
 analytics.allas.se
 analytics.apotekhjartat.se
 analytics.arvika.se
@@ -122,6 +123,7 @@ analytics.mabra.com
 analytics.mailmunch.co
 analytics.motherhood.se
 analytics.nikkasystems.com
+analytics.recept.se
 analytics.residencemagazine.se
 analytics.sitewit.com
 analytics.sjf.se
@@ -218,6 +220,7 @@ ccjnhnqfnvsr3otokvf59ns52.litix.io
 cd.connatix.com
 cdn-0.d41.co
 cdn-3.convertexperiments.com
+cdn-4.convertexperiments.com
 cdn-a.yieldlove.com
 cdn-eu.clickdimensions.com
 cdn-gl.imrworldwide.com
@@ -1074,6 +1077,7 @@ www.dwin2.com
 www.effectivecreativeformat.com
 www.fakturino.se
 www.filasverigese.com
+www.flashb.id
 www.guesssverige.com.se
 www.gymshark-sweden.com.se
 www.kundvisaren.se
