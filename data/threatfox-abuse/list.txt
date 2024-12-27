@@ -95,6 +95,7 @@
 162-230-48-189.lightspeed.jcvlfl.sbcglobal.net
 163-172-125-253.rev.poneytelecom.eu
 164.92.226.28.sslip.io
+165-22-250-3.cprapid.com
 167-172-29-103.ipv4.staticdns3.io
 167.88.164.166.sslip.io
 16c8aa01ae114f4507e27b98463a0c7a.in
@@ -313,7 +314,6 @@
 45urhm0ldgxb.live
 46.200.psinetpa.net.prodejdilu.cz
 462708cm.n9shteam2.top
-4628eea2b0b6.ngrok.app
 463281cm.n9shteam2.top
 4646serhse844sererher65.com
 465jsdlkd.top
@@ -922,7 +922,6 @@ ama.industrystats.store
 ama.itresources.lol
 ama.newtech.lol
 ama.resourcegate.lol
-amateur-locket-gw.aws-use1.cloud-ara.tyk.io
 amazon.sacos.world
 amazon.testfish.dosoos.com
 ambaqnjgkk.duckdns.org
@@ -1045,7 +1044,6 @@ application-motivation.gl.at.ply.gg
 applieddyooqnz.shop
 appliedgrandyjuiw.shop
 apply-ciao.gl.at.ply.gg
-applylawofattraction.com
 applyzxcksdia.shop
 appointwiymo.shop
 approach-stability.gl.at.ply.gg
@@ -1416,6 +1414,7 @@ blakaa.duckdns.org
 blastechohackopeower.pw
 blasterrysbio.cyou
 blastoporicwoff.fun
+bleedingheart1897.lol
 bleedminejw.buzz
 bleednumberrottern.homes
 blees7.duckdns.org
@@ -1465,7 +1464,6 @@ boarderryowk.shop
 boards-particular.gl.at.ply.gg
 boatnet.top
 boats.cloudboats.vip
-boats.dogmuncher.xyz
 boattyownerwrv.shop
 bobbycloud.pw
 bobbymiller09.bumbleshrimp.com
@@ -1482,7 +1480,6 @@ bongmecams.xyz
 bonuscuk.com
 boohers.xyz
 bookgames.pw
-bookings.catomeister.com
 booklng.biz
 boothroundupdow.fun
 booudbras.pw
@@ -1751,7 +1748,6 @@ ce3e67ce253d9d44fb054d23378408b7.info
 cea3571xxgik.live
 cede03.info
 cee.work.gd
-cejecuu4.xyz
 celebratioopz.shop
 celosiapatroen.shop
 cemdlnjdnjmgchf.top
@@ -1999,6 +1995,7 @@ commandseai.cyou
 commisionipwn.shop
 commission-machines.gl.at.ply.gg
 communicationpalaoow.pw
+company-telecom.gl.at.ply.gg
 company.disco-la-cola.de
 companymartec.com
 comperssw.fun
@@ -2547,7 +2544,6 @@ docs.google.com.spreadsheets.d.1ip6eeakdebmwteh36vana4hu-glaeksstsht-boujdk.zhbl
 docu-sign.info
 doggygangers.com
 dogirafer.com
-dogmuncher.xyz
 doj6z5i9g803.live
 doladowanie.app-tools.info
 dollarman101.hopto.org
@@ -2645,7 +2641,6 @@ dullis.disco-la-cola.de
 dumboi.duckdns.org
 dump.hduak.site
 dumpliportiwo.shop
-duplevo.com
 dust-rotten.cyou
 dvd-ons.gl.at.ply.gg
 dvjurtt.top
@@ -2795,6 +2790,7 @@ ehzwq.shop
 eighh8pt.top
 eightbb8pt.top
 eightbb8sb.top
+eighth8vt.top
 eightja8ht.top
 eightja8sb.top
 eightja8vt.top
@@ -2882,7 +2878,6 @@ eksters.net
 elaablibeh.ddnsgeek.com
 elaboretib.sbs
 elastic.net-v2-status.net
-elastsolek1.duckdns.org
 elderlybliss.net
 electroyw.biz
 electrum-abc.com
@@ -3251,6 +3246,7 @@ falsifydisappearsoaeka.pw
 famikyjdiag.site
 famillmeasurd.shop
 fannydayywjwo.shop
+fantassyzwi.click
 fantasticabnormally.shop
 farpetor.shop
 fashiiosuwq.shop
@@ -3458,6 +3454,7 @@ fivejo5vt.top
 fivejp5ht.top
 fivejp5vs.top
 fivet15vs.top
+fiveth5vt.top
 fivetjj15pt.top
 fivetjp15ht.top
 fivetjp15sr.top
@@ -3623,6 +3620,7 @@ fort14ws.top
 fortkt14sb.top
 fortnite.cryptoinvest.black
 fortth14pn.top
+fortth14vt.top
 fortunate-homonym-gw.aws-euc1.cloud-ara.tyk.io
 forum.ethergases.app
 forum.ethergases.org
@@ -4057,8 +4055,8 @@ goodymuxzjch.shop
 goodyparticl.icu
 goog-stoop.cyou
 googiedrivers.com
+google-br.duckdns.org
 google-inc.ltd
-google-logs.top
 google-logs.top.cdn.dnsv1.com
 googledocs.duckdns.org
 googlerecaptchatestsite.duckdns.org
@@ -4451,10 +4449,12 @@ home.onetk1ht.top
 home.onetk1pn.top
 home.onetk1vt.top
 home.pqpw.com
+home.sixth6vt.top
 home.sixtk6pn.top
 home.sixtk6pt.top
 home.sixtk6sb.top
 home.tentg10sb.top
+home.tenth10vt.top
 home.tentk10ht.top
 home.tentk10pt.top
 home.thirtgt13pn.top
@@ -4762,7 +4762,6 @@ jarredsteven-56944.portmap.host
 jawiqrzaactj.live
 jax4v0n.duckdns.org
 jazztgratizecnagnek.xyz
-jbfrost.live
 jbqqapfqwsbx.live
 jc51pt290y0n.live
 jcgijjkddehkfli.top
@@ -4841,6 +4840,7 @@ jurassicworldtheexhibition.com
 jurisdictwy.cfd
 just-in-timelog.com
 justifycanddidatewd.shop
+justyffyr.click
 jvjswtvany.duckdns.org
 jvjv2044duck33.duckdns.org
 jwdtcx3kfb.duckdns.org
@@ -4931,6 +4931,7 @@ klarnaportal.icu
 klarnaportal.live
 klemanzino.net
 klipdajemua0.shop
+klipsyzogey.shop
 kliptizq.shop
 klkizwp.ethergases.app
 klmnnilmahlkcje.top
@@ -5170,6 +5171,7 @@ localwanderer.shop
 locatedblsoqp.shop
 locaterincrewy.biz
 locations-ff.gl.at.ply.gg
+locketplyxx.click
 lofirenqveg.com
 logicc2.com
 login-auth-office.com
@@ -5855,7 +5857,6 @@ net.tiktoka.cc
 netovrema.pw
 network-info.gl.at.ply.gg
 network.polyhedrao.com
-networkhealth.azureedge.net
 neurotecaes.dev.tempweb.dev
 never-villas.gl.at.ply.gg
 nevkq7lku38l.live
@@ -6168,6 +6169,7 @@ ninetgh19sb.top
 ninetgh19sr.top
 ninetgh19vs.top
 ninetgh19vt.top
+nineth9vt.top
 ninetk9pt.top
 ninetk9sb.top
 ninetvf19pn.top
@@ -6224,6 +6226,7 @@ norominis2.com
 north-residence.com
 notablelibrary.com
 notairdropton.shop
+notebookgi.click
 noticcedospq.shop
 notificacionpdf.duckdns.org
 notificadoresrma.duckdns.org
@@ -6383,6 +6386,7 @@ onestats.top
 onetg1ht.top
 onetg1sb.top
 onetg1vt.top
+oneth1vt.top
 onetk1ht.top
 onetk1pn.top
 onetk1pt.top
@@ -6572,6 +6576,7 @@ panel.austria-host.de
 panel.mint-stealer.pw
 panel.visaka.cn
 panel.x00x.online
+panelmaideus.click
 pang-scrooge-carnage.shop
 panic.seilodown.ru
 panushciwracelp.shop
@@ -6656,7 +6661,6 @@ perfect5.publicvm.com
 perfect8.publicvm.com
 perfomnjshin.cyou
 perforatedmwqn.shop
-performanscore.com
 performenj.shop
 periodicroytewrsn.shop
 peronikilinfer.com
@@ -6919,7 +6923,6 @@ presencewineonnyui.shop
 presennttykwo.shop
 preside-comforter.sbs
 presintal.analisedesistemas.city
-press-higher.gl.at.ply.gg
 presticitpo.store
 prettilikeopwp.shop
 pretty-dressed.gl.at.ply.gg
@@ -6951,6 +6954,7 @@ probablekl.site
 probanriz.veritasinvest.io
 probisuaoe.online
 problemregardybuiwo.fun
+problems-onion.gl.at.ply.gg
 process-medieval.gl.at.ply.gg
 processhol.sbs
 proclaimykn.buzz
@@ -7264,7 +7268,6 @@ resstyeggeuo.shop
 rest.cdntoswitchspirit.com
 restbycalm.com
 restoindia.me
-restolazo.com
 restore-center.org
 restoreviner.com
 restructurisationservice.ru
@@ -7438,7 +7441,6 @@ s3-ucia.cloud
 s3-zoho.cloud
 s3api.shop
 s3bucket-azure.online
-s3dpsid.shop
 s626jyykfd2vpeel7rswnlmwsjcumjgwsw2hdo3shphtih64ayu7n6yd.onion
 s7.canada.wiretun.com
 sad-grain-eye.cyou
@@ -7632,6 +7634,7 @@ selmanc.com
 semsy-oda.duckdns.org
 semurox.com
 senaclient.ddns.net
+senc1.melody-wave.shop
 send.pqpw.com
 sendactiveapp.monster
 sendcoolapp.monster
@@ -7949,6 +7952,7 @@ sixkx6vt.top
 sixtg6ht.top
 sixtg6sb.top
 sixtg6vt.top
+sixth6vt.top
 sixtj16vs.top
 sixtk6ht.top
 sixtk6pn.top
@@ -8042,6 +8046,7 @@ sleet-signaly.cyou
 sleipnirbrowser.org
 slim-incises.cyou
 slim-tea.pro
+slimmybearz.click
 slipperyloo.lat
 slippyhost.cfd
 sll.casacam.net
@@ -8103,7 +8108,6 @@ solscan.store
 solutionhub.cc
 solutionpxmuzo.shop
 solutviewmen.viewdns.net
-somedax.com
 someone-entering.gl.at.ply.gg
 somrasdc.ddns.net
 sonar.inndata.xyz
@@ -8292,6 +8296,7 @@ stir-zing.cyou
 stirnyuys.cfd
 stitchmiscpaew.shop
 stls126.com
+stock.letsgoautomotive.com
 stogeneratmns.shop
 stomachoverwis.shop
 stoolybootwmwn.shop
@@ -8388,6 +8393,7 @@ suburand.com
 suburbmeetabuseowp.pw
 succeed-welco.cyou
 succesfullysjlewdwp.shop
+successroadway.com
 suclub.xyz
 suecia12.duckdns.org
 suerte.ninja
@@ -8486,7 +8492,6 @@ system-testyr.cyou
 systemcoreupdate.com
 syx.free.thebitmeister.com
 t-abc.gl.at.ply.gg
-t-protecting.gl.at.ply.gg
 t1473sdzlxpz.live
 t1p9jbex8g.silentlegion.duckdns.org
 tablebusiness.us
@@ -8600,6 +8605,7 @@ tentg10pt.top
 tentg10sb.top
 tentg10vt.top
 tenth10pn.top
+tenth10vt.top
 tentk10ht.top
 tentk10pn.top
 tentk10pt.top
@@ -8724,6 +8730,7 @@ thirtkt13sb.top
 thirtkx13sb.top
 thirtkx13vs.top
 thirtth13pn.top
+thirtth13vt.top
 thirtv13ht.top
 thirtv13pn.top
 thirtv13pt.top
@@ -8943,6 +8950,7 @@ trc20.kcgrocks.com
 treasure-arm.cyou
 treatmentyj.cyou
 treatynreit.site
+treehoneyi.click
 tregir1.auditoriaadministrativa.agency
 trelanlinsom.tomografias.sbs
 trelinmol.aurorainvestimentos.com
@@ -8971,6 +8979,7 @@ tridensintal.elitefinancas.com
 trinerblogcastfeedtool.com
 trinnodolart.com
 tripeggyun.fun
+triptrip.melody-wave.shop
 trironnonnal.colposcopia.sbs
 tritanfar73.estrategiaadministrativa.wine
 tritanpinvaz.nexuspatrimonial.city
@@ -8979,7 +8988,6 @@ trobulepcatoa.shop
 troia23.duckdns.org
 trojan.ru
 trolleyrreiwn.shop
-trollsburninginhell.com
 tropicalironexpressiw.shop
 troubledinco.click
 troublenm.com
@@ -9173,6 +9181,7 @@ twentykx20pt.top
 twentykx20sb.top
 twentykx20vs.top
 twentyth20pn.top
+twentyth20vt.top
 twentytk20ht.top
 twentytk20pn.top
 twentytk20pt.top
@@ -9320,6 +9329,7 @@ underlinefreeapearew.fun
 underlinemdsj.site
 understagkedow.shop
 understanndtytonyguw.shop
+undesirabkel.click
 unenviousdxep.shop
 unexaminablespectrall.fun
 ung.dev.tokeroed.io
@@ -9466,7 +9476,6 @@ varietybouy.cyou
 various-injury.gl.at.ply.gg
 vatanfungem.medicarium.icu
 vatleaflettrusteeooj.shop
-vauxhall.top
 vauy5ah65sx.life
 vaval.elitefinancas.com
 vawel.patrimoniosoberano.world

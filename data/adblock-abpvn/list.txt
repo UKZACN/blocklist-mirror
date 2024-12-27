@@ -2156,6 +2156,7 @@ adtrackingflow.pro
 adtrade.net
 adtrading.de
 adtraff.ru
+adtrafficquality.google
 adtrak.net
 adtriplex.com
 adtrue.com
@@ -2359,6 +2360,7 @@ adx.opera.com
 adx.otm-r.com
 adx.phunuadong.vn
 adx.proadscdn.com
+adx.trackrsad.com
 adx.vn
 adx.xemvtv.net
 adx.xtv.vn
@@ -3164,7 +3166,6 @@ analytics.shivamsinghis.me
 analytics.shutterstock.com
 analytics.slashdotmedia.com
 analytics.sohatv.vn
-analytics.spotify.com
 analytics.starmakerstudios.com
 analytics.streamgaga.com
 analytics.swiggy.com
@@ -7026,6 +7027,7 @@ d.ligatus.com
 d.pssy.xyz
 d.pub.network
 d.r10.mopub.com
+d.reddit.com
 d.scorecardresearch.com
 d.shareaholic.com
 d.t.sieu-viet.com
@@ -8224,6 +8226,9 @@ eoapxl4.eoapxl.com
 eodufofs.com
 eogaeapolaric.com
 eombyspell.uno
+ep1.adtrafficquality.google
+ep2.adtrafficquality.google
+ep3.adtrafficquality.google
 epi0tzwi.com
 epiccash.com
 epigaeatoasty.com
@@ -8254,6 +8259,7 @@ erp2.novaon.asia
 err.pubexchange.com
 errantstetrole.com
 errlog.umeng.com
+error-tracking.reddit.com
 ertb.hprofits.com
 eryondistain.com
 es.adxxx.com
@@ -8398,6 +8404,7 @@ events.newsroom.bi
 events.ocdn.eu
 events.popinfo.jp
 events.proper.io
+events.reddit.com
 events.redditmedia.com
 events.samsungads.com
 events.shoplytics.com
@@ -11428,6 +11435,7 @@ liquidad.narrowcastmedia.com
 lirateblister.com
 lispaircraftcraziness.com
 listing.yahoo.co.jp
+litaudrootsa.net
 lite.automatad.com
 literalcorpulent.com
 litix.io
@@ -13284,6 +13292,7 @@ oc.umeng.com
 oca.telemetry.microsoft.com
 occdmioqlo.com
 occi.opencoccoc.com
+oceanicdreamcove.com
 ocio.leadzu.com
 oclasrv.com
 ocqpavrrix.com
@@ -13621,6 +13630,7 @@ ortb.yieldlab.net
 ortdasctuji.com
 orthitepetrous.com
 ortshk.tapas.net
+orywrjsf.com
 oscdn.batmobi.net
 osfajqzcybu.com
 osfkfaacqx.com
@@ -13698,6 +13708,7 @@ ovlliiwtxgjlz.com
 ovmhwiccikr.com
 ovmodnlmypf.com
 ovp.iris.tv
+ovrcuncunxp.com
 ovsrhikuma.com
 ovvxzagmem.com
 ovxhhurafpi.com
@@ -13850,6 +13861,7 @@ pabc.chartbeat.net
 pac.thesun.co.uk
 pacekami.com
 pad-v3.presage.io
+paddlemoscowsplit.com
 padp5arja8dgsd9cha.com
 pads.cdnads.com
 padsdel.com
@@ -14258,6 +14270,7 @@ pixel-a.sitescout.com
 pixel-apac.rubiconproject.com
 pixel-api.scupio.com
 pixel-c2s.sitescout.com
+pixel-config.reddit.com
 pixel-dsp.bidgear.com
 pixel-eu.rubiconproject.com
 pixel-origin.mathtag.com
@@ -14346,6 +14359,7 @@ pixelg.adswizz.com
 pixels.ad.gt
 pixels.asia
 pixels.omnitagjs.com
+pixels.spotify.com
 pixels.truvidplayer.com
 pixfuture.com
 pixiedust.buzzfeed.com
@@ -18805,6 +18819,7 @@ track.popsww.com
 track.premiumads.net
 track.pricespider.com
 track.pubmatic.com
+track.rentracksw.com
 track.saigon.pro
 track.saygames.io
 track.scorchads.com
@@ -20076,6 +20091,7 @@ vuwmxjusucnh.com
 vxcaphujhns.com
 vyfrxuytzn.com
 vz-cdn.trafficjunky.net
+vzecinazg.com
 vzizatjihca.com
 vzoarcomvorz.com
 w.ad.style
@@ -20088,6 +20104,8 @@ w.sharethis.com
 w.staging.sharethis.com
 w.vip.dfw2.inmobi.cn
 w1.luckyorange.com
+w3-reporting-nel.reddit.com
+w3-reporting.reddit.com
 w3counter.com
 w3i.com
 w454n74qw.com
@@ -20237,6 +20255,7 @@ webvisor.ru
 wedgierbirsit.com
 wedxuaksargvlf.com
 weeecool.com
+weesatoothoamu.net
 wegcash.com
 welcome.consumable.com
 welcome.openx.com
