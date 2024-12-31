@@ -261,6 +261,7 @@ cdn.dep-x.com
 cdn.foxpush.net
 cdn.gravitec.net
 cdn.hubvisor.io
+cdn.id5-sync.com
 cdn.insurads.com
 cdn.izooto.com
 cdn.jst.ai
