@@ -6,7 +6,6 @@
 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 6321239.fls.doubleclick.net
 a.adroll.com
-a.adtech.de
 a.omappapi.com
 a.opmnstr.com
 a.optmnstr.com
@@ -435,7 +434,6 @@ franecki.net
 freegeoip.app
 freespee.com
 freewheel-mtgx-tv.akamaized.net
-frugalrushcap.com
 functions.adnami.io
 funnelytics.io
 funtomic-d.openx.net
@@ -606,7 +604,6 @@ norstatsurveys.com
 npario-inc.net
 ntrfr.expekt.se
 ntrfr.leovegas.com
-ntrfr.pixel.bet
 nucleusanalytics.io
 nvpx.adhost.se
 offer-go.com
@@ -662,7 +659,6 @@ pushwhy.com
 pxl.host
 r.existenz.se
 rabble-res.cloudinary.com
-reauthenticator.com
 recirculation.spot.im
 redistats.com
 region1.google-analytics.com
@@ -813,7 +809,6 @@ stats.kaltura.com
 stats.med.lu.se
 stats.playoncenter.com
 stats.poddtoppen.se
-stats.proff.se
 stats.tipser.com
 stats.userneeds.com
 stats.wp.com
@@ -851,7 +846,6 @@ tagging-service.fotbollskanalen.se
 tagging-service.tv4.se
 tagging-service.tv4play.se
 tags.adnuntius.com
-tags.bkrtx.com
 tags.crwdcntrl.net
 tags.expo9.exponential.com
 tags.refinery89.com
@@ -1099,6 +1093,5 @@ www.vizzit.se
 www8.smartadserver.com
 x.bidswitch.net
 yieldbird.com
-z.moatads.com
 zn6lkvme45abyczq5-tuigroup.siteintercept.qualtrics.com
 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com
