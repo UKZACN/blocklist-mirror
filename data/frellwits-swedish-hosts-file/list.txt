@@ -776,10 +776,12 @@ stat.blogg.se
 stat.brollopstorget.se
 stat.devote.se
 stat.familjeliv.se
+stat.loppi.se
 stat.modette.se
 stat.nyheter24.se
 stat.rodeo.net
 stat.torgen.se
+stat.vimedbarn.se
 stat03.stat.cliche.se
 statcounter.va-endpoint.com
 static.addtoany.com
