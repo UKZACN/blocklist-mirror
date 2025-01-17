@@ -4783,6 +4783,7 @@ blacurlik.com
 blank.juicer.cc
 blast4traffic.com
 blastcahs.com
+blearspellaea.shop
 bleedlight.com
 bleokerrie.com
 bletretzian.com
@@ -6801,6 +6802,7 @@ crawlability.com
 crawlclocks.com
 crawler.speakol.com
 crazyabuse.pro
+crazyads.fusetracking.com
 crazyegg.com
 crazypopups.com
 crazywingflap.com
@@ -7352,6 +7354,7 @@ delecpuzz.com
 delegatediscussion.com
 delicatedimlysloppy.com
 deligrassdull.com
+deliriamorula.shop
 deliver.ptgncdn.com
 deliver.vkcdnservice.com
 delivery-cdn-cf.adswizz.com
@@ -9562,6 +9565,7 @@ gxb.mmstat.com
 gycqna.com
 gyfumobo.com
 gzefitkcep.com
+gzegwior.com
 gzip-smartplugin.youbora.com
 gzjkbid.adview.com
 h-adashx.ut.taobao.com
@@ -10770,6 +10774,7 @@ iwanad.baidu.com
 iwanttodeliver.com
 ixsquare.indexexchange.com
 iyfbodn.com
+izleskulked.shop
 izooto.com
 j.6sc.co
 j.adlooxtracking.com
@@ -10855,6 +10860,7 @@ jitteryhire.pro
 jivox.com
 jiwire.com
 jizoqsor.com
+jjczoufb.com
 jjpjpyvdasbvt.com
 jjvnlfpywgbxgt.com
 jkci.adsfactor.net
@@ -11054,6 +11060,7 @@ kabquravcofq.com
 kadam.net
 kaffnet.com
 kagbydhgwbq.com
+kaisauwoure.net
 kakaostory.ad.kakao.com
 kakaostory.ad.kakaocorp.com
 kakaotalk.ad.kakaocorp.com
@@ -13391,6 +13398,7 @@ ofvogxvzagh.com
 ofw-client-cdn.fyber.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
+og-shopee9.com
 og.alcmpn.com
 ogads-pa.googleapis.com
 oggakmsumxa.com
@@ -14566,6 +14574,10 @@ popmyads.com
 popnc.com
 poppinhelodes.store
 popruexo.com
+pops.gg
+popsgg.xml-eu-v4.ak-is2.net
+popsgg.xml-v4.ak-is2.net
+popsgg.xml.ak-is2.net
 popsoffer.com
 popub.com
 popunder.bid
@@ -15312,6 +15324,7 @@ qybaowhtl.com
 qzeavzrfaoqn.com
 qzs.gdtimg.com
 r-ad.ne.jp
+r-eu.tsyndicate.com
 r-log.dable.io
 r.3gl.net
 r.ad-stir.com
@@ -15442,6 +15455,7 @@ rdr.ad-score.com
 rdr.adsfactor.net
 rdr.wargaming.net
 rdrs.ad-score.com
+rduaagcwsw.com
 re-directme.com
 reachads.bfmio.com
 reacheffect.xml-eu.ak-is2.net
@@ -17891,6 +17905,7 @@ stla.eclick.vn
 stm-cdn.cn.miaozhen.com
 stm-collect.cn.miaozhen.com
 stmp.ad.daum.net
+stoampaliy.net
 stockbook-ads.firebaseapp.com
 stockbook-ads.firebaseio.com
 stocks-analytics-events.apple.com
@@ -18612,6 +18627,7 @@ thubanoa.com
 thumb.dable.io
 thumbnails.infolinks.com
 thunder.adnxs.com
+thvhjgxmyjnoqvq.com
 tia.timeinc.net
 tiads.timeinc.net
 tiaraedmessing.uno
@@ -20533,6 +20549,7 @@ worth.smartconvert.co
 wotlinkmeatmen.digital
 woubitpopess.life
 wouhaugiby.com
+wounofoarausooy.net
 wowhugoo.com
 wowreality.info
 wowserskersey.digital
@@ -21416,7 +21433,9 @@ xlwaluyw.com
 xmadsapi.codon.vn
 xmadsapi.joboko.com
 xmkmuadkefzav.com
+xml-eu-v4.pops.gg
 xml-g.adservme.com
+xml-v4.pops.gg
 xml.accesstrade.net
 xml.admidainsight.com
 xml.admozartxml.com
@@ -21430,6 +21449,7 @@ xml.boffoadsfeeds.com
 xml.explorads.com
 xml.ezmob.com
 xml.ioam.de
+xml.pops.gg
 xml.revenuehits.com
 xml.revrtb.com
 xml.revrtb.net
