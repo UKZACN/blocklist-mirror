@@ -48650,6 +48650,7 @@ log.molitv.cn
 log.mtime.cn
 log.music.baidu.com
 log.musical.ly
+log.node.minigame.qq.com
 log.nordot.jp
 log.nuomi.com
 log.nvwa.baofeng.com
@@ -95534,7 +95535,6 @@ yicixvmgmhpvbcl.xyz
 yicpx.com
 yidaweb.com
 yidbyhersle.xyz
-yidianzixun.com
 yidu.cc
 yidu.cn
 yield-op-idsync.live.streamtheworld.com
