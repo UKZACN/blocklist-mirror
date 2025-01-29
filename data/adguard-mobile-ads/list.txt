@@ -382,6 +382,7 @@ crosspromotion.weplayer.cc
 cs02-pps-drcn.dbankcdn.com
 csi.gstatic.com
 ctl.buyt.in
+d.kugou.com
 d19xf4taj229i8.cloudfront.net
 d239g0z67jcted.cloudfront.net
 d2nrdy2pg3k168.cloudfront.net
@@ -614,6 +615,8 @@ native.cli.bz
 nativead.s3.amazonaws.com
 nativex.com
 naverpa-phinf.pstatic.net
+nbcollect.kugou.com
+nbcollectretry.kugou.com
 nearbyad.com
 nend.net
 net.rayjump.com
@@ -700,6 +703,8 @@ pw.lpsxssm.com
 px.adhigh.net
 qist.me
 questionmarket.com
+r0.mail.ru
+r0.mradx.net
 r2d2.aotter.net
 redtram.com
 reqde.sooplive.co.kr
@@ -731,6 +736,7 @@ search.adcaffe.com
 sensors.larkplayerapp.com
 servebom.com
 servedby.o2.co.uk
+serveraddr.service.kugou.com
 sessionm.com
 setting.rayjump.com
 sexpennyauctions.com
