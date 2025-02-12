@@ -214,6 +214,8 @@ advil.waze.com
 advombat.ru
 adx-dre.op.hicloud.com
 adx-open-service.youku.com
+adx-os.bridgeoos.com
+adx-sg-req.bridgeoos.com
 adx-tk.rayjump.com
 adxcorp.kr
 adz.mobi
@@ -246,16 +248,21 @@ api.ads.watchabc.go.com
 api.ampiri.com
 api.applovefrom.com
 api.appnxt.net
+api.bridgeoos.com
 api.brs.intl.miui.com
 api.cloudmobi.net
 api.fusepowered.com
 api.itpub.cloud
+api.kickoffo.site
 api.mediation.amberweather.com
 api.mobula.ds.duapps.com
 api.mobula.sdk.duapps.com
+api.myadsget.com
 api.newsfeed.intl.miui.com
 api.pingstart.com
+api.sve.cc
 api.usebutton.com
+api.youngle.tech
 apis.appnxt.net
 app.adjust.net.in
 app.adjust.world
@@ -681,7 +688,6 @@ postitial.com
 postut.cn
 powerlinks.com
 pr.comet.yahoo.com
-prebid-cache.ifunny.co
 preitem.wshareit.com
 presage.io
 prod.adjoe.zone
@@ -724,6 +730,7 @@ s-odx.oleads.com
 s.adx.opera.com
 s.hisp.in
 s3.ttpsdk.info
+san.myadssupport.com
 saymedia.com
 sc.smardroid.com
 scorecardresearch.com
