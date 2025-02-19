@@ -4,9 +4,6 @@
 360yield.com
 883.engine.mobileapptracking.com
 92by17snes4.cc
-a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
-a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
-a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 a.applvn.com
 a.cookpad-ads.com
 a2dfp.net
@@ -142,6 +139,7 @@ ads.adadapted.com
 ads.adinmotech.com
 ads.aerserv.com
 ads.aitype.net
+ads.appbundledownload.com
 ads.appsgeyser.com
 ads.bulldogcpi.com
 ads.cocomobi.com
@@ -389,6 +387,7 @@ crosspromotion.weplayer.cc
 cs02-pps-drcn.dbankcdn.com
 csi.gstatic.com
 ctl.buyt.in
+d-load.org
 d.kugou.com
 d19xf4taj229i8.cloudfront.net
 d239g0z67jcted.cloudfront.net
@@ -400,6 +399,7 @@ dad-api.dcard.tw
 data-optout-service.uca.cloud.unity3d.com
 data2.doodlemobile.com
 dataflow.biliapi.com
+datk.bridgeoos.com
 deapi.sooplive.co.kr
 debojuagug1sf.cloudfront.net
 delivery-cdn-cf.adswizz.com
@@ -588,7 +588,6 @@ mobclix.com
 mobfox.com
 mobi.yanosik.pl
 mobiads.ru
-mobiadvert.livesportmedia.eu
 mobidriven.com
 mobile-campaigns.avast.com
 mobile-click.biz
@@ -792,6 +791,7 @@ t7z.cupid.iqiyi.com
 tap-nexus.appspot.com
 tapad.com
 tapdaq-adverts.global.ssl.fastly.net
+tapi.pureapk.com
 tapit.com
 tapjoy.com
 tapjoy.net
