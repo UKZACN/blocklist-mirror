@@ -258,6 +258,7 @@ api.mobula.sdk.duapps.com
 api.myadsget.com
 api.newsfeed.intl.miui.com
 api.pingstart.com
+api.plyair.com
 api.sve.cc
 api.usebutton.com
 api.youngle.tech
@@ -351,6 +352,7 @@ cdn.appnext.com
 cdn.auditude.com
 cdn.batmobi.net
 cdn.jampp.com
+cdn.wtshare.com
 cdn2.auditude.com
 cdns.lodeo.io
 cdp.cloud.unity3d.com
@@ -447,9 +449,13 @@ flygo.ru
 focas.jp
 friendlyduck.com
 frontier100-toutiao-lf.fqnovel.com
+funpavo.com
 fyber.com
 g.doubleclick.net
+gamaibids.com
 gameanalysis.appcpi.net
+gamerplay67.space
+games.tresensa.com
 gateway.ttpsdk.info
 gdfp.gifshow.com
 gdl.i9dhjx.ru
@@ -457,6 +463,7 @@ gdl.zmqdez.ru
 gdn.bigfishgames.com
 geede.info
 geoloc.yospace.com
+global-staticplat.cdn.bcebos.com
 global.appnext.com
 go.admost.com
 go.mobstitialtag.com
@@ -465,6 +472,7 @@ googleadservices.com
 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 gts-ads.twistbox.com
 gumgum.com
+gwbudgetali.iymedia.me
 gwrtdp-tn690bfadt.tclclouds.com
 gynax.com
 h5.isnssdk.com
@@ -502,6 +510,7 @@ im.ov.yahoo.co.jp
 imapi-sg.isnssdk.com
 imasdk.googleapis.com
 imgx.jampp.com
+imprdom.com
 imrworldwide.com
 inclk.com
 infolinks.com
@@ -549,7 +558,9 @@ liftoff-creatives.io
 liftoff.io
 live.hyprmx.com
 log.kajicam.com
+loganmedia.mobi
 look.kfiopkln.com
+lqm.io
 luckyforworlds.com
 lxqcgj.com
 m.flowcodeapp.com
@@ -560,6 +571,7 @@ madnet.ru
 mads.amazon.com
 mads.bz
 manage.com
+mangomob.net
 manifest.auditude.com
 marketing.mangacopy.com
 matrix.dailyinnovation.biz
@@ -639,6 +651,7 @@ nexac.com
 nickhel.com
 nkis.nikkei.com
 nomalleadzuaff.com
+notifiy.rtbuniverse.com
 novostimira.biz
 noxagile.duapp.com
 numbers.md
@@ -671,6 +684,8 @@ pangolin16.sgsnssdk.com
 partnerad.l.doubleclick.net
 partnerearning.com
 pasta.esfile.duapps.com
+pavoboxapp.com
+pavoshare.com
 perf-events.cloud.unity3d.com
 pflexads.com
 pgdt.gtimg.cn
@@ -680,6 +695,7 @@ pixel.admobclick.com
 playhaven.com
 plugin.mediavoice.com
 plugin.mobopay.baidu.com
+pn.ybp.yahoo.com
 polymorphicads.jp
 pontiflex.com
 pos.baidu.com
@@ -779,6 +795,7 @@ static.doubleclick.net
 static.hyprmx.com
 static.jampp.com
 static.timetreeads.com
+staticcc.com
 stream.spongead.com
 sumatoad.com
 supersonicads-a.akamaihd.net
@@ -805,6 +822,7 @@ targetspot.com
 tccbanner.com
 teachscape.vo.llnwd.net
 telemetryverification.net
+teraverseapp.com
 thecatmachine.com
 theship.club
 thetrafficstat.net
