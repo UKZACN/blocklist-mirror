@@ -803,6 +803,7 @@ static.ws.apsis.one
 static.zotabox.com
 statistics.heltenkelt.se
 statistik.blogg1.se
+statistik.sailguide.com
 statistik.svenskaakademien.se
 stats.agrar.nu
 stats.allabolag.se
