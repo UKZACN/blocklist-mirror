@@ -69,7 +69,6 @@ ads.varldenidag.se
 ads.vidoomy.com
 ads.viralize.tv
 adsby.bidtheatre.com
-adserver.adtech.de
 adserver.ddev.site
 adserver.infotorg.se
 adserver.so-rummet.se
@@ -202,7 +201,6 @@ brandy.bonniernewslifestyle.se
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser.covatic.io
-bs.serving-sys.com
 btloader.com
 buzzador.com
 c.aaxads.com
@@ -561,7 +559,6 @@ m1.analytics.sitevision-cloud.se
 macro.adnami.io
 macro.adnami2.io
 marfeel.com
-markhor.organicfruitapps.com
 match.adsby.bidtheatre.com
 match.adsrvr.org
 matomo.chsc.dk
@@ -738,8 +735,6 @@ se-ads-microservice.ads.allermedia.io
 se.ads.justpremium.com
 se1.siteimprove.com
 se5.pliing.com
-secserv.adtech.de
-secure-ds.serving-sys.com
 secure.adnxs.com
 secure.adtraction.com
 secure.curl7bike.com
@@ -826,7 +821,6 @@ stats.wpmucdn.com
 stats2.agilecrm.com
 stats2.ehandel.se
 statsapi.screen9.com
-statsapi.tiendeo.se
 step-dk.gscontxt.net
 sting.de17a.com
 storymedia.se
@@ -1085,7 +1079,6 @@ www.dwin2.com
 www.effectivecreativeformat.com
 www.fakturino.se
 www.flashb.id
-www.guesssverige.com.se
 www.gymshark-sweden.com.se
 www.kundvisaren.se
 www.lduhtrp.net
