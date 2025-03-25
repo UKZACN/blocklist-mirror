@@ -62,6 +62,7 @@ ads.rubiconproject.com
 ads.skargarden.se
 ads.skidspar.se
 ads.skolvarlden.se
+ads.sportslocalmedia.com
 ads.stickyadstv.com
 ads.themoneytizer.com
 ads.ungdomar.se
@@ -286,6 +287,7 @@ cdn.snigelweb.com
 cdn.speedcurve.com
 cdn.sprida.se
 cdn.stat-track.com
+cdn.stroeerdigitalgroup.de
 cdn.subscribers.com
 cdn.taboola.com
 cdn.unblockia.com
@@ -566,6 +568,7 @@ match.adsby.bidtheatre.com
 match.adsrvr.org
 matomo.chsc.dk
 matomo.goteborgco.se
+matomo.lantmannen.com
 matomo.lulea.se
 matomo.mindbite.cloud
 matomo.studio.se
