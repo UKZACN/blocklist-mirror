@@ -100,6 +100,7 @@ analys.landskrona.se
 analytics-ingress-global.bitmovin.com
 analytics-sdk.yle.fi
 analytics-smhise.smhi.se
+analytics-wpt.smhi.se
 analytics.ahrefs.com
 analytics.allas.se
 analytics.apotekhjartat.se
@@ -128,7 +129,6 @@ analytics.residencemagazine.se
 analytics.sitewit.com
 analytics.sjf.se
 analytics.sleeknote.com
-analytics.smhi.se
 analytics.svenskdam.se
 analytics.svt.se
 analytics.teknikveckan.se
