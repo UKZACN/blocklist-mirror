@@ -855,6 +855,7 @@ tag.targeting.unrulymedia.com
 tagging-service.fotbollskanalen.se
 tagging-service.tv4.se
 tagging-service.tv4play.se
+tagging.hemnet.se
 tags.adnuntius.com
 tags.crwdcntrl.net
 tags.expo9.exponential.com
