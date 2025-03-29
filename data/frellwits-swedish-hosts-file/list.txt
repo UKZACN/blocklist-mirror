@@ -102,6 +102,7 @@ analytics-sdk.yle.fi
 analytics-smhise.smhi.se
 analytics-wpt.smhi.se
 analytics.ahrefs.com
+analytics.alandsradio.ax
 analytics.allas.se
 analytics.apotekhjartat.se
 analytics.arvika.se
