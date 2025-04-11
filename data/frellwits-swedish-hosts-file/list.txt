@@ -195,6 +195,8 @@ bilpolicydi.bytelab.dk
 biowebb-data.s3.amazonaws.com
 bitstarz.com
 bongeo.bonad.io
+booli-logger.prod.booli.se
+booli.containers.piwik.pro
 boost-cdn.manatee.dk
 boot.pbstck.com
 borsvarlden-banners.azurewebsites.net
