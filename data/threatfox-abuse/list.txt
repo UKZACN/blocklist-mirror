@@ -60,7 +60,6 @@
 1.0x004.top
 1.54.41.34.bc.googleusercontent.com
 1.thecameleonhotel.com
-10.53.154.104.bc.googleusercontent.com
 10050lan.8b8n.com
 101degrees.net
 101kpop.com
@@ -3555,6 +3554,7 @@ api.vscodeapp.com
 api.webcamfix.cloud
 api.windowsystemupdate.com
 api.wlndows.net
+api.xiaoyaoruchu.com
 api.xt6drjp542fz6j7xt.xyz
 api.xxdync.com
 api.yescaptcha.pro
@@ -4799,6 +4799,7 @@ autoconfig.0xasec.se
 autoconfig.buyli.in
 autodiscover.a.multi-canale.com
 autodiscover.a.ora-0-web.com
+autodiscover.aa.104-168-101-27.cprapid.com
 autodiscover.aaa.104-168-101-27.cprapid.com
 autodiscover.adesso-online.com
 autodiscover.b.multi-canale.com
@@ -5843,6 +5844,7 @@ boacavaimoveis.com.br
 board-apartment.gl.at.ply.gg
 board-tigers.gl.at.ply.gg
 boards-baltimore.gl.at.ply.gg
+boards-essential.gl.at.ply.gg
 boat.racoon.ml
 boatnet.ddns.net
 boatnet.vphim.top
@@ -5971,6 +5973,7 @@ bosstan027.beget.tech
 bot-ping.pl
 bot.2024888.site
 bot.abcproxy.click
+bot.argus-services.xyz
 bot.avesta.uno
 bot.bakongcity.city
 bot.bigbots.cc
@@ -6044,6 +6047,7 @@ botnet.voidcdk.com
 botnet.yourdomain.co
 botnet.zepeck.com
 botnet1.uapworx1.sbs
+botnet9.ddns.net
 botnetdolly.zapto.org
 bots-30719.portmap.host
 bots.resentual.cc
@@ -7644,6 +7648,7 @@ check.byzl.shop
 check.bzhzm.icu
 check.canez.icu
 check.cape1.space
+check.carin.icu
 check.casog.icu
 check.cedar1.online
 check.celir.icu
@@ -7878,6 +7883,7 @@ check.jokingly.store
 check.jomea.icu
 check.jorah.icu
 check.jtfsn.icu
+check.juket.icu
 check.juxoi.icu
 check.jwkzh.icu
 check.jyheq.icu
@@ -8030,16 +8036,19 @@ check.papeb.icu
 check.pawol.icu
 check.pedaz.icu
 check.pedyg.icu
+check.pejel.icu
 check.peqah.icu
 check.peqoz.icu
 check.pesa.run
 check.pidal.icu
 check.pifos.icu
 check.pijuk.icu
+check.pikip.icu
 check.pilod.icu
 check.pipyq.icu
 check.piqcz.icu
 check.pivuf.icu
+check.pivum.icu
 check.pivyt.icu
 check.plentiful2.space
 check.pocbv.icu
@@ -9387,6 +9396,9 @@ core.amoliera.org
 core.cesiabs.com
 core.cesiabs.info
 core.cesiabs.org
+core.kaohej.com
+core.kaohej.info
+core.kaohej.org
 core.sportsontheweb.net
 coreedgetechpro.com
 corefina.com
@@ -12172,6 +12184,7 @@ ddoser.no-ip.biz
 ddosme.twilight.zip
 ddrtot.shop
 ddsjsjcds.serveirc.com
+ddwall.duckdns.org
 de-shopzilla.gl.at.ply.gg
 de7secondenglimlach.com
 deabcbecaconmougot.duckdns.org
@@ -12943,6 +12956,7 @@ early-doll.gl.at.ply.gg
 early-issue.gl.at.ply.gg
 earn-smash.cyou
 earth-northwest.gl.at.ply.gg
+earth-schedules.gl.at.ply.gg
 earthfarile.cyou
 earthsymphzony.today
 earthycodlors.bet
@@ -13046,6 +13060,7 @@ ec2-34-216-3-35.us-west-2.compute.amazonaws.com
 ec2-34-225-248-122.compute-1.amazonaws.com
 ec2-34-229-143-231.compute-1.amazonaws.com
 ec2-34-238-110-222.compute-1.amazonaws.com
+ec2-47-128-167-206.ap-southeast-1.compute.amazonaws.com
 ec2-51-20-2-165.eu-north-1.compute.amazonaws.com
 ec2-51-21-219-123.eu-north-1.compute.amazonaws.com
 ec2-52-215-25-229.eu-west-1.compute.amazonaws.com
@@ -14815,6 +14830,7 @@ entry-certainly.gl.at.ply.gg
 enuq9dl52m3.click
 enviameplata.kozow.com
 envio-18-2.duckdns.org
+envio10-04-25.duckdns.org
 envio1997.duckdns.org
 envio20-03.duckdns.org
 envio25-03.duckdns.org
@@ -17064,6 +17080,7 @@ features-exclude.gl.at.ply.gg
 features-steam.gl.at.ply.gg
 feb-arrested.gl.at.ply.gg
 feb-bit.gl.at.ply.gg
+feb-travelers.gl.at.ply.gg
 feb18.freeddns.org
 feb1sgr8.duckdns.org
 feb2025isblessed.duckdns.org
@@ -19643,7 +19660,6 @@ giftapi.net
 giftcollection.pk
 gifted-ellis.142-202-240-137.plesk.page
 gifted-ellis.194-26-192-51.plesk.page
-gifted-lewin.111-90-140-34.plesk.page
 gifts-highs.gl.at.ply.gg
 gigaccgyaoaeyqou.xyz
 gigacells.ru
@@ -19848,6 +19864,7 @@ givecuubys.click
 givedpooreko.icu
 givemerank.com
 given-carlo.at.ply.gg
+given-neither.gl.at.ply.gg
 giveoi.run
 givepickyl.click
 giverlevekj.click
@@ -21674,6 +21691,7 @@ hidevs.co.uk
 hideyou2011.no-ip.org
 hidfolobena.xyz
 hidjoleader.pro
+hiesa-56152.portmap.host
 higerson.shop
 high-suggesting.gl.at.ply.gg
 highlandofpeace.com
@@ -25060,6 +25078,7 @@ ittechsupport221.no-ip.biz
 ittrainingbd.com
 ittubmm4rirub.top
 ittuytyiceydiploubs.com
+itunesextractor.com
 ityq2nacc.zapto.org
 iu-pks.screensconnectpro.com
 iuehgutgmv.com
@@ -25860,6 +25879,9 @@ kann.no-ip.biz
 kannshost.no-ip.biz
 kaoaucsweucqieoo.xyz
 kaocgsagcomokucg.xyz
+kaohej.com
+kaohej.info
+kaohej.org
 kaoskysaayeagwya.xyz
 kaouigacewomeiow.xyz
 kaoymycowgegwweo.xyz
@@ -28880,6 +28902,7 @@ lachenes.com
 lachiche6.myftp.biz
 ladea-livi.cyou
 ladladladladlad.no-ip.org
+ladoicese.org
 ladybughge.click
 lagunabeachvillarentals.com
 lagzor.no-ip.org
@@ -29435,6 +29458,7 @@ lowcostbeer.com
 lowlytesste.top
 lowlywounde.top
 lown.bond
+lowwood.xyz
 lowwyorvek.store
 lowwywelcok.cyou
 loycos.com
@@ -33541,6 +33565,7 @@ ndxs439.top
 ne2zv67ff4w.click
 near-beliefs.gl.at.ply.gg
 nearycrepso.shop
+neathealth.beauty
 neathealth.online
 nebulabot.net
 nebulard.today
@@ -34219,6 +34244,7 @@ o-sufficient.gl.at.ply.gg
 o.appauthservice.online
 o.coccos.live
 o.do.do
+o.socalmediazone.com
 o.webaudiomessages.xyz
 o.xn--y7aa.cc
 o0fivl26q7.click
@@ -38303,7 +38329,6 @@ privatstripp.tech
 privel.mzip.partners
 privileggoe.live
 prkedukken.click
-pro-fundraising.gl.at.ply.gg
 pro-ram.gl.at.ply.gg
 proalexpro.no-ip.org
 probably-fields.gl.at.ply.gg
@@ -41401,6 +41426,7 @@ qzmlg.com
 qzowg.com
 qzy5mm7zq48.click
 qzynp.com
+r-tube.ru
 r-wlany.no-ip.org
 r.cnbot.space
 r.enuff.live
@@ -42227,6 +42253,7 @@ registered-spectacular.gl.at.ply.gg
 registration-delayed.gl.at.ply.gg
 registration-diane.gl.at.ply.gg
 regular-update-your-software.org
+regular.ptbaconsulting.com
 regularlavhis.click
 regullanbalk.life
 rehan123.zapto.org
@@ -46227,6 +46254,7 @@ ssl.up-edu-mx.shop
 ssl.upgrade1.zip
 ssl87362.com
 ssl8rrs2.com
+sslassla.com
 ssldns00000000000.duckdns.org
 ssmcweggcwoskiea.xyz
 ssmecomywwmiscei.xyz
@@ -46700,6 +46728,7 @@ sumcqqcwecoqkigs.xyz
 sumemyywkiouscam.xyz
 sumisqweogmqiguw.xyz
 summary-favorites.gl.at.ply.gg
+summer-malaysia.gl.at.ply.gg
 summer-sleeps.gl.at.ply.gg
 summer-slovenia.gl.at.ply.gg
 summerbag.icu
@@ -47324,7 +47353,6 @@ system-update.cloud
 system30.servegame.com
 system64.no-ip.biz
 system80517.no-ip.biz
-systemcoreupdate.com
 systemprocess.no-ip.biz
 systemreport.servehttp.com
 systems-budget.gl.at.ply.gg
@@ -47631,6 +47659,7 @@ techinssvight.icu
 techixnnovation.tech
 techmindzs.live
 technewsvews.click
+technical-equally.gl.at.ply.gg
 technical-heart.gl.at.ply.gg
 technical-tract.gl.at.ply.gg
 techniccell.click
@@ -60314,6 +60343,7 @@ yessywkwcwmyewqe.xyz
 yesuiasgiaamgaga.xyz
 yeswaiqsayqwsqei.xyz
 yeswyuymceceouwm.xyz
+yet-continental.gl.at.ply.gg
 yet-involving.gl.at.ply.gg
 yeuaoqeowoscaoic.xyz
 yeuaskgsoiwkiycu.xyz
