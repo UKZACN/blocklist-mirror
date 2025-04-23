@@ -883,6 +883,7 @@ track.adform.net
 track.adtraction.com
 track.postkodlotteriet.se
 track.uniqodo.com
+track.yetric.net
 trackcmp.net
 tracker-v4.gamedock.io
 tracker.gamedock.io
