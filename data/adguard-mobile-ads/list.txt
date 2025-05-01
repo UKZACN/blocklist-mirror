@@ -373,6 +373,7 @@ comscore.com
 config.appjolt.com
 config.tremorhub.com
 configuration.ttpsdk.info
+configure.rayjump.com
 contextualadv.com
 cp.pushwoosh.com
 cpactions.com
@@ -450,6 +451,7 @@ friendlyduck.com
 frontier100-toutiao-lf.fqnovel.com
 fyber.com
 g.doubleclick.net
+gadsme.com
 gamaibids.com
 gameanalysis.appcpi.net
 gamerplay67.space
@@ -727,6 +729,7 @@ sc.smardroid.com
 scorecardresearch.com
 screen.buzzvil.com
 sdk-api-v1.singular.net
+sdk-api.kidoz.net
 sdk.adtiming.com
 sdk.starbolt.io
 sdkv2.imaginationunwired.com
@@ -846,6 +849,7 @@ unityads.unity3d.com
 upsight.com
 usekahuna.com
 usp1.baidu.com
+v.kidoz.net
 v16-ad.byteoversea.com
 v8b9c0x1z2.sai7348.xyz
 velti.com
