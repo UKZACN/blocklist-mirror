@@ -40,7 +40,6 @@ adpeepshosted.com
 adrecord.com
 adroll.com
 ads.aland.com
-ads.annonsbladet.com
 ads.aralego.com
 ads.bethard.com
 ads.compro.se
@@ -901,7 +900,6 @@ tracking.bandypuls.se
 tracking.barometern.se
 tracking.bblat.se
 tracking.blt.se
-tracking.bonnier.news
 tracking.borlangetidning.se
 tracking.borssnack.di.se
 tracking.bt.se
