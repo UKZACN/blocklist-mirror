@@ -3649,6 +3649,7 @@ assets.vlitag.com
 assets1.adroll.com
 assets1.exgfnetwork.com
 assistads.net
+asslfeqadv.com
 assoc-amazon.com
 assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
@@ -7722,6 +7723,7 @@ fathomseo.com
 fatsosjogs.com
 faukeeshie.com
 faultycanvas.com
+fauphauvuzeey.net
 fav-cdn.a-mo.net
 fav.a-mo.net
 fb.adsrvr.org
@@ -8777,7 +8779,6 @@ ht.indexww.com
 ht55.cn
 htlb.casalemedia.com
 htlbid.com
-html-load.com
 html.polyad.net
 html5.adsrvr.org
 httpkafka-master.ads.prd.ie.internal.unity3d.com
@@ -10807,6 +10808,7 @@ measure.vndirect.com.vn
 measuremap.com
 mebed.dm-event.net
 med.heyzap.com
+medaaebqmbpx.com
 media-ads.zaloapp.com
 media-ams5.msg.dotomi.com
 media-api.maio.jp
@@ -17842,6 +17844,7 @@ wataads.com
 watanet.work
 watchingthat.com
 wateryvan.com
+wathoojoba.com
 watson.telemetry.microsoft.com
 wattpad.adsbynimbus.com
 wau.tynt.com

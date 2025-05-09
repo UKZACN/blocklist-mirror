@@ -199,6 +199,9 @@ booli.containers.piwik.pro
 boost-cdn.manatee.dk
 boot.pbstck.com
 borsvarlden-banners.azurewebsites.net
+bostad24.se
+bostadslistan.se
+bostadsportal.se
 branch.io
 brandy.bonniernewslifestyle.se
 browser-http-intake.logs.datadoghq.com
@@ -486,6 +489,7 @@ hits-i.iubenda.com
 hsadspixel.net
 hst.tradedoubler.com
 htlb.casalemedia.com
+hyrio.se
 ib.adnxs-simple.com
 ib.adnxs.com
 iba.feedblitz.com
@@ -675,6 +679,9 @@ recirculation.spot.im
 redistats.com
 region1.google-analytics.com
 regstat.se
+rentia.se
+rentify.se
+rentler.se
 report.23video.com
 research-int.se
 resor-external.barnsemester.se
