@@ -238,6 +238,7 @@ api-ad-adapter.wps.com
 api-ad-callback.falconnet.app
 api-ad-callback.mobiuspace.net
 api.ad-locus.com
+api.adaether.com
 api.ads.newsdigest.jp
 api.ads.watchabc.go.com
 api.ampiri.com
@@ -546,7 +547,6 @@ lb.usemaxserver.de
 leadboltads.net
 leadc6.icu
 leanplum.com
-legy-jp.line-apps.com
 lf-static.tiktokpangle-cdn-us.com
 lgvlbd.icu
 liftoff-creatives.io
@@ -747,6 +747,7 @@ setting.rayjump.com
 sexpennyauctions.com
 shareasale.com
 sharethrough.com
+sheilaqeb.com
 silvermob.com
 sitemaji.com
 sitescout.com
