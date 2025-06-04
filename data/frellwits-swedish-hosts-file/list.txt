@@ -1024,6 +1024,7 @@ tracking.tidningenharjedalen.se
 tracking.tranastidning.se
 tracking.trelleborgsallehanda.se
 tracking.ut.se
+tracking.varldenshistoria.se
 tracking.vastgotabladet.se
 tracking.vaxjobladet.se
 tracking.vetlandaposten.se
