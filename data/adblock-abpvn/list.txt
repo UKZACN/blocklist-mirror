@@ -275,6 +275,7 @@ a648.casalemedia.com
 a8.net
 a9.com
 aa.agkn.com
+aa.birdgesdk.com
 aa.online-metrix.net
 aa.toponad.com
 aaacompany.net
@@ -2222,15 +2223,25 @@ adx-kh.ads.heytapmobile.com
 adx-mm.ads.heytapmobile.com
 adx-my.ads.heytapmobile.com
 adx-open-service.youku.com
+adx-os-bid.bridgeoos.com
+adx-os-bid.toponadss.com
 adx-os.anythinktech.com
+adx-os.bridgeoos.com
+adx-os.toponadss.com
 adx-ph.ads.heytapmobile.com
+adx-sg-req.bridgeoos.com
+adx-sg-req.toponadss.com
 adx-sg.ads.heytapmobi.com
 adx-sg.ads.heytapmobile.com
 adx-sg.anythinktech.com
+adx-sg.bridgeoos.com
+adx-sg.toponadss.com
 adx-tc.adform.net
 adx-th.ads.heytapmobile.com
 adx-tk.mtgglobals.com
 adx-tw.ads.heytapmobile.com
+adx-vg-req.toponadss.com
+adx-vg.toponadss.com
 adx-vn.ads.heytapmobile.com
 adx.aarki.net
 adx.adform.net
@@ -2256,6 +2267,7 @@ adx.opera.com
 adx.otm-r.com
 adx.phunuadong.vn
 adx.proadscdn.com
+adx.toponadss.com
 adx.trackrsad.com
 adx.vn
 adx.xemvtv.net
@@ -3116,6 +3128,7 @@ api.bingads.microsoft.com
 api.boclinkads.com
 api.bounceexchange.com
 api.branch.io
+api.bridgeoos.com
 api.brs.intl.miui.com
 api.btloader.com
 api.bttrack.com
@@ -3263,6 +3276,7 @@ api.taplytics.com
 api.taps.io
 api.tapstream.com
 api.tjme.io
+api.toponadss.com
 api.trackpush.com
 api.tradplusad.com
 api.trafficstars.com
@@ -4298,6 +4312,7 @@ biltag.bilsyndication.com
 bimlocal.com
 bind-gateway.corp.appnexus.com
 bingads.microsoft.com
+birdgesdk.com
 bitads.net
 bitcoinsports.org
 bitmedia.io
@@ -4465,6 +4480,7 @@ bridge.ame.admarketplace.net
 bridge.lga1.admarketplace.net
 bridge.sf.admarketplace.net
 bridge.sfo1.admarketplace.net
+bridgeoos.com
 bridgetrack.com
 brief.logrocket.com
 brief.mediaz.vn
@@ -6470,7 +6486,9 @@ d9.flashtalking.com
 da-ads.com
 da-cdn.amazon-adsystem.com
 da.anythinktech.com
+da.bridgeoos.com
 da.inmobi.com
+da.toponadss.com
 daa.pbbl.co
 dable.io
 dacdn.pushcrew.com
@@ -6569,6 +6587,8 @@ datawrkz.com
 dataxu.com
 datingprudethimble.com
 datk.anythinktech.com
+datk.bridgeoos.com
+datk.toponadss.com
 dau.fyber.com
 daudejuw.com
 daufouwhoag.net
@@ -8867,6 +8887,7 @@ hummingbird.mavencoalition.io
 hunantv-ipdx.cn.miaozhen.com
 hunchlastlysluice.com
 huppontic.com
+hurarwjrirti.com
 hurkarubypaths.com
 hurricanedigitalmedia.com
 huskinessimminentstylus.com
@@ -9170,6 +9191,7 @@ img.sharethis.com
 img.sociaplus.com
 img.steepto.com
 img.toponad.com
+img.toponadss.com
 img.truepush.com
 img.turn.com
 img.vietnamnetad.vn
@@ -12638,6 +12660,7 @@ pippio.com
 piquantpigs.com
 pisism.com
 pistolsizehoe.com
+pitk.birdgesdk.com
 piwik.digineo.de
 piwik.nobleprog.com
 piwik.org
@@ -13332,6 +13355,7 @@ pulsepoint-match.dotomi.com
 pulvinioreodon.com
 puma-api.iqiyi.com
 puma.api.iqiyi.com
+pumywyczbks.com
 punchbowl.alcmpn.com
 punyplant.com
 puppyderisiverear.com
@@ -16564,7 +16588,11 @@ tixoxzfpur.com
 tjk-njk.com
 tjme.io
 tk-sg.anythinktech.com
+tk-sg.bridgeoos.com
+tk-sg.toponadss.com
 tk.anythinktech.com
+tk.bridgeoos.com
+tk.toponadss.com
 tk6if76q.ab1n.net
 tkivhuluzcwi.com
 tknet.rayjump.com
@@ -16682,6 +16710,7 @@ tpe-ads-media-cdn.tenmax.io
 tpe-dmp.tenmax.io
 tpe-pvmax.tenmax.io
 tpe-ssp.tenmax.io
+tpmagqvjzgvos.com
 tpmedia.online
 tpnads.com
 tps.doubleverify.com
@@ -17913,6 +17942,7 @@ vpaid3.adsafeprotected.com
 vpaidevents.1rx.io
 vpb0.moatads.com
 vpixel.adgrx.com
+vpldfujttsdfj.com
 vpn-europe.conversantmedia.com
 vpn-explained.com
 vpn-us-west.conversantmedia.com
@@ -18539,6 +18569,7 @@ www.brand-display.com
 www.brand.ad
 www.breaktime.com.tw
 www.brealtime.com
+www.bridgeoos.com
 www.bttrack.com
 www.buysellads.com
 www.cacafly.net
@@ -18926,6 +18957,7 @@ www.themoneytizer.com
 www.theweblocker.net
 www.tns-counter.ru
 www.toponad.com
+www.toponadss.com
 www.tpmedia.online
 www.trackjs.com
 www.trackonomics.net
@@ -19352,6 +19384,7 @@ zimg.jp
 zimpolo.com
 zintext.com
 zipazvzu.com
+zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
 zkyrzoqc.com
