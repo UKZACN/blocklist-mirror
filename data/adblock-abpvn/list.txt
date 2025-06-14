@@ -3264,6 +3264,7 @@ api.sonobi.com
 api.spotxchange.com
 api.stack-sonar.com
 api.staging.wootric.com
+api.statsig.com
 api.stickers.duapps.com
 api.subiz.com.vn
 api.subiz.net
@@ -3907,6 +3908,7 @@ baaomenaltho.com
 babanetwork.adk2x.com
 babe.ants.vn
 babyniceshark.com
+baccytorve.com
 backbeatmedia.com
 backend.avazutracking.net
 backend.pubnative.net
@@ -4312,6 +4314,7 @@ biltag.bilsyndication.com
 bimlocal.com
 bind-gateway.corp.appnexus.com
 bingads.microsoft.com
+binomnet3.com
 birdgesdk.com
 bitads.net
 bitcoinsports.org
@@ -4779,6 +4782,7 @@ captify.co.uk
 capture.condenastdigital.com
 capture.trackjs.com
 carambo.la
+carbarnbonang.shop
 carbon-cdn.ccgateway.net
 carbonads.com
 carbonads.net
@@ -6515,6 +6519,7 @@ danarimedia.xml.ak-is2.net
 danbo.org
 dancemistake.com
 dangerouswinter.com
+dantocmiennui-log.baotintuc.vn
 dap.digitalgov.gov
 dapper.net
 dapperminecraft.online
@@ -7367,6 +7372,7 @@ ematicsolutions.com
 embed.sendtonews.com
 embed.wiinvent.com.vn
 embed.wiinvent.tv
+embercascademaple.com
 emblemexceptionscorer.com
 emea-bidder.mathtag.com
 emea.doubleclick.net
@@ -7379,9 +7385,11 @@ emhnyqdeuwtnrh.com
 emjcd.com
 emltrk.com
 ems.youku.com
+emsi.livetwo.store
 emxdgt.com
 emxdigital.com
 emxhb.emxdgt.com
+en-log.vietnamplus.vn
 en.ad-stir.com
 en.themoneytizer.com
 encloselavanga.com
@@ -7462,6 +7470,7 @@ errlog.umeng.com
 error-tracking.reddit.com
 ertb.hprofits.com
 eryondistain.com
+es-log.vietnamplus.vn
 es.adxxx.com
 es.indexexchange.com
 es.themoneytizer.com
@@ -7969,6 +7978,7 @@ fpqwpqiyq.com
 fpukxcinlf.com
 fpyhuktuwatn.com
 fqtag.com
+fr-log.vietnamplus.vn
 fr.districtm.ca
 fr.indexexchange.com
 fr.marketo.com
@@ -8082,6 +8092,7 @@ g8.adspeed.net
 ga-ads.com
 ga.clearbit.com
 ga.getresponse.com
+ga.looserokaying.shop
 ga.omappapi.com
 ga.opmnstr.com
 ga.optmnstr.com
@@ -8414,6 +8425,7 @@ golds.lp.mydas.mobi
 goldspotmedia.com
 goldstats.com
 goldtrailmotorlodge.com
+golnkz.com
 gondar.meitustat.com
 gondolagnome.com
 gonet-ads.com
@@ -9663,6 +9675,7 @@ jeoway.com
 jerboasjourney.com
 jewgn8une.com
 jf71qh5v14.com
+jfan1.com
 jfgeuisugoekf.com
 jfiwzimupbt.com
 jfjle4g5l.com
@@ -10251,6 +10264,7 @@ livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
 livezombymil.com
 lizardslaugh.com
+lj.ochreargue.shop
 lkhbcpwpyecs.com
 lkm-admin.trafficfactory.biz
 lkqd.net
@@ -10369,6 +10383,7 @@ log.baocaobang.vn
 log.baodatviet.vn
 log.baodauthau.vn
 log.baogialai.com.vn
+log.baohatinh.vn
 log.baolaocai.vn
 log.baomoi.com
 log.baonghean.vn
@@ -11150,6 +11165,7 @@ microstatic.pl
 microticker.com
 mid.rkdms.com
 midgetmaying.com
+midnightlotusgrove.com
 midpopedge.com
 mifoqnwi.com
 mig.str.mdt.qq.com
@@ -13124,7 +13140,6 @@ prod.ugdturner.com
 prod.uidapi.com
 prod.xtremepush.com
 prod305.trackpush.com
-prodregistryv2.org
 producerplot.com
 product.adtima.vn
 production-tracking.riviu.co
@@ -13842,6 +13857,7 @@ register.appsflyersdk.com
 register.collector.scopely.io
 register.powerlinks.com
 registry.connatix.com
+regletsminings.shop
 regnow.com
 regulationprivilegescan.top
 reinvigorate.net
@@ -14253,6 +14269,7 @@ rtx.alcmpn.com
 rtyznd.com
 ru-geo.cityads.com
 ru-gmtdmp.mookie1.com
+ru-log.vietnamplus.vn
 ru-traffic.com
 ru.adxxx.com
 ru.cdn5.onthe.io
@@ -15884,7 +15901,6 @@ stats4all.com
 statserv.net
 statsforads.com
 statsie.com
-statsigapi.net
 statsperformdev.com
 statt-collect.herokuapp.com
 statwup.nimo.tv
@@ -16576,6 +16592,7 @@ tiki.ants.vn
 tikivn.api.sociaplus.com
 tiktok-ads.hara.vn
 tilanalytics.timesinternet.in
+tilqwekuszfa.com
 timeinc.trc.taboola.com
 tinkoff.cityads.com
 tinybar.com
@@ -17293,6 +17310,7 @@ uipglob.semasio.net
 uipus.semasio.net
 uitopadxdy.com
 ujm.hansel.io
+ujqwhqjckhscl.com
 uk-ads.openx.net
 uk-script.dotmetrics.net
 uk.adadvisor.net
@@ -17726,6 +17744,7 @@ velocecdn.com
 velocitycdn.com
 velsirtohoosh.net
 velti.com
+velvetarrowhawk.com
 vena.native-ad.net
 venatusmedia.com
 venc-dev.adsafety.net
@@ -17862,6 +17881,7 @@ vikawjobtar.com
 viliaff.com
 villa.alphonso.tv
 vindicosuite.com
+vingtunacroter.top
 vionito.com
 vipads.cc
 vipads.live
@@ -19290,6 +19310,7 @@ yrhnw7h63.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
 ys-log-upload-os.hoyoverse.com
+yseyxucrhjfi.com
 yt.mmstat.com
 yt.moatads.com
 ytimm.com
@@ -19371,6 +19392,7 @@ zeus.ad.xiaomi.com
 zeusadx.xml.ak-is2.net
 zeusclicks.com
 zeustechnology.com
+zh-log.vietnamplus.vn
 zhihu-analytics.zhihu.com
 zhiziyun.com
 zhoyyibwywgev.one
@@ -19430,6 +19452,7 @@ zvetokr2hr8pcng09.com
 zwaar.org
 zwnoeqzsuz.com
 zxc.world
+zy.eilaeliza.top
 zybrdr.com
 zymo.mps.weibo.com
 zz.bdstatic.com
