@@ -139,6 +139,7 @@ analytics.undeco.se
 analytics.vackertvader.se
 angry-golick-2a96e5.netlify.app
 annoncer.nichehuset.dk
+annons.fiskesnack.com
 annons.svenskjakt.se
 annons.turist.se
 annonsserver.se
@@ -262,7 +263,9 @@ cdn.bannersnack.com
 cdn.blueconic.net
 cdn.branch.io
 cdn.brandmetrics.com
+cdn.brevo.com
 cdn.broadstreetads.com
+cdn.by.wonderpush.com
 cdn.convertbox.com
 cdn.cxense.com
 cdn.decibelinsight.net
@@ -601,6 +604,7 @@ mega.vk.se
 meltwater.com
 metapic.se
 metrics-fe-na1.hubspot.com
+metrics.beyondwords.io
 metrics.brightcove.com
 mgdk-cdn.relevant-digital.com
 micro.rubiconproject.com
