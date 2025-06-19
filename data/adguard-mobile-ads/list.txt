@@ -399,7 +399,6 @@ delivery-cdn-cf.adswizz.com
 deliveryengine.adswizz.com
 deloton.com
 dev.appboy.com
-diopousg.com
 displayio.cloud
 disqusads.com
 dl-adx.op-mobile.opera.com
