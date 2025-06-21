@@ -278,6 +278,7 @@ cdn.insurads.com
 cdn.izooto.com
 cdn.jst.ai
 cdn.logsnag.com
+cdn.lrkt-in.com
 cdn.matomo.cloud
 cdn.maxetise.net
 cdn.myadmessenger.com
@@ -670,6 +671,7 @@ portalhc.com
 pp.lp4.io
 prd-collector-platform.ex.co
 prg.smartadserver.com
+privalytic.com
 protagcdn.com
 proxyas.com
 pubads.g.doubleclick.net
@@ -790,6 +792,7 @@ sp-eu.dev.polarbyte.com
 sp.tinymce.com
 sprinklecontent.com
 sprinkletxt.com
+sr-client-cfg.eu.amplitude.com
 ssl.webserviceaward.com
 ssp-nj.webtradehub.com
 ssp.api.tappx.com
