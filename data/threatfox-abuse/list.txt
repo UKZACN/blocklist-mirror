@@ -103,6 +103,7 @@
 119qwh18wha.click
 11hawler.zapto.org
 11xiaoshuju.com
+120.32.198.104.bc.googleusercontent.com
 123-hame.xyz
 123123asd-39109.portmap.host
 123123yourmothergentlemen.chickenkiller.com
@@ -169,6 +170,7 @@
 170-64-158-181.cprapid.com
 172-105-27-15.ip.linodeusercontent.com
 172-235-52-96.ip.linodeusercontent.com
+172.91.188.35.bc.googleusercontent.com
 173-249-52-37.cprapid.com
 173-255-204-48.ip.linodeusercontent.com
 174bi044vz.click
@@ -3194,6 +3196,7 @@ answer-enlargement.gl.at.ply.gg
 answer-prizes.gl.at.ply.gg
 answeronner.click
 answerzeypher.biz
+ansy10jun.duckdns.org
 ansy1303.duckdns.org
 ansy1703.duckdns.org
 ansy20ff.duckdns.org
@@ -3233,6 +3236,7 @@ anyad-60069.portmap.io
 anyone-center.gl.at.ply.gg
 anyone-hardly.gl.at.ply.gg
 anyone-their.gl.at.ply.gg
+anyukov-43802.portmap.io
 anzkb.xyz
 aoaaaukggooyaguw.xyz
 aoaayuyomwiceyma.xyz
@@ -3823,6 +3827,7 @@ api.remaiten.org
 api.runeverse.tools
 api.saicfinance.work
 api.seamrrobots.ddns-ip.net
+api.todesks.help
 api.toptoptop6.top
 api.uaabcvsolwgl.xyz
 api.upgrade1.zip
@@ -4561,6 +4566,8 @@ asecsgoykigwyayg.xyz
 aseeeiwykmyokaqq.xyz
 aseeycggkkccqcoi.xyz
 asegqqakwmykeoii.xyz
+asegurar2octubre.duckdns.org
+asegurar3octubre.duckdns.org
 asegurar8889rem.mysynology.net
 asekcmyykmoouege.xyz
 aselzan.com.tr
@@ -7916,6 +7923,7 @@ categories-survivors.gl.at.ply.gg
 category-in.at.ply.gg
 category-tar.gl.at.ply.gg
 catfirewall.ru
+catherinekey1965-28715.portmap.io
 catherinekey1965-40831.portmap.io
 catmore23.com
 catmore88.com
@@ -13861,6 +13869,7 @@ dcsdkos.dc16888888.com
 dcupdate.duckdns.org
 dcv15.no-ip.org
 dcxploitpc.zapto.org
+dd.tstcs888.com
 ddabknjdnliceal.top
 ddd2u.no-ip.biz
 dddf.com
@@ -14918,6 +14927,7 @@ ec2-54-208-187-156.compute-1.amazonaws.com
 ec2-54-216-172-128.eu-west-1.compute.amazonaws.com
 ec2-54-216-72-51.eu-west-1.compute.amazonaws.com
 ec2-54-227-80-194.compute-1.amazonaws.com
+ec2-54-250-175-201.ap-northeast-1.compute.amazonaws.com
 ec2-54-251-124-7.ap-southeast-1.compute.amazonaws.com
 ec2-54-68-184-184.us-west-2.compute.amazonaws.com
 ec2-54-92-179-181.compute-1.amazonaws.com
@@ -15394,7 +15404,6 @@ ecs-124-71-139-126.compute.hwclouds-dns.com
 ecs-139-9-188-51.compute.hwclouds-dns.com
 ecs-166-108-200-194.compute.hwclouds-dns.com
 ecs-189-1-223-179.compute.hwclouds-dns.com
-ecs-189-1-242-182.compute.hwclouds-dns.com
 ecs-27-106-109-232.compute.hwclouds-dns.com
 ecs-60-204-152-14.compute.hwclouds-dns.com
 ecsamoyaimquqwow.xyz
@@ -19874,6 +19883,7 @@ folz2.duckdns.org
 folz3.duckdns.org
 folz4.duckdns.org
 folz5.duckdns.org
+foncar.duckdns.org
 fonotib645-32542.portmap.host
 fonsafteel.top
 fonts.farmandconstructionequipment.com
@@ -21441,7 +21451,6 @@ genericfixer.com
 genesisofkennesaw.com
 genexsection.no-ip.info
 gengfocus.today
-genghiskhanof21century.online
 genius22015-33944.portmap.io
 genius22015-45242.portmap.io
 geniuserc.com
@@ -24386,6 +24395,7 @@ hamgwji.digital
 hami7.no-ip.org
 hammatov.no-ip.org
 hamr.shop
+hamster-exchange.top
 hand-planner.gl.at.ply.gg
 handgunhan.live
 handora.site
@@ -35337,6 +35347,7 @@ microsoft2011.servehttp.com
 microsoft2020.ddns.net
 microsoftapimap.com
 microsoftasps.com
+microsoftcdnlicense.putinswin.es
 microsoftcorp.serveftp.com
 microsoftdatacenter-57447.portmap.io
 microsoftdefender.zapto.org
@@ -35609,6 +35620,7 @@ mk.babyisis.com.br
 mkeegoikaguysweu.xyz
 mkgaskocqayuomqo.xyz
 mkidech.dyndns-mail.com
+mkidech.zapto.org
 mkmrch.zapto.org
 mkn2014.no-ip.org
 mkokgkaiqqayogcy.xyz
@@ -36942,6 +36954,7 @@ ms-azure.azdatastore.workers.dev
 ms-cdn-update.ru
 ms-health-monitor.com
 ms-healthcheck.ru
+ms-pupils.gl.at.ply.gg
 ms-rr.com
 ms.quens.top
 ms2.rybos.fun
@@ -39264,6 +39277,7 @@ ns1.kqilife.com
 ns1.localatime.com
 ns1.lookwhat.me
 ns1.lumeala.com
+ns1.mailinfo.life
 ns1.maxscend.buzz
 ns1.meidu.icu
 ns1.microsolfts.com
@@ -39285,6 +39299,7 @@ ns1.stack-drive.com
 ns1.svchost.ddns-ip.net
 ns1.sxylao1.asia
 ns1.taipower.energy
+ns1.todesks.help
 ns1.translategoos.com
 ns1.vip8025.mom
 ns1.webservtimesync.com
@@ -39293,6 +39308,7 @@ ns1.wpk1.club
 ns1.xzbxhy.com
 ns1.yukklzwo.vip
 ns1.zonstcom.com
+ns2.admlistdel.com
 ns2.akawowfast.com
 ns2.c6bank.cloud
 ns2.carbonblackupdate.com
@@ -39316,6 +39332,7 @@ ns2.ig-pay.com
 ns2.kakakslot88winamp.com
 ns2.killgod.icu
 ns2.localatime.com
+ns2.mailinfo.life
 ns2.maxscend.buzz
 ns2.meidu.icu
 ns2.nactrace.com
@@ -39329,12 +39346,14 @@ ns2.ssologincaixagov.com
 ns2.stack-drive.com
 ns2.sxylao1.asia
 ns2.taipower.energy
+ns2.todesks.help
 ns2.translategoos.com
 ns2.vip8025.mom
 ns2.webservtimesync.com
 ns2.wpk1.club
 ns2.yukklzwo.vip
 ns2.zonstcom.com
+ns3.admlistdel.com
 ns3.akawowfast.com
 ns3.connectlink.top
 ns3.drgeregweg.ip-ddns.com
@@ -44014,6 +44033,7 @@ posted-channels.gl.at.ply.gg
 postmasterrelayserver.duckdns.org
 postpix.shop
 posts-creator.gl.at.ply.gg
+posugxa.com
 potcryscanj.shop
 potential-cia.gl.at.ply.gg
 potential-newer.gl.at.ply.gg
@@ -44078,7 +44098,6 @@ preisefurmaannerpillen.life
 prelinmenel.keepnowz.org
 premiertestlol.zapto.org
 premiumiptvservice.online
-premiumprotectiondis.org
 premiumwellpro.com
 preneurlab.digital
 preoductpark.icu
@@ -47991,6 +48010,7 @@ rated-worn.gl.at.ply.gg
 ratedevea.top
 rateilamajor.pw
 rates-sir.gl.at.ply.gg
+ratforme.ddns.net
 rathacker.no-ip.org
 rather-connection.gl.at.ply.gg
 rather-heather.gl.at.ply.gg
@@ -48987,6 +49007,7 @@ retfxv.digital
 retributionxyz.no-ip.org
 retrowallpaper.pro
 retry-future.no-ip.biz
+return-aug.gl.at.ply.gg
 returnboxesss.com
 reusable-flex.com
 revampitn.live
@@ -50474,6 +50495,7 @@ security.flflaegaurd.com
 security.flreshieelds.com
 security.flsecuard.com
 security.folregaurd.com
+security.fpwergwavrd.com
 security.fwaregyord.com
 security.fweragyrads.com
 security.garsecflae.com
@@ -55713,7 +55735,6 @@ toppywook.shop
 topsecret7.no-ip.biz
 topsmileperu.com
 toptalentw.top
-toptek.sbs
 topuplfow.com
 toqyxuy.shop
 torbrowser.no-ip.biz
@@ -60729,6 +60750,7 @@ web3.rlhelp.top
 web3.rwbhelp.top
 web3.tvwhelp.top
 web4200.craft-host.ru
+webapi.360se.dpdns.org
 webapi.ceshi897.cn
 webbased-stub-builder.vercel.app
 webcarbrasil.com.br
@@ -65804,6 +65826,7 @@ www.comitia.online
 www.commerce-14480.bond
 www.commerce-66831.bond
 www.commerce-69321.bond
+www.commicaute.com
 www.confyxerengine.info
 www.conomicaccelerationzones.net
 www.construction-jobs-50157.bond
@@ -73303,6 +73326,7 @@ zohan.dyndns-free.com
 zoho-us.com
 zom3rkt078g1k.life
 zombie77.bounceme.net
+zombiedomain.sytes.net
 zombienetwork.no-ip.net
 zomk.org
 zonakaptenjp.online
