@@ -4,7 +4,6 @@
 360yield.com
 883.engine.mobileapptracking.com
 a.applvn.com
-a2dfp.net
 aag.yahooapis.jp
 abbott.vo.llnwd.net
 abnad.net
@@ -494,7 +493,6 @@ imasdk.googleapis.com
 imgx.jampp.com
 imprdom.com
 imrworldwide.com
-inclk.com
 infolinks.com
 ingamesads.gameloft.com
 inmense.site

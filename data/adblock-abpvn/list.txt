@@ -2308,6 +2308,7 @@ aem-collector-22ylcwym.kgslb.com
 aem-collector.daumkakao.io
 aerodynomach.com
 aerserv.com
+aes.eu-west.ono.axp.amazon-adsystem.com
 aes.kargo.com
 aeventlog.beacon.qq.com
 aevents.izooto.com
@@ -5190,6 +5191,7 @@ cdn.postrelease.com
 cdn.premiumads.net
 cdn.premiumtag.net
 cdn.proadscdn.com
+cdn.prod.metrics.imdb.a2z.com
 cdn.prod.uidapi.com
 cdn.promotionengine.com
 cdn.pubexchange.com
@@ -5693,6 +5695,7 @@ client.vads.net.vn
 client2.otm-r.com
 clientcdn.pushengage.com
 clientinfo.phimmoizz.net
+clientlogger.marketplace.aws.a2z.com
 clientmanagement.lijit.com
 clientmetrics-pa.googleapis.com
 clientmetrics.outbrain.com
@@ -7793,6 +7796,7 @@ familiarpyromaniasloping.com
 fancrew.jp
 faq.juicer.cc
 faqirsgoliard.top
+faqlikbid.com
 farcivinage.shop
 farethief.com
 farmergoldfish.com
@@ -8055,6 +8059,7 @@ futuristicapparatus.com
 futuristicfairies.com
 fuwalrnce.com
 fvalid.appsflyer.com
+fvchjvaiisuxrpb.com
 fw.adsafeprotected.com
 fw.bapi.adsafeprotected.com
 fw.moatads.com
@@ -11142,6 +11147,7 @@ metrics.data.hicloud.com
 metrics.foxnews.com
 metrics.govexec.com
 metrics.icloud.com
+metrics.imdb.a2z.com
 metrics.kmsmep.com
 metrics.linkshare.com
 metrics.m.ambientplatform.vn
@@ -11197,7 +11203,6 @@ millustry.top
 mimilcnf.pro
 mindlytix.com
 mindmemobile.com
-minerva.devices.a2z.com
 mingledventin.com
 minio.connatix.com
 minotaur107.com
@@ -11784,6 +11789,7 @@ nppmwatch.com
 nps.juicer.cc
 npttech.com
 npv.indexexchange.com
+nqcgdvuuyxwj.com
 nqucjilr.com
 nr-data.net
 nr-events.taboola.com
@@ -15117,6 +15123,7 @@ sjedt.adsafeprotected.com
 sjepm.adsafeprotected.com
 sjremetrics.java.com
 sjs.bizographics.com
+sjvaovqhn.com
 skadnetwork.singular.net
 skadnetworks.fyber.com
 skadsdk.appsflyer.com
@@ -17180,6 +17187,7 @@ trustx.org
 trx.adscale.de
 try.abtasty.com
 ts.alcmpn.com
+ts.amazon-adsystem.com
 ts.siteimprove.com
 tshfc.com
 tsis.jpush.cn
@@ -17487,7 +17495,6 @@ us-content.mediaforge.com
 us-east-1.event.prod.bidr.io
 us-east-1.prod.pr.analytics.console.aws.a2z.com
 us-east-1.prod.pw.analytics.console.aws.a2z.com
-us-east-1.prod.service.minerva.devices.a2z.com
 us-east-1.rtb.a-mo.net
 us-east-1.telemetry.insights.video.a2z.com
 us-east-2.prod.pr.analytics.console.aws.a2z.com
@@ -18340,6 +18347,7 @@ wondoads.de
 wooboo.com.cn
 woochithoothie.net
 woodpeckerlog.com
+woomerapapacy.shop
 woopra.com
 woorucauhou.net
 wootric-demo.wootric.com
