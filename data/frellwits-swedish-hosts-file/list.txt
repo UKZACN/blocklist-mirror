@@ -71,6 +71,7 @@ ads.vidoomy.com
 ads.viralize.tv
 adsaga.telgenytt.se
 adsby.bidtheatre.com
+adsdk.microsoft.com
 adserver.ddev.site
 adserver.infotorg.se
 adserver.so-rummet.se
@@ -726,7 +727,6 @@ s.cartbooster.io
 s.go-mpulse.net
 s.moatads.com
 s.ntv.io
-s.pubmine.com
 s.richaudience.com
 s.skimresources.com
 s.vi-serve.com
@@ -1123,7 +1123,6 @@ www.statcounter.com
 www.tamgrt.com
 www.topdisplaynetwork.com
 www.tourn.se
-www.vejaskor.com.se
 www.vizzit.se
 www8.smartadserver.com
 x.bidswitch.net
