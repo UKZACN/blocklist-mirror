@@ -298,6 +298,7 @@ cdn.rudderlabs.com
 cdn.shareaholic.net
 cdn.snigelweb.com
 cdn.speedcurve.com
+cdn.spelwidgets.se
 cdn.sprida.se
 cdn.stat-track.com
 cdn.stroeerdigitalgroup.de
@@ -586,6 +587,7 @@ matomo.goteborgco.se
 matomo.lantmannen.com
 matomo.lulea.se
 matomo.mindbite.cloud
+matomo.nokportalen.se
 matomo.studio.se
 matomo.vibb.ax
 maxetise.net
