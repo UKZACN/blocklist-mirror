@@ -38,6 +38,7 @@
 201205igp.gameloft.com
 207.net
 228tuchuang.com
+22hgc.com
 240.zaloapp.ads.zdn.vn
 2433march2024.com
 2435march2024.com
@@ -420,6 +421,7 @@ actuallysheep.com
 actuallysnake.com
 acuityads.com
 acuityplatform.com
+aczopdxfy.com
 ad-admin.vnay.vn
 ad-apac.doubleclick.net
 ad-api.a8.net
@@ -3621,6 +3623,7 @@ asnwish.com
 aso1.net
 asp.animelab.com
 aspiringtoy.com
+asqsphwgybanh.com
 assemblyexchange.com
 asset.adxplay.com
 asset.bidgear.com
@@ -8742,6 +8745,7 @@ heatmap.it
 hedgehoghugsyou.com
 hedwigmonday.com
 heeceeceejo.com
+heenojouwofoupt.com
 heisenberg.inmobicdn.net
 heixidor.com
 heleric.com
@@ -10026,6 +10030,7 @@ kuasa-api.tenmax.io
 kuasa.pvmax.net
 kuasa.tenmax.io
 kubana.vungle.com
+kudlyhhfccarb.com
 kueezrtb.com
 kuglcibhyhuj.com
 kugmisawqo.com
@@ -10058,6 +10063,7 @@ l.d.eclick.vn
 l.doubleclick.net
 l.everesttech.net
 l.evidon.com
+l.flat-ads.com
 l.logly.co.jp
 l.logrocket.io
 l.onfluencer.net
@@ -10381,6 +10387,7 @@ log-mekongasean.epicdn.me
 log-nhandan.epicdn.me
 log-nhandan.zadn.vn
 log-plo.zadn.vn
+log-sg.capcutapi.com
 log-sggp.zadn.vn
 log-tamnhin.kienthuc.net.vn
 log-tb.isnssdk.com
@@ -10957,6 +10964,7 @@ mcppsh.com
 mcpuwpsh.com
 mcpuwpush.com
 mcs-sg.tiktok.com
+mcs-va.capcutapi.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
 mcs.zijieapi.com
@@ -11355,6 +11363,8 @@ mojiva.com
 mojo-dev.exelator.com
 mojo.exelator.com
 momotrk.com
+mon-sg.capcutapi.com
+mon-va.capcutapi.com
 mon.adx.vn
 mon.isnssdk.com
 mon.snssdk.com
@@ -11914,6 +11924,7 @@ obituaryfuneral.com
 objectionsunited.com
 obliquecensortend.com
 obnoljac.com
+obqj2.com
 obradjgifja.com
 obs.cheqzone.com
 obscenesidewalk.com
@@ -12217,6 +12228,7 @@ otherlevels.com
 otheve.beacon.qq.com
 othniqvu.com
 othstr.beacon.qq.com
+otieu.com
 otm-r.com
 otnolatrnup.com
 otqxvqzdgl.com
@@ -14975,6 +14987,7 @@ sexystat.com
 sezwho.com
 sf.nazs.socdm.com
 sf.vserv.mobi
+sf16-static.i18n-pglstatp.com
 sf960.com
 sfiannzilgi.com
 sfsapi.micloud.xiaomi.net
@@ -16690,6 +16703,8 @@ tmk.smartadserver.com
 tmp.adflex.vn
 tms.fmm.io
 tn.alphonso.tv
+tnc-boot.capcutapi.com
+tnc-sg.capcutapi.com
 tnc16-alisg.isnssdk.com
 tnkexchange.com
 tns-counter.ru
@@ -19368,6 +19383,7 @@ yovqnwnmpzz.com
 yoxwrdiw.com
 ypmtvlaktm.com
 yqmxfz.com
+yralpspdvnqaqv.com
 yrhnw7h63.com
 yrscfbbegumijt.com
 yrumdfslwabv.com
@@ -19383,6 +19399,7 @@ ytvpaid.winadx.com
 yuilop.com
 yume.com
 yumenetworks.com
+yummiergangue.shop
 yummy.consumable.com
 yummy2.consumable.com
 yun-hl.3g.qq.com
@@ -19435,6 +19452,7 @@ zcoup.com
 zdbb.net
 zedo.com
 zeegreen.net
+zeekaihu.net
 zeepmedia.com
 zekiatagur.com
 zem-us-west.outbrain.com
@@ -19468,6 +19486,7 @@ zimg.jp
 zimpolo.com
 zintext.com
 zipazvzu.com
+zireemilsoude.net
 zitauptajoumti.com
 zkuziwzzyf.com
 zkyqafavdg.com
