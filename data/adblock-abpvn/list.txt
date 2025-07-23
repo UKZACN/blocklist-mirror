@@ -2283,6 +2283,8 @@ adxadserv.com
 adxbid.info
 adxcorp.kr
 adxmi.com
+adxnexus.com
+adxnexus.xml.ak-is2.net
 adxoo.com
 adxpansion.com
 adxpartner.com
@@ -2532,6 +2534,7 @@ ajggirci.com
 ajghtafutjt.com
 ajglirsuk.com
 ajouter.net
+ajratgatjav.com
 ajsc.yodimedia.com
 ajvhagmuvfm.com
 ajx272.online
@@ -8944,6 +8947,7 @@ humandemand.com
 hummingbird.mavencoalition.io
 hunantv-ipdx.cn.miaozhen.com
 hunchlastlysluice.com
+hupaiowicog.com
 huppontic.com
 hurarwjrirti.com
 hurkarubypaths.com
@@ -9662,6 +9666,7 @@ iu.districtm.ca
 ius.ctnsnet.com
 iv.doubleclick.net
 ivan.indoleads.com
+ivdjs.com
 ivhwlnlcgi.com
 ivitrack.com
 ivstracker.net
@@ -11561,6 +11566,7 @@ mydas.mobi
 mydayoff.galaxiemedia.fr
 mydmp.exelator.com
 myfastcdn.com
+mylwwuqdhidkmx.com
 myntelligence.com
 myolnyr5bsk18.com
 mypagerank.net
@@ -13037,6 +13043,8 @@ popupmoney.com
 popupnation.com
 popuptraffic.com
 popuserapparatus.com
+popviking.com
+popviking.xml.ak-is2.net
 porngraph.com
 porntrack.com
 portal.adbro.me
@@ -14597,6 +14605,7 @@ sabergood.com
 sablesong.com
 sac.ayads.co
 sackbarngroups.com
+sacmeetekremsog.com
 sact.atdmt.com
 sacwumsf.com
 safebrowsdv.com
@@ -17400,6 +17409,7 @@ ui.clevernt.com
 uid.bumlam.com
 uid.mavencoalition.io
 uie.data.cbc.ca
+uiiocpfx.com
 uimserv.net
 uipglob.semasio.net
 uipus.semasio.net
@@ -19249,6 +19259,7 @@ xml.adpicmedia.net
 xml.adservercheck.net
 xml.adservme.com
 xml.adx1.com
+xml.adxnexus.com
 xml.affiliate.rakuten.co.jp
 xml.auxml.com
 xml.boffoadsfeeds.com
@@ -19256,11 +19267,13 @@ xml.explorads.com
 xml.ezmob.com
 xml.ioam.de
 xml.pops.gg
+xml.popviking.com
 xml.revenuehits.com
 xml.revrtb.com
 xml.revrtb.net
 xml.rklmstr.com
 xml.showcasethat.com
+xml.zeusadx.com
 xml2.rklmstr.com
 xmlfeedparser.4dsply.com
 xmlking.xml.ak-is2.net
@@ -19494,6 +19507,7 @@ zestads.com
 zestadz.com
 zetadeo.com
 zeus.ad.xiaomi.com
+zeusadx.com
 zeusadx.xml.ak-is2.net
 zeusclicks.com
 zeustechnology.com
