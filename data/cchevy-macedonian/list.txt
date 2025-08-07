@@ -10,6 +10,7 @@ ad.mox.tv
 adexchange.mk
 adocean.pl
 ads.1cm.com.mk
+ads.24auto.mk
 ads.24rakomet.mk
 ads.360stepeni.mk
 ads.365.mk
@@ -30,6 +31,7 @@ ads.gol.mk
 ads.gostivarpress.mk
 ads.grouper.mk
 ads.idividi.com.mk
+ads.inovativnost.mk
 ads.it.mk
 ads.kafepauza.mk
 ads.kajgana.com
@@ -53,6 +55,7 @@ ads.sport1.mk
 ads.sportclub.mk
 ads.sportm.mk
 ads.sportmedia.mk
+ads.sportplus.mk
 ads.stankov.me
 ads.studenti.mk
 ads.telma.com.mk
