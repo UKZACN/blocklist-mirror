@@ -174,6 +174,7 @@ assets.bonad.io
 assets.heylink.com
 assets.revcontent.com
 assets.strossle.com
+assets.zubitracker.io
 auction-release.mlpapi.com
 audience.systems
 autodeal.agilecrm.com
@@ -690,6 +691,7 @@ pushnice.com
 pushwhy.com
 pxl.host
 r.existenz.se
+r1.ddlnk.net
 rabble-res.cloudinary.com
 recirculation.spot.im
 redistats.com
@@ -829,6 +831,7 @@ static.ws.apsis.one
 static.zotabox.com
 statistics.heltenkelt.se
 statistik.blogg1.se
+statistik.jagareforbundet.se
 statistik.sailguide.com
 statistik.svenskaakademien.se
 stats.agrar.nu
