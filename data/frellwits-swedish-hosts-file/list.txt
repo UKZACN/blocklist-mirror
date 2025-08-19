@@ -159,6 +159,7 @@ app.converdiant.com
 app.interactiveads.ai
 app.nocodelytics.com
 app.truconversion.com
+app.visitor-analytics.io
 app.yieldify.com
 app3.salesmanago.pl
 applets.ebxcdn.com
@@ -271,6 +272,7 @@ cdn.brandmetrics.com
 cdn.brevo.com
 cdn.broadstreetads.com
 cdn.by.wonderpush.com
+cdn.confiant-integrations.net
 cdn.convertbox.com
 cdn.cxense.com
 cdn.decibelinsight.net
@@ -762,6 +764,7 @@ scripts.makeinfluence.com
 scripts.mediavine.com
 scripts.opti-digital.com
 scripts.simpleanalyticscdn.com
+scripts.stay22.com
 sdk.pulse.schibsted.com
 sdkconfig.pulse.m10s.io
 sdkconfig.pulse.schibsted.io
