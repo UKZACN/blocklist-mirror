@@ -192,6 +192,7 @@ banner.bet365partners.com
 banners.instaforex.com
 banners.wsnonline.dk
 bannersnack.com
+bb-pbc.mainroll.com
 bc.marfeelcache.com
 bcm.interactives.dk
 bellmetric.net
@@ -580,6 +581,7 @@ logs.spilgames.com
 logx.optimizely.com
 longchampstockholm.com.se
 look.ufinkln.com
+ls.dycdn.net
 lwadm.com
 m.extellio.com
 m1.analytics.sitevision-cloud.se

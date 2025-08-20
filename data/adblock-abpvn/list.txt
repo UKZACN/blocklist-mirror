@@ -5978,6 +5978,7 @@ config.ad-brix.com
 config.adview.cn
 config.aps.amazon-adsystem.com
 config.eastus-ssp.appgwv2.inmobi.com
+config.emb-api.com
 config.hiido.com
 config.inmobi.cn
 config.inmobi.com
@@ -6599,6 +6600,7 @@ data.agkn.com
 data.aniview.com
 data.atomex.net
 data.bizographics.com
+data.emb-api.com
 data.flurry.com
 data.growingio.com
 data.mathtag.com
@@ -7225,6 +7227,7 @@ dyn-objects.mathtag.com
 dyn.omnitagjs.com
 dynalyst.jp
 dynamic-ads.appier.net
+dynamic-report-api.appsflyersdk.com
 dynamic.3lift.com
 dynamic.criteo.com
 dynamicads.statsperformdev.com
@@ -8631,6 +8634,7 @@ guhomnfuzq.com
 guidecent.com
 guihua-china.com
 guile.jp
+gukrelrock.net
 gullyending.com
 gum.criteo.com
 gumdrops.gumgum.com
@@ -11279,6 +11283,7 @@ millustry.top
 mimilcnf.pro
 mindlytix.com
 mindmemobile.com
+minerva.devices.a2z.com
 mingledventin.com
 minio.connatix.com
 minotaur107.com
@@ -11817,6 +11822,7 @@ nmc.adhaven.com
 nmetrics.samsung.com
 no-cdn.convertexperiments.com
 no2veeamggaseber.com
+noa.yahoo.com
 nobid.io
 node-01.adsrv.net
 node-02.adsrv.net
@@ -12017,6 +12023,7 @@ oddsserve.com
 odfohvwi.com
 odfsmijima.com
 odgomfabcas.com
+odm.app-ads-services.com
 odqdkealzr.com
 odr.mookie1.com
 oewa.at
@@ -12545,6 +12552,7 @@ partnerlinks.io
 partnerportal.marketo.com
 partners.ad-brix.com
 partners.adpopcorn.com
+partners.agoda.com
 partners.chartboost.com
 partners.content.ad
 partners.marketolive.com
@@ -13369,6 +13377,7 @@ psa.appnexus.com
 psaltauw.net
 psankei.chartbeat.net
 psausuck.net
+pscbrveha.com
 psipausaix.net
 psma02.com
 pson.logging.admicro.vn
@@ -16647,6 +16656,7 @@ telemetry.api.swiftkey.com
 telemetry.art19.com
 telemetry.canva.com
 telemetry.dropbox.com
+telemetry.insights.video.a2z.com
 telemetry.malwarebytes.com
 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com
 telemetry.sdk.inmobi.cn
@@ -17448,6 +17458,7 @@ ucstat.baidu.com
 ucweb.com
 udbdf-v2.nimo.tv
 udc.msn.com
+udc.yahoo.com
 udinugoo.com
 udm.scorecardresearch.com
 udmserve.net
@@ -18422,6 +18433,7 @@ wikia-ads.wikia.com
 wildcard.aniview.com.edgekey.net
 wildedbarley.com
 wilslide.com
+wiltiqkc.com
 wimswuppoxan.com
 win-dsp-eu.adkernel.com
 win-dsp-staging.adkernel.com
@@ -18528,6 +18540,7 @@ wpush.org
 wqjbldnnceroue.com
 wqmobile.com
 wqzyxxrrep.com
+wr.amigojimbang.com
 wr.indexexchange.com
 wrapper.blueseed.tv
 wrapper.lemde.fr
@@ -19307,6 +19320,7 @@ xiuxiu.mobile.meitudata.com
 xjrwxfdphc.com
 xjs.ptengine.jp
 xkesalwueyz.com
+xkfvceil.com
 xldncyivwazvfy.com
 xlirdr.com
 xlisting.jp
@@ -19650,6 +19664,7 @@ zuqalzajno.com
 zvetokr2hr8pcng09.com
 zwaar.org
 zwnoeqzsuz.com
+zwnsuuaoqfab.com
 zxc.world
 zy.eilaeliza.top
 zybrdr.com
