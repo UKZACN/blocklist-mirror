@@ -111,6 +111,7 @@ analytics.apotekhjartat.se
 analytics.arvika.se
 analytics.ci-360.se
 analytics.ciseway.se
+analytics.citreamedia.com
 analytics.clickdimensions.com
 analytics.codigo.se
 analytics.elle.se
@@ -260,6 +261,7 @@ cdn.adt523.net
 cdn.adt532.com
 cdn.adt545.net
 cdn.adt567.net
+cdn.adt574.com
 cdn.adt598.com
 cdn.adtrue.com
 cdn.advisible.com
@@ -570,6 +572,7 @@ lib.wtg-ads.com
 lifeofsvea.mainroll.com
 litix.io
 live.demand.supply
+load.a.receptskatt.se
 load.sumome.com
 loadbalancer.visitor-analytics.io
 loader.wisepops.com
