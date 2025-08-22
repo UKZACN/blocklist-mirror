@@ -481,6 +481,7 @@ gcdn.2mdn.net
 get.optad360.io
 get.s-onetag.com
 glitnoraffiliates.elb.myaffiliates.com
+go.affiliationcloud.com
 go.ezodn.com
 go.ezoic.net
 graphics.adrecord.com
@@ -1104,6 +1105,7 @@ widgets.getsitecontrol.com
 widgets.spklw.com
 widgets.sprinklecontent.com
 wix-engage-visitors-prod-16.firebaseio.com
+wlcoolbet.adsrv.eacdn.com
 wleuroearners.adsrv.eacdn.com
 woomio.com
 wrap.tradedoubler.com
