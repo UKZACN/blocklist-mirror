@@ -53,7 +53,6 @@ ads.kelkoo.com
 ads.leovegas.com
 ads.mainloop.net
 ads.motorvarlden.se
-ads.mrgreen.com
 ads.nordreportern.se
 ads.playpilot.com
 ads.pubmatic.com
@@ -689,7 +688,6 @@ pp.lp4.io
 prd-collector-platform.ex.co
 premium.analys.cloud
 prg.smartadserver.com
-privalytic.com
 protagcdn.com
 proxyas.com
 pubads.g.doubleclick.net
@@ -1008,7 +1006,6 @@ tracking.ht.se
 tracking.illvet.se
 tracking.inboxads.com
 tracking.jp.se
-tracking.kalmarposten.se
 tracking.klt.nu
 tracking.kpwebben.se
 tracking.kristianstadsbladet.se

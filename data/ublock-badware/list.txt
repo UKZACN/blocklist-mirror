@@ -35,7 +35,6 @@ psh-static.b-cdn.net
 pub-549d59daefd74f7583e1766800fe7b07.r2.dev
 rcuacroossonec.com.ua
 rilenews.com
-securefilelink.info
 securifyguard.com
 shosril.com
 smart-redirecting.com
@@ -50,4 +49,3 @@ voxtribune.com
 webpushcloud.top
 withsecurify.com
 workerz1.com
-xypthe.com
