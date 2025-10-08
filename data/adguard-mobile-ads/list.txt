@@ -1,7 +1,6 @@
 023hysj.com
 1mp.mobi
 247realmedia.com
-360yield.com
 883.engine.mobileapptracking.com
 a.applvn.com
 aag.yahooapis.jp
@@ -19,17 +18,14 @@ ad-ettoday.cdn.hinet.net
 ad-files.classting.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
-ad-stir.com
 ad-x.co.uk
 ad.apps.fm
 ad.apsalar.com
-ad.auditude.com
 ad.bandlab.io
 ad.buzzvil.com
 ad.cauly.co.kr
 ad.daum.net
 ad.deepthought.industries
-ad.doubleclick.net
 ad.duapps.com
 ad.flipboard.com
 ad.inston.ltd
@@ -72,7 +68,6 @@ adcs.rqmob.com
 addapptr.com
 addata.mediacategory.com
 adentifi.com
-adfiles.auditude.com
 adflake.com
 adforgames.com
 adfork.co.kr
@@ -85,7 +80,6 @@ adhitzads.com
 adhood.com
 adinfo.tango.me
 adition.com
-adkernel.com
 adkmob.com
 adkwai.com
 adleads.com
@@ -99,7 +93,6 @@ admicro1.vcmedia.vn
 admin.appnext.com
 admitad.com
 admixer.co.kr
-admixer.net
 admulti.com
 adn.insight.ucweb.com
 adnami.io
@@ -219,7 +212,6 @@ ajdivotdelbloab24.jio.com
 ali-ad.a.yximgs.com
 alicdn.com
 alt-ad.mail.ru
-am15.net
 amanad.adtdp.com
 amillionads.com
 amobee.com
@@ -287,7 +279,6 @@ astrsk.net
 athena.api.kwalee.com
 atti.com
 audiomob.com
-axonix.com
 banner.hpmdnetwork.ru
 bannerflow.com
 banners-slb.mobile.yandex.net
@@ -343,10 +334,8 @@ cdn-cf.postitial.com
 cdn-image.com
 cdn-ketchapp.akamaized.net
 cdn.appnext.com
-cdn.auditude.com
 cdn.batmobi.net
 cdn.jampp.com
-cdn2.auditude.com
 cdns.lodeo.io
 cdp.cloud.unity3d.com
 celtra.com
@@ -358,7 +347,6 @@ chavoads.com
 cl-ad.x-flow.app
 client.midosoo.com
 clk.taptica.com
-clkfeed.com
 cloudads-a.akamaihd.net
 cls.vrvm.com
 cmshow.gtimg.cn
@@ -385,7 +373,6 @@ crosspromotion.weplayer.cc
 cs02-pps-drcn.dbankcdn.com
 csi.gstatic.com
 ctl.buyt.in
-cvt-s2.agl005.tech
 czechcash.com
 d-load.org
 d.kugou.com
@@ -442,11 +429,11 @@ flurry.cachefly.net
 flurry.com
 flygo.ru
 focas.jp
+freewheel-jitt.sanoma.fi
 friendlyduck.com
 frontier100-toutiao-lf.fqnovel.com
 fxlcvd.icu
 fyber.com
-g.doubleclick.net
 gadsme.com
 gallerieshub.com
 gamaibids.com
@@ -502,7 +489,6 @@ iam.datasavannah.com
 ichannel.isnssdk.com
 im.ov.yahoo.co.jp
 imapi-sg.isnssdk.com
-imasdk.googleapis.com
 imgx.jampp.com
 imprdom.com
 imrworldwide.com
@@ -556,7 +542,6 @@ mad.mobisky.pl
 madnet.ru
 mads.amazon.com
 manage.com
-manifest.auditude.com
 marketing.mangacopy.com
 maticooads.com
 matrix.dailyinnovation.biz
@@ -568,7 +553,6 @@ medialand.ru
 mediation.unity3d.com
 meendocash.com
 metamx.com
-mfadsrvr.com
 mgage.com
 mi.gdt.qq.com
 mimicromax.com
@@ -598,7 +582,6 @@ mossru.com
 mp-api.afafb.com
 msg.ettoday.net
 mtag.mman.kr
-mtburn.com
 mtburn.jp
 mtgglobals.com
 mtrcss.com
@@ -648,7 +631,6 @@ open.kuaishouzt.com
 open.kwaizt.com
 opt8.co
 os.scmpacdn.com
-otcdn2.auditude.com
 other.appcpi.net
 outbrainimg.com
 p-behacdn.ksmobile.net
@@ -692,7 +674,6 @@ promotionad.nvcam.net
 pssvc.iqzone.com
 psvpromo.psvgamestudio.com
 pub1.co
-pubmatic.com
 pubnative.info
 pubnative.net
 pushad.metajoy.services
@@ -706,7 +687,6 @@ rainmaker.production-public.tubi.io
 redtram.com
 reqde.sooplive.co.kr
 restartad.com
-revcontent.com
 richlifeads.ru
 robin-flow.com
 rossoad.com
@@ -719,7 +699,6 @@ rugfrfji.win
 ruuaqkw.com
 s-adx.op-mobile.opera.com
 s-odx.oleads.com
-s.adx.opera.com
 s.hisp.in
 s3.ttpsdk.info
 san.myadssupport.com
@@ -740,7 +719,6 @@ serveraddr.service.kugou.com
 service-ad-image-ga.prd.pluto.tv
 sessionm.com
 setting.rayjump.com
-sexpennyauctions.com
 shareasale.com
 sharethrough.com
 sheilaqeb.com
@@ -750,8 +728,6 @@ sitescout.com
 skadnetwork.singular.net
 skadsdk.appsflyer.com
 skt-asum.com
-smaclick.com
-smartadserver.com
 smilered.com
 socdm.com
 sonobi.com
@@ -771,7 +747,6 @@ startup-mobile.ap.yandex-net.ru
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
 stat.kika-backend.com
-static.doubleclick.net
 static.hyprmx.com
 static.jampp.com
 static.timetreeads.com
@@ -824,9 +799,7 @@ tpc.googlesyndication.com
 tr.acobt.tech
 trackimpression.com
 tracking.applift.com
-tradeadexchange.com
 tradplusad.com
-trafficjunky.net
 trafmag.com
 traktum.com
 trc.taboola.com
@@ -859,7 +832,6 @@ vm5apis.com
 vmap.v.ad-generation.jp
 vniddlg.xyz
 vod-mplayer.sooplive.co.kr
-vrizead.com
 vserv.mobi
 vungle.com
 waiads.com
@@ -871,8 +843,6 @@ widgets.outbrain.com
 wordego.com
 wtraff.com
 www.adbert.com.tw
-www.auditude.com
-x.appbaqend.com
 xdrig.com
 ximad.com
 yandexadexchange.net
