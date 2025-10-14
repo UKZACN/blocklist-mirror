@@ -67,6 +67,7 @@ adcs.myappsget.com
 adcs.rqmob.com
 addapptr.com
 addata.mediacategory.com
+adeeply.ru
 adentifi.com
 adflake.com
 adforgames.com
@@ -304,6 +305,7 @@ betrad.com
 betsonsport.ru
 bi.yeshen.com
 bidjora.com
+bidsms.com
 bidsopt.com
 bigmobileads.com
 bjads.bejbej.ca
@@ -492,6 +494,7 @@ ichannel.isnssdk.com
 im.ov.yahoo.co.jp
 imapi-sg.isnssdk.com
 imgx.jampp.com
+impbid.com
 imprdom.com
 imrworldwide.com
 infolinks.com
@@ -547,6 +550,7 @@ manage.com
 marketing.mangacopy.com
 maticooads.com
 matrix.dailyinnovation.biz
+maxesads.ru
 mblapi.ssl2.duapps.com
 mbn.com.ua
 mcoreads.com
@@ -651,6 +655,7 @@ pgdt.gtimg.cn
 pglstatp-toutiao.com
 phluant.com
 pic-stash.com
+pithyiwgz.top
 pixel.admobclick.com
 playgap.b-cdn.net
 playhaven.com
@@ -773,6 +778,7 @@ tapsell.ir
 tapsense.com
 tapulsads.ru
 targetspot.com
+tbiwtech.com
 tccbanner.com
 teachscape.vo.llnwd.net
 thecatmachine.com
@@ -858,4 +864,6 @@ yovoads.com
 zedo.com
 zgzxs.weathercn.com
 zmqdez.ru
+zoly.tech
+zxphiz.tech
 zzhengre.com
