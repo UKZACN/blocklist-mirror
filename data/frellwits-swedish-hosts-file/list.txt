@@ -191,6 +191,7 @@ backend.qimtek.se
 bam.bonad.io
 banner.bet365partners.com
 banners.instaforex.com
+banners.jldigital.se
 banners.wsnonline.dk
 bannersnack.com
 bb-pbc.mainroll.com
@@ -677,6 +678,7 @@ pixel.ipinfo.io
 pixel.mathtag.com
 pixel.quantserve.com
 pixel.watch
+pl.connatix.com
 pl18523163.highcpmrevenuenetwork.com
 platform-api.sharethis.com
 platform.bidgear.com
