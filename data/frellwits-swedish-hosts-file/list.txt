@@ -391,6 +391,7 @@ darwin.affiliatewindow.com
 data.adnuntius.com
 data.gblcdn.com
 dc.schibsted.io
+dcl-cdn.digitalcaramel.com
 deals.innocode.no
 delivered-by-madington.com
 delivery.adnuntius.com
