@@ -700,8 +700,6 @@ publish-int.se
 publish.ne.cision.com
 push-notifications.top
 pushcrew.com
-pushnice.com
-pushwhy.com
 pxl.host
 r.existenz.se
 r1.ddlnk.net
@@ -729,7 +727,6 @@ richaudience.com
 richmediastudio.com
 richmetrics.com
 ridsport.adhost.se
-rotarb.bid
 rotator.riedta.com
 route.carambo.la
 royapp.com
@@ -1100,7 +1097,6 @@ webbplatsanalys.goteborg.se
 webpower.eu
 websdk.appsflyer.com
 webstats.100procent.com
-west.statisticplatform.com
 widget.cdn.citygate.se
 widget.citygate.se
 widget.lifeinside.io
