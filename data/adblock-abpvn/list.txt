@@ -280,7 +280,6 @@ a8.net
 a9.com
 aa.agkn.com
 aa.birdgesdk.com
-aa.online-metrix.net
 aa.toponad.com
 aaacompany.net
 aab.adxxx.com
@@ -3332,6 +3331,8 @@ api16-access-gcp.pangle-b.io
 api16-access-gcp.pangle.io
 api16-access-sg.pangle-b.io
 api16-access-sg.pangle.io
+api16-access-ttp-b.tiktokpangle-b.us
+api16-access-ttp-b.tiktokpangle.us
 api16-access-ttp.tiktokpangle-b.us
 api16-access-ttp.tiktokpangle.us
 api16-access-va.pangle.io
@@ -4572,6 +4573,7 @@ bs1.showheroes.com
 bsch.serving-sys.com
 bse4usdqd52m.com
 bshr.ezodn.com
+bsxzc.ttrk.io
 bt.cheqzone.com
 btcadtop.com
 btcijivtsvph.com
@@ -4592,6 +4594,7 @@ bubblesmedia.ru
 bubblyzucchini.com
 bucksense.com
 budvawshes.ru
+buffooncountabletreble.com
 bugly.qq.com
 build-cdn.liftoff.io
 builder.lift.acquia.com
@@ -6016,6 +6019,7 @@ config.sensic.net
 config.tremorhub.com
 config.unityads.unity3d.com
 config2.mparticle.com
+configure-tcp-ios.mtgglobals.com
 configv2-prd.unityads.unity3d.com
 configv2.unityads.unity3d.com
 confluence.appboy.com
@@ -6322,6 +6326,7 @@ crtv.wbidder.online
 crudenessfinishersacred.com
 crumbrationally.com
 crummydevioussucculent.com
+crumpetprankerstench.com
 crumplylenient.com
 crunchybears.com
 crunchyroll.adclixx.net
@@ -8387,6 +8392,7 @@ gkemujoccwin.com
 gketcakpeh.com
 gko.distinctrobin.com
 gkpohvff.com
+gkuocadgecsga.com
 gl-adsrv.rtbsuperhub.com
 gl.cnt.my
 gl.genmonet.com
@@ -8708,7 +8714,6 @@ h-adashx.ut.alibaba.com
 h-adashx.ut.taobao.com
 h-adashx.ut.youku.com
 h-adashx4ae.ut.taobao.com
-h-sdk.online-metrix.net
 h.accesstrade.net
 h.atdmt.com
 h.online-metrix.net
@@ -8720,7 +8725,6 @@ h2.msn.com
 h2aek6rv0ard.com
 h3yci.ttrk.io
 h5.appadhoc.com
-h64.online-metrix.net
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 h74v6kerf.com
 h78xb.pw
@@ -9222,6 +9226,7 @@ ihhqwaurke.com
 ii.decastebonise.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
+ik.hatcheskoeri.shop
 ikahnruntx.com
 ikengoti.com
 iki.daleriki.com
@@ -10141,6 +10146,7 @@ kupefoarsadseer.com
 kupona.de
 kuqfudazkn.com
 kv-analytics.kiotviet.vn
+kvaurjynazce.com
 kvinit-prod.api.kochava.com
 kvkaa.com
 kvm.galaxiemedia.fr
@@ -11351,6 +11357,7 @@ misc.sd.duapps.com
 misc.teads.tv
 miserablenobody.com
 misguidedclotpensioner.com
+misqimohlpk.com
 missitzantiot.com
 misstrends.com
 misterbell.com
@@ -12196,7 +12203,6 @@ onfluencer.net
 ongaromusket.com
 ongastlya.com
 online-dn.com
-online-metrix.net
 online.miarroba.com
 online.simpleanalyticscdn.com
 online.tapjoy.com
@@ -12371,6 +12377,7 @@ otnolatrnup.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
+ourithauphexaus.com
 oustoope.com
 out-there-media.com
 out.popads.net
@@ -13098,6 +13105,7 @@ pocrowpush.com
 poczta.optad360.com
 podefr2.net
 podsklzegshmnd.com
+poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -16218,6 +16226,7 @@ stockbook-ads.firebaseapp.com
 stockbook-ads.firebaseio.com
 stocks-analytics-events.apple.com
 stolenforensicssausage.com
+stooghopsee.net
 stoopfalse.com
 stoorgel.com
 stootsou.net
@@ -17065,6 +17074,7 @@ track.flexlinkspro.com
 track.gameanalytics.com
 track.gammaplatform.com
 track.gaug.es
+track.getmydeals.net
 track.gotprofits.com
 track.hubspot.com
 track.hydro.online
@@ -17073,6 +17083,7 @@ track.im-apps.net
 track.involvkgfr.com
 track.kyna.vn
 track.lacunads.com
+track.landerlab.io
 track.lexico.com
 track.linksynergy.com
 track.loopme.me
@@ -19372,6 +19383,7 @@ x.trvdp.com
 x01.aidata.io
 x2.mookie1.com
 x2sfa.javgg.eu
+x7i0.com
 x7r3mk6ldr.com
 xacthuc.autoads.asia
 xad.com
