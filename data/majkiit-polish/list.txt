@@ -40,6 +40,7 @@ api.systempartnerski.pl
 api.useinsider.com
 apinews.numpet.com
 app.shopeneo.network
+apteline.deal-pl.shop
 aranzujemy.co.pl
 asmsalesforce.pl
 audienceinsights.net
@@ -84,6 +85,7 @@ damdaj.pl
 dansotant.xyz
 darksidebox.xyz
 darmowylicznik.pl
+deal-pl.shop
 devhub.pl
 dexessee.com
 disqusads.com
