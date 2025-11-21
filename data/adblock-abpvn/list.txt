@@ -112,6 +112,7 @@
 3a2qi55fr.com
 3gl.net
 3hflklo4qr1.57n9w3vrmvf5tf2b8qk38zn.cfd
+3in6ko.com
 3lift.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
@@ -3162,6 +3163,7 @@ api.cloudmobi.net
 api.cmp.inmobi.com
 api.collect.data.intl.miui.com
 api.content.ad
+api.country.is
 api.crashlytics.com
 api.criteo.com
 api.cupid.iqiyi.com
@@ -3885,6 +3887,7 @@ ayads.io
 ayadsaws.ayads.co
 ayensexilic.com
 ayrtpmwuymzbbq.com
+aytcepmvxtelzf.com
 az-pe.o-s.io
 az361816.vo.msecnd.net
 azjpixel.adsafeprotected.com
@@ -3954,6 +3957,7 @@ backspacecomprisedgoliath.com
 backstage.taboola.com
 backup.aatkit.com
 badad.googleplex.com
+badlandlispyippee.com
 bagpipemonogamypercent.com
 baguettefactornervous.com
 bahmemohod.com
@@ -5525,6 +5529,7 @@ chi2only.outbrain.com
 chiamfxz.com
 chickensstation.com
 chicoryapp.com
+chihuahuadoorstoppond.com
 childhoodstudioconversation.com
 childlessporcupinevaluables.com
 childlikeform.com
@@ -6931,6 +6936,7 @@ dgz.specificclick.net
 dh.serving-sys.com
 dhn-ads-api.365scores.com
 dhuimjkivb.com
+dhurratrait.qpon
 diagnostics.id5-sync.com
 diagramjawlineunhappy.com
 dialin.exponential.com
@@ -7929,6 +7935,7 @@ febadu.com
 februarybogus.com
 februaryexclusion.com
 fedapush.net
+federatedcompute-pa.googleapis.com
 feed-xml.com
 feed.pushtimize.com
 feedads.g.doubleclick.net
@@ -8877,6 +8884,7 @@ hghit.com
 hgub2polye.com
 hh-btr.com
 hhbypdoecp.com
+hhecta.com
 hhuajhdidxut.com
 hi-cdn.adsparc.net
 hi.districtm.ca
@@ -10800,6 +10808,7 @@ ltv-spark-webui.kube-prod.vungle.com
 ltv.tapjoy.com
 ltvapi.tapjoy.com
 lucead.com
+luchuwarwrud.com
 lucidlykidney.com
 lucidmedia.com
 lucky1.marketo.com
@@ -11982,6 +11991,7 @@ nrc.sd.duapps.com
 nrc.tapas.net
 nrcapi.ssl2.duapps.com
 nrich.ai
+nrknstdms.com
 nrs6ffl9w.com
 ns-cdn.neustar.biz
 ns.zdbb.net
@@ -14937,6 +14947,7 @@ sdk.iad-08.braze.com
 sdk.ironbeast.io
 sdk.jeeng.com
 sdk.moneyoyo.com
+sdk.mrf.io
 sdk.persona.ly
 sdk.pushdi.com
 sdk.s.360.cn
@@ -17611,6 +17622,7 @@ uk.adserver.yahoo.com
 uk.indexexchange.com
 uk.marketo.com
 ukbanners.com
+uknlemmsnn.com
 uksummerparty.exponential.com
 uktwvhfezyvxn.com
 ul.alcmpn.com
@@ -17620,6 +17632,7 @@ ulmoyc.com
 ulogs.umeng.com
 ulogs.umengcloud.com
 ulrzovfukgkljw.com
+ulsterscarices.com
 ultimateclixx.com
 ultimedia.com
 ultraadserver.com
@@ -18241,6 +18254,7 @@ voicedstart.com
 voicefive.com
 vokut.xml.ak-is2.net
 volceapplog.com
+volsairdoagnaum.com
 voodoo-ads.io
 voodoo-analytics.io
 voopsookie.net
