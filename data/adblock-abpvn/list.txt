@@ -2775,6 +2775,7 @@ analytics-ca.clickdimensions.com
 analytics-cds.mobiedu.vn
 analytics-eu.clickdimensions.com
 analytics-http.mintegral.net
+analytics-ipv6.tiktokw.us
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
 analytics-s4.com
@@ -2876,6 +2877,7 @@ analytics.ninjakiwi.com
 analytics.nova.fox.com
 analytics.novanet.vn
 analytics.ntlc.com.vn
+analytics.onflix.vip
 analytics.onfluencer.net
 analytics.pancake.vn
 analytics.pangle-ads.com
@@ -3956,6 +3958,7 @@ backend.avazutracking.net
 backend.pubnative.net
 backlogdoorstepsinister.com
 backspacecomprisedgoliath.com
+backspinreentryupright.com
 backstage.taboola.com
 backup.aatkit.com
 badad.googleplex.com
@@ -4485,6 +4488,7 @@ boustahe.com
 bouzechoby.net
 bowerywill.com
 box.anchorfree.net
+boxlikesedativespinach.com
 boxofwhisper.com
 boxpr.admicro.vn
 boxpr.aiservice.vn
@@ -10692,6 +10696,7 @@ log.zingnews.vn
 log.znews.vn
 log1.adsplay.net
 log1.cmpassport.com
+log16-normal-us-ttp.capcutapi.us
 log2.adsplay.net
 log2.cmpassport.com
 log2.spotify.com
@@ -11119,7 +11124,9 @@ mcs-sg.tiktok.com
 mcs-va.capcutapi.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
+mcs.tiktokw.us
 mcs.zijieapi.com
+mcs16-normal-us-ttp.capcutapi.us
 mct.rkdms.com
 mcuyfiwii.com
 mda.zadn.vn
@@ -11527,11 +11534,13 @@ momotrk.com
 mon-sg.capcutapi.com
 mon-va.capcutapi.com
 mon.adx.vn
+mon.capcutapi.us
 mon.isnssdk.com
 mon.snssdk.com
 mon.tiktokv.com
 mon.us.tiktokv.com
 mon.zijieapi.com
+mon16-normal-us-ttp.capcutapi.us
 monadplug.xs.ak-is2.net
 mondiad.net
 monetate.net
@@ -11632,6 +11641,8 @@ msgapp.com
 msgose.com
 msincsayqmji.com
 msn.serving-sys.com
+mssdk.capcutapi.us
+mssdk.tiktokw.us
 mstorer.net
 mstr.sharethrough.com
 msvobeuhec.com
@@ -14328,6 +14339,7 @@ rj.a-mo.net
 rj.gssprt.jp
 rj.m.taobao.com
 rjkrefyqrixk.com
+rjprpydgnco.com
 rjw4obbw.com
 rkdms.com
 rkgwzfwjgk.com
@@ -14604,6 +14616,7 @@ rwulzuaqsafn.com
 rxcdn.1rx.io
 rxeosevsso.com
 ryeqnyvbncdvg.com
+rzuohgfwyoxx.com
 s-a.innovid.com
 s-ad.rmp.rakuten.co.jp
 s-adserver.cxad.cxense.com
@@ -15215,6 +15228,7 @@ sezwho.com
 sf.nazs.socdm.com
 sf.vserv.mobi
 sf16-static.i18n-pglstatp.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf960.com
 sfiannzilgi.com
 sfsapi.micloud.xiaomi.net
@@ -16956,6 +16970,7 @@ tn.alphonso.tv
 tnc-boot.capcutapi.com
 tnc-sg.capcutapi.com
 tnc16-alisg.isnssdk.com
+tnc16-normal-us-ttp.capcutapi.us
 tnkexchange.com
 tnkuetnoabuk.com
 tns-counter.ru
@@ -19617,6 +19632,7 @@ yespetor.com
 yeti-api.automatad.com
 yeti.automatad.com
 yfetyg.com
+yfshutispht.com
 yhmfmugyq.com
 yicha.jp
 yield-manager.browsiprod.com
