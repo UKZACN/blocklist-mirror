@@ -139,6 +139,7 @@ ads.edadeal.ru
 ads.feelingtouch.com
 ads.imbc.com
 ads.imovideo.ru
+ads.inmobi.com
 ads.iosappsworld.com
 ads.jianchiapp.com
 ads.mobilityware.com
@@ -359,6 +360,7 @@ cmshow.gtimg.cn
 common.duapps.com
 comscore.com
 config.appjolt.com
+config.inmobi.com
 config.tremorhub.com
 configuration.ttpsdk.info
 configure.rayjump.com
@@ -452,6 +454,7 @@ gdl.i9dhjx.ru
 gdn.bigfishgames.com
 geede.info
 geoloc.yospace.com
+glance.inmobi.com
 global-staticplat.cdn.bcebos.com
 global.appnext.com
 go.admost.com
@@ -504,7 +507,6 @@ infolinks.com
 ingamesads.gameloft.com
 inmense.site
 inmobi.cn
-inmobi.com
 inmobi.net
 inmobicdn.net
 inmobisdk-a.akamaihd.net
@@ -742,6 +744,7 @@ skadsdk.appsflyer.com
 skt-asum.com
 smilered.com
 socdm.com
+sonicsads.com
 sonobi.com
 soundcloud-pax.pandora.com
 speee-ad.akamaized.net
