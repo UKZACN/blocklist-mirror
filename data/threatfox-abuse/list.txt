@@ -215,6 +215,7 @@
 1.santaiot.net
 1.tcp.clar.io
 1.tcp.eu.cpolar.io
+1.tcp.jp.ngrok.io
 1.wsit4.ru
 1.www.richinimpianti.cloud
 10.0.minewise.xyz
@@ -300,6 +301,7 @@
 137f.stormmint.ru
 137z.qu1rkfuse.ru
 13ov5ypehzqx5l.org
+13rv.wild5ky.ru
 14.888-c.ru
 14.ae.voltexpressdelivery.com
 14.lilacsilo.ru
@@ -1056,6 +1058,7 @@
 4morphis.no-ip.org
 4mxlrhcab.localto.net
 4myrb8zoe.localto.net
+4n.darkbreeze.ru
 4n.j8ro.ru
 4n.jt4o0.ru
 4n.ty9a.ru
@@ -1086,6 +1089,7 @@
 4t.ckyq9.ru
 4t.wugh.ru
 4t2.inc1inedn0n.ru
+4tqikdkjp.localto.net
 4tqm.28ae00i7.ru
 4u.ozxg-5.ru
 4u29.manual1sa1yz.ru
@@ -1155,6 +1159,7 @@
 554r5.f0xwave.ru
 555888.cyou
 555host.ddns.net
+556.windst0ne.ru
 55728.99y401874.ru
 55728.r46eu.ru
 55a07.neoniake.ru
@@ -1272,6 +1277,7 @@
 5nafr.esca1t3ust.ru
 5ndg65b68274v.cfc-execute.bj.baidubce.com
 5nq6s.pipetalon.ru
+5nr.deepcl0ud.ru
 5nu.8786.ru
 5nyo.zap-kinetic.ru
 5o.8oodt1me.ru
@@ -1317,6 +1323,7 @@
 5w.g-lim.ru
 5weuo.ta11y.ru
 5wf.yw9a.ru
+5wnc.rockstorm.ru
 5x.03e3x.ru
 5x.d5-en.ru
 5x.yffl-9.ru
@@ -1359,6 +1366,7 @@
 62e993f98a75.ngrok-free.app
 631cf.ant1d5ulphur.ru
 633bd53942.nxcli.net
+63oi.wild5ky.ru
 63tefarz8.localto.net
 64.d55u5.ru
 64.rockbyte.ru
@@ -1439,6 +1447,7 @@
 6i4.re7x.ru
 6i4.ze9y.ru
 6i4u.ru
+6ifg.mistybyte.ru
 6j.vbep3.ru
 6jr.fog-map.ru
 6jtg4.quibsnare.ru
@@ -1566,6 +1575,7 @@
 75.p7li.ru
 75nahgyu2.xyz
 75qk.ic3gate.ru
+75z.ripple-cask.ru
 76.k59ee.ru
 7652190.11u812580.ru
 7652190.7i091.ru
@@ -1752,6 +1762,7 @@
 8451203.y438414.ru
 8451203.zm6392.ru
 84m.stoneflare.ru
+84u.softmint.ru
 84w7.pulseknob.ru
 85.ndoq0.ru
 851.93i197934.ru
@@ -1783,6 +1794,7 @@
 89.yffl-9.ru
 890.gc0o9.ru
 890.zv-1-a-0.ru
+89pdo.kettlewisp.ru
 8a.s0ftmint.ru
 8a.tiqk.ru
 8a.u-v9.ru
@@ -2033,6 +2045,7 @@
 9pft.def1nmem0r.ru
 9pt.bu1gep2lest.ru
 9q.55-0p.ru
+9q.raincr5st.ru
 9r.gtus4.ru
 9r1ca.izn5ty1ize.ru
 9r5b.b1asfi7ty.ru
@@ -2484,6 +2497,7 @@ aayowmowcemucyay.xyz
 aaywuykyewmeccuu.xyz
 aayyoaomogeeyqeo.xyz
 ab.b3x1p.ru
+ab.clearl1ne.ru
 ab.cofepoi2.ru
 ab.hihijie3.ru
 ab.hwke4.ru
@@ -3327,6 +3341,7 @@ ajk.vekoloe8.ru
 ajml.icymoth.ru
 ajnetwork.ddns.net
 ajoyfulbear.com
+ajpl.ripple-cask.ru
 ajs.s7li.ru
 ajshgdhjfgasthjydyufasghjfdafsgudgfhjasgfjh.satyr.wtf
 ajuyn.top
@@ -3482,8 +3497,10 @@ alsokdalsdkals.com
 alt-ruist.com
 alternative-corporate.gl.at.ply.gg
 alternative.zapto.org
+alto3.cl0udcrest.ru
 altobg.cyou
 altopew.com
+altos.cloudv1be.ru
 alumibro.asia
 alv.lotegeo7.ru
 alvaradosready.accesscam.org
@@ -3859,6 +3876,8 @@ ape.qvik5.ru
 apekafilokreilosaka.com
 aperojk.top
 aperture-48940.portmap.host
+apex.cl0udcrest.ru
+apex4.skytrac5.ru
 apexkolp.today
 apexxenon.com
 aphrh1tc4h.ru
@@ -3950,6 +3969,8 @@ app-sanctum.top
 app.accarda.com
 app.agencialegalads.com
 app.avasup.com
+app.buziopoasbubu.top
+app.castlerocks.za.com
 app.cloudservtech.com
 app.dessertshouse.com
 app.doselektro.com
@@ -4011,9 +4032,7 @@ apps.dmg-tech.com
 apps.odoo-en.com
 apps.soft-storelive.com
 appsupdate.xyz
-appxmacos.com
 apraadhi.com
-aprcare.help
 aprendaceo.com.br
 april-duration.gl.at.ply.gg
 apsom.org
@@ -4053,7 +4072,9 @@ arb-swap.net
 arbitr-urist.com
 arbitrationstructure.com
 arboriza21.org
+arc2.storml1nk.ru
 arc9m5.mar5hma1narc.ru
+arch.mistybr1dge.ru
 arch.pot5.ru
 arch.wsf-steel.com
 archeckfix.com
@@ -4130,7 +4151,6 @@ arvnd.duckdns.org
 arvskmow.com
 aryabet.bet
 aryakupal.com
-aryxnw.xyz
 as.c8i0.ru
 as.lage2.ru
 as.pl-8a.ru
@@ -4204,6 +4224,7 @@ asgp2.lake-ray.ru
 asguacsqcaumsiqe.xyz
 asgwueyisogemysa.xyz
 asgyuskacueomkku.xyz
+ash.f1restorm.ru
 ash.k4tem.online
 ash.mi4x.ru
 ash.web-d-n-45.ru
@@ -4269,6 +4290,7 @@ asogagikayyqwmsg.xyz
 asoiwcqwioemuacc.xyz
 asoowkcugcykukwa.xyz
 asoqcqcymamwumkg.xyz
+asos1.net
 asosayguoamgasey.xyz
 asosoqeyccggecqc.xyz
 asoworld.biz
@@ -4301,6 +4323,7 @@ assistance-commissions.gl.at.ply.gg
 assistancewindows20025.duckdns.org
 assksumawamqycum.xyz
 asslup.sbs
+associacaodejudosi.org
 associated-bk.gl.at.ply.gg
 associates-pl.net
 association-fairfield.gl.at.ply.gg
@@ -4792,6 +4815,7 @@ azur.m1stycl0ud.ru
 azure.m365.1drive.zip
 azure.mcej-9.ru
 azure.q0spi.online
+azure2.bluest0ne.ru
 azure5.bluem1st.ru
 azurebrief.gleeze.com
 azurecloudteam.com
@@ -5195,6 +5219,7 @@ basehce.qpon
 baseswap-new.typedream.app
 bash-glider.ru
 basic-fan.gl.at.ply.gg
+basil.shadowm1nt.ru
 basil9.br1ghtmint.ru
 basin2.rockfieid.ru
 basis-appropriations.gl.at.ply.gg
@@ -5393,6 +5418,7 @@ belsiorealestate.io
 belulunelubukekekbuekkkebdhhkekekjdhfjdj.duckdns.org
 bemyxye5.ru
 bencodestudio.com
+bend.r1verdusk.ru
 bendavo.su
 bendicionesdios.dynuddns.net
 benefits-blocking.gl.at.ply.gg
@@ -5440,10 +5466,12 @@ bet.pykokiu43.ru
 bet365x.es
 beta.5eertr1ad.ru
 beta.b1asfi7ty.ru
+beta.bluef1re.ru
 beta.cl0udramble.ru
 beta.crankmuddle.ru
 beta.darkc0re.ru
 beta.in5istle5s.ru
+beta.kettlewisp.ru
 beta.m1stybird.ru
 beta.payoopoint.net
 beta.pi1er5pat.ru
@@ -5892,6 +5920,7 @@ bold.f1rest0ne.ru
 bold.jix3.ru
 bold.kira5l2nd.ru
 boldhorizongroup.com
+bolt.storml1nk.ru
 bolt.test.silvan.earth
 bolt9a.fastspark.ru
 boltex.net
@@ -6106,6 +6135,7 @@ breez5.be8ref7ain.ru
 breez5.lazywind.ru
 breez9.windzero.ru
 breeze.br1ghtstorm.ru
+breeze.mintst0rm.ru
 breeze.wtok-2.ru
 breezef0x.ru
 breezibeauti.com
@@ -6161,6 +6191,7 @@ brimaganla.duckdns.org
 brimhopper.ru
 brinewald.ru
 bring05.5-milod-931-o.ru
+brink.cliffbright.ru
 brirbxl.cyou
 brisa.amberkliff.ru
 brisa2.br1ghtmint.ru
@@ -6423,6 +6454,8 @@ byt3rx.leafbyte.ru
 byte.amy8ep1thet.ru
 byte.b0okca7niv.ru
 byte.b1tcascade.ru
+byte.bytefl0w.ru
+byte.darkbreeze.ru
 byte.effu5rep7eh.ru
 byte.ge7kom0ley.ru
 byte.jaxdrill.ru
@@ -6715,6 +6748,7 @@ cable-aged.gl.at.ply.gg
 cabunca.mypets.ws
 cabym.press
 caccmakookioeyaa.xyz
+cache.datash1ft.ru
 cacmiyucaukeucic.xyz
 cacmkwqckmcsyekm.xyz
 cacmsgwoeggsiuig.xyz
@@ -6917,7 +6951,6 @@ carteop.top
 carter-wallace.com
 carvalho.agencialegalads.com
 carve.5-kafaq-7-io.ru
-cas-aws.optimumcs.org
 cas3bx.smartb0x.ru
 casadecampoamazonas.com
 casarolliadvogados.agencialegalads.com
@@ -6937,6 +6970,7 @@ casino-truth.gl.at.ply.gg
 casino.ddnss.de
 casino1929299910.o-r.kr
 casissigigouaqeq.xyz
+cask.kettle-wisp.ru
 cask.sn0cklejar.ru
 casog.icu
 cassandpool2.net
@@ -6945,6 +6979,7 @@ cast4r.ra1nbyte.ru
 castcp.lat
 castdyt.pics
 castle-fifth-print-metallic.trycloudflare.com
+castlerocks.za.com
 castra.site
 casuapw.courses
 casulahobbuoies.shop
@@ -7143,6 +7178,7 @@ center-para.gl.at.ply.gg
 center-viewpicture.gl.at.ply.gg
 central-comes.gl.at.ply.gg
 centralserver.theworkpc.com
+centre-instruction.gl.at.ply.gg
 centre-samples.gl.at.ply.gg
 centroecoformativosanmartin.eu
 century-see.gl.at.ply.gg
@@ -7217,6 +7253,7 @@ ch.bo8y.ru
 ch.hb0-e.ru
 ch.hekulei5.ru
 ch.kmbo6.ru
+ch.stormf0x.ru
 ch.sxuj-7.ru
 ch.xxx-2-u.ru
 ch36efcnia2ct5.duckdns.org
@@ -7436,6 +7473,7 @@ chikara.group
 child-porn.womensoundoff.com
 children-gel.gl.at.ply.gg
 children-hughes.gl.at.ply.gg
+chill.frostc0re.ru
 chill5.fr0stpetai.ru
 chillorbackup.no-ip.org
 chillornet.no-ip.org
@@ -7536,6 +7574,7 @@ cioudriver.ru
 ciqe8.ru
 circuit.gl1nterbay.ru
 ciriloehansen.agencialegalads.com
+cirrus.cloudv1be.ru
 cirruslegacy.com
 cirugia4k.con-ip.com
 cirwelh.top
@@ -7719,6 +7758,7 @@ cleandrop.com.br
 cleanmeup-app.signo.dev.br
 clear-sign-e69444a8e4ea.herokuapp.com
 clear.akmei5mh0t.ru
+clear.bluef1re.ru
 clear.brightgate.ru
 clear.buddco1lect0r.ru
 clear.c0rres5cour.ru
@@ -7791,6 +7831,7 @@ cloedjw.duckdns.org
 cloqfw.asia
 closeconection.duckdns.org
 closeddoors.shop
+clothcrib.xyz
 clothing-wooden.gl.at.ply.gg
 clotj.pics
 clotmh.top
@@ -7815,6 +7856,7 @@ cloud.p0larday.ru
 cloud.silverh1ll.ru
 cloud.softcrest.ru
 cloud.spyingte1ess.ru
+cloud.stormf0x.ru
 cloud.ve1vetc0ves.ru
 cloud.windfiare.ru
 cloud.xinzyun.cn
@@ -7952,6 +7994,7 @@ coast.c2rndiv1ne.ru
 coast.r2dire5our.ru
 coast.w1ndcrest.ru
 coast0.5-forez-515-o.ru
+cobalt.bluest0ne.ru
 cobalt.wduh-8.ru
 cobble.saffron-dent.ru
 cobyrose.com
@@ -8199,7 +8242,6 @@ cotswmr.pics
 couamcs.lat
 council-its.gl.at.ply.gg
 counter-inaugural.org
-counterstrike2-cheats.com
 countiw.asia
 countries-degree.gl.at.ply.gg
 country-blade.gl.at.ply.gg
@@ -8469,9 +8511,11 @@ crest.n1ghtwave.ru
 crest.p2rabpr0nos.ru
 crest.p2rtics2nd.ru
 crest.riverl1ght.ru
+crest.rockstorm.ru
 crest.st0nepeak.ru
 crest.stonemist.ru
 crest.stormglade.ru
+crest.storml1nk.ru
 crest.sunb1aze.ru
 crest.sunm0tion.ru
 crest.zenbloom.ru
@@ -8620,6 +8664,7 @@ currx.top
 cursilibim.ru
 curtis.aurovine.com
 curux.run
+cush.s0ftcliff.ru
 cusisbz.top
 customer-cheats.gl.at.ply.gg
 customercareserviceindia.in
@@ -8811,6 +8856,7 @@ cyberwashere.is-a-lawyer.com
 cybf5coa1t2xr2.org
 cyc.rxir-9.ru
 cycdjja.shop
+cycl1e.windc0de.ru
 cyclohj.qpon
 cycvmix.shop
 cycwsocumawoscci.xyz
@@ -8977,6 +9023,7 @@ d5y6x.ru
 d6.4qua0.ru
 d6.gend2rlu1l.ru
 d6aw.1s-1n.ru
+d6gu.ripple-cask.ru
 d6k1.02lxy3.ru
 d6ksj.ic3gate.ru
 d6pl.6-19t.ru
@@ -9410,6 +9457,7 @@ delnsc.pics
 delta.b1tcascade.ru
 delta.c7ucifto1nov.ru
 delta.d7un4recid.ru
+delta.datash1ft.ru
 delta.deepbreeze.ru
 delta.diab4uette.ru
 delta.dreamc0ast.ru
@@ -9420,9 +9468,12 @@ delta.lo0kferti1.ru
 delta.pr0wlmint.ru
 delta.quench-orbit.ru
 delta.r0cketf2rm.ru
+delta.r1verdusk.ru
+delta.rockstorm.ru
 delta.st0neforest.ru
 delta.sun5hine.ru
 delta4.dup1ic4ermaph.ru
+delta5.darkp1xel.ru
 delta6.r1verdrop.ru
 deltasync.ru
 deluxelodgings.com
@@ -9957,6 +10008,7 @@ dr.sapafou.ru
 dr1zle.mistflare.ru
 dr5.ve5l.ru
 draft.pip-etalon.ru
+draft.windc0de.ru
 draft21.redirectme.net
 draft22.duckdns.org
 draft22.redirectme.net
@@ -11038,11 +11090,13 @@ ej224477.ddns.net
 ejalive.top
 ejfirkod.cfd
 ejjogggfqcmc.com
+ejt0w.kettlewisp.ru
 ejthr.citur-tourismresearch.com
 eju.ju-4-en-pare-1.ru
 ek.nyfk.ru
 ekattor.bhadracity.com
 eklzmwo.icu
+ekmeowprogram.ddns.net
 ekochist.com
 ekspert-audit.ru
 el.dbc-8-i.ru
@@ -11095,6 +11149,7 @@ elle.digipeeps.online
 ellexb.lol
 ellipmea.top
 ellisburton.zapto.org
+ellu2222-37691.portmap.host
 elm.dor8y.online
 elmodeer.no-ip.biz
 elmquarry.ru
@@ -11137,16 +11192,17 @@ emaragogi.com.br
 emb3rz.windf1re.ru
 emballeplus.com
 embanex.com
-embargogo2378.duckdns.org
 ember-cloud.ru
 ember-harbor.ru
 ember.0rbishade.ru
 ember.basaltwisp9.ru
+ember.bluef1re.ru
 ember.bwenina.ru
 ember.chi1ob5cene.ru
 ember.con8ratgr2de.ru
 ember.emberfrontier.ru
 ember.f1fthudde7.ru
+ember.f1restorm.ru
 ember.nightblossom.ru
 ember.po0f5hleika.ru
 ember.sh4d0wmere.ru
@@ -12307,13 +12363,13 @@ field.deepbreez3.ru
 field.f1ippme7re.ru
 field.l1ghtforest.ru
 field.soft5and.ru
+field.wild5ky.ru
 field0.fa-1-cbrea-5-t.ru
 field1.law-5-andw-1-ch.ru
 fieldblue.logocravings.com
 fieldsign.jp
 fielregistros.com.agencialegalads.com
 fieooeoafheifiif.su
-fierdevivre.duckdns.org
 fifalolafasertikonex.com
 fifdtm.lat
 fifiehsueuufidhfi.in
@@ -12431,6 +12487,7 @@ firiaer.fun
 firn.fr0stgate.ru
 firn.frostwinkel.ru
 firn2.snowdr1ft.ru
+firn3.frostc0re.ru
 firn5a.snowroot.ru
 firopirocloundare.com
 first-walt.gl.at.ply.gg
@@ -12478,6 +12535,7 @@ fixprjajaa.site
 fixprojectbest.space
 fixstealerthebest.store
 fizz.draft-snip.ru
+fizz.kettle-wisp.ru
 fj.dk2o1.ru
 fj.gtus4.ru
 fj.hyk5.ru
@@ -12571,6 +12629,7 @@ flare.sunb1aze.ru
 flare.suncrest0n.ru
 flare.wildm1st.ru
 flare.wildshift.ru
+flare1.f1restorm.ru
 flare1.windf1re.ru
 flare5.sunfold.ru
 flare9.skyf1ame.ru
@@ -12651,6 +12710,7 @@ flux.j0tchamber.ru
 flux.qu1rkfuse.ru
 flux.zapto.org
 flux0.quant-melt.ru
+flux2.bytefl0w.ru
 flux3.t1nkerbay.ru
 flux9.l1ghtflare.ru
 flx.la9q.ru
@@ -12693,6 +12753,7 @@ fofatot.ddns.net
 fofbookgroup.com
 foflfalflafl.com
 fog.death-angel.shop
+fog.mistybr1dge.ru
 fog1sy.shad0wmint.ru
 fog7mn.mar-5-hma-1-narc.ru
 fogants.info
@@ -12704,7 +12765,6 @@ fogueteiro.webhop.biz
 fohf.ru
 foihacked.no-ip.org
 fokamoland.stufftoread.com
-fokeniz.com
 fokvmmygnngm.com
 fola.bet
 fold9r.sunfold.ru
@@ -12788,7 +12848,6 @@ formulaire-mondialrelay-pro.com
 foroinnovacionuniversitaria.net
 forrbes.com
 forsizillenazzlle.duckdns.org
-forsondu92.duckdns.org
 fortelio.karina2bento-com.xyz
 forthepeople-58907.portmap.host
 fortiseadon.com
@@ -12869,6 +12928,7 @@ frakt8.crystalv1be.ru
 frameclover.info
 framestove.info
 framoa.top
+francaeso-ctrik-51614.portmap.host
 francia2028.duckdns.org
 francisco-play-it-reai.play.it.gg
 francizaimobiliara.com
@@ -12925,6 +12985,7 @@ fromlink.net
 front95.5-kafaq-7-io.ru
 frost-wilder.online
 frost.cl0udfall.ru
+frost.darkmint.ru
 frost.dovemantel.ru
 frost.ede1g0rge.ru
 frost.ei8htyern1k.ru
@@ -13423,6 +13484,7 @@ gamestuts.com
 gamindcr.duckdns.org
 gamma.ac0rnrepr0d.ru
 gamma.cheb0t5agit.ru
+gamma.darkp1xel.ru
 gamma.ep1che2ded.ru
 gamma.f1rest0ne.ru
 gamma.lett5p0st.ru
@@ -13725,6 +13787,7 @@ gbobaebaodebuoueofuu.info
 gbobaebaodebuoueofux.biz
 gbotupdate19xx.com
 gc.ss-9-y-4.ru
+gc31.windst0ne.ru
 gci.no4s.ru
 gclouds.icu
 gconfisur.com
@@ -14242,6 +14305,7 @@ glade.awreti3uette.ru
 glade.br1ghtstone.ru
 glade.brightstep.ru
 glade.c0dehawk.ru
+glade.darkmint.ru
 glade.f0re5tline.ru
 glade.hollow7ridge.ru
 glade.immigrant5p.ru
@@ -14339,6 +14403,7 @@ glibtof.qpon
 glide.brim-hopper.ru
 glide.cr1mpoint.ru
 glide.gl1nterbay.ru
+glide.skytrac5.ru
 glide.twistnova.ru
 glide2.vexlatch.ru
 glidzgs.top
@@ -14350,8 +14415,10 @@ glint.dexlotion.ru
 glint.stormpixei.ru
 glint5.crystalv1be.ru
 glitch.quirk-paste.ru
+glitch.ripple-cask.ru
 glitchpact.ru
 glittmb.xyz
+gloam.r1verdusk.ru
 gloam5.shad0wmint.ru
 gloam7.duskfield.ru
 global-weekends.net
@@ -14797,6 +14864,7 @@ greet09.5-ninet-1-ou.ru
 greet4.0-we-fid-707-i.ru
 greglo-kk-com.check-xserver.jp
 gregmhy.lol
+grenki2005-34712.portmap.host
 grenlel.top
 greqjfu.xyz
 greued.asia
@@ -15033,6 +15101,7 @@ guncel-tv-player-lnat.com
 guosong.top
 guq.mosatiy4.ru
 gusex.press
+gust.windc0de.ru
 gust5r.stormglow.ru
 gust5y.5tormfoid.ru
 gust5y.stormling.ru
@@ -15770,6 +15839,7 @@ hell.dedicated-coords.lol
 hellkkj.shop
 hello-squiblydoo-do-you-like-kitties.com
 hello.tgllsy.bar
+hellober-62592.portmap.host
 hellocamel.p-e.kr
 hellokittyballs-53833.portmap.host
 helloworid.org
@@ -15802,7 +15872,10 @@ her.vex0.ru
 herady.xyz
 herandhis.kvus7.ru
 heras.cfd
+herb.mintst0rm.ru
+herb2.darkmint.ru
 herb5.br1ghtmint.ru
+herb5.shadowm1nt.ru
 herb5x.mintpeak.ru
 herb5y.mintfiare.ru
 herb6x.cl0vermint.ru
@@ -15837,6 +15910,7 @@ hf.yw9a.ru
 hf5.fk9o0.ru
 hfcv.gi-0-wmarsh.ru
 hfdjmoedkjf.asia
+hfe.windst0ne.ru
 hfegocufjkndwc.com
 hffiahz.asia
 hfhi.m0tivecrib.ru
@@ -16027,6 +16101,7 @@ ho.xrxo2.ru
 ho.z3-lu.ru
 ho7.rd-1-a-2.ru
 hoanghachai.com
+hoar.frostc0re.ru
 hoar2.fr0stgate.ru
 hobbcxez.top
 hobidir.com
@@ -16039,6 +16114,7 @@ hodef.press
 hodyl.icu
 hof.cometlinde.ru
 hofpfi01.top
+hog.darkbreeze.ru
 hogsandhops.net
 hogsandhopsatlanta.com
 hogsandhopsbbq.com
@@ -16239,6 +16315,7 @@ huaeokaefoaeguaeho.io
 huaeokaefoaeguaehp.co
 huaeokaefoaeguaehr.su
 huaeokaefoaeguaehu.cc
+hub.netw1ng.ru
 hub.pi6o.ru
 hubris.hubr1s5ajor.ru
 huckypet.ydns.eu
@@ -16271,6 +16348,7 @@ huquw.icu
 hurdln.asia
 husaor.hubr1s5ajor.ru
 hush2.ciears0ft.ru
+hush2.r1verdusk.ru
 hush5.bl1zpond.ru
 hush9r.s1lentlake.ru
 hussproject.no-ip.org
@@ -16947,6 +17025,7 @@ incroqj.top
 inczujv.top
 indef.locker
 index-hall.gl.at.ply.gg
+index.datash1ft.ru
 indian--express.com
 indian-occupational.gl.at.ply.gg
 indianafoodpantry.org
@@ -17537,7 +17616,6 @@ izdbuhcucuuzfz.org
 izdbuhcucuuzfz.ru
 izdbuhcucuuzfz.su
 izdbuhcucuuzfz.ws
-izumi-test.f5.si
 izumisv1.cc
 izw.mjg1.ru
 j-6208u.ru
@@ -17890,7 +17968,6 @@ joselicaadvocacia.agencialegalads.com
 josemansory980.4cloud.click
 josemargomesdasilva1751988902000.produtoracasabranca.com.br
 josesi4418-31009.portmap.host
-joshuasmith-59211.portmap.io
 joss77b.com
 josyfs.shop
 journ3.longj0urney.ru
@@ -17921,6 +17998,7 @@ jprklawfirm.com
 jptech202.ddnsking.com
 jpuityvakjgg.com
 jpv.dlun7.ru
+jq.darkbreeze.ru
 jq.u-v9.ru
 jq8ob.bowin1nca5.ru
 jqk.ravenklause.ru
@@ -19824,11 +19902,12 @@ lecolinequintet.fr
 lectola.asia
 led.x2lu.ru
 ledax.icu
+ledge.cliffbright.ru
 ledge.rockfieid.ru
+ledge2.s0ftcliff.ru
 ledgerprotected.com
 ledivineenfant-59793.portmap.host
 ledivineenfant-60344.portmap.host
-leedelectronics.top
 leedslockandkey.com
 leehpfe.shop
 leeleelee.xyz
@@ -20038,6 +20117,7 @@ lingerie-indiscrete.com
 lingzvl.top
 linhxasro.com
 link.ikantoman.com
+link3.netw1ng.ru
 linkedservlet.pro
 linkmore.info
 links-rwanda.gl.at.ply.gg
@@ -20088,6 +20168,7 @@ livingstonscleaning.com.mobimark.net
 livusa.locker
 liwamye6.ru
 lizyf.top
+lj.clearl1ne.ru
 lj.g0sslamp.ru
 lj.gily1yo3.ru
 lj.lo2p.ru
@@ -20166,6 +20247,7 @@ loa10.espremedorlolita.shop
 load.granivit.hu
 loadinnnhr.today
 loadupm.lat
+loam.s0ftcliff.ru
 loamcpps.asia
 loan-rv.gl.at.ply.gg
 loans-holding.gl.at.ply.gg
@@ -21030,7 +21112,6 @@ mail.kftmakine.com.tr
 mail.landman.africa
 mail.landtransparency.org.zm
 mail.lavorwash.hu
-mail.leedelectronics.top
 mail.lepetitjardinier.sn
 mail.letlama.com
 mail.localgrapevines.com
@@ -21234,6 +21315,7 @@ malware.kallisti.uk.com
 malware.kbbet777.net
 malware.medcom.it.com
 malware.medienundbildung.com
+malware.motchilltv.how
 malware.motchilltv.red
 malware.motchilltv.you
 malware.nahproject.com
@@ -21474,6 +21556,7 @@ mcity.hopto.org
 mcnd.eu
 mcnegeytoyh.com
 mcp.jk3y7.ru
+mcx.deepcl0ud.ru
 mcyz-4.ru
 mcz.g7ve.ru
 md-mean.gl.at.ply.gg
@@ -21666,12 +21749,12 @@ merahmerona.sbs
 mercanmuhendislik.com
 merchandise.risemyrank.com
 merqil.bl0omgate.ru
-mersenne502.noip.me
 mersinet.com
 mesagkigquewussu.xyz
 mesaweide.ru
 mesccigmyugkcwua.xyz
 mesgeqyaeuqumuqu.xyz
+mesh.netw1ng.ru
 mesh.papervolt.ru
 mesh.s0apthorn.ru
 mesh.s0larbudge.ru
@@ -21777,6 +21860,7 @@ microsoft-teams-download.com
 microsoft-telemetry.at
 microsoft-telemetry.cc
 microsoft.ms-drivers.cam
+microsoft.shopmzx.in.net
 microsoftcdnlicense.putinswin.es
 microsoftdesktop.com
 microsoftsys.ddns.net
@@ -21859,6 +21943,7 @@ mint.n2zemt0ler.ru
 mint.pen1sp7edef.ru
 mint.pincerloom.ru
 mint.st0nefield.ru
+mint.stormf0x.ru
 mint.treqz.online
 mint.vo-3-n.ru
 mint.wib8.ru
@@ -21909,6 +21994,7 @@ mist.mossgrotte.ru
 mist.opal-hollow.ru
 mist.riverl1ght.ru
 mist.rockbyte.ru
+mist.rockstorm.ru
 mist.sne-4-p.online
 mist.st0nebyte.ru
 mist.st0rmleaf.ru
@@ -21935,11 +22021,13 @@ mityxyo4.ru
 mividatour.com
 miwee2-49793.portmap.host
 mix.cofidyu58.ru
+mix.kettle-wisp.ru
 mix3on.fu5i0npeak.ru
 mixp.digital
 mixy.jp
 miz.lspmodz.ml
 mizar25.no-ip.org
+mizh.raincr5st.ru
 mizu.deep5tone.ru
 mizx.ru
 mj.ldef4.ru
@@ -22782,6 +22870,7 @@ myqwgseuewgiusyy.xyz
 myqyacyoaicecscc.xyz
 myqyqqgkgiuoooui.xyz
 myread.io
+myrepis.gd
 myrtlebeachdeepseafishing.com
 myrtleturtlesavingscard.com.mobimark.net
 mysaoqaqakaymicc.xyz
@@ -23027,6 +23116,7 @@ n7rwr.col1ectfre5h.ru
 n7v.wildspark.ru
 n7w3a.t-7-1u.ru
 n7x.ravenpfad.ru
+n7xbtfikx.localto.net
 n7xs.cdn-6-38.ru
 n7y.drift-meadow.ru
 n8.5i0a.ru
@@ -23072,6 +23162,7 @@ nacht.shadowtal.ru
 nacht.stormgrat.ru
 nacht.yewhollow.ru
 nadbabbabefnefmf.su
+nadir.cl0udcrest.ru
 naedvezdeahfhuea.su
 naefneabdmemdnaf.su
 nafuq.xyz
@@ -23162,6 +23253,7 @@ nawym.icu
 nay.k8li.ru
 nayaink1990.dynu.net
 nazareen.ddns.net
+nazrej.sa.com
 nazzuro.com
 nb.brambleforge.ru
 nb.kpyw-8.ru
@@ -23342,6 +23434,8 @@ nextstepinvest.xyz
 nextwarren.mt-org.com
 nexu5.lizqa.online
 nexus-cloud-360.com
+nexus.bytefl0w.ru
+nexus.clearl1ne.ru
 nexus.tinkerstep.ru
 nexus.velvetecho.ru
 nezaeazdgzegdget.su
@@ -23434,9 +23528,9 @@ nika123.duckdn
 nike.ovh
 niklainwar-52787.portmap.host
 nikys.icu
-nil.group.found
 nimbsjoa.com
 nimbus3.stormpixei.ru
+nimbus5.cloudv1be.ru
 nimbus6.l1ghtstorm.ru
 nimdelcapital.com
 nimeshpatel.in.net
@@ -23536,6 +23630,7 @@ no.z3-lu.ru
 no1parnell.com
 no555.wtes4.ru
 nobles.locker
+noct.darkmint.ru
 noct.n1ghtwave.ru
 noct4.clearm0on.ru
 nod.qvik5.ru
@@ -23566,6 +23661,8 @@ noeuaoenriusfiruuy.net
 noggs.ru
 nohz.org
 noidprb.cyou
+noir.darkp1xel.ru
+noir.shadowm1nt.ru
 noir4.darksun5et.ru
 noir7w.black5wan.ru
 noirgsiorgididii.su
@@ -23666,6 +23763,7 @@ nova.quartzkip.ru
 nova.r1verbloom.ru
 nova.st-0-bepress.ru
 nova.st-1-lt-forge.ru
+nova.v0lticrum.ru
 nova.zenithsnap.ru
 nova1.gr1tbinder.ru
 nova1.l1festone.ru
@@ -23922,7 +24020,6 @@ o.fern-estates.com
 o.hwke4.ru
 o.j1g3k.ru
 o.nybk.ru
-o.optimumcs.org
 o.qgf-5-e.ru
 o.s7z7r.ru
 o.t4a4.ru
@@ -24178,6 +24275,7 @@ od2nipo.com
 odbconnect.work.gd
 odd-nichinan-4485.lolipopmc.jp
 odd.crank-muddle.ru
+odd.kettle-wisp.ru
 odd.m4rj.ru
 odd.wtes4.ru
 odeon-gongen.com
@@ -24871,6 +24969,7 @@ orbit.c1rclefang.ru
 orbit.odd-kraken.ru
 orbit.proxyjet.ru
 orbit.quartzflip.ru
+orbit.v0lticrum.ru
 orbit0.clearm0on.ru
 orbit1.miragepad.ru
 orbit2.turbo-tap.ru
@@ -25723,6 +25822,7 @@ peace7.sys7yn0iy5.ru
 peacebuildersunite.com
 peaceofchristcam.org
 peacezoneflow.ydns.eu
+peak.cl0udcrest.ru
 peak.eaglekrone.ru
 peak.nightl1ne.ru
 peak.stormbiend.ru
@@ -25944,7 +26044,6 @@ pickterra.mx.pickterra.com
 picnq.top
 pictuqyr.qpon
 pidamazonia.com
-pidorasina.ru
 pie.z3lu.ru
 piejfw.top
 pig.fix-fg.ru
@@ -26135,6 +26234,8 @@ plumpinr.info
 plurcfq.top
 plush.ciears0ft.ru
 plush.lizqa.online
+plush.s0ftcliff.ru
+plush2.softdr1ve.ru
 pluv7x.driftquartz.ru
 pm.dk-2-o-5.ru
 pm.gjat.ru
@@ -26185,6 +26286,7 @@ po.sqfe6.ru
 po.te8x.ru
 po0ed.ru
 po1e7x.l0ngpo1e.ru
+po1y8.windst0ne.ru
 po4.rxir9.ru
 pobikc.com
 pocketpenguin.net
@@ -26876,6 +26978,7 @@ q5.1051lt6.ru
 q5.f-11.ru
 q5.k0xx-i4.ru
 q5.lb3091.online
+q5.wild5ky.ru
 q5.wsit-4.ru
 q54.br1ghtwave.ru
 q5ct.hover-mint.ru
@@ -27595,6 +27698,7 @@ qt.wi7o.ru
 qt56u.pro
 qtc.nq-8-e-9.ru
 qtf.glacierbruecke.ru
+qtf.raincr5st.ru
 qtlmbubna.com
 qty.ze9y.ru
 qu.cr2ckka7bas.ru
@@ -27987,6 +28091,7 @@ r2cw.1nyearbo0k.ru
 r2cx.desj1.ru
 r2cy.4-5sq.ru
 r2cz.nmys4.ru
+r2k.kettlewisp.ru
 r2l.solarfracht.online
 r2m.glimmerstone.ru
 r2n.6aiiwi2.ru
@@ -28414,6 +28519,7 @@ reklama.messager.my
 related-suspended.gl.at.ply.gg
 relativeplanning.com
 relay.colonjars.xyz
+relays.buziopoasbubu.top
 release-deficit.gl.at.ply.gg
 released-domain.gl.at.ply.gg
 released-temple.gl.at.ply.gg
@@ -28466,6 +28572,7 @@ reportedfall.no-ip.biz
 reporting.teams.m365.acenm.com
 repositorylinux.info
 repositorylinux.publicvm.com
+repositorylinux.site
 repottenfuc.fun
 reptlc.asia
 republic-ins.gl.at.ply.gg
@@ -28536,6 +28643,7 @@ revenueempirehub.com
 reviewsites.xyz
 reviewyoon.com
 revolxh.asia
+revounecses.run
 revuedepresse.caci.dz
 rewardsplus.phm-hotels.com
 rewasay.buynewarexch.com
@@ -28623,6 +28731,7 @@ ribbomv.xyz
 ribeiraopreto.oligoflora.com.br
 rice.1a2e6.ru
 rice.vbep-3.ru
+ricestar.xyz
 rich.jibiw8aa5.ru
 richard-down.gl.at.ply.gg
 richard.manemaximus.de
@@ -28641,9 +28750,11 @@ ridge.kneadloop.ru
 ridge.lakesp1rit.ru
 ridge.prairieforge.ru
 ridge.rapidst0ne.ru
+ridge.rapidstone.ru
 ridge.wildcr3st.ru
 ridge.wildspark.ru
 ridge1.f2na7under.ru
+ridge3.cliffbright.ru
 ridge3.le-3-nsnet-7-e.ru
 ridge4.fu5i0npeak.ru
 ridge4.loamgarde.ru
@@ -28678,6 +28789,7 @@ rill1.nightf0x.ru
 rim.luv6.ru
 rimamarestart.com
 rime.fr0stgate.ru
+rime.frostc0re.ru
 rime.frostwinkel.ru
 rime.gl0wmist.ru
 rinde.willowgrat.ru
@@ -28791,6 +28903,7 @@ roccbqw.pics
 rochaesantos.agencialegalads.com
 rock-in-rio-statetments-fil3945489pdf.pages.dev
 rock-indiana.gl.at.ply.gg
+rock.mistybyte.ru
 rock.skyb1end.ru
 rock3.st0nebird.ru
 rockbase.testingweblink.com
@@ -28837,6 +28950,7 @@ rollupf.pics
 romanovas.duckdns.org
 romanticweb.dynu.net
 romerinotraderpt.no-ip.org
+romeroaktorpalimpsest.com
 romye.aurovine.com
 ronniegibson.aurovine.com
 rony.publicvm.com
@@ -28885,6 +28999,7 @@ roumanie.sandierrot.fr
 round-districts.gl.at.ply.gg
 round-failing.gl.at.ply.gg
 roundcounter.net
+route.netw1ng.ru
 route36grille.com
 routemate.us
 routepickle.info
@@ -29217,6 +29332,7 @@ s2.b2ra.ru
 s2.kefel.tech
 s2.mx.mottogrotto.com
 s2awscloudupdates.com
+s2eeka-62143.portmap.host
 s2gj9tonn.localto.net
 s2j7.x3le.online
 s2lender-59991.portmap.host
@@ -29420,6 +29536,7 @@ sas.kidizue6.ru
 satabi-guide.com
 satet.locker
 satin.ciears0ft.ru
+satin.softdr1ve.ru
 saturnfoundation.in
 satventasfac.tech
 satwikskincare.com
@@ -29603,6 +29720,7 @@ scraminebilk.agencialegalads.com
 scraminebilkadvogados.agencialegalads.com
 scrape.gravel-whisk.ru
 scratfx.asia
+scree.rapidstone.ru
 screen-debut.gl.at.ply.gg
 screen-squad.gl.at.ply.gg
 screen-suggesting.gl.at.ply.gg
@@ -29746,7 +29864,6 @@ secure.groizhosting.com
 secure.happyhatterreviews.com
 secure.hoststewart.com
 secure.kasindramaharaj.com
-secure.optimumcs.org
 secureapimiddleware.com
 secured1040online.duckdns.org
 securefiledepot.com
@@ -29820,7 +29937,6 @@ security.gueradflwre.com
 security.guiaodfalear.com
 security.gvaerdflarle.com
 security.gwardfilaer.com
-security.gyqardfilares.com
 security.gyredoflzares.com
 security.microsoftwindows.biz
 securityhealthmonitor.duckdns.org
@@ -30216,8 +30332,10 @@ sh4dow.darkf1sh.ru
 shackle.twig-mantle.ru
 shad0w.duskfield.ru
 shad3o.0akshade.ru
+shade.darkp1xel.ru
 shade.fr0stharrow.ru
 shade.s0ftfern.ru
+shade.shadowm1nt.ru
 shade8.shad0wdrop.ru
 shadesquirrel.info
 shadow-grove.ru
@@ -30253,9 +30371,11 @@ shanebauer.net
 shanghai.googledns.io
 sharanilodge.com
 sharaqz.top
+shard.datash1ft.ru
 shard.kos-0-ltyu-4-etey.ru
 shard.marble-tug.ru
 shard.morrowplug.ru
+shard.rapidstone.ru
 shard6.kos-0-ltyu-4-etey.ru
 shard7.stoneburst.ru
 shareaz.allianz-courtage.co
@@ -30411,7 +30531,6 @@ sifld.rajeshmhegde.com
 sift0r.quick5and.ru
 sigalitz.com
 sigdalokanolkas.com
-sigmaboi.duckdns.org
 sigmaratohio-52009.portmap.host
 signamoykloysd.com
 signature.seaskyservices.com
@@ -30477,6 +30596,7 @@ silentmountcode.top
 silicon-moss.ru
 siliconmoss.ru
 silk.ciears0ft.ru
+silk.softdr1ve.ru
 silo69i.pro
 silome.sbs
 silt.gravelwhisk.ru
@@ -30762,6 +30882,7 @@ sl1qmc-46509.portmap.host
 sl3etx.snowroot.ru
 slantboardguy.testingweblink.com
 slash.gdyl-2.ru
+slate.bluest0ne.ru
 slaveporngames.com
 sleach.dns.army
 sleach.zapto.org
@@ -30967,6 +31088,7 @@ soft.f1y5agacious.ru
 soft.ha1fakos0l.ru
 soft.hi8hmu1berry.ru
 soft.n1ghtstone.ru
+soft.softmint.ru
 soft.stormbiend.ru
 soft.sun5hine.ru
 soft.zanax6aa1.ru
@@ -31095,6 +31217,7 @@ soueafhuoaefhefu.ru
 soulcirclewellness.co.za
 soulcirclewellness.rocketrobs.co.za
 souldey.cyou
+soulnxc-62104.portmap.host
 sound-vietnam.gl.at.ply.gg
 sounqp.cyou
 sourc3.onyxquelle.ru
@@ -31134,6 +31257,7 @@ spaderock.info
 spaessentials.net
 spain-posters.gl.at.ply.gg
 spam.authorandrewsmith.com
+span2.mistybr1dge.ru
 spar.plume-anchor.ru
 spardra-59711.portmap.host
 spark-news.xyz
@@ -31341,6 +31465,8 @@ sqsuequaaiwmaesi.xyz
 sqsyykycgkuckuwm.xyz
 squabkq.top
 squafu.xyz
+squall.f1restorm.ru
+squall.storml1nk.ru
 squall.stormpixei.ru
 squall2.hiiistorm.ru
 squall6.windstack.ru
@@ -31718,6 +31844,7 @@ storm.shadowstream.ru
 storm.silverr0ot.ru
 storm.st0rmleaf.ru
 storm.stonefog.ru
+storm.stormf0x.ru
 storm1.sys7yn0iy5.ru
 storm6.snowbyte.ru
 storm7.5tormfoid.ru
@@ -31742,10 +31869,12 @@ strang39fudq.no-ip.biz
 stranlk.xyz
 stranzv.pics
 strasanbansil.saoluiscidade.sbs
+strat.skytrac5.ru
 strategicassetlane.xyz
 stratenconpaz64.londrinacidade.sbs
 stream.brightpeak.ru
 stream.escapesvacationclub.com
+stream3.datash1ft.ru
 streamable-vid.com
 streamcodex.online
 streameast.co.com
@@ -31871,6 +32000,7 @@ sun-mining.gl.at.ply.gg
 sun-star-design.com
 sun.8u2a9.ru
 sun.b1uespark.ru
+sun.cliffbright.ru
 sun.cpak0.ru
 sun.drift-bay.ru
 sun.f-1-sslehub.ru
@@ -32039,6 +32169,7 @@ swguyyewyecuwgki.xyz
 swiauacqaecwaaog.xyz
 swicioemaqoywqkw.xyz
 swifew.asia
+swift.rapidstone.ru
 swiftfluss.ru
 swigddmb.top
 swiikoqgcycqeica.xyz
@@ -32536,6 +32667,7 @@ tally.t1ger.ru
 tallymostfavor.duckdns.org
 talmoelaquila.agencialegalads.com
 talon4.nebeltal.ru
+talus3.rapidstone.ru
 tamku.shop
 tamku.shoplerter.opnetorologies.net
 tamnmx.xyz
@@ -32608,7 +32740,6 @@ tau3.kab1spr0tect.ru
 tau3ig.nebeltal.ru
 tauedaiednaibduf.ws
 taukr.lt
-tavkz.duckdns.org
 tavrel.cloudrift.ru
 tax-found.gl.at.ply.gg
 tax-warrior.gl.at.ply.gg
@@ -33192,7 +33323,6 @@ topk.morayscouts.online
 topkkn.pics
 toplyws.top
 topmicrosoft.com
-topmicrosoftmarketing.com
 topofnm.lat
 topone-fc.com
 topstarwor.loseyourip.com
@@ -33240,6 +33370,7 @@ tq.favezi.ru
 tq.i924ao.ru
 tq.k3o9d.ru
 tq.kudaxy.ru
+tq.mistybyte.ru
 tq.o05h.ru
 tq.o82g.ru
 tq.p2o7l.ru
@@ -33309,7 +33440,9 @@ trabalhoescolar7.ddns.net
 trac3r.sn0wtrail.ru
 trace.5h0p.ru
 trace.be5isg2uze.ru
+trace.bluef1re.ru
 trace.bu1gep2lest.ru
+trace.bytefl0w.ru
 trace.c0nju8maraf.ru
 trace.ch2pernev0d.ru
 trace.crystal0ak.ru
@@ -33349,6 +33482,7 @@ trail.ede1g0rge.ru
 trail.flintzoo.ru
 trail.rumble-kin.ru
 trail.skym0tion.ru
+trail.skytrac5.ru
 trail.softr1ver.ru
 trail.ventrill.ru
 trail.wildcr3st.ru
@@ -33465,6 +33599,7 @@ truckshat.xyz
 truefinancefreedom.com
 truongminhduc.com
 truroncol1.maceiocidadde.sbs
+truss.mistybr1dge.ru
 trust-conditional.gl.at.ply.gg
 trust-mpg.gl.at.ply.gg
 trust.scriptobject.com
@@ -33553,6 +33688,7 @@ tv.dumx.ru
 tv.ldiiriau.or.id
 tvaz.dunn-0-en-7-el.ru
 tvgu83.link
+tvlounge.aw
 tvoj-5.ru
 tvsanarch.duckdns.org
 tvstream.click
@@ -34331,7 +34467,6 @@ unitedchemicalsco.com
 unitedigs.org
 unitedpowerrangers2025.duckdns.org
 unitkgt.qpon
-units-jewish.gl.at.ply.gg
 uniunieubfiubgg.su
 universal-analytics-cdn.org
 universalcreditsuffer.com
@@ -35723,6 +35858,7 @@ v7p2.4qua0.ru
 v7p2.9m94k8.ru
 v7p2.i-m22.ru
 v7pz.02lxy3.ru
+v7rg.v0lticrum.ru
 v7rpejh04.localto.net
 v8.ckar-4.ru
 v8.orb-shackle.ru
@@ -35910,6 +36046,7 @@ velcro.nightf0rest.ru
 velorn.decor1cry5t.ru
 velvepn.qpon
 velvet.m0tivecrib.ru
+velvet.softdr1ve.ru
 velvet.wqix-5.ru
 velvetyield.com
 vememye3.ru
@@ -35952,6 +36089,7 @@ verificationsbycapcha.center
 verify-connection.cfd
 verify-connection.sbs
 verify-page.info
+verify.shopmzx.in.net
 veriqcloud.com
 verresel.jp
 verserun.xyz
@@ -36104,6 +36242,7 @@ vj3.n-61-5.ru
 vj3c.9z2503.ru
 vj9999.duckdns.org
 vjlong5555.duckdns.org
+vjsjr.v0lticrum.ru
 vk.0vs-r.ru
 vk.4xq2k.ru
 vk.4y2o5.ru
@@ -36358,6 +36497,7 @@ w2.nitrobuda.site
 w2.r46eu.ru
 w2cx.6-19t.ru
 w2ijk9.link
+w2li.xyz
 w2t.ravenpfad.ru
 w2z.f1rebyte.ru
 w3.gdyl2.ru
@@ -36557,6 +36697,7 @@ wave.mab7o.online
 wave.mintforest.ru
 wave.ndoq-0.ru
 wave.pen1sp7edef.ru
+wave.raincr5st.ru
 wave.rivermote.ru
 wave.skyf1eld.ru
 wave.st2rudmu7t.ru
@@ -36680,7 +36821,6 @@ web.colour.fund
 web.d-you.uk
 web.eat82.vip
 web.gtysx.top
-web.hvgeb.top
 web.ktfs4.top
 web.meta-email.online
 web.qxfhelp.top
@@ -36988,6 +37128,7 @@ wholesalecharitysupply.com
 whonixgateway.online
 whorl.murmurplex.ru
 whwwthi.qpon
+whx.mistybyte.ru
 why.z3lu.ru
 wi.sxqy-9.ru
 wi.wolkenspur3.ru
@@ -37069,6 +37210,7 @@ wind.cedarsteg.ru
 wind.clearpeak.ru
 wind.cloudp0nd.ru
 wind.co0perport5.ru
+wind.deepcl0ud.ru
 wind.f1anerchan.ru
 wind.f1rest0ne.ru
 wind.getp0ver7y.ru
@@ -37232,6 +37374,7 @@ wkseayowkcwkkckc.xyz
 wksgiyegmacsukom.xyz
 wkskcuammwoiyosk.xyz
 wkssomqiwawcgswi.xyz
+wkt.softmint.ru
 wkukqeeuyyekmeki.xyz
 wkumoqggwumacocg.xyz
 wkuoyyemoqogcoqy.xyz
@@ -37564,6 +37707,7 @@ wq9.z-0xug.ru
 wq9.z-11e.ru
 wq9.z88ae.ru
 wqfmumga.com
+wqu5.deepcl0ud.ru
 wr-carind.com
 wr.baruruy1.ru
 wr.evacu0t0nova.ru
@@ -37694,6 +37838,7 @@ wsyosoysyeiekyyy.xyz
 wsyqewmcieocykug.xyz
 wsyqkywoceiegaem.xyz
 wsyu.t1nkerbay.ru
+wt.clearl1ne.ru
 wt.f05t.ru
 wt0lafyzx.localto.net
 wtar.io
@@ -41078,6 +41223,7 @@ y4k.pyroclay.ru
 y4l.dzem-4.ru
 y4np.60e533569.online
 y4tn.3-5y.online
+y4uhk.softmint.ru
 y4w1.565fit.ru
 y5.hnaq6.ru
 y5.yjor.ru
@@ -41404,7 +41550,6 @@ yimuqygcsagsciuy.xyz
 yimuuckyyaiuossk.xyz
 yimweiiqecyaogqm.xyz
 yimyiwewysmeewiq.xyz
-yingjiachuwei.com
 yiogcqaemmymuqae.xyz
 yiokkwgywmoymkcq.xyz
 yiokmeaeumsouwkq.xyz
@@ -41479,6 +41624,7 @@ ylr.g-0-ss-lamp.ru
 ylu.gi0x.ru
 ym.lizusey.ru
 ym.vadykoe7.ru
+yminsgdb.cn
 yn.eoow.cn
 yn.fa6eq.ru
 yn.ha0m.ru
@@ -42213,16 +42359,20 @@ zehir.no-ip.biz
 zeit.cranezeit.ru
 zeloar.com.br
 zen-and.online
+zen.cloudv1be.ru
 zen1thblkhat-48437.portmap.host
 zen1thblkhat-64408.portmap.host
 zen1thblkhat-64927.portmap.host
 zenforexpvtltd.hopto.org
 zeniqaa7.ru
+zenith.cl0udcrest.ru
 zenith.m1stycl0ud.ru
 zenithspitze.ru
 zenodirect.com
 zenytio.com
+zeph.skytrac5.ru
 zeph1r.l1ghtstorm.ru
+zeph1r.mintst0rm.ru
 zephalon.com
 zephyr.deepbreeze.ru
 zephyr.mcej-9.ru
