@@ -369,6 +369,8 @@ dampdock.com
 dandydune.com
 dandyglow.com
 dapperdiscussion.com
+dapperfloor.com
+dashingdirt.com
 dashingdrop.com
 datastoried.com
 daymodern.com
@@ -493,7 +495,6 @@ excitingtub.com
 executeknowledge.com
 exhibitsneeze.com
 expansioneggnog.com
-experienceeggs.com
 exquisiteartisanship.com
 extractobservation.com
 extralocker.com
@@ -591,7 +592,6 @@ fumblingform.com
 functionalcrown.com
 functionalfeather.com
 funoverbored.com
-furnstudio.com
 furryfork.com
 fusedcontent.com
 futuristicfifth.com
@@ -785,7 +785,6 @@ laboredlocket.com
 lackadaisicalkite.com
 lameletters.com
 lamplow.com
-landandfloor.com
 languagelake.com
 largebrass.com
 lasttaco.com
@@ -941,6 +940,7 @@ netcuriosity.com
 netizen.co
 nevitable.com
 newarkdriving.com
+newartreview.com
 niftygraphs.com
 niftyhospital.com
 niftyjelly.com
@@ -1047,7 +1047,6 @@ poeticpackage.com
 pointdigestion.com
 pointlesspocket.com
 pointlessprofit.com
-pointlessrifle.com
 poisedfuel.com
 poisedpig.com
 polishedcrescent.com
@@ -1085,6 +1084,7 @@ productsurfer.com
 profitrumour.com
 profusesupport.com
 promiseair.com
+proofconvert.com
 propertypotato.com
 propsynergy.com
 protestcopy.com
@@ -1376,6 +1376,7 @@ soresidewalk.com
 soresneeze.com
 soretrain.com
 sortstructure.com
+soulclicking.com
 soundstocking.com
 sowlettuce.com
 spaceaffinity.com
@@ -1460,7 +1461,6 @@ stonetumble.com
 stopstomach.com
 storeslope.com
 storesurprise.com
-stormysponge.com
 straightnest.com
 straindrinks.com
 strangeclocks.com
