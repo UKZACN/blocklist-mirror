@@ -41,6 +41,7 @@ api.systempartnerski.pl
 api.useinsider.com
 apinews.numpet.com
 app.shopeneo.network
+apteline-pl.shop
 apteline.deal-pl.shop
 aranzujemy.co.pl
 asmsalesforce.pl
@@ -310,6 +311,7 @@ wss.analyticacdn.com
 wtg-ads.com
 ww1.flashx.net
 www.adfreestyle.pl
+www.apteline-pl.shop
 www.auradelunadao.com
 www.buzzlink.co
 www.comperialead.pl
