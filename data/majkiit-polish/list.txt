@@ -31,6 +31,7 @@ adv.wp.pl
 advertising.com
 affiliates-solutions.com
 agoraperformance.pl
+aktuality.azovona.com
 aktualnosci.pl.ua
 allepharm.com
 almuradtiles.zohosites.com
@@ -48,6 +49,7 @@ asmsalesforce.pl
 audienceinsights.net
 auradelunadao.com
 azontree.com
+azovona.com
 b54m4qbmt0b9.com
 back.marketing
 behavioralengine.com
@@ -57,6 +59,7 @@ blubroid.de
 bodelen.com
 boxarchives.xyz
 brand.ad
+breakingnow.azovona.com
 burdaffi.burdadigital.pl
 buzz.give5.pl
 buzzlink.co
@@ -85,6 +88,7 @@ counter.hitslink.com
 d1f5rbi95y1icu.cloudfront.net
 d22sfab2t5o9bq.cloudfront.net
 daib.pl
+dailynews.azovona.com
 damdaj.pl
 dansotant.xyz
 darksidebox.xyz
@@ -114,6 +118,7 @@ fadstrack.com
 faidoud.com
 fenmarrow.info
 film.azontree.com
+film.azovona.com
 film.fusiondigest.com
 fireads.network
 fknixrgkmhkn.com
@@ -165,6 +170,7 @@ leadexpert.pl
 legenhit.com
 lib.ads4g.pl
 lijjt.com
+livenews.azovona.com
 login.dognet.sk
 luckypuppy.top
 ma.wp.pl
@@ -191,11 +197,17 @@ netmng.com
 newssomesun.com
 nextclick.pl
 nieuws.znicely.com
+nieuwsnl.azovona.com
+noje.azovona.com
 noje.topnewsource.com
+noticias.azovona.com
+novatv.azovona.com
 now.xinloc.com
 nowiny24h.com
 nsaudience.pl
 numpet.com
+nyheder.azovona.com
+nyheter.azovona.com
 online-mexos.efortuna.pl
 opsonew3org.sg
 outsourcing-sprzedazy.pl
@@ -216,6 +228,7 @@ pub.contexthub.net
 px.leadexpert.pl
 quantcast.mgr.consensu.org
 quantserve.com
+rainews.azovona.com
 raupsica.net
 rec-ir.quartic.pl
 rect.b2bpersonals.net
@@ -235,6 +248,7 @@ rinsouxy.com
 ro88qcuy.com
 roojouma.com
 rt.inistrack.net
+rtpnoticias.azovona.com
 s.bankier.pl
 salesbee.pl
 salesbeehive.com
@@ -266,6 +280,7 @@ stats.asp24.pl
 stats.goldenline.pl
 stats.landingi.com
 stg.wp.pl
+stiri.azovona.com
 sus-wel.com
 sylaba.net
 syndication.exdynsrv.com
@@ -273,6 +288,7 @@ taboola.com
 tealium.hs.llnwd.net
 termsfeed.com
 thiksikr.com
+todaynews.azovona.com
 track.aftermarket.pl
 track.buybox.click
 track.cux.io
@@ -298,7 +314,9 @@ uod2quk646.com
 ut.o2.pl
 vaks.pl
 vendimob.pl
+vesti.azovona.com
 video.vid4u.org
+vijesti.azovona.com
 visualrevenue.com
 vruqlimoxu.site
 vurzokli.site
@@ -313,6 +331,7 @@ ww1.flashx.net
 www.adfreestyle.pl
 www.apteline-pl.shop
 www.auradelunadao.com
+www.azovona.com
 www.buzzlink.co
 www.comperialead.pl
 www.embemy.com
