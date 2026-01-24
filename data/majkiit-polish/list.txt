@@ -51,6 +51,7 @@ api.systempartnerski.pl
 api.useinsider.com
 apinews.numpet.com
 app.shopeneo.network
+apteline-pl.com
 apteline-pl.shop
 apteline.deal-pl.shop
 aranzujemy.co.pl
@@ -76,6 +77,7 @@ bunte.azontree.com
 burdaffi.burdadigital.pl
 buzz.give5.pl
 buzzlink.co
+bvt.hukfi.com
 cafe.azontree.com
 caringcast.com
 cassini.efigence.com
@@ -100,8 +102,10 @@ contextweb.com
 cookies.neuca24.pl
 corto.www.wp.pl
 counter.hitslink.com
+cure.apteline-pl.com
 d1f5rbi95y1icu.cloudfront.net
 d22sfab2t5o9bq.cloudfront.net
+dabarlt.hukfi.com
 daib.pl
 daily.azontree.com
 daily.topnewsource.com
@@ -116,6 +120,7 @@ darmowylicznik.pl
 deal-pl.shop
 devhub.pl
 dexessee.com
+dford.hukfi.com
 disqusads.com
 dnews.topnewsource.com
 dnews24h.topnewsource.com
@@ -139,6 +144,7 @@ europa.azontree.com
 europulsenews.azontree.com
 express.jnews5.com
 expressen.azontree.com
+expresspl.hukfi.com
 exyzz.pl
 fabioluciani.com
 fads.online
@@ -157,6 +163,7 @@ fknixrgkmhkn.com
 fkref.com
 foresig-market.biz
 fox.topnewsource.com
+frisco.apteline-pl.com
 funfact.topnewsource.com
 fusiondigest.com
 gasurvey.gemius.com
@@ -183,6 +190,7 @@ hotnews.azontree.com
 hotnews.topnewsource.com
 hotnewscentral.com
 hrt.azontree.com
+hukfi.com
 hyphenion.com
 img.lzrikate.com
 indexww.com
@@ -196,6 +204,7 @@ jnews5.com
 jnews6.com
 jour.travel2days.com
 julkkis.azontree.com
+jy.hukfi.com
 kamerka24.pl
 kamerki69.pl
 kapi.dev
@@ -288,6 +297,7 @@ p.typekit.net
 partnerzyapi.ceneo.pl
 peachlandeu.com
 pinvazo.com
+piquadro.apteline-pl.com
 pl.tradenewsinvesting.com
 placehold.it
 plau.azontree.com
@@ -414,6 +424,7 @@ trichomist.store
 trophylab.com
 true.azontree.com
 truelovesbeauty.co.uk
+tv-dzive.hukfi.com
 tv2dk.azontree.com
 tv2no.azontree.com
 tv2nord.azontree.com
@@ -437,6 +448,10 @@ vijesti.azontree.com
 vijesti.azovona.com
 viral.topnewsource.com
 viral.travel2days.com
+viral2.hukfi.com
+viral3.hukfi.com
+viral8.hukfi.com
+viral9.hukfi.com
 viralstory.travel2days.com
 visualrevenue.com
 vruqlimoxu.site
@@ -452,6 +467,7 @@ wss.analyticacdn.com
 wtg-ads.com
 ww1.flashx.net
 www.adfreestyle.pl
+www.apteline-pl.com
 www.apteline-pl.shop
 www.auradelunadao.com
 www.azontree.com
@@ -465,6 +481,7 @@ www.fusiondigest.com
 www.grzmotnij.pl
 www.heathwood.info
 www.hoanhxinh.com
+www.hukfi.com
 www.kamerka24.pl
 www.kamerki69.pl
 www.klrtspet.net
