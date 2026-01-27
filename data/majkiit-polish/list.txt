@@ -61,6 +61,7 @@ api.useinsider.com
 apinews.numpet.com
 app.shopeneo.network
 apteline-pl.com
+apteline-pl.sbs
 apteline-pl.shop
 apteline.deal-pl.shop
 apteline.shop
@@ -700,6 +701,7 @@ wtg-ads.com
 ww1.flashx.net
 www.adfreestyle.pl
 www.apteline-pl.com
+www.apteline-pl.sbs
 www.apteline-pl.shop
 www.apteline.shop
 www.auradelunadao.com
