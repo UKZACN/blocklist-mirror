@@ -1,9 +1,2 @@
-1drv.eu.com
-api.aliyung.com
-api.aliyung.org
-api.firebaseo.com
-api.googleapps.top
-ms.share-onedr.com
-oyr2ohrm.eyes.sh
-socket.99ai.world
-uploads.99ai.world
+api.skycloudcenter.com
+api.wiresguard.com
