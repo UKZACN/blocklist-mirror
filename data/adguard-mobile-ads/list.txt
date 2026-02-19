@@ -36,7 +36,6 @@ ad.jorte.com
 ad.leadboltapps.net
 ad.leap.app
 ad.line-scdn.net
-ad.mail.ru
 ad.mediamixer.co.kr
 ad.mobiuspace.net
 ad.mojisead.co.kr
@@ -217,7 +216,6 @@ agent.tamedia.com.tw
 ahoy-internal-ads-hv.b-cdn.net
 ajdivotdelbloab24.jio.com
 ali-ad.a.yximgs.com
-alicdn.com
 alt-ad.mail.ru
 amanad.adtdp.com
 amillionads.com
@@ -280,7 +278,6 @@ apptornado.com
 appwall.tv2phone.cn
 aqi.wd.amberweather.com
 as.adfonic.net
-as.uncn.jp
 assoc-amazon.com
 astrsk.net
 athena.api.kwalee.com
@@ -298,8 +295,6 @@ bannerwall.herewetest.com
 bannerwall.s3.appcnt.com
 bayctrk.com
 bcfads.com
-bd1.guancha.cn
-bd2.guancha.cn
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 begun.ru
@@ -317,7 +312,6 @@ bidsopt.com
 bigmobileads.com
 bjads.bejbej.ca
 black6adv.com
-blog-sokuhou.com
 blogads.com
 blueduckredapple.com
 boostads.net
@@ -388,8 +382,6 @@ cs02-pps-drcn.dbankcdn.com
 csi.gstatic.com
 ctl.buyt.in
 ctv-ads.api.leiniao.com
-czechcash.com
-d-load.org
 d.kugou.com
 d19xf4taj229i8.cloudfront.net
 d1tru86qrby720.cloudfront.net
@@ -557,7 +549,6 @@ look.kfiopkln.com
 lqm.io
 luckyforworlds.com
 lxqcgj.com
-m.yap.yahoo.com
 mad.mobisky.pl
 madnet.ru
 mads.amazon.com
@@ -657,7 +648,6 @@ openglass.tv
 opt8.co
 os.scmpacdn.com
 other.appcpi.net
-outbrainimg.com
 p-behacdn.ksmobile.net
 p1-lm.adukwai.com
 p16-ad.byteoversea.com
@@ -831,7 +821,6 @@ togothermany.com
 tonefuse.com
 toponadss.com
 tpbid.com
-tpc.googlesyndication.com
 tr.acobt.tech
 trackimpression.com
 tracking.applift.com
@@ -876,7 +865,6 @@ wapstart.ru
 wdig.vo.llnwd.net
 west.bidtellect.com
 widespace.com
-widgets.outbrain.com
 wordego.com
 wtraff.com
 www.adbert.com.tw
