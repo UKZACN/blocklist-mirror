@@ -24,6 +24,7 @@
 a.ib.gazeta.pl
 aa150f7.tvpnews.site
 abc.travel2days.com
+abladet.travel2days.com
 abtshield.com
 achcdn.com
 ad.bitbay.net
@@ -285,6 +286,7 @@ gtst.jnews5.com
 gymhay.com
 gyorshirek.numpet.com
 hant.azontree.com
+hant.travel2days.com
 harryandmeghan.numpet.com
 harryandmeghan1.numpet.com
 harryandmeghans.numpet.com
@@ -327,6 +329,7 @@ jnews5.com
 jnews6.com
 johu.numpet.com
 jour.travel2days.com
+journey.travel2days.com
 julkkis.azontree.com
 jutarnji.azontree.com
 jy.hukfi.com
@@ -344,6 +347,8 @@ keechavy.com
 khaleddj.numpet.com
 kinoseans.pl
 klrtspet.net
+kok.travel2days.com
+kok1.travel2days.com
 konto.amronet.pl
 kopchronicles.numpet.com
 krakenfolio.com
@@ -435,6 +440,7 @@ noje.azovona.com
 noje.numpet.com
 noje.topnewsource.com
 noje.travel2days.com
+nord.travel2days.com
 noticias.azontree.com
 noticias.azovona.com
 noutele.numpet.com
@@ -453,6 +459,7 @@ nyheter.azontree.com
 nyheter.azovona.com
 nyheter.tourpariz.net
 nyheterno.azontree.com
+nyt.travel2days.com
 nytimes.azontree.com
 nytimes.numpet.com
 nytimes.topnewsource.com
@@ -490,6 +497,7 @@ plukdelachnl.numpet.com
 pollster.pl
 polska24.numpet.com
 pop.tourpariz.net
+porchtalk.travel2days.com
 postaz.numpet.com
 postz.numpet.com
 pp.funhub.pl
@@ -612,6 +620,7 @@ sportpowers.numpet.com
 sports.topnewsource.com
 sportsk.numpet.com
 sportskipuls.numpet.com
+spot.travel2days.com
 spotlight.tourpariz.net
 spotlightsi.numpet.com
 sprinl.numpet.com
@@ -694,6 +703,7 @@ traq.li
 travel2days.com
 trendblog.azontree.com
 trendingnews.newsin24h.com
+trendy.travel2days.com
 trichomist.store
 trophylab.com
 true.azontree.com
