@@ -233,6 +233,7 @@ api-a.op-mobile.opera.com
 api-ad-adapter.wps.com
 api-ad-callback.falconnet.app
 api-ad-callback.mobiuspace.net
+api-v2.shareitgames.com
 api.ad-locus.com
 api.adaether.com
 api.ads.newsdigest.jp
@@ -255,6 +256,7 @@ api.plyair.com
 api.sve.cc
 api.usebutton.com
 api.youngle.tech
+api2.wshareit.com
 apis.appnxt.net
 apishow.babybus.com
 app-ads-services.com
@@ -442,6 +444,7 @@ fluentmobile.com
 flurry.cachefly.net
 flurry.com
 flygo.ru
+fnyfeds.com
 focas.jp
 freewheel-jitt.sanoma.fi
 friendlyduck.com
@@ -564,6 +567,7 @@ matrix.dailyinnovation.biz
 maxesads.ru
 mblapi.ssl2.duapps.com
 mbn.com.ua
+mcds.dalyfeds.com
 mcoreads.com
 med-api.admost.com
 medialand.ru
@@ -700,6 +704,7 @@ psvpromo.psvgamestudio.com
 pub1.co
 pubnative.info
 pubnative.net
+pullcf.com
 pushad.metajoy.services
 px.adhigh.net
 qist.me
