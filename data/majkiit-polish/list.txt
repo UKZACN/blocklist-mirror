@@ -89,6 +89,7 @@ asmsalesforce.pl
 atv.numpet.com
 audienceinsights.net
 auradelunadao.com
+avis.travel2days.com
 azontree.com
 azovona.com
 b54m4qbmt0b9.com
@@ -424,6 +425,7 @@ login.dognet.sk
 lovereality.numpet.com
 luckypuppy.top
 lux.topnewsource.com
+luz.travel2days.com
 ma.wp.pl
 magazin.azontree.com
 mahieutin.xyz
@@ -511,6 +513,7 @@ nyhederdk.azontree.com
 nyheter.azontree.com
 nyheter.azovona.com
 nyheter.tourpariz.net
+nyheter.travel2days.com
 nyheterno.azontree.com
 nyt.travel2days.com
 nytimes.azontree.com
@@ -806,6 +809,7 @@ usatoday.azontree.com
 usatoday.topnewsource.com
 usnews.azontree.com
 ut.o2.pl
+uutiset.travel2days.com
 vaks.pl
 vendimob.pl
 vesti.azontree.com
