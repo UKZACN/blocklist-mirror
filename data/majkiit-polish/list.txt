@@ -172,6 +172,7 @@ cure.apteline-pl.com
 curvasyadrenalina.numpet.com
 curvasyadrenalina1.numpet.com
 cz3.lapetitefreres.com
+cznews.numpet.com
 d1f5rbi95y1icu.cloudfront.net
 d22sfab2t5o9bq.cloudfront.net
 da.lapetitefreres.com
@@ -195,6 +196,7 @@ ddm.numpet.com
 deal-pl.shop
 dehj.numpet.com
 dennicz.numpet.com
+desport.numpet.com
 desportfan.numpet.com
 desportfans.numpet.com
 desportfansglb.numpet.com
@@ -314,6 +316,7 @@ grzmotnij.pl
 gtst.jnews5.com
 gymhay.com
 gyorshirek.numpet.com
+haberler24.numpet.com
 hant.azontree.com
 hant.travel2days.com
 harryandmeghan.numpet.com
@@ -376,6 +379,7 @@ intrack.pl
 investbooking.de
 ipla.hit.stat24.com
 itcetdna.numpet.com
+itcfra.numpet.com
 itcspoiler.numpet.com
 iwa3.hit.interia.pl
 jasonstatham.numpet.com
@@ -489,11 +493,13 @@ new365.azontree.com
 news.azontree.com
 news.topnewsource.com
 newsin24h.com
+newslo.numpet.com
 newsnl.azontree.com
 newsnl.azovona.com
 newssomesun.com
 nextclick.pl
 nezavisne.azontree.com
+nfbe.numpet.com
 nfllove.topnewsource.com
 nieuw.numpet.com
 nieuws.azontree.com
@@ -596,6 +602,7 @@ raupsica.net
 rbcollection.numpet.com
 rbcollection1.numpet.com
 reality.azontree.com
+realitydaily24.com
 realityhu.numpet.com
 reall.numpet.com
 reallking.numpet.com
@@ -654,6 +661,7 @@ serialowo.eu
 serialowo.numpet.com
 serialpl.numpet.com
 seriask.numpet.com
+seribg.numpet.com
 service.weben1.com
 serwer1566493.home.pl
 sfakty.hukfi.com
@@ -663,6 +671,7 @@ shop.numpet.com
 shoplov.in
 show.travel2days.com
 showar.numpet.com
+showbizbe.numpet.com
 showbizzbe.numpet.com
 showmediadaily.com
 shownewsdaily.com
@@ -674,6 +683,7 @@ sk3.lapetitefreres.com
 skdailynews.com
 sktv.numpet.com
 sky.azontree.com
+slo24.numpet.com
 slovakpress.com
 smart.topnewsource.com
 smartadserver.com
@@ -758,6 +768,7 @@ teleno.numpet.com
 telepl.numpet.com
 telept.numpet.com
 teleseri.numpet.com
+teleuy.numpet.com
 termsfeed.com
 thiksikr.com
 threads.numpet.com
@@ -808,6 +819,7 @@ tv2nyheder.azontree.com
 tv4se.numpet.com
 tvbg.numpet.com
 tvchile.numpet.com
+tvcl.numpet.com
 tvfrance.numpet.com
 tvgr.numpet.com
 tvhr.numpet.com
@@ -821,6 +833,7 @@ tvrs.numpet.com
 tvseries.azontree.com
 tvseries.gymhay.com
 tvtau.numpet.com
+tvuy.numpet.com
 tvwelt.numpet.com
 ulixes.pl
 unknow.now.sh
@@ -895,6 +908,7 @@ www.newsin24h.com
 www.nowiny24h.com
 www.numpet.com
 www.outsourcing-sprzedazy.pl
+www.realitydaily24.com
 www.serialowo.eu
 www.showmediadaily.com
 www.shownewsdaily.com
