@@ -138,6 +138,7 @@ analytics.svt.se
 analytics.teknikveckan.se
 analytics.undeco.se
 analytics.vackertvader.se
+analytics.webfokus.no
 angry-golick-2a96e5.netlify.app
 annoncer.nichehuset.dk
 annons.fiskesnack.com
