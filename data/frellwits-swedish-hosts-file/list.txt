@@ -800,7 +800,6 @@ serve.albacross.com
 servedby.aqua-adserver.com
 servedby.flashtalking.com
 servedby.revive-adserver.net
-servedby.studads.com
 serverbid.com
 servg1.net
 services.bilsyndication.com
@@ -1126,7 +1125,6 @@ www.aservice.tools
 www.awin1.com
 www.awltovhc.com
 www.blogtoplist.se
-www.championsverige.com.se
 www.clarity.ms
 www.creativeconsortiuminspired.com
 www.curemedia.se
