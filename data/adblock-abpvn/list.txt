@@ -4614,6 +4614,7 @@ cache.send.microad.jp
 cache.send.microadinc.com
 cache.specificmedia.com
 cache.sxp.smartclip.net
+cachegorilla.com
 cachegorilla.xml.ak-is2.net
 caclick.baidu.com
 cactusheadroomscaling.com
@@ -7298,6 +7299,7 @@ etargetnet.com
 ether-pack-sg.pangle.io
 ethicalads.io
 ethicel.com
+etivbuvltde.com
 etp-prod.com
 etracker.de
 ets-ap-southeast-1.track.smaato.net
@@ -8305,6 +8307,7 @@ gwsfo.smaato.net
 gx-target-experiments-frontend-api.gx.nvidia.com
 gxb.mmstat.com
 gy.anaheimnonfat.com
+gylxwpwabgp.com
 gzaqwebtipm.com
 gzip-smartplugin.youbora.com
 gzjkbid.adview.com
@@ -8482,6 +8485,7 @@ hitslink.com
 hittail.com
 hitwebcounter.com
 hixwwert.in
+hj.combusteschel.shop
 hk-cdn.youngle.tech
 hk-match.taboola.com
 hk-pvmax.tenmax.io
@@ -12345,6 +12349,8 @@ popmonetizer.net
 popmonetizer.xml.ak-is2.net
 popmyads.com
 popnc.com
+poprtb.com
+poprtbcom.xml.ak-is2.net
 pops.gg
 popsgg.xml-eu-v4.ak-is2.net
 popsgg.xml-v4.ak-is2.net
@@ -13347,6 +13353,7 @@ revmob.com
 revopush.com
 revrtb.com
 revrtb.net
+revrtb.xml.ak-is2.net
 revsci.net
 revstats.com
 rewarded-video.fyber.com
@@ -13384,6 +13391,7 @@ risk.clearbit.com
 riskexcel.com
 rivalbuffetdifferently.com
 riverhit.com
+rizkigkmoa.in
 rj.a-mo.net
 rj.gssprt.jp
 rj.m.taobao.com
@@ -17466,6 +17474,7 @@ wms-fe.amazon-adsystem.com
 wms-in.amazon-adsystem.com
 wms-na.amazon-adsystem.com
 wms.assoc-amazon.com
+wo.nableroberto.com
 wombierfloc.com
 wombjingle.com
 wonderhsjnsd.com
@@ -18327,9 +18336,12 @@ xml.adxnexus.com
 xml.affiliate.rakuten.co.jp
 xml.auxml.com
 xml.boffoadsfeeds.com
+xml.cachegorilla.com
 xml.explorads.com
 xml.ezmob.com
 xml.ioam.de
+xml.popmonetizer.net
+xml.poprtb.com
 xml.pops.gg
 xml.popviking.com
 xml.revenuehits.com
@@ -18338,14 +18350,22 @@ xml.revrtb.net
 xml.rklmstr.com
 xml.rtxfeed.com
 xml.showcasethat.com
+xml.xmlking.com
+xml.xmlwiz.com
+xml.xmlwolf.com
 xml.zeusadx.com
 xml2.rklmstr.com
 xmlfeedparser.4dsply.com
+xmlking.com
 xmlking.xml.ak-is2.net
 xmlppc.fs.ak-is2.net
 xmlppc.xml.ak-is2.net
 xmlppcbuzz.com
 xmlrtb.com
+xmlwiz.com
+xmlwiz.xml.ak-is2.net
+xmlwolf.com
+xmlwolf.xml.ak-is2.net
 xng.trbo.com
 xnocffar.com
 xoom-ads.com
