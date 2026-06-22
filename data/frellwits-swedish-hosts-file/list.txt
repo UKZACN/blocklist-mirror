@@ -360,6 +360,7 @@ collector.brandmetrics.com
 collector.cint.com
 collector.schibsted.io
 comeonconnect-api.omarsys.com
+commercial-cms-prod.aller.se
 connectad.io
 connectio.s3.amazonaws.com
 content.adten.eu
