@@ -159,6 +159,7 @@ api3847.d41.co
 app.converdiant.com
 app.interactiveads.ai
 app.lifeinside.io
+app.lupper.se
 app.nocodelytics.com
 app.truconversion.com
 app.visitor-analytics.io
