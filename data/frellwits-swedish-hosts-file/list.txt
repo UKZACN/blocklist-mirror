@@ -31,7 +31,6 @@ adeprimo.se
 adhost.se
 adnami.io
 adnami2.io
-adncdnend.azureedge.net
 adnuntius.com
 adonstudio.com
 adpeepshosted.com
@@ -321,7 +320,6 @@ cdn.unblockia.com
 cdn.usefathom.com
 cdn.userreport.com
 cdn.viglink.com
-cdn.vip-hd-movies.xyz
 cdn.webpushr.com
 cdn.wootric.com
 cdn.yieldwrapper.com
@@ -406,7 +404,6 @@ dev.visualwebsiteoptimizer.com
 di.insplanet.com
 digidip.net
 digitalaudience.io
-digitalfeedback.euro.confirmit.com
 digitaliseringsinitiativet.se
 dinapengar.compricer.se
 dl.episerver.net
@@ -592,7 +589,6 @@ log.cookieyes.com
 log.medietall.no
 logs.spilgames.com
 logx.optimizely.com
-longchampstockholm.com.se
 look.ufinkln.com
 ls.dycdn.net
 lwadm.com
@@ -883,7 +879,6 @@ sync.3fmediagroup.com
 sync.go.sonobi.com
 sync.richaudience.com
 synchrobox.adswizz.com
-system-notify.app
 t.atmng.io
 t.contentinsights.com
 t.elasticsuite.io
