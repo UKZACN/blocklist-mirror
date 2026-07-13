@@ -1100,6 +1100,7 @@ webpower.eu
 websdk.appsflyer.com
 webstats.100procent.com
 widget.lifeinside.io
+widget.monocular-agency.com
 widgets.ad.style
 widgets.getsitecontrol.com
 widgets.spklw.com
