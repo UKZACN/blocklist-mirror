@@ -540592,6 +540592,7 @@ nhis-home.site
 nhis-info.site
 nhis-kr.dynu.org
 nhis-kr.xyz
+nhis-mew.dynu.org
 nhis-news.cv
 nhis-news.icu
 nhis-news.online
@@ -724343,6 +724344,7 @@ srtchallenges.pro
 srtfgy.nrxed.xyz
 srtis.eu.cc
 srtmaurosrt.no-ip.biz
+srtnhis.dynu.org
 srtnr.co
 srtnr.com
 srtreg.xyz
