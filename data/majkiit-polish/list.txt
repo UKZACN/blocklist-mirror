@@ -179,6 +179,7 @@ coin-have.com
 coin-hive.com
 coinhive.com
 colasprint.com
+collect.neuca24.pl
 collegebasketball.numpet.com
 connect-lb.islay.tech
 consent.cookiebot.com
@@ -542,6 +543,7 @@ managebox.xyz
 mapr.numpet.com
 marketplace.ofeminin.pl
 matear.numpet.com
+matomo.neuca24.pl
 mautic.sfanews.pl
 media.azontree.com
 media.stsaff.pl
