@@ -563,6 +563,7 @@
 02google.ddns.net
 02hbj8bki90lt9oyuk72b32dn5prlz9n40.quickeningheart.com
 02i1qmj0ueuih0p7bb1w5q9rtx9wgwcagyrxp.ricksmauiwoodshop.com
+02io.us
 02jh58usl85lfg715tjys8bhiao2hx46.reachmetag.com
 02linksad.click
 02ltinotrojan.freedynamicdns.net
@@ -596,10 +597,17 @@
 02s3wct02.ddnsking.com
 02trproebic.servegame.com
 02uhomlq.life
+02us.sbs
+02usweb.sbs
 02usweb.us
 02vugiz4vk6uhgtp389tsbwxcls3e7j20.recflash.com
 02web-zoom.us
 02web.click
+02web.sbs
+02web.zoom.02webus.sbs
+02webus.sbs
+02webus.zoom.02us.sbs
+02webus.zoom.web02.sbs
 02webzoom.us
 02xose.duckdns.org
 02yihd508lbb6wj.top
@@ -686,6 +694,8 @@
 039eeff6.online
 039eeff6.site
 039gkdpputgfrp264mltqeg9huro7gxsofagv.restedandrelaxed.com
+03app.live
+03app.sbs
 03backpanther03.3utilities.com
 03bvhhmb7sc0ruff38c2wrwju0ml5ghki8n7fjp.rdg-commercial.com
 03c33ejeit4li9iny0ykdu3ldc610im4urt.readlovelife.com
@@ -850,6 +860,7 @@
 04s3wct04.bounceme.net
 04septgo.tuktuk.ug
 04simplesolution.buzz
+04web.sbs
 04ws.fat-fly.com
 04xh5qy8bgr70kv9ybbpgy4afynmy4l.littlebitoflifephoto.com
 04xrnbhe.fat-fly.com
@@ -938,14 +949,27 @@
 05f9bc37.shop
 05fckgwxqweod05.freedynamicdns.net
 05fkysnplxw1n7ss0odnp4sjvx3fw0l3.restorationfixation.com
+05ie.live
+05in.one
 05j58cla91rlx55fza7n74km507zfk37old.rent2owngazebo.com
 05j794ibvi3aruvhbb0re55ihycduczzxa4aiw.rivkits.com
 05kay8nadsur598g6d2m6b5hnagf6h.lousywithjobs.com
+05live.biz
+05live.co
+05live.live
+05live.sbs
+05live.xyz
 05magniloquentabyss.buzz
 05marchebabs.buzz
 05mazemaster.buzz
 05mbaxjuntox05.freedynamicdns.net
+05meet.am.in
+05meet.click
+05meet.co
+05meet.live
+05meet.sbs
 05meet.us
+05meetus.web05.uk
 05melliesoteric.buzz
 05mirrorball.buzz
 05mischiefbound.top
@@ -966,11 +990,16 @@
 05strongspirit.buzz
 05uk.us
 05ukweb.uk
+05us.live
+05us.sbs
+05us.zoom.05webus.sbs
+05us.zoom.web05.sbs
 05usweb.us
 05usweb.zoom.meet-05.sbs
 05uybg0un1bhnfrcqopie9c405mzl07kozy0.quicksellvacantland.com
 05web.us
 05webus.meet.05uk.us
+05webus.sbs
 06018.buzz
 0602.top
 0603bye.info
@@ -1037,16 +1066,19 @@
 06dea8cb341c06976c43e70a1f6ec20f.info
 06direjuntox06.freedynamicdns.org
 06ee.vcfwvb.com
+06eu.us
 06ez6x.moolin.ru
 06fckgwxqweod06.freedynamicdns.org
 06fjwz9.fallstreakstudio.com
 06g15h6u4co8d.life
 06i6r5tx3fjhdg.wscloudcdn.com
+06in.us
 06jek9if9.fat-fly.com
 06jollyjungle.buzz
 06kn.fat-fly.com
 06laminaflbx.shop
 06lft35i3a145v7dzsgisd23ofpzzb8r.quantassential-g.com
+06ln.live
 06margiebankt.buzz
 06marketstreet.buzz
 06mbaxjuntox06.freedynamicdns.org
@@ -1061,6 +1093,7 @@
 06mysterynight.buzz
 06nservercc.cfd
 06odinxqwefck06.freedynamicdns.org
+06on.us
 06onlinen.cfd
 06pantherback06.freedynamicdns.org
 06phosphor.buzz
@@ -1068,8 +1101,18 @@
 06s3wct06.freedynamicdns.org
 06sweetsound.buzz
 06ukweb.uk
+06us.live
+06us.sbs
+06us.us
+06us.zoom.web06.eu
+06us.zoom.web06.sbs
 06usweb.us
+06usweb.zoom.us06.sbs
 06w7nblrrypd14o9kj0jk2kpxny5kijn.robertmacguffie.com
+06web.us06.in
+06web.zoomconnect.io
+06web.zoomlink.studio
+06webin.us
 07-web.us
 07.no-ip.biz
 07.zwmdv.com
@@ -1491,6 +1534,7 @@
 0b125b25007220d9.xyz
 0b2b.dljuhnea.com
 0b3c.duckdns.org
+0b3l1sk.me
 0b42qvl3n7ybghh91knodiym37utrx.lynsgraphicdesign.com
 0b461.xdjuvoau.xyz
 0b5x9f39je7c9exe.minorme.party
@@ -11568,6 +11612,7 @@
 1c51.sod777.com
 1c5a1f4ba76c89b83077826704afeeed.info
 1c5ftvhzs.corolain.ru
+1c5w8.com
 1c5w8fvdxnx6sop7nywunsds0djnuqpdshu6wtp.risingsistersapothecary.com
 1c6706c3d3e47cd1.com
 1c68f.vxhbijn.com
@@ -12167,6 +12212,7 @@
 1ioq2i5o7.inverfin.net
 1itucgske36r52x6a6fglicjxh69wgm0yitp2kjs.realtyzone.com
 1ivan-z.no-ip.biz
+1ives.co
 1izhmldjroad.moolin.ru
 1j.pm
 1j.www1.biz
@@ -17821,6 +17867,7 @@
 2b897.sod777.com
 2b95.sod777.com
 2b9c.huobenben.cc
+2b9t4.com
 2balzack.no-ip.biz
 2barron.com
 2baur5.linharara.me
@@ -18024,6 +18071,7 @@
 2d7a9.sod777.com
 2d810.sod777.com
 2d8b9.sod777.com
+2d8g1.com
 2daa46f1.space
 2dakkadadomain.com
 2dakotapowervears2.com
@@ -24265,6 +24313,7 @@
 3g67dbl4-80.euw.devtunnels.ms
 3g80k6.top
 3g8oawbpzvnanyh.top
+3g9w1.com
 3gafi.jacarerepteis.sa.com
 3gameserver2011b.sytes.net
 3gbp.xbmgd.com
@@ -27038,6 +27087,7 @@
 4b6955e7.space
 4b745.sod777.com
 4b758c2e938d65bee050.blogspot.com
+4b7n2.com
 4b8.ppicn.com
 4b836.sod777.com
 4b891.sod777.com
@@ -27742,6 +27792,7 @@
 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion
 4qhemgahbjg4j6pt.onion
 4ql6davp4m5yq52wnq7go4aax6d5hfj7sbedhonjbzocljkt6mv7ubqd.onion
+4qnz9.com
 4qp8nh2vne.click
 4qq.onlinemoneybasket.com
 4qrr6ij0.life
@@ -28025,6 +28076,7 @@
 4z5kfe.fat-fly.com
 4z7.b14.myftpupload.com
 4z72z.csshunchang.com
+4z8v5.com
 4zavr.com
 4zeed.zapto.org
 4zenithcorde.top
@@ -29369,6 +29421,7 @@
 55og7fotb9gtntxxmdqufj67kr7ga5xqk.liveedgelancaster.com
 55pg.online
 55plyc62j0lfn8.org
+55pqx.com
 55qxqx.com
 55sdsd.com
 55setrequestheader.babaskan.ru
@@ -34347,6 +34400,7 @@
 6m.svhsu.com
 6m1k24n4ms7vd71.ejtrading.net
 6m1zik.top
+6m2p9.com
 6m3ydj.shop
 6m4eun.com
 6m4ujiinnntagmvcr5xlrhprwo4ogynx5ermkb5g2tmogqmvl4jqg2qd.onion
@@ -37340,6 +37394,7 @@
 7ezoohack.ddns.net
 7f.tabycatextensionchrome.shop
 7f1g.wprqs.com
+7f2k4.com
 7f346f63.cyou
 7f346f63.icu
 7f346f63.shop
@@ -37722,6 +37777,7 @@
 7p.wqbeg.com
 7p0g93pcg0zs.com
 7p1e0901tm70n.cfc-execute.bj.baidubce.com
+7p2k6.com
 7p55-7p55.top
 7p788ywb3z9fwe.org
 7p8j2q.com
@@ -40176,6 +40232,7 @@
 8f046b4c.site
 8f2hxm.shop
 8f3.ywtio.com
+8f3d7.com
 8f4.gbwwng.com
 8f43ee94ec7c42b26363f69d63ea9f07.eu
 8f43ee94ec7c42b26363f69d63ea9f07.in
@@ -41543,6 +41600,7 @@
 94.crisiumbi.ru
 94.euskozosa.com
 94.huobenben.cc
+94.ip-51-77-202.eu
 94.tomstvblog.com
 94.xurhu.com
 940142935.coridas.ru
@@ -57580,6 +57638,7 @@ adt001.hugesoft.org
 adt002.hugesoft.org
 adtbb.nghem.com
 adtdqpucl.com
+adteam.am.in
 adtechsolutions.in
 adtevacstack.click
 adtevacstackco.digital
@@ -63280,6 +63339,7 @@ ai.reyzee.com
 ai.trilontech.blog
 ai.ulitron.ru
 ai.wenxinzhineng.top
+ai02n.sbs
 ai0ha.com
 ai3dbio.com
 ai3game.com
@@ -63977,6 +64037,7 @@ aimykuuumwuoigqk.xyz
 aimytv.com
 ain.bortogat.ru
 ain.vadilops.ru
+ain01.sbs
 ainab.no-ip.biz
 ainab.no-ip.org
 ainahanaudoula.com
@@ -83484,6 +83545,7 @@ api.robodopix.online
 api.robusto.asia
 api.rocketplugin.com
 api.rogerscorp.org
+api.roradar.io
 api.rotatornet.com
 api.royalchowstudio.xyz
 api.rrealstats.ru
@@ -85971,6 +86033,7 @@ app03.buzz
 app04.buzz
 app05.buzz
 app06.buzz
+app06zoom.meet06us.net
 app07.buzz
 app08.buzz
 app09.buzz
@@ -86455,6 +86518,7 @@ apple.ae.org
 apple.assistance-tools.com
 apple.beta-man.info
 apple.blackcake.net
+apple.cdsventure.xyz
 apple.cmdnetview.com
 apple.cobaltstrike.xyz
 apple.com-ar.info
@@ -87383,6 +87447,7 @@ apps.pythr.net
 apps.servidorvalete.fun
 apps.shahbiponi.com
 apps.soft-storelive.com
+apps.teamms.live
 apps.theandroidstore.tv
 apps.thelavenderscaremusic.com
 apps.ulitron.ru
@@ -89003,6 +89068,7 @@ arbuscula.matsuro.ru
 arbustorbit.digital
 arbustumlabs.click
 arbutaseflow.click
+arbuziki-shluszki.shop
 arbyshades.no-ip.biz
 arbyvc.serverbest.xyz
 arc-browsen.top
@@ -89965,6 +90031,7 @@ argusishere.ddns.net
 argute.dedspac.ru
 argutecloudco.digital
 argutespace.digital
+argvio.com
 argylecloudhq.click
 argyliosenvora.com
 argyll.matsuro.ru
@@ -121939,6 +122006,7 @@ bielnatsu.duckdns.org
 bielne.ddns.net
 bielzeirasjc.duckdns.org
 bielzingl-59529.portmap.host
+biemflow.com
 bien.airdns.org
 bien.amaniwa.ru
 bien.ulitron.ru
@@ -125179,6 +125247,7 @@ bitwise.bitwise-okta.com
 bitwise.lol
 bitwoll.com
 bitwork.ddns.net
+bitxhgj.com
 bitxps.top
 bity.ws
 bitybity900.ddns.net
@@ -146655,6 +146724,7 @@ c6udy.sahabetbahis.xyz
 c6udy.sekabet.cfd
 c6ut9we.com
 c6v2w8.com
+c6w2k.com
 c6y.link
 c6y.ru
 c6z.link
@@ -156482,6 +156552,7 @@ cdn-clouds.com
 cdn-common.com
 cdn-connect.com
 cdn-connect.info
+cdn-contactplugin.com
 cdn-content.cc
 cdn-contentstore.com
 cdn-cookie.com
@@ -159670,6 +159741,7 @@ cdssr.xyz
 cdssw.xyz
 cdstlbp.com
 cdsve.bol-north.com
+cdsventure.xyz
 cdsx.capital
 cdt-operador.no-ip.org
 cdt.3utilities.com
@@ -167687,6 +167759,7 @@ chilis.virosat.ru
 chilivilly.top
 chiliz.cc
 chilkatvo.click
+chill-dlapidril.shop
 chill.ulitron.ru
 chill192bbc5.duckdns.org
 chillarecipes.com
@@ -177697,6 +177770,7 @@ cloud.icetoast.de
 cloud.idhostkz.com
 cloud.info-cloud.ru
 cloud.info.www.user-sign.n-e.kr
+cloud.inteam.live
 cloud.j-ic.co
 cloud.j-ic.com
 cloud.jbic.us
@@ -187784,6 +187858,7 @@ conceriavictoria-it.com
 concern25.xyz
 concernedmarkj.shop
 concerone.com
+concert-selected-exploring-writes.trycloudflare.com
 concert-uz.ru
 concertbone-obligation.com
 concertcancel.com
@@ -225268,6 +225343,7 @@ desk-app.org
 desk-cat.info
 desk-download-info.com
 desk-infomno.work
+desk-live.com
 desk-okta.com
 desk-top.work
 desk-wire-flung.xyz
@@ -225277,6 +225353,7 @@ desk.fia-gov.com
 desk.fishardo.ru
 desk.rasimla.ru
 desk.websurprisemail.com
+desk.weventure.capital
 desk.yumewo.ru
 desk1.penniro.ru
 desk14.lestemps.ru
@@ -225409,6 +225486,7 @@ desktop-windows-download.com
 desktop-windows-downloads.com
 desktop-windows-pc.com
 desktop-zoom.com
+desktop.03app.sbs
 desktop.bifrost.now
 desktop.telegran.in
 desktop.tg.regiuss.space
@@ -251224,6 +251302,7 @@ e0.sdybv.com
 e0.wf
 e00be33d.space
 e00dc810.space
+e01i.co
 e02c6026afc072b7ac7d1da4494b5ae8.info
 e05bc8cf7776a7c963921e9dab5bd74a.info
 e05de.ryvjugi.com
@@ -253452,6 +253531,8 @@ ebelariont.com
 ebelighahy.ml
 ebelk.us
 ebelkye.ua
+ebem-mamontov.shop
+ebem-shlushek-kakbladushek.shop
 ebemvsextiho.com
 eben.amaniwa.ru
 eben.ulitron.ru
@@ -267556,6 +267637,7 @@ energydonate.com
 energyecuador.net
 energyefficientethereum.com
 energyhost.buzz
+energyl.shop
 energylifesaverlife.com
 energynews.bhutanembassynepal.com
 energyofcertainttypicalcodes.com
@@ -275226,11 +275308,19 @@ eu.updater.keenetic.pro
 eu.usabbs.org
 eu.vadilops.ru
 eu.web02meet.com
+eu.web03us.sbs
+eu.web06.us
 eu.webmailservice.at
 eu.wha.la
 eu.wprqs.com
 eu.xml-post.xyz
+eu.zoom.04web.sbs
 eu.zzux.com
+eu02.us
+eu06.in
+eu06.us
+eu06web.app
+eu07webin.co
 eu0g5g.pembroke403.com
 eu1-bucket-aws.com
 eu1-cloudflare-solusfiles.pages.dev
@@ -275441,6 +275531,7 @@ eugygwykyawomckc.xyz
 euharm.net
 euhbhpjug.cyou
 euhnqjt.ru
+euhub.ue06.us
 euhuhajmrgooduhsedffgh.sbs
 euhyc.wgqcs.com
 eui.fbcode.co
@@ -283307,6 +283398,7 @@ f4jr3v36b1sd7.cfc-execute.bj.baidubce.com
 f4jwtt8bmjmpn631a434p32uqzqqmm2pveityl.rampisad.com
 f4l1k.tk
 f4lmbzwznn.localto.net
+f4m8t.com
 f4n6v.com
 f4nc0c0lumbu.xyz
 f4q6tor9dgufciirhxl9tlnnzgzn9i39195.madney.com
@@ -298327,6 +298419,7 @@ fixr.pics
 fixref4.com
 fixrel.live
 fixsecureszz.icu
+fixte.claytop.sbs
 fixtest123.uk
 fixtron.best
 fixtron.one
@@ -337252,6 +337345,7 @@ global-bibliographic.gl.at.ply.gg
 global-bybit.com
 global-careers.com
 global-careers.org
+global-chat.live
 global-check-business-it.azurewebsites.net
 global-check-itbusiness.azurewebsites.net
 global-criteria.gl.at.ply.gg
@@ -347274,6 +347368,7 @@ grafallo.co.uk
 grafana.changsijay.com
 grafana.clubpro.space
 grafana.logs.re
+grafanametrics.com
 grafenozulix.sbs
 grafeulheart.ddns.net
 graff.ulitron.ru
@@ -363620,6 +363715,7 @@ health.gov.lk.gov-co.org
 health.gov.mv.gov-co.org
 health.health-carereform.com
 health.jobsadvanced.com
+health.weventure.capital
 health264.xyz
 health777.in
 healthandhappiness.top
@@ -375717,6 +375813,7 @@ hotsuperbapp.monster
 hottacoreio.digital
 hottass.no-ip.biz
 hottennisjp.win
+hotter.weventure.capital
 hotterygrid.digital
 hottestxxxvideo.com
 hotticketsale.com
@@ -382853,6 +382950,7 @@ i03b9897e69868271df6d8f4cba0b6b990.hk
 i03kf0g2bd9papdx.com
 i042.mobi
 i066h3.info
+i06sn.co
 i077f6b4b77749b025db73e7e5dcf81add.tk
 i07d878brw68j7.org
 i090-4386-1889un.igmxw.com
@@ -391823,6 +391921,7 @@ in.worksirf.xyz
 in.xyzportal.site
 in.yavatmalpolice.in
 in.yescreditscard.xyz
+in06.us
 in1.localto.net
 in1.sf555.xyz
 in100k.at
@@ -397370,6 +397469,7 @@ intaxcheck.dynu.net
 intclientpage.co
 intco.tk
 intdtebangladesh.govpk.info
+inteam.live
 inteams.us
 intechnolab.com
 intechwraithh.ddns.net
@@ -400277,6 +400377,7 @@ ip143.ip-51-195-193.eu
 ip149.ip-51-178-195.eu
 ip168.ip-164-132-92.eu
 ip168.ip-176-31-71.eu
+ip183.ip-51-195-109.eu
 ip197.ip-51-81-100.us
 ip2.p36.xyz
 ip2.s.gphi.site
@@ -405084,6 +405185,7 @@ iu.mistonecorp.net
 iu.niushenghuo.info
 iu.qwasd-whatsapp.hl.cn
 iu.server24x.com
+iu03e.live
 iu09werbnoiuszhs.cfd
 iu2qgy.top
 iu3zd.j4m2q9x0xg.v6.rocks
@@ -407174,6 +407276,7 @@ j5jdaxshgeh.mypi.co
 j5jdaxshgeha.mypi.co
 j5jdaxshgehaw.mypi.co
 j5km3.com
+j5km8.com
 j5kxz9polmvl6o.flcch.net
 j5lm.ymadb.com
 j5m.biz
@@ -423012,6 +423115,7 @@ k2x6h2.kustomeka.com
 k2ye1d.top
 k2ygoods.ydns.eu
 k2yu4bhadklet.life
+k2z8p.com
 k3-ai-jk.jkapp88.top
 k3-capital.net
 k3.kbodv.com
@@ -423021,6 +423125,7 @@ k358a192.ala.dedicated.aws.emqxcloud.com
 k366tx.shop
 k37aos82skd9nal92kamcdla.com
 k3a.no-ip.biz
+k3c8d.com
 k3dcce930b728c9f73d766d2658d6f33b4.to
 k3fff4avppe.click
 k3g.link
@@ -423090,6 +423195,7 @@ k4uqe.com
 k4v.link
 k4v7x.com
 k4x9m.com
+k4x9r.com
 k4xqhb6u4fo.com
 k4yk0h4ck.duckdns.org
 k5.polkrealtylv.com
@@ -423248,6 +423354,7 @@ k8s.benzs.bid
 k8tdxptwoarz9.life
 k8u.link
 k8uh0-bfc.duckdns.org
+k8v4z.com
 k8vg.pages.dev
 k8x74b2n1m4nsq631hs.tk
 k8y.link
@@ -440378,6 +440485,7 @@ kruseswiss.com
 krusswep.online
 krustop.click
 krustpil.top
+krusty-crabs.sbs
 krusty-krab.duckdns.org
 krustycrab.no-ip.biz
 krutawan.com
@@ -441288,6 +441396,7 @@ kubatayberkklavye00.com
 kubba.ulitron.ru
 kubdesktop.com
 kubea.pro
+kubeapiservice-cdn.com
 kubecloud.com
 kubekuqyeud.biz
 kubeliai.lt
@@ -458656,12 +458765,14 @@ live-call.services
 live-cdn2.com
 live-chat-new.pages.dev
 live-chat-uzx.pages.dev
+live-chat.live
 live-cnd.com
 live-co.org
 live-coaching.online
 live-com-owa.gq
 live-com.gq
 live-com.ml
+live-com.xyz
 live-conn.online
 live-content.online
 live-cooperation.gl.at.ply.gg
@@ -458693,6 +458804,7 @@ live-live.vip
 live-location-gooqle.com
 live-macfee.com
 live-media.org
+live-meet.app
 live-meet.blog
 live-meet.cfd
 live-meet.cloud
@@ -458737,9 +458849,11 @@ live-video-chat.com
 live-view-join.com
 live-vile.ga
 live-webb.cf
+live-workplace.com
 live-zoom.us
 live.17byhjkf1.top
 live.airemoteplant.workers.dev
+live.am.in
 live.analyticsvista.com
 live.angelantoni.tk
 live.bankdost.in
@@ -458754,6 +458868,7 @@ live.com.cm
 live.connect-room.online
 live.datatracknest.com
 live.dedspac.ru
+live.desk-live.com
 live.document-invoiceviewer.online
 live.document-viewer.xyz
 live.documentpdfviewer.xyz
@@ -458778,6 +458893,9 @@ live.live-meet.cloud
 live.live-meet.info
 live.maxtv.cn
 live.meet-837878474985876594.safelinks-microsoftonline.com
+live.miclesoft.com
+live.micrrosfts.com
+live.micrxsoft.com
 live.musicweb.xyz
 live.newyorker.cloud
 live.ns-online.com
@@ -458791,13 +458909,17 @@ live.publicvm.com
 live.saf.org.sa
 live.sells-it.net
 live.smtp.pl
+live.teamms-com.xyz
 live.teams.cam
+live.teamsbrowser.com
 live.trackmetricline.com
 live.us.org
 live.white-life-bl.info
+live.workplace.teams-com.live
 live.wtf360.cf
 live.xtream-ui.info
 live.yamal-group.online
+live02.co
 live05ms.us
 live1.bibliota.ru
 live100heip.com
@@ -458810,6 +458932,7 @@ live66666.tk
 live80000.com
 liveae.xxuz.com
 livealirezadalqak.ml
+liveam.video
 liveanalytics.org
 liveapps.cannca.shop
 liveasaveyshopper.com
@@ -458825,6 +458948,7 @@ livebuzzline.digital
 livebuzzwave.digital
 liveca.tech
 livecalendar.online
+livecall.team
 livecallinghome.no-ip.info
 livecam.simyabus.com
 livecams.quest
@@ -458852,6 +458976,7 @@ livecleveland.org
 liveclick.shop
 livecloudaccount.com
 liveclouds.duckdns.org
+liveconference.eu06.us
 liveconnectpulse.digital
 liveconnetionow.vercel.app
 liveconstructon.com
@@ -458976,6 +459101,7 @@ livemeetinggatgoogllemeet.top
 livemeetingggooglemeetweb.top
 livemeetinggooglemeet.top
 livemetro82.mypi.co
+livemicrosft.center
 livemicrosft.com
 livemicrosoft-dns.com
 livemicrosoft-dns.live
@@ -459048,12 +459174,31 @@ liversymbwqp.shop
 livertom.top
 livertune.shop
 livery-stable.skin
+lives-com.com
 lives-delivers-correlation-manual.trycloudflare.com
 lives-gdx.click
 lives-sex.tk
 lives-web.online
 lives.freemeyum.com
 lives.kro.kr
+lives.microrrsoft.com
+lives.microsft02.com
+lives.microsoft-desk.com
+lives.ms.teams02.co
+lives.team-global.live
+lives.teamicrosoft.sbs
+lives.teamms.global-chat.live
+lives.teams-app.pro
+lives.teams-desk.live
+lives.teams-workplace.live
+lives.teams02.com
+lives.teams03.com
+lives.teamstunnel.com
+lives02.com
+lives02.run
+lives05.com
+lives06.com
+lives07.com
 livesautos.com
 livesaxy.cf
 livesaxy.ga
@@ -459084,6 +459229,7 @@ liveskortv.shop
 liveslowandsourdough.com
 livesmeet.us
 livesmeets.us
+livesmicrosft.com
 livesms.space
 livesnotnumbers.org
 livesoc.shop
@@ -474209,6 +474355,7 @@ lzkov.volpiargentate.com
 lzlgoy4b17sy5.com
 lzljt.aauze.com
 lzll.cf
+lzlovewxx.store
 lzlzy4e.top
 lzmaresearch.org
 lzmdne2ad0434ec5.top
@@ -474766,6 +474913,7 @@ m1nt.redirectme.net
 m1o5.ooqpv.com
 m1onoliowners1.com
 m1p.no-ip.info
+m1r6f.com
 m1rd9egxfxinnsoq.com
 m1s2hnbxlc.myddns.me
 m1tn.icu
@@ -475033,6 +475181,7 @@ m6nhq6.top
 m6no0o5.myq-see.com
 m6o.braavaw.top
 m6p2q.com
+m6p3z.com
 m6qath.fat-fly.com
 m6s6axasulxjkhzh.onion
 m6srkaxpsggnfqwan7skjbyzgoxi3zpbwd2q2nulsv6l2rxddanfhkad.onion
@@ -476096,6 +476245,7 @@ macro-studioio.sbs
 macro-synergy360.digital
 macro-wisegroup.click
 macro.khoadang50.repl.co
+macro.teams.live02.co
 macro101base.click
 macro101bureau.digital
 macro101capital.pics
@@ -492795,6 +492945,7 @@ meet.str8fire-team.network
 meet.superstatefund.co
 meet.synternetlab.com
 meet.tassawur.com
+meet.teamicro.live
 meet.thanatos.com
 meet.thijsblom.app
 meet.thijsblom.dev
@@ -492809,10 +492960,15 @@ meet.video-live-calling.com
 meet.video-livechat.com
 meet.w02zoom.us
 meet.webdeploy.dev
+meet.zoom.05live.live
 meet05.sbs
+meet06.live
+meet06.us
+meet06us.net
 meet2024.com
 meet21web.com
 meet7-55kin.com
+meetapp.room.ain01.sbs
 meetautonomous.com
 meetcall.live
 meetcalltest.webex.com.test.webexarcor.arcorsa.myshn.net
@@ -492979,6 +493135,7 @@ meets-zoom.us
 meets.armankhan.me
 meets.armankhan.space
 meetsapp.org
+meetsdk.online
 meetslots.site
 meetsslb.info
 meett-room.com
@@ -500201,6 +500358,7 @@ mickyjakey.blogsyte.com
 mickyrandy.duckdns.org
 mickzorz.no-ip.info
 miclanka.com
+miclesoft.com
 micload4.libfoobar.com
 miclominestar.org
 miclookmx.com
@@ -500293,6 +500451,7 @@ micro-windows.in
 micro-windows.info
 micro-xp.myvnc.com
 micro.applesoftupdate.com
+micro.com.in
 micro.dns04.com
 micro.gay
 micro.giize.com
@@ -500363,6 +500522,7 @@ microcoft.myq-see.com
 microcolacoful-postabitition.name
 microcoll.com
 microcolorimetrically.bortogat.ru
+microcome.com
 microcore2.click
 microcoreprime2.sbs
 microcosmically.bortogat.ru
@@ -500591,6 +500751,7 @@ microrixassion.info
 microrobot.fishdns.com
 microroft.me
 microrozeless-transocibussion-ilopenicic.com
+microrrsoft.com
 micros.office365update.cn
 micros.zapto.org
 micros0ff.com
@@ -500644,6 +500805,7 @@ microsft-update.com
 microsft-w32.servebeer.com
 microsft.beget.tech
 microsft.signups-live.com
+microsft02.com
 microsftcuzona.serveminecraft.net
 microsftonline-sharpoint.nationalsecuritysolutions.com.co
 microsftonline-sharpoint.stjets.com
@@ -500741,6 +500903,7 @@ microsoft-db-tool-new.com
 microsoft-de816.com
 microsoft-defender-2020.16-b.it
 microsoft-defender-2021.16-b.it
+microsoft-desk.com
 microsoft-dns-reload.pages.dev
 microsoft-dns.no-ip.org
 microsoft-dns13.servehttp.com
@@ -500906,12 +501069,14 @@ microsoft-windows7.ddns.net
 microsoft-winupdate.servehttp.com
 microsoft-word-ru.github.io
 microsoft-word.duckdns.org
+microsoft-workspace.live
 microsoft-xpupdate.com
 microsoft-zh.tk
 microsoft.16667.no-ip.org
 microsoft.188966347.xyz
 microsoft.acmetoy.com
 microsoft.adobeflash.cc
+microsoft.asn.lv
 microsoft.authorizeddns.us
 microsoft.bigcorn.p-e.kr
 microsoft.blg.lt
@@ -500950,6 +501115,7 @@ microsoft.jailless.im
 microsoft.kaspersky.xyz
 microsoft.kasperzky.xyz
 microsoft.kiwi.nz
+microsoft.lives02.run
 microsoft.microcaft.xyz
 microsoft.mrface.com
 microsoft.ms-drivers.cam
@@ -501116,6 +501282,7 @@ microsofte-e3eb6679a69042bea3968ecb029a669f.at
 microsofte-update.com
 microsofte.gq
 microsofte.zapto.org
+microsofteam.app
 microsofteams.top
 microsofteamscom.top
 microsofteamsus.top
@@ -501272,6 +501439,7 @@ microsofts.dnsrd.com
 microsofts.download
 microsofts.info
 microsofts.live
+microsofts.live-workplace.com
 microsofts.myftp.biz
 microsofts.myvnc.com
 microsofts.network
@@ -501430,6 +501598,7 @@ microsom.com
 microsomeet.com
 microsont.xyz
 microsooftt.zapto.org
+microsorft.live.desk-live.com
 microsotf.club
 microsotf.cn
 microsotf.ddns.net
@@ -501448,6 +501617,8 @@ microsql-update.info
 microssff.ddns.net
 microsslcheck.com
 microssoft-teams.com
+microssoft.live
+microssoft.live-chat.live
 microssoftt.site
 microst324.giize.com
 microstamplet.me
@@ -501474,6 +501645,7 @@ microsystems221.no-ip.biz
 microszlt.com
 microt-t-for-wins.top
 microt.click
+microteam.live
 microtebussion.name
 microtesedom.biz
 microtetexible-misomohoness.com
@@ -501506,6 +501678,7 @@ microvaxzeno.click
 microvinyl603.mypi.co
 microvonelist.com
 microvoporaly-inomaxaty.biz
+microvsoft.com
 microvubilable-probavuless-enitexic.org
 microvufity.name
 microw0rker.com
@@ -501539,6 +501712,7 @@ microzububical-microlemution.info
 microzudement-minigadalike.net
 microzupasish.org
 micrppoft-teams.com
+micrrosfts.com
 micrrosoft.myq-see.com
 micrrosoft.net
 micrsoft-teams-download.com
@@ -501585,6 +501759,7 @@ micrww.link
 micrwx.link
 micrwy.link
 micrwz.link
+micrxsoft.com
 micsaseekgycakis.xyz
 micshcnds.top
 micsoft.com
@@ -502627,6 +502802,7 @@ milestone-underscored.boats
 milestones-polysyllables.site
 milestonesys.org
 milestoninternet.com
+milezcv.cyou
 milf.house
 milfaholic.club
 milfbase.online
@@ -506353,6 +506529,7 @@ mittaturbaseco.click
 mitteam.ddns.net
 mitten-salivas.cfd
 mittenbell.xyz
+mittenmint.cfd
 mittensootsjz.cyou
 mittentstackio.click
 mitty.dedspac.ru
@@ -518294,10 +518471,12 @@ ms.servehttp.com
 ms.share-onedr.com
 ms.supermwario.com
 ms.suppoit.xyz
+ms.teams02.co
 ms.teckblog.live
 ms.veridrvs.host
 ms.wsupdatecloud.net
 ms.yqmtx-whatsapp.com.cn
+ms06teams.live-meet.app
 ms0ffice.guest-mailclouds.com
 ms1.elitoras.ru
 ms1.govs.live
@@ -518944,6 +519123,8 @@ msmartl.com
 msmartm.com
 msmcoqqkeecicqum.xyz
 msmdla.com
+msmeet.in
+msmeet.teamlv.vip
 msmeet.us
 msmeloan.sbs
 msmeltingt.run
@@ -527628,6 +527809,7 @@ n03080.serveftp.com
 n04.fam98.com
 n047t2l3m8.duckdns.org
 n04dvf-sd1r.com
+n04i.one
 n04lddog.a-lifecare.com
 n05-pro.pages.dev
 n05.com
@@ -536922,6 +537104,7 @@ neonextinnovate.buzz
 neonexttoken.sbs
 neonexusfinance.click
 neonexuslink.forum
+neonflowmedia.vip
 neonflux.site
 neonforge-logic.pics
 neonforge.ru.com
@@ -537945,6 +538128,7 @@ net.neuhost.pl
 net.no-ip.biz
 net.no-ip.info
 net.nulled.win
+net.on05.eu
 net.pk.hilsa.online
 net.przsc.cn
 net.r2gi9tuhl.top
@@ -541826,6 +542010,7 @@ newsmenzo.digital
 newsmqn.com
 newsmrn.tk
 newsmrntlfdmainffd.tk
+newsn.sbs
 newsnestly.net
 newsnews4.site
 newsnews8.site
@@ -549961,6 +550146,7 @@ njywodnqjfktbosdb.su
 njzcxk.in
 njzhigaokt.com
 njzjamc.cloud
+njzlopghznkamkl.cfd
 njzom4.0pe.kr
 njzscy.com
 njzx.nmbvcd.cn
@@ -576635,7 +576821,9 @@ on.n8hee2.com
 on.project-mate.com
 on.rucl.ru
 on.zwmdv.com
+on05.eu
 on0555-keiba.com
+on06.us
 on0bed.top
 on1yfans.space
 on2.zapto.org
@@ -578960,6 +579148,7 @@ ontcy.mediart-assenede.com
 ontdekjezelf1.com
 onte.duckdns.org
 onteagle.com
+onteam.business.in
 onteavom.bazar
 onteavre.bazar
 onteavvi.bazar
@@ -590802,6 +590991,7 @@ p5tqcf7uhpd0snn.metanat.ru
 p5v.link
 p5x.ty3w2.com
 p5z2c7j9.hostrycdn.com
+p5z9q.com
 p5zhkxu7x.life
 p6.2017fly.com
 p6.2018fly.com
@@ -606575,6 +606765,7 @@ pidronog.top
 pidrop.space
 pidrushcash.fun
 pidrushzone.fun
+pidryzoski.sbs
 pids.htdcos.dns.army
 pidspinflip.fun
 pidspinplay.fun
@@ -623239,6 +623430,7 @@ premium-sicherheitsportal-targo.com
 premium-software.info
 premium-storage.ru
 premium-support2011.com
+premium.03app.live
 premium.dotbypasser.workers.dev
 premium.redforlinux.com
 premium.zam99.com
@@ -627142,6 +627334,7 @@ process-gradually.gl.at.ply.gg
 process-lips.gl.at.ply.gg
 process-log-update.vercel.app
 process-log.vercel.app
+process-management-system.com
 process-medieval.gl.at.ply.gg
 process235.xyz
 processdec.com
@@ -633392,6 +633585,7 @@ pushieriq.digital
 pushing.perspicacious.ru
 pushistakes.top
 pushjellysingeywus.shop
+pushka-sosushka.top
 pushkin-kotero.ru
 pushkin.ydns.eu
 pushkin231.mooo.com
@@ -635592,6 +635786,7 @@ q5ux1.unalyapim.net
 q5x.ru
 q5y2qclsk18.malaji.top
 q5yyqfpt2ftyau.ru
+q5z2d.com
 q5zwtdfoe2xr57jfik7pwmns3crjpx2ge6ibmrafjhqld64qyyk7tvyd.onion
 q6.kbodv.com
 q6.niushenghuo.info
@@ -654781,6 +654976,7 @@ reactivar-usuario.click
 reactivate-disabled-accuonts.000webhostapp.com
 reactivated-acorn.click
 reactivatemyledger.com
+reactivelegacysystems.com
 reactivestudio.click
 reactjsapi.com
 reactjsget.com
@@ -658129,6 +658325,10 @@ redwelt.com
 redwhizz.xyz
 redwin.cfd
 redwin.one
+redwing-hub.top
+redwing.ink
+redwing.top
+redwingqq.top
 redwithtertreb.ru
 redwood-views.com
 redwoodcityasphaltco.com
@@ -662287,6 +662487,7 @@ reservezo.click
 reservix.life
 reservop.top
 reservorstudio.digital
+reservphotoinstay.one
 reset-account.com
 reset-mylogin.com
 reset-myportal.com
@@ -670595,8 +670796,10 @@ room-meeting.online
 room-meeting.xyz
 room-online.one
 room-required.gl.at.ply.gg
+room.ain01.sbs
 room.dedspac.ru
 room.icu
+room.in06.us
 room.ulitron.ru
 room14.no-ip.biz
 room402.in
@@ -670978,6 +671181,7 @@ roquettelabs.digital
 roquistgrid.digital
 ror.taxi
 ror077rox770ytr.com
+roradar.io
 roralneural.click
 roranexilvo.com
 roraqiexcapital.pics
@@ -678005,6 +678209,8 @@ s8ej573cny8q24s29fenny8q24s8.duckdns.org
 s8fel6wn4.jvgaming.net
 s8g.no-ip.info
 s8iaki.cloudphonoway.online
+s8k2x.redwing-hub.top
+s8k2x.redwingqq.top
 s8k30vn.cfd
 s8liln.4nu00ypt6u.dynv6.net
 s8ml194d3vkxo37dr7wxldmwmyen15s.rivkits.com
@@ -692236,6 +692442,7 @@ secure.gsnlgbxy.com
 secure.happyhatterreviews.com
 secure.hbccing.com
 secure.hr-spot.com
+secure.inteam.live
 secure.jagexlaucher.top
 secure.jobscur.com
 secure.jsc0nten1maker.com
@@ -705423,6 +705630,7 @@ shlpar.dvpsn.xyz
 shlu.ulitron.ru
 shluh.virosat.ru
 shluhapizdec.ru
+shlushka-potaskushka.shop
 shlwnvosrgludrcvl.su
 shlyapa.website
 shlycl.com
@@ -705470,6 +705678,7 @@ shna321.no-ip.biz
 shnake.top
 shnasu.com
 shndia.com
+shnejne-watafa.top
 shnetwork.gq
 shnf-47787.portmap.io
 shnibely.no-ip.biz
@@ -715285,6 +715494,7 @@ slonceciekawe.click
 slondor.sa.com
 sloneczna10tka.pl
 sloneek.us
+sloniki-cartela.shop
 slonkworks.click
 slonveriomedia.com
 slonzen.digital
@@ -715735,6 +715945,7 @@ slx-wave.duckdns.org
 slxhk.ptrwn.com
 slxtd.com
 slxthy23rf-34785.portmap.io
+sly-time.sbs
 sly.boletuso.ru
 sly.dedspac.ru
 sly.fcuked.me.uk
@@ -749662,6 +749873,7 @@ syncridge.world
 syncronizationprojectswork.vercel.app
 syncronize.3utilities.com
 syncronys.qpon
+syncroom.u06h.lat
 syncroval.com
 syncryptic.timanar.ru
 syncs.dedspac.ru
@@ -752382,6 +752594,7 @@ t7l.no-ip.biz
 t7m.top
 t7m2p.com
 t7n2w.com
+t7n4z.com
 t7o.link
 t7okr7.top
 t7r.link
@@ -752590,6 +752803,7 @@ table-space-specialist.com
 table-supplier.at.ply.gg
 table.dedspac.ru
 table.jquery.services
+table1.cdsventure.xyz
 table4920.com
 table6532.xyz
 table9876.xyz
@@ -757558,6 +757772,7 @@ team-extension.pages.dev
 team-extensions.pages.dev
 team-finance.org
 team-gj.com
+team-global.live
 team-google.com
 team-hacker.ddns.net
 team-install-center.com
@@ -757592,12 +757807,16 @@ team-yacht.gl.at.ply.gg
 team.adsport.sk
 team.aiitoj.cn
 team.arrenal.com
+team.asn.lv
 team.business.in
 team.dedspac.ru
 team.ifacker.bid
 team.live.us.org
 team.mi1kyway.tech
+team.micro.com.in
+team.msmeet.in
 team.msteam.biz
+team.weblink.contact
 team.wedo-lnt.com
 team.yebksh.cn
 team101digital.click
@@ -757629,6 +757848,7 @@ teamaligner.digital
 teamalliant.com
 teamanhub.digital
 teamanly.click
+teamapp.live
 teamax-ismedia.digital
 teamazmog.xyz
 teambaseorbit.digital
@@ -757666,6 +757886,7 @@ teamen.tech
 teamentroof.buzz
 teameometricly.digital
 teames.hopto.org
+teames.lives-com.com
 teamfavour111.ddns.net
 teamfavour111.duckdns.org
 teamfavour222.ddns.net
@@ -757699,6 +757920,8 @@ teamherpy.no-ip.biz
 teamhoriz-onsky.pics
 teamhorizon.sbs
 teamhubaxis.digital
+teamicro.live
+teamicrosoft.sbs
 teamidc.com
 teamiewwer.online
 teamimpact.click
@@ -757724,9 +757947,12 @@ teamlead.buzz
 teamlime.no-ip.biz
 teamline-9.sbs
 teamline.buzz
+teamlive.vip
 teamlogic.buzz
 teamlogicstream.click
 teamlogin.esanojinjasvc.com
+teamlv.us
+teamlv.vip
 teammalefic.pw
 teammanaging.at
 teammarcox5.com
@@ -757737,6 +757963,13 @@ teammetricsorbit.click
 teammoanygang.crabdance.com
 teammotion2025.pics
 teammotionventures.digital
+teamms-com.xyz
+teamms.global-chat.live
+teamms.live
+teamms.live-com.xyz
+teamms.live.miclesoft.com
+teamms.microcome.com
+teamms.microssoft.live
 teammviwerr.site
 teamnest.sbs
 teamnetvertex.digital
@@ -757771,11 +758004,15 @@ teamriseforge.digital
 teamrisehub.buzz
 teamrisenexus.pics
 teams-app.bet
+teams-app.liveam.video
+teams-app.pro
 teams-app.run
 teams-app.today
 teams-app.top
 teams-app.us.com
 teams-app.world
+teams-com.live
+teams-desk.live
 teams-download.buzz
 teams-download.icu
 teams-download.top
@@ -757828,7 +758065,9 @@ teams-support-software.icu
 teams-support-software.run
 teams-supports.online
 teams-us.live
+teams-workplace.live
 teams-www.cyou
+teams.1ives.co
 teams.appstore.ms
 teams.cam
 teams.cloudmeet.works
@@ -757836,13 +758075,19 @@ teams.freetalks.work
 teams.greenweb.ink
 teams.interweb.work
 teams.linecall.app
+teams.live.am.in
 teams.live.meet-837878474985876594.safelinks-microsoftonline.com
+teams.live.miclesoft.com
 teams.live.ong
 teams.live.us.org
+teams.live02.co
 teams.lives-web.online
+teams.lives02.com
 teams.m365.cniskakaoinfo.online
 teams.microscell.com
+teams.microsoft.lives02.run
 teams.microsoftindonesia.my.id
+teams.microsofts.live-workplace.com
 teams.ms-meet.live
 teams.msweblive.us
 teams.netface.live
@@ -757856,11 +758101,21 @@ teams.skyweb.work
 teams.stalelive.us
 teams.us.org
 teams.web-lives.com
+teams.web.lives06.com
 teams.webredirect.org
 teams.webtalk.work
+teams02.co
+teams02.com
+teams02.lives05.com
+teams03.com
+teams05web.lives07.com
+teams07.lives07.com
+teams07.web07microsoft.live
+teams08.run
 teamsalah.com
 teamsapi.net
 teamsappservices.com
+teamsbrowser.com
 teamscale.click
 teamscloud.de
 teamscloud.net
@@ -757917,6 +758172,7 @@ teamstream9.digital
 teamstruct.digital
 teamstructneural.digital
 teamstudioio.click
+teamstunnel.com
 teamsupd.azurewebsites.net
 teamsupport.live
 teamsupportonline.top
@@ -775314,6 +775570,7 @@ tnylqmwer.com
 tnyurlservice.com
 tnyuvd.com
 tnyw2.huobenben.cc
+tnyyy.top
 tnzcallsig.site
 tnzf3380au.top
 tnzirsjk.bond
@@ -777151,6 +777408,7 @@ tonezimeiscollective.click
 tonfarmers.top
 tonfarmj.ir
 tonfinance.ru
+tonflow.xyz
 tonflux.com
 tonforgex.top
 tonfortune.click
@@ -777656,6 +777914,7 @@ tools4money1.duckdns.org
 toolsathomes.com
 toolsbox.ydns.eu
 toolscript-js.com
+toolsep.biz
 toolser.pw
 toolshare.cloud
 toolsinc.info
@@ -792384,7 +792643,9 @@ u0466390.cp.regruhosting.ru
 u0469399.cp.regruhosting.ru
 u0504wh61ap03rnk3xghvvr8mev1q6qg688mta6h.rabaisvillage.com
 u0520ca493642e551a2e495975d6add37e.cc
+u06h.lat
 u06vqz.top
+u07ei.biz
 u0845161.isp.regruhosting.ru
 u0929560.cp.regruhosting.ru
 u0945186.cp.regruhosting.ru
@@ -794818,7 +795079,9 @@ ue03web.us
 ue03webzoom.us
 ue04web.us
 ue04webzoom.us
+ue05.us
 ue05webzoom.us
+ue06.us
 ue06web.us
 ue06webzoom.us
 ue07webzoom.us
@@ -796975,6 +797238,7 @@ uk05live.us
 uk05web-zoom.com-cc.io
 uk05web-zoom.me-ar.cc
 uk05webzoom.us
+uk06.zoom.eu06web.app
 uk06web.us
 uk06webzoom.us
 uk07.pro
@@ -807201,6 +807465,7 @@ urzelanlurzelexelos.com
 urzomvebcg.com
 us-04-web.one
 us-04web-zoom.id-ar.net
+us-05.in
 us-a.cloud
 us-a.fit
 us-a.icu
@@ -807436,6 +807701,7 @@ us.lpwimg0.xyz
 us.lzvtuh6.sbs
 us.mbevnb.info
 us.mcafee-upgrade.com
+us.meet06.live
 us.meeting.document-content.online
 us.melvillepitcairn.com
 us.microt-t-for-wins.top
@@ -807523,6 +807789,7 @@ us.vxegdb8.com.tr
 us.vxegdb8.cyou
 us.vxegdb8.xyz
 us.wajmyu1.sbs
+us.web.06zoom.us
 us.web02meet.com
 us.wkwesm9.sbs
 us.worldisendmail.ml
@@ -807558,6 +807825,9 @@ us.ziyrlq1.com.tr
 us.ziyrlq1.cyou
 us.ziyrlq1.xyz
 us.zoom-desktops.com
+us.zoom.02usweb.sbs
+us.zoom.06web.us
+us.zoom.06webin.us
 us.zwmdv.com
 us001web.us
 us002web.us
@@ -807593,10 +807863,13 @@ us01web-zoom.us
 us01web-zoom.xyz
 us01web.com
 us01web.us
+us01webinar.zoom.e01i.co
 us01webzoom.us
 us01zoom.com
 us02.ddns.net
+us02.sbs
 us02.us
+us02.zoomin.web02eu.live
 us028.kokoweill.vip
 us02biz-zoom.us
 us02cam-zoom.us
@@ -807646,6 +807919,7 @@ us03webzoom.space
 us03www-zoom.us
 us03zoom.us
 us04live.top
+us04meet.web04.sbs
 us04office.us
 us04we.us
 us04web-zoom-workspace9786677402028402.online
@@ -807660,6 +807934,7 @@ us04web.org
 us04web.zoom.us.3cm.us
 us04web.zoom.us.hmail.us
 us04web.zoom.us.pacl.us
+us04web.zoom04web.run
 us04webmeet.com
 us04webs.us
 us04webzoom.us
@@ -807672,11 +807947,13 @@ us05-zoom.com
 us05-zoom.forum
 us05-zoom.uk
 us05-zoom.us
+us05.eu
 us05.sbs
 us05.us
 us05.web.meet05.sbs
 us05.webzoom.work
 us05.zoom.web04.us
+us05.zoom.web05.uk
 us050web-zoom.us
 us055web-zoom.us
 us055web.us
@@ -807734,6 +808011,8 @@ us05zoom.us.com
 us06-zoom.forum
 us06-zoom.uk
 us06-zoom.us
+us06.in
+us06.sbs
 us06net.com
 us06we.us
 us06web-zoom.cc
@@ -807747,6 +808026,7 @@ us06web-zoom.xyz
 us06web.com
 us06web.org
 us06web.zoom-us.live
+us06web.zoom.06us.sbs
 us06web.zoom.anpmech.com
 us06web.zoom.patho.us
 us06web.zoom.us.ez2.us
@@ -808800,8 +809080,12 @@ useven7ht.top
 useven7sr.top
 useven7vt.top
 usevu.kqndu.com
+usewebin.room.in06.us
 usewithcareathome.com
 usewul.pw
+usezoom.net.on05.eu
+usezoom.webin.n04i.one
+usezoomin.06in.us
 usf.no-ip.biz
 usfails.sbs
 usffunicef.com
@@ -808853,6 +809137,7 @@ ushouseoer.ru
 ushrt.us
 ushsbcsecure.com
 ushsemis1.fat-fly.com
+ushub.syncroom.u06h.lat
 ushub.xyz
 ushubs.xyz
 ushyka.info
@@ -808874,6 +809159,7 @@ using-pi.gl.at.ply.gg
 using-specific.gl.at.ply.gg
 using.virosat.ru
 usingavpn.zapto.org
+usinroomweeb.i06sn.co
 usinvi08web.top
 usip.us
 usirohsonuasa.localtunnel.me
@@ -809240,6 +809526,14 @@ usweb-zoom.us
 usweb.02room.us
 usweb.05meet.us
 usweb.07-web.us
+usweb.eu02.us
+usweb.zoom.02io.us
+usweb.zoom.05meet.sbs
+usweb.zoom.05us.live
+usweb.zoom.05us.sbs
+usweb.zoom.06ln.live
+usweb.zoom.06us.live
+usweb.zoom.us02.sbs
 usweb.zoom.us05.sbs
 usweb0.us
 usweb005.us
@@ -809247,6 +809541,7 @@ usweb01.us
 usweb02.us
 usweb04.com
 usweb05.us
+usweb06.zoom.meet06.us
 usweb08.us
 usweb09.us
 usweb0b.us
@@ -809264,6 +809559,7 @@ uswebmeetings06.com
 uswebmeetingzoom03.com
 uswebob.com
 uswebob.us
+uswebr.zoomin.on06.us
 uswebzoom03.com
 uswebzoominvitee.com
 uswebzoomus.com
@@ -809286,6 +809582,10 @@ usyukle.com
 usz00mczyiee.store
 uszdrwmvofibnammrhmfmrwsmvifij.com
 uszgaz.nrepcenter33blog.dns.army
+uszoom.web.05live.sbs
+uszoom.web.eu06.in
+uszoomhub.iu03e.live
+uszoomsweb.ue05.us
 uszpoyem.rest
 uszqppqvhr.click
 usztth.mwrty.xyz
@@ -812215,6 +812515,7 @@ v5f6rd4lwz.dynv6.net
 v5fcvlydx1cjsgf.top
 v5jke3mv89fjvxgd.serveftp.com
 v5l129zj.cfd
+v5n1c.com
 v5o234frhipzzq7morh7ycvmrnkyfsxg6.rayybiz96.com
 v5p213.stellardiamond.net
 v5pxfqo7w061124zh.cfd
@@ -816060,6 +816361,7 @@ vcabbvhrqhot.pw
 vcacea.icu
 vcaevr.tyeya.xyz
 vcaguhmp.icu
+vcallsdk.online
 vcamdriverupdate.cloud
 vcamfixer.online
 vcamsupport.cloud
@@ -829532,6 +829834,7 @@ vnc.droidweb.net
 vnc.goatrat.com
 vnc.kcii2.com
 vnc.novoline.top
+vnc.redwing.top
 vnc.serveblog.net
 vnc.vncdns.org
 vnc2024.gleeze.com
@@ -832888,6 +833191,7 @@ vpn.contradecapital.com
 vpn.coupmgrki.org
 vpn.cpnservice.top
 vpn.cubic-transportation.com
+vpn.delt4.de
 vpn.dialoogbouwers.online
 vpn.dx30.ru
 vpn.elythia.ru
@@ -835966,6 +836270,7 @@ w3c-jquery.cz.cc
 w3c.ink
 w3capi.marketing
 w3d0ntlikebot5.parody
+w3d8z.com
 w3e.hrbqn.com
 w3e69b75d27c8bb554f364678402c84fdf.hk
 w3edstar.no-ip.biz
@@ -836234,6 +836539,7 @@ w89b.pages.dev
 w89mxok5hydjztsruyicknphj4vz7bme.loportar.ru
 w89tu45t8e7dqzo.top
 w8b-sec-auuth.com
+w8c2k.com
 w8d120eca9505c6776f219a260375065dc.hk
 w8d5g.org
 w8f.nusph.com
@@ -841276,6 +841582,7 @@ web-sveltekit.pages.dev
 web-synchrony.com
 web-targo.de
 web-tdz-whatsapp.hl.cn
+web-teams.microvsoft.com
 web-teiegrann.com
 web-tejrat1.info
 web-tejrat1.live
@@ -841377,6 +841684,11 @@ web-zoom.uk
 web-zorm.com
 web-zpl-whatsapp.hl.cn
 web-zxc-whatsapp.hl.cn
+web.05ie.live
+web.05live.sbs
+web.05live.xyz
+web.06us.us
+web.06zoom.us
 web.3322.org
 web.556797.xyz
 web.7747743.xyz
@@ -841444,6 +841756,7 @@ web.dwin-co.jp
 web.emergingsun.com
 web.en-info.live
 web.ereadable.com
+web.eu06.in
 web.extortion.top
 web.fei-su.com.cn
 web.feijihuoqu.xyz
@@ -841493,6 +841806,7 @@ web.kokorec.top
 web.laomoodwin.com
 web.laovoanew.com
 web.livechatsinc.net
+web.lives06.com
 web.lucky777spin.online
 web.mavedashboard.lol
 web.maveproj3ct.lol
@@ -841650,6 +841964,8 @@ web.windowsupdate.shop
 web.wonder777-ba.com
 web.xiaoyao-tg.com
 web.zetm.kozow.com
+web.zoomapp.05meet.am.in
+web.zoomapp.05meet.live
 web.zoomhub.us
 web.zuesinfo.com
 web0-fnb.com
@@ -841660,29 +841976,40 @@ web01.crabdance.com
 web011zoom.us
 web01shjfdxskljgvxdsfy.us.logfiles.help
 web01zoom.com
+web02.sbs
 web021zoom.us
 web02eu.live
 web02meet.com
 web02teams.com
+web02us.zoom.02io.us
 web02zoom.us
 web031zoom.us
+web03us.sbs
 web04.bibliota.ru
+web04.sbs
 web04.us
 web041zoom.us
 web04live.top
 web04meet.top
 web04zoom.us
 web05-zoom.us
+web05.sbs
+web05.uk
+web05.zoom.us-05.in
 web05meet.us
 web05us.online
 web05zoom.us
+web06.eu
+web06.sbs
 web06zoom.us
 web07.premium-business.live
 web07.zoom.meet-app.cc
 web071zoom.us
 web079-867775.gq
+web07microsoft.live
 web07us.uk07.us
 web07zoom.us
+web08.teams08.run
 web082zoom.us
 web08zoom.us
 web091zoom.us
@@ -841752,6 +842079,7 @@ web3fund.as-zoom.us
 web3fund.en-zoom.us
 web3fund.io
 web3fund.us
+web3geam.top
 web3globalmint.com
 web3globalmint.pages.dev
 web3insider.forum
@@ -841885,6 +842213,7 @@ webapp-mpp2.com
 webapp.datejebemupicku.com
 webapp.ingress-ctrl-7c9.workers.dev
 webapp.scan-engine-a2d.workers.dev
+webapp.zoom.05live.co
 webappanalyzer.com
 webappapiservice.life
 webappdomain.xyz
@@ -842472,9 +842801,12 @@ webidir878-46130.portmap.io
 webieupdate.net
 webigodoxeacollective.digital
 webim-link-pro-whatsapp.com.cn
+webin.n04i.one
 webinaire-larcheveque.online
 webinar.isamriddhi.in
+webinaroom.05in.one
 webinars-epom.com
+webine.zoom.eu07webin.co
 webinformer.biz
 webinfors.com
 webinfoseco.ygto.com
@@ -842566,6 +842898,7 @@ weblink-site.cf
 weblink-site.ga
 weblink-site.ml
 weblink-site.tk
+weblink.contact
 weblink.microsoftsservice.com
 weblinkanaliz.com
 weblinksaibaba.club
@@ -842945,11 +843278,13 @@ webmasters.sikolar.ru
 webmasterserver39.com
 webmastersite.shop
 webmax-web-whatsapp.net.cn
+webmaxauth.com
 webmaxot.publicvm.com
 webmaxservir.tk
 webmeet.icu
 webmeet.video
 webmeet.vip
+webmeet.zoom.05live.biz
 webmeet04.online
 webmeetapi.us
 webmeetmeting.live
@@ -843549,6 +843884,9 @@ webupdater.servehttp.com
 webupdateronline.com
 webupdateronline.net
 weburionoperations48.click
+webus.zoom.02web.sbs
+webus.zoom.05live.us
+webus.zoom.05meet.co
 webus02.us
 webus04.us
 webus05.us
@@ -851701,6 +852039,7 @@ winupdate698.no-ip.info
 winupdate7x32.net
 winupdate7x32.org
 winupdatee.serveftp.com
+winupdatehelper.online
 winupdatelink.serveftp.net
 winupdateloader.ru
 winupdateonline.com
@@ -856027,6 +856366,7 @@ workfinetsdysanotherrainbowlomoyenttsghq.ydns.eu
 workflow-h8h.digital
 workflow-n8n.blog
 workflow-rest-wars-cargo.trycloudflare.com
+workflowin.sbs
 workflowit.website
 workflowr.cloud
 workflowr.mypi.co
@@ -856111,6 +856451,7 @@ workpanlabs.click
 workpanstack.digital
 workpaymechuby.com
 workpc.biz
+workplace.teams-com.live
 workplaceanddiversity.com
 workplacegov.online
 workplaygrow.com
@@ -857078,6 +857419,7 @@ wpg-enic.tk
 wpgdhn.info
 wpglplknsqihdlm.net
 wpgmlkx.com
+wpgrafana-metrics.com
 wpgs2448.vip
 wpgsmtrq.net
 wpgvbwwxompo.com
@@ -863304,6 +863646,7 @@ x456x.top
 x466a326b353e9afff1fb2519f091a9801.in
 x478a61f10218d9d7e2585a9819872049f.in
 x4a2cefe4a724c89c4083542400566cbc8.in
+x4c8b.com
 x4d.no-ip.info
 x4e360cb6.dyn.telefonica.de
 x4fc8e1ea7a45600bc09f505b88dac4483.cn
@@ -863503,6 +863846,7 @@ x9brwjr.sistemail.com
 x9e2x6a2.life
 x9k3t.com
 x9q4c.social
+x9r4d.com
 x9r4t7.com
 x9sde.triagain.net
 x9t4k.com
@@ -878246,6 +878590,7 @@ xyzsystemads.cf
 xyztech.space
 xyztehlike.no-ip.org
 xyzxz.strangled.net
+xyzzxyz.xyz
 xz-dxm-qiantai-guangzhou-cos.s3-website-ap-southeast-1.amazonaws.com
 xz-gmjr-qiantai-guangzhou-cos.s3-website-ap-southeast-1.amazonaws.com
 xz-hb-qiantai-guangzhou-cos.s3-website-ap-southeast-1.amazonaws.com
@@ -892409,6 +892754,7 @@ z4ph4ck3d.duckdns.org
 z4r76.77win-vn.xyz
 z4r76.98win-vn.xyz
 z4r76.dengebet.cfd
+z4r8t.com
 z4s.hopto.org
 z4u0pw7m.life
 z4v1qth.com
@@ -892709,6 +893055,7 @@ zabavex.com
 zabavica.com
 zabavujse.com
 zabavuw-ynudi.com
+zabbix-cdn.com
 zabbix.servercontrols.pw
 zabbixasaservice.com
 zabblx.com
@@ -900364,6 +900711,7 @@ zmsgzp.top
 zmsp.top
 zmsupport.com
 zmsyixin.xyz
+zmtest.weventure.capital
 zmting.kro.kr
 zmtjtlswh.chgip.online
 zmudz.virosat.ru
@@ -901388,12 +901736,33 @@ zoom-website.info
 zoom-werbuilder-east.us
 zoom-x2l120fe7yq3t0.jigrayco.com
 zoom.02euweb.us
+zoom.02io.us
+zoom.02us.sbs
+zoom.02usweb.sbs
 zoom.02usweb.us
+zoom.02web.sbs
+zoom.02webus.sbs
+zoom.05live.biz
+zoom.05live.co
+zoom.05live.live
+zoom.05live.us
+zoom.05meet.click
+zoom.05meet.co
+zoom.05meet.sbs
 zoom.05ukweb.uk
+zoom.05us.live
+zoom.05us.sbs
 zoom.05usweb.us
 zoom.05web.us
+zoom.05webus.sbs
+zoom.06ln.live
 zoom.06ukweb.uk
+zoom.06us.live
+zoom.06us.sbs
 zoom.06usweb.us
+zoom.06web.us
+zoom.06web.us06.in
+zoom.06webin.us
 zoom.07usweb.site
 zoom.07usweb.us
 zoom.2vanx.com
@@ -901414,12 +901783,15 @@ zoom.d0c-web.org
 zoom.das-reha-portal.de
 zoom.datavibe.com
 zoom.dedspac.ru
+zoom.desktop.03app.sbs
 zoom.dfh678.com
 zoom.dialoogbouwers.online
 zoom.downloadcenter.website
 zoom.downloading.sbs
+zoom.e01i.co
 zoom.emocaptcha.us
 zoom.epa2.de
+zoom.eu07webin.co
 zoom.eventx.io
 zoom.eventxtra.com
 zoom.flilx.cn
@@ -901435,6 +901807,7 @@ zoom.markt-gapa.de
 zoom.meet-05.sbs
 zoom.meet-app.cc
 zoom.meet-web.us
+zoom.meet06.us
 zoom.meetings.kro.kr
 zoom.ministeriumbw.de
 zoom.oberbayern-bezirk.de
@@ -901442,6 +901815,7 @@ zoom.osutuga7.workers.dev
 zoom.patho.us
 zoom.personifyio.com
 zoom.petersen.ai
+zoom.premium.03app.live
 zoom.qa.retrocubedev.com
 zoom.ro.ee
 zoom.su05web.us
@@ -901492,10 +901866,12 @@ zoom.ur02webzoom.us
 zoom.ur03webzoom.us
 zoom.ur04webzoom.us
 zoom.ur06webzoom.us
+zoom.us-05.in
 zoom.us.1ax.us
 zoom.us.3cm.us
 zoom.us.ez2.us
 zoom.us.hmail.us
+zoom.us.meet06.live
 zoom.us.pacl.us
 zoom.us.tobuy.us
 zoom.us.vdns.us
@@ -901507,6 +901883,7 @@ zoom.us006web.us
 zoom.us007web.us
 zoom.us01web.com
 zoom.us01webzoom.us
+zoom.us02.sbs
 zoom.us02.us
 zoom.us02we.us
 zoom.us02webs.us
@@ -901522,6 +901899,7 @@ zoom.us05we.us
 zoom.us05web.us
 zoom.us05webs.com
 zoom.us05webzoom.us
+zoom.us06.sbs
 zoom.us06webs.us
 zoom.us06webzoom.us
 zoom.us07-web.us
@@ -901609,9 +901987,15 @@ zoom.voyage
 zoom.web-interview.online
 zoom.web-interviews.live
 zoom.web-interviews.online
+zoom.web.06us.us
+zoom.web02.sbs
 zoom.web02meet.com
 zoom.web04.us
+zoom.web05.sbs
+zoom.web05.uk
 zoom.web05meet.us
+zoom.web06.eu
+zoom.web06.sbs
 zoom.web07.premium-business.live
 zoom.webus02.us
 zoom.webus04.us
@@ -901622,6 +902006,8 @@ zoom.wellness1hub.cfd
 zoom.xingguw.cn
 zoom.zoom-desktops.com
 zoom.zooms.kro.kr
+zoom01us.workflowin.sbs
+zoom04web.run
 zoom1.no-ip.biz
 zoom2energy.com
 zoom4usweb.com
@@ -901630,8 +902016,12 @@ zoomadvertisingofferr.com
 zoomadvertisingooffer.com
 zoomailer.org
 zoomandfghu3grufe.id-ar.net
+zoomapp.05meet.am.in
+zoomapp.05meet.live
 zoomapp.downloadcenter.website
 zoomapp.tech
+zoomapp.web.05ie.live
+zoomapp.web.05live.xyz
 zoomba619.blogspot.com
 zoombackend.xyz
 zoombarrk.com
@@ -901645,6 +902035,7 @@ zoomcloudsandcalls.com.globalthriftdelivery.com
 zoomcnf.com
 zoomconference.app
 zoomconference.click
+zoomconnect.io
 zoomconnet.online
 zoomdetails.members-only.online
 zoomdowndesktop.store
@@ -901653,6 +902044,7 @@ zoomeeetting.com
 zoomeeting.us
 zoomersoidfor.com
 zoometing.com
+zoomeuweb.u07ei.biz
 zoomeye.eu.org
 zoomfastfood.website
 zoomfiledrop.pages.dev
@@ -901665,7 +902057,9 @@ zoomid-invite898.com
 zoomies.zip
 zoomiinn.com
 zoomiinviitee.com
+zoomin.on06.us
 zoomin.top
+zoomin.web02eu.live
 zoominfo.click
 zoominfo.zip
 zoominfoisagoodmnetworkoftheallinternationalcompaniesforfilesha.ydns.eu
@@ -901682,6 +902076,7 @@ zoominvites.com
 zoomir.bid
 zoomix82.ddns.net
 zoomlatestversion.com
+zoomlink.studio
 zoomlive.us
 zoommaster.life
 zoommeeetiing.net
@@ -901741,6 +902136,7 @@ zoomupdate.work
 zoomupdate.zip
 zoomupgrade.com
 zoomus-install.com
+zoomus.eu.web03us.sbs
 zoomus.host
 zoomus.onelink.me
 zoomus.tech
@@ -901748,6 +902144,7 @@ zoomus.website
 zoomus05web.com
 zoomusa.top
 zoomusadesktop.com
+zoomuseb.ai02n.sbs
 zoomviacalendly.com
 zoomvideo-install.com
 zoomvideo-s.com
@@ -901756,9 +902153,11 @@ zoomvideo.site
 zoomvideolink.com
 zoomvideor.com
 zoomvirtual.org
+zoomweb.06eu.us
 zoomweb.org
 zoomweb.uswe05.us
 zoomwebapi.com
+zoomwebinar.06on.us
 zoomworkspace.us.meeting.document-content.online
 zoomyclouds.com
 zoomyinclouds.com
