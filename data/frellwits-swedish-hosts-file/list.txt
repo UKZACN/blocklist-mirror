@@ -323,6 +323,7 @@ cdn.unblockia.com
 cdn.usefathom.com
 cdn.userreport.com
 cdn.viglink.com
+cdn.visitors.now
 cdn.webpushr.com
 cdn.wootric.com
 cdn.yieldwrapper.com
