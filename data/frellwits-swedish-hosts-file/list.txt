@@ -471,7 +471,6 @@ fml-x.com
 fms.360yield.com
 fp.mediaintelliview.com
 fpnpmcdn.net
-fraagesport.com
 franecki.net
 freegeoip.app
 freespee.com
@@ -756,7 +755,6 @@ s.moatads.com
 s.ntv.io
 s.richaudience.com
 s.skimresources.com
-s.vi-serve.com
 s0.2mdn.net
 s1.adform.net
 s10.histats.com
