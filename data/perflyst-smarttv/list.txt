@@ -15,10 +15,15 @@ ads.aimitv.com
 ads.samsungads.com
 adv.ettoday.net
 advertising.com
+aic-gfts.nextlgsdp.com
 aic-ngfts.lge.com
+aic.cdpbeacon.lgtvcommon.com
+aic.cdpsvc.lgtvcommon.com
+aic.rdl.lgtvcommon.com
 alphonso.tv
 amauthprd.samsungcloudsolution.com
 androidtvchannels-pa.googleapis.com
+androidtvlauncherxfe-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 api-gps-em.hismarttv.com
 api-gps-na.hismarttv.com
@@ -144,6 +149,7 @@ msg-na.hismarttv.com
 musicid.samsungcloudsolution.com
 nbc-jite.nbcuni.com
 nettv.corio.com
+ngfts.nextlgsdp.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
 noticefile.samsungcloudsolution.com
@@ -208,6 +214,7 @@ us.homeprv.lgtvcommon.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
 us.lgsmartad.com
+us.nextlgsdp.com
 us.nudge.lgtvcommon.com
 us.rdl.lgtvcommon.com
 us.rdx2.lgtvsdp.com
