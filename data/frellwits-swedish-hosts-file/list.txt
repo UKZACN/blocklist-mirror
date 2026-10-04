@@ -286,7 +286,6 @@ cdn.convertbox.com
 cdn.cxense.com
 cdn.decibelinsight.net
 cdn.dep-x.com
-cdn.foxpush.net
 cdn.gravitec.net
 cdn.hubvisor.io
 cdn.id5-sync.com
@@ -501,7 +500,6 @@ gtm.ekonomifakta.se
 gtm.findroommate.dk
 gtm.proff.se
 gtm.stampenmedia.se
-gwen.insertcoin.se
 h.online-metrix.net
 hapyak.com
 hb.adpone.com
@@ -664,7 +662,6 @@ onetag-sys.com
 online.adservicemedia.dk
 ookla-d.openx.net
 openx.financialpublishers.nl
-openx.gamereactor.dk
 openx.jaktsidan.se
 optnmnstr.com
 otc-cdn.relevant-digital.com
@@ -897,7 +894,6 @@ t0.extreme-dm.com
 t1.extreme-dm.com
 tag.aticdn.net
 tag.heylink.com
-tag.imonomy.com
 tag.targeting.unrulymedia.com
 tagging-service.fotbollskanalen.se
 tagging-service.tv4.se
