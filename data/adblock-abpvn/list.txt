@@ -617,6 +617,7 @@ ad.toutiao.com
 ad.trafficgate.net
 ad.turn.com
 ad.tv2.no
+ad.twinrdengine.com
 ad.uk.doubleclick.net
 ad.unimhk.com
 ad.us.sinaimg.cn
@@ -3865,6 +3866,7 @@ ax.mpcdn.top
 axdsz.pro
 axillovely.com
 axisuptown.com
+axjndvucr.com
 axonix.com
 ay.delivery
 ayads.io
@@ -4363,6 +4365,7 @@ bluepages.smaato.net
 blueseed.tv
 blueserving.com
 blueswordksh.com
+bluetrafficstream.com
 bluewhaleweb.com
 blurbreimbursetrombone.com
 blushingbeast.com
@@ -5527,6 +5530,7 @@ cl-data-sg.ads.heytapmobi.com
 cl-data-vn.ads.heytapmobile.com
 cl-data.ads.heytapmobi.com
 cl.canva.com
+clannotillortale.com
 claria.com
 clarity.ms
 clarium.global.ssl.fastly.net
@@ -6006,6 +6010,7 @@ contentabc.com
 contents-tracking.beop.io
 contentspread.net
 contentsquare.net
+contentsserved.com
 contentstream.pl
 context.iris.tv
 context.qc.coccoc.com
@@ -7855,6 +7860,7 @@ firsthive.com
 firstimpression.io
 firstlightera.com
 fivecdm.com
+fixavcha.in
 flagcounter.com
 flairadscpc.xml-eu.ak-is2.net
 flakyfeast.com
@@ -8517,6 +8523,7 @@ gurgle.zdbb.net
 gusabid.adview.com
 gv.habitanchowses.cyou
 gv1.xdrig.com
+gvcaffiliates.com
 gw-iad-bid.ymmobi.com
 gw.conversionsapigateway.com
 gw.flurry.com
@@ -8623,7 +8630,9 @@ hbx.media.net
 hccxwfunnpxngz.com
 hd.logging.admicro.vn
 hd.mmstat.com
+hdacode.com
 hdatssfpxrwbxs.com
+hdbkome.com
 hdlyfrxtnjpbc.site
 hdmtools.com
 he.lijit.com
@@ -10719,6 +10728,7 @@ maxonclick.com
 maxvaluead.com
 maxymiser.com
 maxymiser.net
+mayzaent.com
 mazu.sec.miui.com
 mb-click.jp
 mb.logging.admicro.vn
