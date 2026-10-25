@@ -251,6 +251,7 @@ cdn-header-bidding.snack-media.com
 cdn-magiclinks.trackonomics.net
 cdn-scripts.signifyd.com
 cdn.adapex.io
+cdn.adelivery.se
 cdn.adfenix.com
 cdn.adligature.com
 cdn.adnuntius.com
