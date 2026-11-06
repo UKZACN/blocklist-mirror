@@ -111,6 +111,7 @@ analytics.ciseway.se
 analytics.citreamedia.com
 analytics.clickdimensions.com
 analytics.codigo.se
+analytics.eastblue.se
 analytics.elle.se
 analytics.equmeniakyrkan.se
 analytics.femina.se
